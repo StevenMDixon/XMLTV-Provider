@@ -1,0 +1,40 @@
+name: Generate and Deploy XML
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+  schedule:
+    - cron: '0 6 * * *'  # Runs daily at 6:00 UTC
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout repo
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      # Install dependencies (if needed)
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt || echo "No requirements"
+
+      # Run Python script
+      - name: Generate XML
+        run: python generate_xml.py
+
+      # Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v6
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./xml
+          publish_branch: gh-pages
