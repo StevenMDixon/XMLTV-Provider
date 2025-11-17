@@ -102,7 +102,7 @@ class RewindChannel:
         # Output to XML file
         # -----------------------------
         tree = ET.ElementTree(tv)
-        output_filename = "./xml_schedules/swimrewind.xml"
+        output_filename = "./xml_schedules/rewind.xml"
         tree.write(output_filename, encoding="utf-8", xml_declaration=True)
 
         print(f"EPG XML generated: {output_filename}")
