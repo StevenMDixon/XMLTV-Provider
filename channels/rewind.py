@@ -96,7 +96,6 @@ class RewindChannel:
                     "channel": CHANNEL_ID
                 })
                 ET.SubElement(programme, "title").text = show_title
-                ET.SubElement(programme, "desc").text = ""
 
         # -----------------------------
         # Output to XML file
