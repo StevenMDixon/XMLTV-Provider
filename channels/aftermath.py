@@ -23,9 +23,6 @@ class AftermathChannel:
 
         # Access the response content
         if response.status_code == 200:
-            print(f"Content (text): {response.text}")
-            # If the response is JSON, you can parse it directly
-            print(f"Content (JSON): {response.json()}")
             return response.json()
         else:
             print("Request failed.")

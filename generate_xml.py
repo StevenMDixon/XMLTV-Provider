@@ -15,4 +15,3 @@ channels = [RewindChannel(), AftermathChannel()]
 for channel in channels:
     channel.handle_conversion()
 
-
