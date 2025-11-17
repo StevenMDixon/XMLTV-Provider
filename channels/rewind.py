@@ -170,7 +170,7 @@ class RewindChannel:
             })
         return programmes
 
-    def to_xmltv_datetime(dt):
+    def to_xmltv_datetime(self, dt):
         """
         Convert a timezone-aware datetime to XMLTV format: YYYYMMDDHHMMSS +/-ZZZZ
         dt must be timezone-aware
