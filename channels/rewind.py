@@ -7,7 +7,6 @@ import xml.etree.ElementTree as ET
 
 from utils.showDTO import ShowDTO
 
-
 class RewindChannel:
     def __init__(self, xml_generator = None):
         self.OUTPUT_XML = "rewind.xml"      # Output XMLTV file
@@ -81,11 +80,7 @@ class RewindChannel:
                         hour=23,
                         minute=59,
                     ).replace(tzinfo=SOURCE_TZ)
-                    
-                # st = start_time.astimezone(tz)
-                # et = stop_time.astimezone(tz)
 
-                
                 converted_shows.append(
                     ShowDTO(
                     name=show_title,
@@ -94,47 +89,7 @@ class RewindChannel:
                     description=None,
                     episodeNumber=None,
                     iconUrl=None
+                    )
                 )
-                )
-                
-                
-            #     show_title = str(day_shows[start_str]).strip()
-
-            #     start_time = datetime.strptime(start_str, "%H:%M")
-
-            #     start_dt_naive = day.replace(
-            #         hour=start_time.hour,
-            #         minute=start_time.minute,
-            #         second=0,
-            #         microsecond=0
-            #     )
-            #     # localize to the source timezone (America/Chicago)
-            #     start_dt = start_dt_naive.replace(tzinfo=SOURCE_TZ)
-
-            #     # Determine stop time
-            #     if i + 1 < len(sorted_times):
-            #         next_start_str = sorted_times[i + 1]
-            #         next_t = datetime.strptime(next_start_str, "%H:%M")
-
-            #         stop_dt_naive = day.replace(hour=next_t.hour, minute=next_t.minute, second=0, microsecond=0)
-            #         stop_dt = stop_dt_naive.replace(tzinfo=SOURCE_TZ)
-            #         print (f"{start_dt} is for Computed stop time for {show_title} as {stop_dt} based on next show.")
-
-            #         if stop_dt <= start_dt:
-            #             stop_dt += timedelta(days=1)  # wraps past midnight
-            #     else:
-            #         stop_dt = start_dt + timedelta(minutes=30)  # fallback duration
-
-            #     converted_shows.append(
-            #         ShowDTO(
-            #             name=show_title,
-            #             startDate=self.generator.iso_to_xmltv(start_dt.astimezone(tz).isoformat()),
-            #             endDate=self.generator.iso_to_xmltv(stop_dt.astimezone(tz).isoformat()),
-            #             description=None,
-            #             episodeNumber=None,
-            #             iconUrl=None
-            #         )
-            #     )
-
         # -----------------------------
         self.generator.convert_to_xml(self, converted_shows)
