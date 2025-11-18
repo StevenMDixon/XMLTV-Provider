@@ -5,23 +5,22 @@ from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 import xml.etree.ElementTree as ET
 
+from utils.showDTO import ShowDTO
+
 
 class RewindChannel:
-    def __init__(self):
-        pass
+    def __init__(self, xml_generator = None):
+        self.OUTPUT_XML = "rewind.xml"      # Output XMLTV file
+        self.CHANNEL_ID = "swimrewind"
+        self.CHANNEL_NAME = "Swim Rewind"
 
-    def handle_conversion(self):
-        # -----------------------------
-        # Config
-        # -----------------------------
-        CHANNEL_ID = "swimrewind"
-        DAYS_TO_GENERATE = 3
-        SOURCE_URL = "https://swimrewind.com/customjavascript"
+        self.DAYS_TO_GENERATE = 3
+        self.SOURCE_URL = "https://swimrewind.com/customjavascript"
 
-        # -----------------------------
-        # Fetch JS schedule
-        # -----------------------------
-        resp = requests.get(SOURCE_URL, verify=False)
+        self.generator = xml_generator
+
+    def get_shows(self):
+        resp = requests.get(self.SOURCE_URL, verify=False)
         resp.raise_for_status()
         js = resp.text
 
@@ -35,37 +34,20 @@ class RewindChannel:
         schedule_text = re.sub(r"//.*", "", schedule_text)
 
         # Parse as JSON5 (handles unquoted keys, trailing commas, single quotes)
-        schedule = json5.loads(schedule_text)
+        return json5.loads(schedule_text)
+        
+    def handle_conversion(self):
+        converted_shows = []
+       
+        schedule = self.get_shows()
 
-        # -----------------------------
-        # XMLTV Root
-        # -----------------------------
-        tv = ET.Element("tv")
-        channel = ET.SubElement(tv, "channel", id=CHANNEL_ID)
-        ET.SubElement(channel, "display-name").text = "Swim Rewind"
-
-        # -----------------------------
-        # Helper: build XMLTV datetime
-        # -----------------------------
-        def xmltv_dt(dt: datetime):
-            return dt.astimezone(ZoneInfo("UTC")).strftime("%Y%m%d%H%M%S +0000")
-
-        # -----------------------------
-        # Determine correct weekday order
-        # -----------------------------
-        def weekday_name(dt):
-            return dt.strftime("%A")  # Monday, Tuesday, etc.
-
-        # -----------------------------
-        # Generate EPG
-        # -----------------------------
         SOURCE_TZ = ZoneInfo("America/Chicago")
         tz = ZoneInfo("America/New_York")
         now = datetime.now(tz)
 
-        for day_offset in range(DAYS_TO_GENERATE):
+        for day_offset in range(self.DAYS_TO_GENERATE):
             day = now + timedelta(days=day_offset)
-            day_name = weekday_name(day)
+            day_name = self.generator.weekday_name(day)
 
             if day_name not in schedule:
                 print(f"Warning: No schedule for {day_name}, skipping.")
@@ -98,19 +80,16 @@ class RewindChannel:
                 else:
                     stop_dt = start_dt + timedelta(minutes=30)  # fallback duration
 
-                # Add programme entry
-                programme = ET.SubElement(tv, "programme", {
-                    "start": xmltv_dt(start_dt),
-                    "stop": xmltv_dt(stop_dt),
-                    "channel": CHANNEL_ID
-                })
-                ET.SubElement(programme, "title").text = show_title
+                converted_shows.append(
+                    ShowDTO(
+                        name=show_title,
+                        startDate=self.generator.iso_to_xmltv(start_dt.astimezone(tz).isoformat()),
+                        endDate=self.generator.iso_to_xmltv(stop_dt.astimezone(tz).isoformat()),
+                        description=None,
+                        episodeNumber=None,
+                        iconUrl=None
+                    )
+                )
 
         # -----------------------------
-        # Output to XML file
-        # -----------------------------
-        tree = ET.ElementTree(tv)
-        output_filename = "./xml_schedules/rewind.xml"
-        tree.write(output_filename, encoding="utf-8", xml_declaration=True)
-
-        print(f"EPG XML generated: {output_filename}")
+        self.generator.convert_to_xml(self, converted_shows)

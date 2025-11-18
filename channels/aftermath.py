@@ -5,20 +5,22 @@ import requests
 import json
 import xml.dom.minidom
 
+from utils.showDTO import ShowDTO
+
 class AftermathChannel:
-    def __init__(self):
+    def __init__(self, xml_generator = None):
         self.OUTPUT_XML = "toonami.xml"      # Output XMLTV file
         self.CHANNEL_ID = "toonami"
         self.CHANNEL_NAME = "Toonami"
 
         today = datetime.now().date()
-
         self.url = f"https://api.toonamiaftermath.com/media?scheduleName=Toonami%20Aftermath%20EST&dateString={today}T11%3A00%3A00Z&count=100"
+        
+        self.generator = xml_generator
 
     def fetch_shows(self):
         response = requests.get(self.url, verify=False)
 
-        # Check the status code (200 indicates success)
         print(f"Status Code: {response.status_code}")
 
         # Access the response content
@@ -27,74 +29,49 @@ class AftermathChannel:
         else:
             print("Request failed.")
             return []
-
+        
     def handle_conversion(self):
         shows = self.fetch_shows()
+
         if not shows:
             print("No shows to convert.")
             return
-
-        # --- SORT SHOWS BY START TIME ---
+        
+        self.convert(shows)
+        
+    def convert(self, shows):
         shows.sort(key=lambda x: x["startDate"])
 
-        # --- CREATE ROOT ELEMENT ---
-        tv = ET.Element("tv")
+        converted_shows = []
 
-        # --- DEFINE CHANNEL ---
-        channel = ET.SubElement(tv, "channel", id=self.CHANNEL_ID)
-        ET.SubElement(channel, "display-name").text = self.CHANNEL_NAME
-
-        # --- HELPER FUNCTION ---
-        def iso_to_xmltv(iso_str):
-            """Convert ISO 8601 string to XMLTV timestamp (YYYYMMDDHHMMSS +0000)"""
-            dt = datetime.fromisoformat(iso_str.replace("Z", "+00:00"))
-            return dt.strftime("%Y%m%d%H%M%S +0000")
-
-        def escape_text(text):
-            """Escape characters invalid in XML"""
-            if text:
-                return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-            return text
-
-        # --- GENERATE PROGRAMMES ---
         for i, show in enumerate(shows):
-            start = iso_to_xmltv(show["startDate"])
+            start = self.generator.iso_to_xmltv(show["startDate"])
             
             # Stop time = start of next show, or add 12 min for last show
             if i + 1 < len(shows):
-                stop = iso_to_xmltv(shows[i + 1]["startDate"])
+                stop = self.generator.iso_to_xmltv(shows[i + 1]["startDate"])
             else:
                 dt_start = datetime.fromisoformat(show["startDate"].replace("Z", "+00:00"))
                 dt_stop = dt_start + timedelta(minutes=12)
                 stop = dt_stop.strftime("%Y%m%d%H%M%S +0000")
 
-            prog = ET.SubElement(tv, "programme", start=start, stop=stop, channel=self.CHANNEL_ID)
-
-            # Title
             title_text = show.get("info", {}).get("fullname") or show.get("name")
-            ET.SubElement(prog, "title").text = escape_text(title_text)
 
-            # Description / episode info
             episode_text = show.get("info", {}).get("episode")
-            if episode_text:
-                ET.SubElement(prog, "desc").text = escape_text(episode_text)
 
-            # Episode number
             ep_num = show.get("episodeNumber")
-            if ep_num is not None:
-                ET.SubElement(prog, "episode-num", system="xmltv_ns").text = str(ep_num)
 
-            # Icon (image)
             image_url = show.get("info", {}).get("image")
-            if image_url:
-                ET.SubElement(prog, "icon", src=image_url)
 
-        # --- WRITE XML WITH DECLARATION AND FORMATTING ---
-        rough_string = ET.tostring(tv, encoding="utf-8")
-        reparsed = xml.dom.minidom.parseString(rough_string)
-        pretty_xml = reparsed.toprettyxml(indent="  ", encoding="utf-8")
+            converted_shows.append(
+                ShowDTO(
+                name=title_text,
+                startDate=start,
+                endDate=stop,
+                description=episode_text,
+                episodeNumber=ep_num,
+                iconUrl=image_url
+                )
+            )
 
-        with open("./xml_schedules/" + self.OUTPUT_XML, "wb") as f:
-            f.write(pretty_xml)
-
-        print(f"XMLTV file generated: {self.OUTPUT_XML}")
+        self.generator.convert_to_xml(self, converted_shows)
