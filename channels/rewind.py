@@ -74,7 +74,10 @@ class RewindChannel:
                 if i + 1 < len(sorted_times):
                     next_start_str = sorted_times[i + 1]
                     next_t = datetime.strptime(next_start_str, "%H:%M")
-                    stop_dt = day.replace(hour=next_t.hour, minute=next_t.minute, second=0, microsecond=0)
+                    
+                    stop_dt_naive = day.replace(hour=next_t.hour, minute=next_t.minute, second=0, microsecond=0)
+                    stop_dt = stop_dt_naive.replace(tzinfo=SOURCE_TZ)
+
                     if stop_dt <= start_dt:
                         stop_dt += timedelta(days=1)  # wraps past midnight
                 else:
