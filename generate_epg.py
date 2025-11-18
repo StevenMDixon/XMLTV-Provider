@@ -13,7 +13,7 @@ os.makedirs(folder_path, exist_ok=True)
 
 channels = [
     RewindChannel(XMLGenerator),
-    AftermathChannel(XMLGenerator)
+    # AftermathChannel(XMLGenerator)
 ]
 
 for channel in channels:
