@@ -59,6 +59,7 @@ class RewindChannel:
         # -----------------------------
         # Generate EPG
         # -----------------------------
+        SOURCE_TZ = ZoneInfo("America/Chicago")
         tz = ZoneInfo("America/New_York")
         now = datetime.now(tz)
 
@@ -78,13 +79,14 @@ class RewindChannel:
 
                 start_time = datetime.strptime(start_str, "%H:%M")
 
-                start_dt = day.replace(
+                start_dt_naive = day.replace(
                     hour=start_time.hour,
                     minute=start_time.minute,
                     second=0,
-                    microsecond=0,
-                    tzinfo=tz
+                    microsecond=0
                 )
+                # localize to the source timezone (America/Chicago)
+                start_dt = start_dt_naive.replace(tzinfo=SOURCE_TZ)
 
                 # Determine stop time
                 if i + 1 < len(sorted_times):
