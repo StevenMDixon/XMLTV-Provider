@@ -89,8 +89,8 @@ class RewindChannel:
                 converted_shows.append(
                     ShowDTO(
                     name=show_title,
-                    startDate=self.generator.iso_to_xmltv(start_time.astimezone(tz).isoformat()),
-                    endDate=self.generator.iso_to_xmltv(stop_time.astimezone(tz).isoformat()),
+                    startDate=self.generator.xmltv_dt(start_time.astimezone(tz)),
+                    endDate=self.generator.xmltv_dt(stop_time.astimezone(tz)),
                     description=None,
                     episodeNumber=None,
                     iconUrl=None
