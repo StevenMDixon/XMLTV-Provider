@@ -66,7 +66,7 @@ class RewindChannel:
                 schedule_time = datetime.strptime(start_str, "%H:%M")
 
                 start_time = datetime(current_day.year, current_day.month, current_day.day,
-                                      schedule_time.hour, schedule_time.minute, 0, 0)
+                                      schedule_time.hour, schedule_time.minute, 0, 0).replace(tzinfo=SOURCE_TZ)
                 
                 stop_time = None
 
@@ -74,15 +74,14 @@ class RewindChannel:
                     next_start_str = sorted_times[i + 1]
                     next_schedule_time = datetime.strptime(next_start_str, "%H:%M")
                     stop_time = datetime(current_day.year, current_day.month, current_day.day,
-                                         next_schedule_time.hour, next_schedule_time.minute, 0, 0)
+                                         next_schedule_time.hour, next_schedule_time.minute, 0, 0).replace(tzinfo=SOURCE_TZ)
                 else:
                     end_time = datetime.now() + timedelta(days=day_offset)
                     stop_time = end_time.replace(
                         hour=23,
                         minute=59,
-                    )
+                    ).replace(tzinfo=SOURCE_TZ)
                 
-                converted_shows.append(
                     ShowDTO(
                         name=show_title,
                         startDate=self.generator.iso_to_xmltv(start_time.isoformat()),
@@ -90,7 +89,6 @@ class RewindChannel:
                         description=None,
                         episodeNumber=None,
                         iconUrl=None
-                    )
                 )
                 
                 
