@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="swimrewind">
+    <display-name>Swim Rewind</display-name>
+  </channel>
+  <programme start="20260915050000 +0000" stop="20260915052500 +0000" channel="swimrewind">
+    <title>Tim and Eric's Awesome Show</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915052500 +0000" stop="20260915055000 +0000" channel="swimrewind">
+    <title>Samurai 7</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915055000 +0000" stop="20260915061500 +0000" channel="swimrewind">
+    <title>Samurai Champloo</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915061500 +0000" stop="20260915064000 +0000" channel="swimrewind">
+    <title>Berserk</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915064000 +0000" stop="20260915070500 +0000" channel="swimrewind">
+    <title>Dreamcorp LLC</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915070500 +0000" stop="20260915073000 +0000" channel="swimrewind">
+    <title>That 70's Show</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915073000 +0000" stop="20260915075500 +0000" channel="swimrewind">
+    <title>The Eric Andre Show</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915075500 +0000" stop="20260915082000 +0000" channel="swimrewind">
+    <title>Family Guy</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915082000 +0000" stop="20260915084500 +0000" channel="swimrewind">
+    <title>The Boondocks</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915084500 +0000" stop="20260915091000 +0000" channel="swimrewind">
+    <title>Black Jesus</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915091000 +0000" stop="20260915093500 +0000" channel="swimrewind">
+    <title>Dragon Ball GT</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915093500 +0000" stop="20260915100000 +0000" channel="swimrewind">
+    <title>Ghost in the Shell: SAC</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915100000 +0000" stop="20260915102500 +0000" channel="swimrewind">
+    <title>Digimon Tamers</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915102500 +0000" stop="20260915105000 +0000" channel="swimrewind">
+    <title>Digimon Frontier</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915105000 +0000" stop="20260915111500 +0000" channel="swimrewind">
+    <title>Gundam Seed</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915111500 +0000" stop="20260915114000 +0000" channel="swimrewind">
+    <title>Beyblade</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915114000 +0000" stop="20260915120500 +0000" channel="swimrewind">
+    <title>The Clevland Show</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915120500 +0000" stop="20260915123000 +0000" channel="swimrewind">
+    <title>Outlaw Star</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915123000 +0000" stop="20260915125500 +0000" channel="swimrewind">
+    <title>Soul Eater</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915125500 +0000" stop="20260915132000 +0000" channel="swimrewind">
+    <title>Parasyte -the Maxim-</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915132000 +0000" stop="20260915134500 +0000" channel="swimrewind">
+    <title>The Future Diary</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915134500 +0000" stop="20260915141000 +0000" channel="swimrewind">
+    <title>Tokyo Ghoul</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915141000 +0000" stop="20260915143500 +0000" channel="swimrewind">
+    <title>Witch Hunter Robin</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915143500 +0000" stop="20260915150000 +0000" channel="swimrewind">
+    <title>S-Cry-Ed</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915150000 +0000" stop="20260915152500 +0000" channel="swimrewind">
+    <title>The Powerpuff Girls</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915152500 +0000" stop="20260915155000 +0000" channel="swimrewind">
+    <title>Code Lyoko</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915155000 +0000" stop="20260915161500 +0000" channel="swimrewind">
+    <title>KND: Kids Next Door</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915161500 +0000" stop="20260915164000 +0000" channel="swimrewind">
+    <title>Ghost Stories</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915164000 +0000" stop="20260915170500 +0000" channel="swimrewind">
+    <title>The Batman</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915170500 +0000" stop="20260915173000 +0000" channel="swimrewind">
+    <title>The Grim Adventures of Billy &amp;amp; Mandy</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915173000 +0000" stop="20260915175500 +0000" channel="swimrewind">
+    <title>Teen Titans</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915175500 +0000" stop="20260915182000 +0000" channel="swimrewind">
+    <title>Bakugan</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915182000 +0000" stop="20260915184500 +0000" channel="swimrewind">
+    <title>Yugioh 5Ds</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915184500 +0000" stop="20260915191000 +0000" channel="swimrewind">
+    <title>InuYasha</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915191000 +0000" stop="20260915193500 +0000" channel="swimrewind">
+    <title>Hunter x Hunter</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915193500 +0000" stop="20260915200000 +0000" channel="swimrewind">
+    <title>Gundam: Iron Blooded Orphans</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915200000 +0000" stop="20260915202500 +0000" channel="swimrewind">
+    <title>Foster's Home for Imaginary Friends</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915202500 +0000" stop="20260915205000 +0000" channel="swimrewind">
+    <title>Cat Dog</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915205000 +0000" stop="20260915211500 +0000" channel="swimrewind">
+    <title>The Spectacular Spider-man</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915211500 +0000" stop="20260915214000 +0000" channel="swimrewind">
+    <title>Adventure Time</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915214000 +0000" stop="20260915220500 +0000" channel="swimrewind">
+    <title>My Gym Parner's a Monkey</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915220500 +0000" stop="20260915223000 +0000" channel="swimrewind">
+    <title>The Future Diary</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915223000 +0000" stop="20260915225500 +0000" channel="swimrewind">
+    <title>Scavenger's Reign</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915225500 +0000" stop="20260915232000 +0000" channel="swimrewind">
+    <title>The Great North</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915232000 +0000" stop="20260915234500 +0000" channel="swimrewind">
+    <title>Futurama</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260915234500 +0000" stop="20260916001000 +0000" channel="swimrewind">
+    <title>American Dad</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916001000 +0000" stop="20260916003500 +0000" channel="swimrewind">
+    <title>Rick and Morty</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916003500 +0000" stop="20260916010000 +0000" channel="swimrewind">
+    <title>Gintama</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916010000 +0000" stop="20260916012500 +0000" channel="swimrewind">
+    <title>Mob Psycho 100</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916012500 +0000" stop="20260916015000 +0000" channel="swimrewind">
+    <title>Kakegurui</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916015000 +0000" stop="20260916021500 +0000" channel="swimrewind">
+    <title>Gundam Wing</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916021500 +0000" stop="20260916024000 +0000" channel="swimrewind">
+    <title>Bleach</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916024000 +0000" stop="20260916030500 +0000" channel="swimrewind">
+    <title>King of the Hill</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916030500 +0000" stop="20260916033000 +0000" channel="swimrewind">
+    <title>Frieren</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916033000 +0000" stop="20260916035500 +0000" channel="swimrewind">
+    <title>Haikyu!!</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916035500 +0000" stop="20260916042000 +0000" channel="swimrewind">
+    <title>Cromartie High School</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916042000 +0000" stop="20260916044500 +0000" channel="swimrewind">
+    <title>Pantheon</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916044500 +0000" stop="20260916045923 +0000" channel="swimrewind">
+    <title>Infomercials</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916050000 +0000" stop="20260916052500 +0000" channel="swimrewind">
+    <title>Superjail!</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916052500 +0000" stop="20260916055000 +0000" channel="swimrewind">
+    <title>Psycho-Pass</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916055000 +0000" stop="20260916061500 +0000" channel="swimrewind">
+    <title>Samurai Jack</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916061500 +0000" stop="20260916064000 +0000" channel="swimrewind">
+    <title>Chainsaw Man</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916064000 +0000" stop="20260916070500 +0000" channel="swimrewind">
+    <title>Joe Pera Talks wtih You</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916070500 +0000" stop="20260916073000 +0000" channel="swimrewind">
+    <title>Malcolm in the Middle</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916073000 +0000" stop="20260916075500 +0000" channel="swimrewind">
+    <title>King of the Hill</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916075500 +0000" stop="20260916082000 +0000" channel="swimrewind">
+    <title>American Dad</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916082000 +0000" stop="20260916084500 +0000" channel="swimrewind">
+    <title>Home Movies</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916084500 +0000" stop="20260916091000 +0000" channel="swimrewind">
+    <title>Bojack Horseman</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916091000 +0000" stop="20260916093500 +0000" channel="swimrewind">
+    <title>Dragon Ball Super</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916093500 +0000" stop="20260916100000 +0000" channel="swimrewind">
+    <title>Attack on Titan</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916100000 +0000" stop="20260916102500 +0000" channel="swimrewind">
+    <title>Digimon Data Squad</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916102500 +0000" stop="20260916105000 +0000" channel="swimrewind">
+    <title>Digimon Adventure</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916105000 +0000" stop="20260916111500 +0000" channel="swimrewind">
+    <title>Naruto</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916111500 +0000" stop="20260916114000 +0000" channel="swimrewind">
+    <title>B-Daman Crossfire</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916114000 +0000" stop="20260916120500 +0000" channel="swimrewind">
+    <title>Bob's Burgers</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916120500 +0000" stop="20260916123000 +0000" channel="swimrewind">
+    <title>YuYu Hakusho</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916123000 +0000" stop="20260916125500 +0000" channel="swimrewind">
+    <title>Sailor Moon</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916125500 +0000" stop="20260916132000 +0000" channel="swimrewind">
+    <title>Paranoia Agent</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916132000 +0000" stop="20260916134500 +0000" channel="swimrewind">
+    <title>Code Geass</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916134500 +0000" stop="20260916141000 +0000" channel="swimrewind">
+    <title>Sword Art Online</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916141000 +0000" stop="20260916143500 +0000" channel="swimrewind">
+    <title>The Vision of Escaflowne</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916143500 +0000" stop="20260916150000 +0000" channel="swimrewind">
+    <title>Steins Gate</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916150000 +0000" stop="20260916152500 +0000" channel="swimrewind">
+    <title>Jimmy Neutron</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916152500 +0000" stop="20260916155000 +0000" channel="swimrewind">
+    <title>Fairly Odd Parents</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916155000 +0000" stop="20260916161500 +0000" channel="swimrewind">
+    <title>Hamtaro</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916161500 +0000" stop="20260916164000 +0000" channel="swimrewind">
+    <title>Freakazoid!</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916164000 +0000" stop="20260916170500 +0000" channel="swimrewind">
+    <title>Dentention</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916170500 +0000" stop="20260916173000 +0000" channel="swimrewind">
+    <title>Ed Edd n Eddy</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916173000 +0000" stop="20260916175500 +0000" channel="swimrewind">
+    <title>Courage The Cowardly Dog</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916175500 +0000" stop="20260916182000 +0000" channel="swimrewind">
+    <title>Invader Zim</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916182000 +0000" stop="20260916184500 +0000" channel="swimrewind">
+    <title>Yugioh</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916184500 +0000" stop="20260916191000 +0000" channel="swimrewind">
+    <title>InuYasha</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916191000 +0000" stop="20260916193500 +0000" channel="swimrewind">
+    <title>One Piece</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916193500 +0000" stop="20260916200000 +0000" channel="swimrewind">
+    <title>My Hero Academia</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916200000 +0000" stop="20260916202500 +0000" channel="swimrewind">
+    <title>Total Drama</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916202500 +0000" stop="20260916205000 +0000" channel="swimrewind">
+    <title>Avatar: The Last Airbender</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916205000 +0000" stop="20260916211500 +0000" channel="swimrewind">
+    <title>The Amazing World of Gumball</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916211500 +0000" stop="20260916214000 +0000" channel="swimrewind">
+    <title>Regular Show</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916214000 +0000" stop="20260916220500 +0000" channel="swimrewind">
+    <title>We Bare Bears</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916220500 +0000" stop="20260916223000 +0000" channel="swimrewind">
+    <title>Hellsing Ultimate</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916223000 +0000" stop="20260916225500 +0000" channel="swimrewind">
+    <title>Monster</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916225500 +0000" stop="20260916232000 +0000" channel="swimrewind">
+    <title>The Venture Bros</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916232000 +0000" stop="20260916234500 +0000" channel="swimrewind">
+    <title>Robot Chicken</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260916234500 +0000" stop="20260917001000 +0000" channel="swimrewind">
+    <title>Family Guy</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917001000 +0000" stop="20260917003500 +0000" channel="swimrewind">
+    <title>The Simpsons</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917003500 +0000" stop="20260917010000 +0000" channel="swimrewind">
+    <title>South Park</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917010000 +0000" stop="20260917012500 +0000" channel="swimrewind">
+    <title>One Punch Man</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917012500 +0000" stop="20260917015000 +0000" channel="swimrewind">
+    <title>Fire Force</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917015000 +0000" stop="20260917021500 +0000" channel="swimrewind">
+    <title>Fullmetal Alchemist</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917021500 +0000" stop="20260917024000 +0000" channel="swimrewind">
+    <title>JoJo's Bizarre Adventure</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917024000 +0000" stop="20260917030500 +0000" channel="swimrewind">
+    <title>Serial Experiments Lain</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917030500 +0000" stop="20260917033000 +0000" channel="swimrewind">
+    <title>Demon Slayer</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917033000 +0000" stop="20260917035500 +0000" channel="swimrewind">
+    <title>The Boondocks</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917035500 +0000" stop="20260917042000 +0000" channel="swimrewind">
+    <title>Metalocalypse</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917042000 +0000" stop="20260917044500 +0000" channel="swimrewind">
+    <title>Mike Tyson Mysteries</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917044500 +0000" stop="20260917045923 +0000" channel="swimrewind">
+    <title>Mr. Pickles</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917050000 +0000" stop="20260917052500 +0000" channel="swimrewind">
+    <title>Tim and Eric's Awesome Show</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917052500 +0000" stop="20260917055000 +0000" channel="swimrewind">
+    <title>Samurai 7</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917055000 +0000" stop="20260917061500 +0000" channel="swimrewind">
+    <title>Samurai Champloo</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917061500 +0000" stop="20260917064000 +0000" channel="swimrewind">
+    <title>Berserk</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917064000 +0000" stop="20260917070500 +0000" channel="swimrewind">
+    <title>Dreamcorp LLC</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917070500 +0000" stop="20260917073000 +0000" channel="swimrewind">
+    <title>That 70's Show</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917073000 +0000" stop="20260917075500 +0000" channel="swimrewind">
+    <title>The Eric Andre Show</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917075500 +0000" stop="20260917082000 +0000" channel="swimrewind">
+    <title>Family Guy</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917082000 +0000" stop="20260917084500 +0000" channel="swimrewind">
+    <title>The Boondocks</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917084500 +0000" stop="20260917091000 +0000" channel="swimrewind">
+    <title>Black Jesus</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917091000 +0000" stop="20260917093500 +0000" channel="swimrewind">
+    <title>Dragon Ball GT</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917093500 +0000" stop="20260917100000 +0000" channel="swimrewind">
+    <title>Ghost in the Shell: SAC</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917100000 +0000" stop="20260917102500 +0000" channel="swimrewind">
+    <title>Digimon Tamers</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917102500 +0000" stop="20260917105000 +0000" channel="swimrewind">
+    <title>Digimon Frontier</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917105000 +0000" stop="20260917111500 +0000" channel="swimrewind">
+    <title>Gundam Seed</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917111500 +0000" stop="20260917114000 +0000" channel="swimrewind">
+    <title>Beyblade</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917114000 +0000" stop="20260917120500 +0000" channel="swimrewind">
+    <title>The Clevland Show</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917120500 +0000" stop="20260917123000 +0000" channel="swimrewind">
+    <title>Outlaw Star</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917123000 +0000" stop="20260917125500 +0000" channel="swimrewind">
+    <title>Soul Eater</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917125500 +0000" stop="20260917132000 +0000" channel="swimrewind">
+    <title>Parasyte -the Maxim-</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917132000 +0000" stop="20260917134500 +0000" channel="swimrewind">
+    <title>The Future Diary</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917134500 +0000" stop="20260917141000 +0000" channel="swimrewind">
+    <title>Tokyo Ghoul</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917141000 +0000" stop="20260917143500 +0000" channel="swimrewind">
+    <title>Witch Hunter Robin</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917143500 +0000" stop="20260917150000 +0000" channel="swimrewind">
+    <title>S-Cry-Ed</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917150000 +0000" stop="20260917152500 +0000" channel="swimrewind">
+    <title>The Powerpuff Girls</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917152500 +0000" stop="20260917155000 +0000" channel="swimrewind">
+    <title>Code Lyoko</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917155000 +0000" stop="20260917161500 +0000" channel="swimrewind">
+    <title>KND: Kids Next Door</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917161500 +0000" stop="20260917164000 +0000" channel="swimrewind">
+    <title>Ghost Stories</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917164000 +0000" stop="20260917170500 +0000" channel="swimrewind">
+    <title>The Batman</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917170500 +0000" stop="20260917173000 +0000" channel="swimrewind">
+    <title>The Grim Adventures of Billy &amp;amp; Mandy</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917173000 +0000" stop="20260917175500 +0000" channel="swimrewind">
+    <title>Teen Titans</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917175500 +0000" stop="20260917182000 +0000" channel="swimrewind">
+    <title>Bakugan</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917182000 +0000" stop="20260917184500 +0000" channel="swimrewind">
+    <title>Yugioh 5Ds</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917184500 +0000" stop="20260917191000 +0000" channel="swimrewind">
+    <title>InuYasha</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917191000 +0000" stop="20260917193500 +0000" channel="swimrewind">
+    <title>Hunter x Hunter</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917193500 +0000" stop="20260917200000 +0000" channel="swimrewind">
+    <title>Gundam: Iron Blooded Orphans</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917200000 +0000" stop="20260917202500 +0000" channel="swimrewind">
+    <title>Foster's Home for Imaginary Friends</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917202500 +0000" stop="20260917205000 +0000" channel="swimrewind">
+    <title>Cat Dog</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917205000 +0000" stop="20260917211500 +0000" channel="swimrewind">
+    <title>The Spectacular Spider-man</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917211500 +0000" stop="20260917214000 +0000" channel="swimrewind">
+    <title>Adventure Time</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917214000 +0000" stop="20260917220500 +0000" channel="swimrewind">
+    <title>My Gym Parner's a Monkey</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917220500 +0000" stop="20260917223000 +0000" channel="swimrewind">
+    <title>Gungrave</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917223000 +0000" stop="20260917225500 +0000" channel="swimrewind">
+    <title>Common Side Effects</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917225500 +0000" stop="20260917232000 +0000" channel="swimrewind">
+    <title>The Great North</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917232000 +0000" stop="20260917234500 +0000" channel="swimrewind">
+    <title>Futurama</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260917234500 +0000" stop="20260918001000 +0000" channel="swimrewind">
+    <title>American Dad</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260918001000 +0000" stop="20260918003500 +0000" channel="swimrewind">
+    <title>Rick and Morty</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260918003500 +0000" stop="20260918010000 +0000" channel="swimrewind">
+    <title>Gintama</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260918010000 +0000" stop="20260918012500 +0000" channel="swimrewind">
+    <title>Mob Psycho 100</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260918012500 +0000" stop="20260918015000 +0000" channel="swimrewind">
+    <title>Kakegurui</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260918015000 +0000" stop="20260918021500 +0000" channel="swimrewind">
+    <title>Gundam Wing</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260918021500 +0000" stop="20260918024000 +0000" channel="swimrewind">
+    <title>Bleach</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260918024000 +0000" stop="20260918030500 +0000" channel="swimrewind">
+    <title>King of the Hill</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260918030500 +0000" stop="20260918033000 +0000" channel="swimrewind">
+    <title>Frieren</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260918033000 +0000" stop="20260918035500 +0000" channel="swimrewind">
+    <title>Haikyu!!</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260918035500 +0000" stop="20260918042000 +0000" channel="swimrewind">
+    <title>Cromartie High School</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260918042000 +0000" stop="20260918044500 +0000" channel="swimrewind">
+    <title>Pantheon</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20260918044500 +0000" stop="20260918045923 +0000" channel="swimrewind">
+    <title>Loiter Squad</title>
+    <desc>No description available.</desc>
+  </programme>
+</tv>
