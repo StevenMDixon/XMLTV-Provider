@@ -1,5 +1,3 @@
-
-from channels.aftermathmovies import AftermathMovies
 from channels.rewind import RewindChannel
 from channels.aftermath import AftermathChannel
 from utils.XMLConversion import XMLGenerator
