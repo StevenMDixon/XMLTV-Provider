@@ -1,10 +1,12 @@
 
+from channels.aftermathmovies import AftermathMovies
 from channels.rewind import RewindChannel
 from channels.aftermath import AftermathChannel
 from utils.XMLConversion import XMLGenerator
 from channels.cneast import CNEastChannel
 from channels.aseast import ASEastChannel
 from channels.nickeast import NickEastChannel
+from channels.nicktooneast import NickToonsEastChannel
 
 from dotenv import load_dotenv
 import os
@@ -24,6 +26,7 @@ channels = [
     ASEastChannel(XMLGenerator, tvg_api_key=tvg_api_key),
     CNEastChannel(XMLGenerator, tvg_api_key=tvg_api_key),
     NickEastChannel(XMLGenerator, tvg_api_key=tvg_api_key),
+    NickToonsEastChannel(XMLGenerator, tvg_api_key=tvg_api_key),
 ]
 
 for channel in channels:
