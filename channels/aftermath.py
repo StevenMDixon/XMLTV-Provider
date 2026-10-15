@@ -5,9 +5,9 @@ from utils.showDTO import ShowDTO
 
 class AftermathChannel:
     def __init__(self, xml_generator = None):
-        self.OUTPUT_XML = "toonami.xml"      # Output XMLTV file
-        self.CHANNEL_ID = "toonami"
-        self.CHANNEL_NAME = "Toonami"
+        self.OUTPUT_XML = "toonamiaftermath.xml"      # Output XMLTV file
+        self.CHANNEL_ID = "toonamiaftermath"
+        self.CHANNEL_NAME = "Toonami Aftermath"
         self.CHANNEL_LOGO = "https://www.toonamiaftermath.com/assets/imgur/y0aF3SA.png"
 
         today = datetime.now().date()
@@ -48,7 +48,7 @@ class AftermathChannel:
             if i + 1 < len(shows):
                 stop = self.generator.iso_to_xmltv(shows[i + 1]["startDate"])
             else:
-                dt_start = datetime.fromisoformat(show["startDate"].replace("Z", "+00:00"))
+                dt_start = datetime.fromisoformat(show["startDate"])
                 dt_stop = dt_start + timedelta(minutes=12)
                 stop = dt_stop.strftime("%Y%m%d%H%M%S +0000")
 
@@ -66,8 +66,8 @@ class AftermathChannel:
                 startDate=start,
                 endDate=stop,
                 description=episode_text,
-                episodeNumber=None,
-                onScreen=ep_num,
+                episodeNumber=ep_num,
+                onScreen=None,
                 iconUrl=image_url
                 )
             )
