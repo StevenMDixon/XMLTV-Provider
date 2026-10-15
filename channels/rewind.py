@@ -12,6 +12,7 @@ class RewindChannel:
         self.OUTPUT_XML = "rewind.xml"      # Output XMLTV file
         self.CHANNEL_ID = "swimrewind"
         self.CHANNEL_NAME = "Swim Rewind"
+        self.CHANNEL_LOGO = "https://swimrewind.com/logo.png"
 
         self.DAYS_TO_GENERATE = 3
         self.SOURCE_URL = "https://swimrewind.com/customjavascript"
@@ -92,4 +93,4 @@ class RewindChannel:
                     )
                 )
         # -----------------------------
-        self.generator.convert_to_xml(self, converted_shows)
+        self.generator.convert_to_xml(self, converted_shows, self.CHANNEL_LOGO)

@@ -8,3 +8,4 @@ class ShowDTO:
     description: str | None
     episodeNumber: int | None
     iconUrl: str | None
+    subtitle: str | None = None

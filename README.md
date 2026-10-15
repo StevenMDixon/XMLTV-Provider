@@ -15,3 +15,12 @@ Toonami Aftermath
 
 Swim Rewind
 - stevenmdixon.github.io/XMLTV-Provider/rewind.xml
+
+Cartoon Network East
+- stevenmdixon.github.io/XMLTV-Provider/cn-east.xml
+
+Adult Swim East
+- stevenmdixon.github.io/XMLTV-Provider/as-east.xml
+
+Nick East
+- stevenmdixon.github.io/XMLTV-Provider/nick-east.xml

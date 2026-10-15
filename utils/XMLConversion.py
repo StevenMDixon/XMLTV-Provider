@@ -11,12 +11,7 @@ class XMLGenerator():
     def convert_to_dto(show):
         pass
 
-    def convert_to_xml(channel, shows):
-
-        # Need output file
-
-        # Need Channel Input 
-        # ID & Name
+    def convert_to_xml(channel, shows, iconUrl =""):
 
         # --- CREATE ROOT ELEMENT ---
         tv = ET.Element("tv")
@@ -24,12 +19,17 @@ class XMLGenerator():
         # --- DEFINE CHANNEL ---
         channel_elem = ET.SubElement(tv, "channel", id=channel.CHANNEL_ID)
         ET.SubElement(channel_elem, "display-name").text = channel.CHANNEL_NAME
+        if iconUrl:
+            ET.SubElement(channel_elem, "icon", src=iconUrl)
 
         # --- ADD PROGRAMMES ---
         for show in shows:  
             prog = ET.SubElement(tv, "programme", start=show.startDate, stop=show.endDate, channel=channel.CHANNEL_ID)
 
             ET.SubElement(prog, "title").text = XMLGenerator.escape_text(show.name)
+
+            if show.subtitle:
+                ET.SubElement(prog, "sub-title").text = XMLGenerator.escape_text(show.subtitle)
 
             if show.description:
                 ET.SubElement(prog, "desc").text = XMLGenerator.escape_text(show.description)

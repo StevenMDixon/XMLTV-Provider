@@ -8,6 +8,7 @@ class AftermathChannel:
         self.OUTPUT_XML = "toonami.xml"      # Output XMLTV file
         self.CHANNEL_ID = "toonami"
         self.CHANNEL_NAME = "Toonami"
+        self.CHANNEL_LOGO = "https://www.toonamiaftermath.com/assets/imgur/y0aF3SA.png"
 
         today = datetime.now().date()
         self.url = f"https://api.toonamiaftermath.com/media?scheduleName=Toonami%20Aftermath%20EST&dateString={today}T11%3A00%3A00Z&count=100"
@@ -70,4 +71,4 @@ class AftermathChannel:
                 )
             )
 
-        self.generator.convert_to_xml(self, converted_shows)
+        self.generator.convert_to_xml(self, converted_shows, self.CHANNEL_LOGO)
