@@ -41,30 +41,28 @@ class NickEastChannel:
         print(f"Converting {len(shows)} shows for channel: {self.CHANNEL_ID}")
         converted_shows = []
 
-        SOURCE_TZ = ZoneInfo("America/New_York")
-        tz = ZoneInfo("America/New_York")
-
         for show in shows:
             # Need to extract Times and convert them to a usable format for XMLTV
             start_time = show.get("start")
             end_time = show.get("stop")
-            print(f"Raw show data: {show}")
 
             start_time_utc = datetime.fromisoformat(start_time) if start_time else None
             end_time_utc = datetime.fromisoformat(end_time) if end_time else None
 
             if start_time_utc:
-                start_time = start_time_utc.astimezone(tz).isoformat()
+                start_time = start_time_utc.isoformat()
             if end_time_utc:
-                end_time = end_time_utc.astimezone(tz).isoformat()
+                end_time = end_time_utc.isoformat()
+
+            episode_num = show.get("episode_num").replace("onscreen:", "") if show.get("episode_num") else None
 
             converted_show = ShowDTO(
                 name=show.get("title"),
-                startDate=start_time,
-                endDate=end_time,
+                startDate=self.generator.iso_to_xmltv(start_time),
+                endDate=self.generator.iso_to_xmltv(end_time),
                 description=show.get("description"),
-                episodeNumber=show.get("episode_num"),
-                iconUrl='',
+                onScreen=episode_num,
+                episodeNumber=None,
                 subtitle=show.get("sub_title")
             )
             converted_shows.append(converted_show)

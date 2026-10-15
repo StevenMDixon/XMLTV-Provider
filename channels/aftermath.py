@@ -66,7 +66,8 @@ class AftermathChannel:
                 startDate=start,
                 endDate=stop,
                 description=episode_text,
-                episodeNumber=ep_num,
+                episodeNumber=None,
+                onScreen=ep_num,
                 iconUrl=image_url
                 )
             )

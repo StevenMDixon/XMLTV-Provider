@@ -39,6 +39,9 @@ class XMLGenerator():
             if show.episodeNumber is not None:
                 ET.SubElement(prog, "episode-num", system="xmltv_ns").text = str(show.episodeNumber)
 
+            if show.onScreen and show.episodeNumber is None:
+                ET.SubElement(prog, "episode-num", system="onscreen").text = XMLGenerator.escape_text(show.onScreen)
+
             if show.iconUrl:
                 ET.SubElement(prog, "icon", src=show.iconUrl)
 

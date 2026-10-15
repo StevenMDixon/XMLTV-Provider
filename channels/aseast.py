@@ -50,18 +50,18 @@ class ASEastChannel:
             end_time = show.get("stop")
 
             if start_time:
-                start_time = datetime.fromisoformat(start_time).replace(tzinfo=SOURCE_TZ).astimezone(tz).isoformat()
+                start_time = datetime.fromisoformat(start_time).replace(tzinfo=SOURCE_TZ).isoformat()
             if end_time:
-                end_time = datetime.fromisoformat(end_time).replace(tzinfo=SOURCE_TZ).astimezone(tz).isoformat()
+                end_time = datetime.fromisoformat(end_time).replace(tzinfo=SOURCE_TZ).isoformat()
 
             print(f"Processing show: {show.get('title')}")
             converted_show = ShowDTO(
                 name=show.get("title"),
-                startDate=start_time,
-                endDate=end_time,
+                startDate=self.generator.iso_to_xmltv(start_time),
+                endDate=self.generator.iso_to_xmltv(end_time),
                 description=show.get("description"),
-                episodeNumber=show.get("episode_num"),
-                iconUrl='',
+                episodeNumber=None,
+                onScreen=show.get("episode_num").replace("onscreen:", ""),
                 subtitle=show.get("sub_title")
             )
             converted_shows.append(converted_show)

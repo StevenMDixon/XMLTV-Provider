@@ -41,26 +41,35 @@ class CNEastChannel:
         print(f"Converting {len(shows)} shows for channel: {self.CHANNEL_ID}")
         converted_shows = []
 
-        SOURCE_TZ = ZoneInfo("Europe/Moscow")
-        tz = ZoneInfo("America/New_York")
-
         for show in shows:
             # Need to extract Times and convert them to a usable format for XMLTV
             start_time = show.get("start")
             end_time = show.get("stop")
 
-            if start_time:
-                start_time = datetime.fromisoformat(start_time).replace(tzinfo=SOURCE_TZ).astimezone(tz).isoformat()
-            if end_time:
-                end_time = datetime.fromisoformat(end_time).replace(tzinfo=SOURCE_TZ).astimezone(tz).isoformat()
+            print(f"Raw show data: {show}")
+
+            start_time_utc = datetime.fromisoformat(start_time)
+            end_time_utc = datetime.fromisoformat(end_time)
+
+            if start_time_utc:
+                start_time_utc = (start_time_utc - timedelta(hours=3))
+            if end_time_utc:
+                end_time_utc = (end_time_utc - timedelta(hours=3))
+
+            print(start_time_utc, end_time_utc)
+
+            episode_number = show.get("episode_num")
+
+            if episode_number:
+                episode_number = episode_number.replace("onscreen:", "")
 
             converted_show = ShowDTO(
                 name=show.get("title"),
-                startDate=start_time,
-                endDate=end_time,
+                startDate=self.generator.iso_to_xmltv(start_time_utc.isoformat()),
+                endDate=self.generator.iso_to_xmltv(end_time_utc.isoformat()),
                 description=show.get("description"),
-                episodeNumber=show.get("episode_num"),
-                iconUrl='',
+                episodeNumber=None,
+                onScreen=episode_number,
                 subtitle=show.get("sub_title")
             )
             converted_shows.append(converted_show)
