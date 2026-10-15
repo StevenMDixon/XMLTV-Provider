@@ -29,6 +29,8 @@ jobs:
 
       # Run Python script
       - name: Generate XML
+        env:
+          TVG_API_KEY: ${{ secrets.TVG_API_KEY }}
         run: python generate_epg.py
 
       # Deploy to GitHub Pages
