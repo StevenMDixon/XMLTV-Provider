@@ -1,4 +1,4 @@
-from datetime import datetime, timedelta
+from datetime import datetime, time, timedelta
 from zoneinfo import ZoneInfo
 import requests
 
@@ -47,20 +47,47 @@ class CNEastChannel:
         
         self.convert(shows)
 
+    def get_off_air_entries(self, days_ahead):
+            off_air_items = [];
+    
+            startDateTime = datetime.now().replace(hour=10, minute=0, second=0)
+            endDateTime = datetime.now().replace(hour=21, minute=0, second=0) 
+            
+            for day in range(days_ahead + 1):
+                off_air_show = ShowDTO(
+                    name="Off Air",
+                    startDate=startDateTime.strftime("%Y%m%d%H%M%S %z"),
+                    endDate=endDateTime.strftime("%Y%m%d%H%M%S %z"),
+                    description="See you tomorrow at 6am.",
+                    onScreen="",
+                    episodeNumber=None,
+                    subtitle="See you tomorrow at 6am."
+                )
+                off_air_items.append(off_air_show)
+    
+                startDateTime += timedelta(days=1)
+                endDateTime += timedelta(days=1)
+    
+            return off_air_items
+
     def convert(self, shows):
         print(f"Converting {len(shows)} shows for channel: {self.CHANNEL_ID}")
         converted_shows = []
 
         for show in shows:
             # Need to extract Times and convert them to a usable format for XMLTV
-            start_time = show["start"].strftime("%Y%m%d%H%M%S %z")
-            end_time = show["stop"].strftime("%Y%m%d%H%M%S %z")
+            start_time = show["start"]
+            end_time = show["stop"]
+
+            if start_time.time() >= time(21, 0) or start_time.time() < time(10, 0):
+                continue
+
             episode_num = show["episode_number"]
 
             converted_show = ShowDTO(
                 name=show["title"],
-                startDate=start_time,
-                endDate=end_time,
+                startDate=start_time.strftime("%Y%m%d%H%M%S %z"),
+                endDate=end_time.strftime("%Y%m%d%H%M%S %z"),
                 description=show["description"],
                 onScreen=episode_num,
                 episodeNumber=episode_num,
@@ -69,4 +96,7 @@ class CNEastChannel:
 
             converted_shows.append(converted_show)
 
+        off_air_entries = self.get_off_air_entries(1)
+        converted_shows.extend(off_air_entries)
+        converted_shows.sort(key=lambda show: show.startDate)
         self.generator.convert_to_xml(self, converted_shows, self.CHANNEL_LOGO)
