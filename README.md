@@ -24,3 +24,6 @@ Adult Swim East
 
 Nick East
 - stevenmdixon.github.io/XMLTV-Provider/nick-east.xml
+
+# Channel M3U8s
+Coming soon
