@@ -1,13 +1,11 @@
+from channels.tv_passport_channel import tv_passport_channel
 from channels.rewind import RewindChannel
 from channels.aftermath import AftermathChannel
 from utils.XMLConversion import XMLGenerator
-from channels.cneast import CNEastChannel
-from channels.aseast import ASEastChannel
-from channels.nickeast import NickEastChannel
-from channels.nicktooneast import NickToonsEastChannel
 
 from dotenv import load_dotenv
 import os
+import json
 
 load_dotenv()
 
@@ -21,11 +19,14 @@ os.makedirs(folder_path, exist_ok=True)
 channels = [
     RewindChannel(XMLGenerator),
     AftermathChannel(XMLGenerator),
-    ASEastChannel(XMLGenerator, tvg_api_key=tvg_api_key),
-    CNEastChannel(XMLGenerator, tvg_api_key=tvg_api_key),
-    NickEastChannel(XMLGenerator, tvg_api_key=tvg_api_key),
-    NickToonsEastChannel(XMLGenerator, tvg_api_key=tvg_api_key),
 ]
+
+with open('./channels.json', 'r', encoding='utf-8') as file:
+    data = json.load(file)
+    print(f"Loaded channel data: {data}")
+    for channel in data:
+        print(channel)
+        channels.append(tv_passport_channel(XMLGenerator, file_data=channel))
 
 for channel in channels:
     try:

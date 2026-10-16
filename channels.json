@@ -1,0 +1,54 @@
+[
+    {
+        "station_id": "2268",
+        "station_slug": "boomerang",
+        "channel_id": "boomerang-east",
+        "channel_logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/250px-Boomerang_2014_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    },
+    {
+        "station_id": "11445",
+        "station_slug": "nicktoons-hd-east",
+        "channel_id": "nicktoons-east",
+        "channel_logo": "https://static.wikia.nocookie.net/dreamlogos/images/b/bb/Nicktoons_UK_2014.png/revision/latest/scale-to-width-down/279?cb=20221230233702"
+    },
+    {
+        "station_id": "658",
+        "station_slug": "nickelodeon-usa-east-feed",
+        "channel_id": "nick-east",
+        "channel_logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c82dd5b3-b0d8-44e8-b11d-a50e55b7b9de/dfarp8m-d179a77e-c1f3-4564-bb8f-332374472311.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODJkZDViMy1iMGQ4LTQ0ZTgtYjExZC1hNTBlNTViN2I5ZGUvZGZhcnA4bS1kMTc5YTc3ZS1jMWYzLTQ1NjQtYmI4Zi0zMzIzNzQ0NzIzMTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.E3sERHPPdmhQcRhmoNhyM3upJWp0NTaNThoS3yDcmtM"
+    },
+    {
+        "station_id": "6917",
+        "station_slug": "cartoon-network-usa-hd-eastern",
+        "channel_id": "cn-east",
+        "channel_logo": "https://static.wikia.nocookie.net/youtube/images/3/3e/Cartoon_Network.jpeg/revision/latest/scale-to-width-down/268?cb=20250222103744",
+        "off_air_start": "21:00:00",
+        "off_air_end": "10:00:00"
+    },
+    {
+        "station_id": "607",
+        "station_slug": "adult-swim-east",
+        "channel_id": "as-east",
+        "channel_logo": "https://www.adultswim.com/img/as-logo.svg",
+        "off_air_start": "10:00:00",
+        "off_air_end": "21:00:00"
+    },
+    {
+        "station_id": "595",
+        "station_slug": "disney-eastern-feed",
+        "channel_id": "disney-east",
+        "channel_logo": "https://cdn.tvpassport.com/image/station/240x135/v2/s10171_h15_ae.png"
+    },
+    {
+        "station_id": "1969",
+        "station_slug": "nick-jr-east",
+        "channel_id": "nick-jr-east",
+        "channel_logo": "https://cdn.tvpassport.com/image/station/240x135/v2/s10171_h15_ae.png"
+    },
+    {
+        "station_id": "10523",
+        "station_slug": "disney-junior-usa-hd-east",
+        "channel_id": "disney-junior-east",
+        "channel_logo": "https://cdn.tvpassport.com/image/station/240x135/v2/s10171_h15_ae.png"
+    }
+]
