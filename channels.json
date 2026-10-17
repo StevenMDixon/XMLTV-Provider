@@ -26,6 +26,12 @@
         "off_air_end": "10:00:00"
     },
     {
+        "station_id": "6917",
+        "station_slug": "cartoon-network-usa-hd-eastern",
+        "channel_id": "cn-as",
+        "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5vx0VSEF7UPsqZ3ny476cYFsOr-YquKGAeKvu9B0z2KY3fI8avwDMdjzm&s=10"
+    },
+    {
         "station_id": "607",
         "station_slug": "adult-swim-east",
         "channel_id": "as-east",
@@ -43,7 +49,7 @@
         "station_id": "1969",
         "station_slug": "nick-jr-east",
         "channel_id": "nick-jr-east",
-        "channel_logo": "https://cdn.tvpassport.com/image/station/240x135/v2/s10171_h15_ae.png"
+        "channel_logo": "https://cdn.tvpassport.com/image/station/240x135/v2/s19211_h15_ac.png"
     },
     {
         "station_id": "10523",
