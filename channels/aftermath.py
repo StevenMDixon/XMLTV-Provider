@@ -10,7 +10,7 @@ class AftermathChannel:
         self.CHANNEL_NAME = "Toonami Aftermath"
         self.CHANNEL_LOGO = "https://www.toonamiaftermath.com/assets/imgur/y0aF3SA.png"
 
-        today = datetime.now().date()
+        today = datetime.now().date() - timedelta(days=1)
         self.url = f"https://api.toonamiaftermath.com/media?scheduleName=Toonami%20Aftermath%20EST&dateString={today}T11%3A00%3A00Z&count=100"
         
         self.generator = xml_generator
@@ -28,7 +28,15 @@ class AftermathChannel:
             return []
         
     def handle_conversion(self):
-        shows = self.fetch_shows()
+        days_ahead = 2
+        
+        for i in range(0, days_ahead + 1):
+            today = self.today + timedelta(days=i)
+            shows += self.get_shows(today)
+
+        if not shows:
+            print("No shows to convert.")
+            return
 
         if not shows:
             print("No shows to convert.")

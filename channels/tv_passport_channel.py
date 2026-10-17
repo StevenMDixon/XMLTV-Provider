@@ -29,7 +29,7 @@ class tv_passport_channel:
         else:
             self.off_air_end = None
 
-        self.today = datetime.now().date()
+        self.today = datetime.now().date() - timedelta(days=1)
 
     def get_shows(self, date):
             url = (
@@ -47,9 +47,11 @@ class tv_passport_channel:
 
 
     def handle_conversion(self):
-        shows = self.get_shows(self.today)
-        tomorrow = self.today + timedelta(days=1)
-        shows += self.get_shows(tomorrow)
+        days_ahead = 2
+
+        for i in range(0, days_ahead + 1):
+            today = self.today + timedelta(days=i)
+            shows += self.get_shows(today)
 
         if not shows:
             print("No shows to convert.")
