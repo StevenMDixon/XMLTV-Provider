@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="cn-east">
+    <display-name>Cn East</display-name>
+    <icon src="https://static.wikia.nocookie.net/youtube/images/3/3e/Cartoon_Network.jpeg/revision/latest/scale-to-width-down/268?cb=20250222103744"/>
+  </channel>
+  <programme start="20261016100000 +0000" stop="20261016101200 +0000" channel="cn-east">
+    <title>Batwheels</title>
+    <sub-title>Bats of Clay</sub-title>
+    <desc>Clayface is back in town, and this time he may be too much, and too many, for the Batwheels to handle!</desc>
+  </programme>
+  <programme start="20261016101200 +0000" stop="20261016102800 +0000" channel="cn-east">
+    <title>Bugs Bunny Builders</title>
+    <sub-title>Pauleen's Pins</sub-title>
+    <desc>Pauleen Penguin hires the Looney Builders to build an ice bowling alley in Looneyburg; her homesickness causes setbacks until the crew helps her feel better.</desc>
+  </programme>
+  <programme start="20261016102800 +0000" stop="20261016105600 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Regular Show Presents: Terror Tales of the Park VII Halloween Special</sub-title>
+    <desc>Some new Halloween stories!</desc>
+  </programme>
+  <programme start="20261016105600 +0000" stop="20261016110000 +0000" channel="cn-east">
+    <title>The Heroic Quest of the Valiant Prince Ivandoe</title>
+    <sub-title>The Prince and the Talking Tree</sub-title>
+    <desc>Ivandoe and Bert come across a Talking Tree who promises to tell their fortune in exchange for gold. An enthusiastic Ivandoe hands over his golden locket, just before Bert discovers the sassy gnomes hidden away inside the hollow tree.</desc>
+  </programme>
+  <programme start="20261016110000 +0000" stop="20261016111200 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>Guy's Night</sub-title>
+    <desc>When Pops wants to be included in a guys' night, he participates in a milk challenge to prove his worth.</desc>
+    <episode-num system="xmltv_ns">89</episode-num>
+  </programme>
+  <programme start="20261016111200 +0000" stop="20261016112800 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>One Pull Up</sub-title>
+    <desc>Rigby needs to do one pull-up to pass the park physical.</desc>
+    <episode-num system="xmltv_ns">90</episode-num>
+  </programme>
+  <programme start="20261016112800 +0000" stop="20261016114000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Origins</sub-title>
+    <desc>When Mom and Dad struggle to keep hyperactive, toddler-aged Gumball from trashing the house and exhausting them, they decide to buy him a pet.</desc>
+    <episode-num system="xmltv_ns">77</episode-num>
+  </programme>
+  <programme start="20261016114000 +0000" stop="20261016115600 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Origins</sub-title>
+    <desc>Via the sewers, Darwin finds himself flushed out to sea; he is terrified but determined to make his way back to the Wattersons; a fish can't get very far on land, so Darwin does millions of years of evolution in a matter of hours.</desc>
+    <episode-num system="xmltv_ns">78</episode-num>
+  </programme>
+  <programme start="20261016115600 +0000" stop="20261016120800 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Girlfriend</sub-title>
+    <desc>When Jamie decides she needs to have a sweetheart, she targets Darwin as the best candidate.</desc>
+    <episode-num system="xmltv_ns">82</episode-num>
+  </programme>
+  <programme start="20261016120800 +0000" stop="20261016122400 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Advice</sub-title>
+    <desc>Gumball and Darwin try to cheer up Mr. Small, who feels depressed because he believes he has not inspired his students.</desc>
+    <episode-num system="xmltv_ns">80</episode-num>
+  </programme>
+  <programme start="20261016122400 +0000" stop="20261016123600 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Helmet of Doom</sub-title>
+    <desc>The Titans get stuck in the swamp and learn the truth about the Hall of Doom.</desc>
+  </programme>
+  <programme start="20261016123600 +0000" stop="20261016125200 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Ruler's Rule</sub-title>
+    <desc>Robin explains to the rest of the team the great usefulness of the ruler; the Titans respond enthusiastically and begin measuring everything they find around.</desc>
+  </programme>
+  <programme start="20261016125200 +0000" stop="20261016130400 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Hero Hotline</sub-title>
+    <desc>Starfire and Cyborg keep calling the Hero Hotline for housework help out of boredom, but soon there's a real crime alert.</desc>
+  </programme>
+  <programme start="20261016130400 +0000" stop="20261016131600 +0000" channel="cn-east">
+    <title>Apple &amp;amp; Onion</title>
+    <sub-title>The Music Store Thief</sub-title>
+    <desc>Apple and Onion have to defend the music store from instrument theft to get a key to the store.</desc>
+    <episode-num system="xmltv_ns">33</episode-num>
+  </programme>
+  <programme start="20261016131600 +0000" stop="20261016133200 +0000" channel="cn-east">
+    <title>Apple &amp;amp; Onion</title>
+    <sub-title>The Fly</sub-title>
+    <desc>Apple and Onion have to rid their apartment of a fly or face eviction.</desc>
+    <episode-num system="xmltv_ns">34</episode-num>
+  </programme>
+  <programme start="20261016133200 +0000" stop="20261016134000 +0000" channel="cn-east">
+    <title>Grizzy and the Lemmings</title>
+    <sub-title>Thermal Shock!</sub-title>
+    <desc>Just as Grizzy settles into the couch by the fireside, the Lemmings come charging into the living room on their new mount, the vacuum cleaner; irritated, the bear throws the mechanical charger into the fireplace, which blows up.</desc>
+  </programme>
+  <programme start="20261016134000 +0000" stop="20261016134800 +0000" channel="cn-east">
+    <title>Grizzy and the Lemmings</title>
+    <sub-title>Primitive Activities</sub-title>
+    <desc>The Lemmings have a new playmate: a walrus; the rodents ride the creature throughout the cabin, then make him slide down the roof before starting all over again; Grizzy steps in and propels the creature to the back of a mysterious ice cave.</desc>
+  </programme>
+  <programme start="20261016134800 +0000" stop="20261016140000 +0000" channel="cn-east">
+    <title>Grizzy and the Lemmings</title>
+    <sub-title>Cabin On Ice</sub-title>
+    <desc>While Grizzy goes fishing, the Lemmings transform the cabin into a giant ice slide.</desc>
+  </programme>
+  <programme start="20261016140000 +0000" stop="20261016143000 +0000" channel="cn-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>She Sees Sea Monsters by the Sea Shore</sub-title>
+    <desc>A sea monster destroys tourists' boats. Mimi Rogers provides guest voice.</desc>
+    <episode-num system="xmltv_ns">9</episode-num>
+  </programme>
+  <programme start="20261016143000 +0000" stop="20261016150000 +0000" channel="cn-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>Toy Scary Boo</sub-title>
+    <desc>A simple trip to the mall turns into another mystery when toys come to life.</desc>
+    <episode-num system="xmltv_ns">10</episode-num>
+  </programme>
+  <programme start="20261016150000 +0000" stop="20261016153000 +0000" channel="cn-east">
+    <title>Scooby-Doo, Where Are You!</title>
+    <sub-title>Who's Afraid of the Big Bad Werewolf?</sub-title>
+    <desc>A werewolf haunts an old mill.</desc>
+    <episode-num system="xmltv_ns">70007</episode-num>
+  </programme>
+  <programme start="20261016153000 +0000" stop="20261016160000 +0000" channel="cn-east">
+    <title>Scooby-Doo, Where Are You!</title>
+    <sub-title>Don't Fool With a Phantom</sub-title>
+    <desc>During a dance contest, a wax phantom steals a safe full of money.</desc>
+  </programme>
+  <programme start="20261016160000 +0000" stop="20261016161000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Buccaneer Bunny</sub-title>
+    <desc>Bugs infuriates Pirate Yosemite Sam by stealing his treasure and chases Bugs onto the pirate ship.</desc>
+  </programme>
+  <programme start="20261016161000 +0000" stop="20261016162000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Bugs Bunny Rides Again</sub-title>
+    <desc>Bugs battles Yosemite Sam in a western showdown.</desc>
+  </programme>
+  <programme start="20261016162000 +0000" stop="20261016163000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Haredevil Hare</sub-title>
+    <desc>Bugs gets blasted into space and makes it all the way up to the moon.</desc>
+  </programme>
+  <programme start="20261016163000 +0000" stop="20261016164000 +0000" channel="cn-east">
+    <title>The Tom and Jerry Comedy Show</title>
+    <sub-title>Mouse Over Miami</sub-title>
+    <desc>Spike intervenes when Tom tries to catch Jerry.</desc>
+  </programme>
+  <programme start="20261016164000 +0000" stop="20261016165000 +0000" channel="cn-east">
+    <title>The Tom and Jerry Comedy Show</title>
+    <sub-title>No Museum Peace</sub-title>
+    <desc>Tom pursues Jerry and Nibbles through a museum.</desc>
+  </programme>
+  <programme start="20261016165000 +0000" stop="20261016170000 +0000" channel="cn-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>O-Solar-Meow</sub-title>
+    <desc>A supply satellite is launched into space and docked at a space station; using an X-ray machine, Jerry examines the charge and a large, ripe, delicious cheese is unloaded.</desc>
+  </programme>
+  <programme start="20261016170000 +0000" stop="20261016171500 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Elseworlds</sub-title>
+    <desc>When the Titans are banished to Elseworlds, they try to find a way back to the main DC timeline.</desc>
+  </programme>
+  <programme start="20261016171500 +0000" stop="20261016173000 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Use It or Lose It</sub-title>
+    <desc>The Monitor tries to make the Titans use their powers properly instead of the silly ways they've been used in the past.</desc>
+  </programme>
+  <programme start="20261016173000 +0000" stop="20261016174500 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Philly</sub-title>
+    <desc>While visiting Philadelphia, the Titans join forces with the Bacon Brothers to stop William Penn's rampage on the city.</desc>
+  </programme>
+  <programme start="20261016174500 +0000" stop="20261016180000 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Task Force X</sub-title>
+    <desc>Tired of fighting low-tier villains, the Titans seek out Amanda Waller so they can join Task Force X.</desc>
+  </programme>
+  <programme start="20261016180000 +0000" stop="20261016181500 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Signal</sub-title>
+    <desc>When Gumball develops a bizarre stutter, he unintentionally offends Darwin.</desc>
+    <episode-num system="xmltv_ns">81</episode-num>
+  </programme>
+  <programme start="20261016181500 +0000" stop="20261016183000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Parasite</sub-title>
+    <desc>Gumball and Darwin read Anais' diary and discover her relationship with a new friend is one-sided.</desc>
+    <episode-num system="xmltv_ns">83</episode-num>
+  </programme>
+  <programme start="20261016183000 +0000" stop="20261016184500 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Love</sub-title>
+    <desc>The people of Elmore search for the meaning of love.</desc>
+    <episode-num system="xmltv_ns">84</episode-num>
+  </programme>
+  <programme start="20261016184500 +0000" stop="20261016190000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Awkwardness</sub-title>
+    <desc>Gumball runs into Hot Dog Guy while on the way to the store to get ketchup.</desc>
+    <episode-num system="xmltv_ns">86</episode-num>
+  </programme>
+  <programme start="20261016190000 +0000" stop="20261016191500 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Nest</sub-title>
+    <desc>Upon a neighbor's mysterious disappearance, the Wattersons' search for clues leads them to a strange egg.</desc>
+    <episode-num system="xmltv_ns">87</episode-num>
+  </programme>
+  <programme start="20261016191500 +0000" stop="20261016193000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Points</sub-title>
+    <desc>In order for Tobias to let them use his points in a video game, Gumball and Darwin must do his chores for him.</desc>
+    <episode-num system="xmltv_ns">88</episode-num>
+  </programme>
+  <programme start="20261016193000 +0000" stop="20261016194500 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Bus</sub-title>
+    <desc>Parents try to teach the students of Elmore High a lesson about skipping school.</desc>
+    <episode-num system="xmltv_ns">89</episode-num>
+  </programme>
+  <programme start="20261016194500 +0000" stop="20261016200000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Night</sub-title>
+    <desc>As night falls in Elmore, the Moon goes on a tour through the various dreams and nightmares of the town's slumbering inhabitants; each character's dream shows their innermost desires, their greatest fears or just how plain weird they are.</desc>
+    <episode-num system="xmltv_ns">90</episode-num>
+  </programme>
+  <programme start="20261016200000 +0000" stop="20261016201500 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>TGI Tuesday</sub-title>
+    <desc>Mordecai, Rigby and Eileen celebrate Margaret's new internship.</desc>
+    <episode-num system="xmltv_ns">91</episode-num>
+  </programme>
+  <programme start="20261016201500 +0000" stop="20261016203000 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>Firework Run</sub-title>
+    <desc>Mordecai, Rigby and Muscle Man have to replace fireworks for an event at the park.</desc>
+    <episode-num system="xmltv_ns">92</episode-num>
+  </programme>
+  <programme start="20261016203000 +0000" stop="20261016204500 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>The Longest Weekend</sub-title>
+    <desc>Muscle Man must make it through a week without contacting Starla.</desc>
+    <episode-num system="xmltv_ns">95</episode-num>
+  </programme>
+  <programme start="20261016204500 +0000" stop="20261016210000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Smoke Alarm on the Water</sub-title>
+    <desc>Mordecai and Rigby can't sleep because of the beep.</desc>
+  </programme>
+  <programme start="20261017100000 +0000" stop="20261017101500 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Diet</sub-title>
+    <desc>Gumball and Darwin find out why Dad's diet was not working, and after they help him lose weight, Richard becomes more obnoxious.</desc>
+    <episode-num system="xmltv_ns">124</episode-num>
+  </programme>
+  <programme start="20261017101500 +0000" stop="20261017103000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Ex</sub-title>
+    <desc>When Gumball learns that his nemesis has found a new nemesis, Gumball tries to sabotage Rob's new </desc>
+    <episode-num system="xmltv_ns">125</episode-num>
+  </programme>
+  <programme start="20261017103000 +0000" stop="20261017104500 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Sorcerer</sub-title>
+    <desc>Gumball refuses to accept he is the only kid at school that doesn't have special powers; Gumball convinces Mrs. Jotunheim, Hector's mom, to take him on as her apprentice, but she soon learns leaving Gumball unsupervised around magic is a big mistake.</desc>
+    <episode-num system="xmltv_ns">114</episode-num>
+  </programme>
+  <programme start="20261017104500 +0000" stop="20261017110000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Menu</sub-title>
+    <desc>When Richard hears the urban legend of a secret Joyful Burger, he will stop at nothing to devour it.</desc>
+    <episode-num system="xmltv_ns">127</episode-num>
+  </programme>
+  <programme start="20261017110000 +0000" stop="20261017111500 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Uncle</sub-title>
+    <desc>Gumball and Darwin are desperate to meet Ocho's famous uncle.</desc>
+    <episode-num system="xmltv_ns">128</episode-num>
+  </programme>
+  <programme start="20261017111500 +0000" stop="20261017113000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Weirdo</sub-title>
+    <desc>When they see the school bullies making fun of Sussie, Gumball and Darwin decide to try and help her act less weird.</desc>
+    <episode-num system="xmltv_ns">126</episode-num>
+  </programme>
+  <programme start="20261017113000 +0000" stop="20261017114500 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>Fancy Restaurant</sub-title>
+    <desc>Muscle Man has to go out to a fancy dinner to impress his girlfriend's parents.</desc>
+    <episode-num system="xmltv_ns">73</episode-num>
+  </programme>
+  <programme start="20261017114500 +0000" stop="20261017120000 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>Diary</sub-title>
+    <desc>Mordecai and Rigby break the lock on Margaret's diary.</desc>
+    <episode-num system="xmltv_ns">74</episode-num>
+  </programme>
+  <programme start="20261017120000 +0000" stop="20261017121500 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>The Best VHS in the World</sub-title>
+    <desc>Mordecai and Rigby have to return an overdue VHS to the store so they won't be banned from renting new movies.</desc>
+    <episode-num system="xmltv_ns">77</episode-num>
+  </programme>
+  <programme start="20261017121500 +0000" stop="20261017123000 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>Prankless</sub-title>
+    <desc>The gang wants to win a prank war against a rival park.</desc>
+    <episode-num system="xmltv_ns">76</episode-num>
+  </programme>
+  <programme start="20261017123000 +0000" stop="20261017124500 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>Death Bear</sub-title>
+    <desc>Mordecai and Rigby hope to impress Margaret and Eileen by getting a picture in death bear's cage.</desc>
+    <episode-num system="xmltv_ns">75</episode-num>
+  </programme>
+  <programme start="20261017124500 +0000" stop="20261017130000 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>Fuzzy Dice</sub-title>
+    <desc>Everyone wants to give Pops fuzzy dice for his birthday.</desc>
+    <episode-num system="xmltv_ns">78</episode-num>
+  </programme>
+  <programme start="20261017130000 +0000" stop="20261017131500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Party Horse 4: Third Time's a Charm</sub-title>
+    <desc>The guys call an old friend to get the party started.</desc>
+  </programme>
+  <programme start="20261017131500 +0000" stop="20261017133000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Smoke Alarm on the Water</sub-title>
+    <desc>Mordecai and Rigby can't sleep because of the beep.</desc>
+  </programme>
+  <programme start="20261017133000 +0000" stop="20261017134000 +0000" channel="cn-east">
+    <title>Grizzy and the Lemmings</title>
+    <sub-title>Return of the Beloved Being</sub-title>
+    <desc>Grizzy pinches a magic statue from the Lemmings that makes objects appear in real life.</desc>
+  </programme>
+  <programme start="20261017134000 +0000" stop="20261017135000 +0000" channel="cn-east">
+    <title>Grizzy and the Lemmings</title>
+    <sub-title>Masked Powers</sub-title>
+    <desc>Grizzy propels the lemmings into the neighboring hut of a sorcerer and a mysterious mask falls onto one of them, endowing him with the power of telekinesis.</desc>
+  </programme>
+  <programme start="20261017135000 +0000" stop="20261017140000 +0000" channel="cn-east">
+    <title>Grizzy and the Lemmings</title>
+    <sub-title>Roaring Lemmings</sub-title>
+    <desc>Grizzy chases the Lemmings, who have loaded a jar of Yummy into their remote-control car.</desc>
+  </programme>
+  <programme start="20261017140000 +0000" stop="20261017141500 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Torso Soap</sub-title>
+    <desc>The League of Legs returns to help stop crime and learn about the importance of leg washing.</desc>
+  </programme>
+  <programme start="20261017141500 +0000" stop="20261017143000 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Select Your Trek</sub-title>
+    <desc>Raven, Cyborg and Robin are zapped into a book and must rely on Beast Boy and Starfire to make the right selections to get out.</desc>
+  </programme>
+  <programme start="20261017143000 +0000" stop="20261017144500 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Huzzah for the Turkey Leg</sub-title>
+    <desc>Except for Raven, all of our friends cannot wait anymore to go to the Renaissance Festival in their costume.</desc>
+  </programme>
+  <programme start="20261017144500 +0000" stop="20261017150000 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>The Joker's on You</sub-title>
+    <desc>In an attempt to escape from the Joker, the Titans try to make him laugh with a variety of comedy acts.</desc>
+  </programme>
+  <programme start="20261017150000 +0000" stop="20261017151500 +0000" channel="cn-east">
+    <title>Craig of the Creek</title>
+    <sub-title>Rise and Shine</sub-title>
+    <desc>Craig goes on a sleepover adventure to Kelsey's house.</desc>
+  </programme>
+  <programme start="20261017151500 +0000" stop="20261017153000 +0000" channel="cn-east">
+    <title>Craig of the Creek</title>
+    <sub-title>Whose Dimension Is It Anyway?</sub-title>
+    <desc>Wren enlists Craig in a transdimensional dream experiment.</desc>
+  </programme>
+  <programme start="20261017153000 +0000" stop="20261017154500 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Heist</sub-title>
+    <desc>Richard finds out that it is probably not a good idea to wear a motorcycle helmet into a bank; he learns that doing so can lead to a lot of unnecessary trouble.</desc>
+    <episode-num system="xmltv_ns">129</episode-num>
+  </programme>
+  <programme start="20261017154500 +0000" stop="20261017160000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Singing</sub-title>
+    <desc>Joining the citizens of Elmore for a song and dance that will have people covering their ears with joy.</desc>
+    <episode-num system="xmltv_ns">137</episode-num>
+  </programme>
+  <programme start="20261017160000 +0000" stop="20261017161500 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Best</sub-title>
+    <desc>No matter what Gumball does, Carmen thinks she knows better; when Gumball attempts to gain the moral high ground, but fails, his only option left is to bring Carmen down to his level.</desc>
+    <episode-num system="xmltv_ns">132</episode-num>
+  </programme>
+  <programme start="20261017161500 +0000" stop="20261017163000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Worst</sub-title>
+    <desc>The Wattersons each complain about their horrible day and argue over who has the worst life; they agree to swap lives the next day to see who actually has it worse.</desc>
+    <episode-num system="xmltv_ns">133</episode-num>
+  </programme>
+  <programme start="20261017163000 +0000" stop="20261017164500 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Deal</sub-title>
+    <desc>Richard goes on strike to prove that his work around the house is underappreciated by Nicole.</desc>
+    <episode-num system="xmltv_ns">135</episode-num>
+  </programme>
+  <programme start="20261017164500 +0000" stop="20261017170000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Petals</sub-title>
+    <desc>When Leslie's petals begin falling off, he feels like his good looks are fading; Gumball and Darwin use everything they know about style and beauty to try and help him.</desc>
+    <episode-num system="xmltv_ns">130</episode-num>
+  </programme>
+  <programme start="20261017170000 +0000" stop="20261017171500 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Puppets</sub-title>
+    <desc>Darwin is delighted when they discover their old childhood toys, but soon realizes that some things are best left in the past.</desc>
+    <episode-num system="xmltv_ns">138</episode-num>
+  </programme>
+  <programme start="20261017171500 +0000" stop="20261017173000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Nuisance</sub-title>
+    <desc>The Wattersons fear the worst when they are summoned to a Town Hall meeting; but are surprised when they're offered a new house -- until they discover it's in a different state.</desc>
+    <episode-num system="xmltv_ns">131</episode-num>
+  </programme>
+  <programme start="20261017173000 +0000" stop="20261017180000 +0000" channel="cn-east">
+    <title>Tiny Toons Looniversity</title>
+    <sub-title>Tears of a Clone</sub-title>
+    <desc>Buster finds a cloning machine at Wile E. Coyote's yard sale; Sweetie finds a time machine.</desc>
+  </programme>
+  <programme start="20261017180000 +0000" stop="20261017181000 +0000" channel="cn-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Of Feline Bondage</sub-title>
+    <desc>Jerry's fairy godmother helps him torment Tom.</desc>
+  </programme>
+  <programme start="20261017181000 +0000" stop="20261017182000 +0000" channel="cn-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Pie in the Sky</sub-title>
+    <desc>The steel and heavy equipment for a skyscraper provides a mile-high adventure for Tom and Jerry as the two foes race for a construction worker's lunch box loaded with goodies.</desc>
+  </programme>
+  <programme start="20261017182000 +0000" stop="20261017183000 +0000" channel="cn-east">
+    <title>The Tom and Jerry Comedy Show</title>
+    <sub-title>Pied Piper Puss</sub-title>
+    <desc>Tom tries to lure Jerry and Nibbles with music.</desc>
+  </programme>
+  <programme start="20261017183000 +0000" stop="20261017184000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>You Were Never Duckier</sub-title>
+    <desc>Offended by the lesser prize offered for Best Duck, Daffy disguises himself as a rooster to compete for a bigger cash prize.</desc>
+  </programme>
+  <programme start="20261017184000 +0000" stop="20261017185000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Hot Cross Bunny</sub-title>
+    <desc>Bugs Bunny is a science research test subject for the switching of his brain with a chicken, and finds himself in front of an audience in a lab auditorium, entertaining them with impersonations, magic tricks, dancing and scat-singing.</desc>
+  </programme>
+  <programme start="20261017185000 +0000" stop="20261017190000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Scaredy Cat</sub-title>
+    <desc>When Porky and Sylvester move, they notice strange things in their new home.</desc>
+  </programme>
+  <programme start="20261017190000 +0000" stop="20261017193000 +0000" channel="cn-east">
+    <title>Scooby-Doo, Where Are You!</title>
+    <sub-title>Who's Afraid of the Big Bad Werewolf?</sub-title>
+    <desc>A werewolf haunts an old mill.</desc>
+    <episode-num system="xmltv_ns">70007</episode-num>
+  </programme>
+  <programme start="20261017193000 +0000" stop="20261017200000 +0000" channel="cn-east">
+    <title>Scooby-Doo, Where Are You!</title>
+    <sub-title>Don't Fool With a Phantom</sub-title>
+    <desc>During a dance contest, a wax phantom steals a safe full of money.</desc>
+  </programme>
+  <programme start="20261017200000 +0000" stop="20261017203000 +0000" channel="cn-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>Lights! Camera! Mayhem!</sub-title>
+    <desc>Scooby and the others pose as stunt doubles to flush out a ghost haunting a Hollywood movie studio.</desc>
+    <episode-num system="xmltv_ns">11</episode-num>
+  </programme>
+  <programme start="20261017203000 +0000" stop="20261017210000 +0000" channel="cn-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>Pompeii and Circumstance</sub-title>
+    <desc>Fred engages in mortal combat with a gladiator; a volcano erupts.</desc>
+    <episode-num system="xmltv_ns">12</episode-num>
+  </programme>
+  <programme start="20261017210000 +0000" stop="20261018100000 +0000" channel="cn-east">
+    <title>Off Air</title>
+    <sub-title>Off Air</sub-title>
+    <desc>Off Air</desc>
+  </programme>
+  <programme start="20261018100000 +0000" stop="20261018101000 +0000" channel="cn-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Professor Tom</sub-title>
+    <desc>Tom tries to teach his son how to catch mice.</desc>
+  </programme>
+  <programme start="20261018101000 +0000" stop="20261018102000 +0000" channel="cn-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Purr-Chance to Dream</sub-title>
+    <desc>When Tom awakens after a bad dream, his real circumstances remind him of his horror.</desc>
+  </programme>
+  <programme start="20261018102000 +0000" stop="20261018103000 +0000" channel="cn-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Puss 'n' Boats</sub-title>
+    <desc>Jerry sees a load of cheese being loaded onto a cargo ship and tries a variety of tricks to board, but Tom is a security guard who tries to stop him.</desc>
+  </programme>
+  <programme start="20261018103000 +0000" stop="20261018104000 +0000" channel="cn-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Rock 'n' Rodent</sub-title>
+    <desc>Jerry's band is playing loudly late at night and Tom can't get to sleep.</desc>
+  </programme>
+  <programme start="20261018104000 +0000" stop="20261018105000 +0000" channel="cn-east">
+    <title>The Tom and Jerry Comedy Show</title>
+    <sub-title>Save That Mouse</sub-title>
+    <desc>Tom has a problem when his owner takes pity on Jerry and orders the cat to protect the little mouse or face serious consequences.</desc>
+  </programme>
+  <programme start="20261018105000 +0000" stop="20261018110000 +0000" channel="cn-east">
+    <title>The Tom and Jerry Comedy Show</title>
+    <sub-title>Say What?</sub-title>
+    <desc>Aunt Henrietta's talking parrot, Bertram, teams up with Jerry to frustrate Tom.</desc>
+  </programme>
+  <programme start="20261018110000 +0000" stop="20261018111000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>My Bunny Lies Over the Sea</sub-title>
+    <desc>After learning that he took a wrong turn and ended up in Scotland, Bugs rips apart McCrory's bagpipes and angers him.</desc>
+  </programme>
+  <programme start="20261018111000 +0000" stop="20261018112000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>The Grey Hounded Hare</sub-title>
+    <desc>Wondering what's creating all the noise, Bugs Bunny pops out of a hole to discover he's at a greyhound track.</desc>
+  </programme>
+  <programme start="20261018112000 +0000" stop="20261018113000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>A Ham in a Role</sub-title>
+    <desc>A dog is tired of getting pies in the face and finds Goofy Gophers sleeping in his books.</desc>
+  </programme>
+  <programme start="20261018113000 +0000" stop="20261018114000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Often an Orphan</sub-title>
+    <desc>Charlie Dog tries everything to get Porky to take him in, and he finally does.</desc>
+  </programme>
+  <programme start="20261018114000 +0000" stop="20261018115000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Rabbit Hood</sub-title>
+    <desc>While stealing a carrot in Sherwood Forest on the king's property, Bugs gets caught by the sheriff; Bugs tricks the sheriff into letting him go, but he plays pranks on the hapless lawman.</desc>
+  </programme>
+  <programme start="20261018115000 +0000" stop="20261018120000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Long-Haired Hare</sub-title>
+    <desc>Bugs annoys an opera singer who is rehearsing for a concert.</desc>
+  </programme>
+  <programme start="20261018120000 +0000" stop="20261018123000 +0000" channel="cn-east">
+    <title>Scooby-Doo, Where Are You!</title>
+    <sub-title>What a Night for a Knight</sub-title>
+    <desc>The gang searches for a missing archaeologist.</desc>
+    <episode-num system="xmltv_ns">69001</episode-num>
+  </programme>
+  <programme start="20261018123000 +0000" stop="20261018130000 +0000" channel="cn-east">
+    <title>Scooby-Doo, Where Are You!</title>
+    <sub-title>A Clue for Scooby-Doo</sub-title>
+    <desc>The gang finds a haunted sunken ship while scuba diving.</desc>
+    <episode-num system="xmltv_ns">6902</episode-num>
+  </programme>
+  <programme start="20261018130000 +0000" stop="20261018133000 +0000" channel="cn-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>The Unnatural</sub-title>
+    <desc>A disembodied spirit terrorizes baseball games.</desc>
+    <episode-num system="xmltv_ns">13</episode-num>
+  </programme>
+  <programme start="20261018133000 +0000" stop="20261018140000 +0000" channel="cn-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>A Scooby-Doo Christmas</sub-title>
+    <desc>The gang arrives in a town terrorized by a headless snowman.</desc>
+  </programme>
+  <programme start="20261018140000 +0000" stop="20261018150000 +0000" channel="cn-east">
+    <title>Tiny Toons Looniversity</title>
+    <sub-title>Nightmare on Toon Street</sub-title>
+    <desc>Sweetie and Buster's plan to give their friends a non-scary Halloween goes awry.</desc>
+  </programme>
+  <programme start="20261018150000 +0000" stop="20261018151000 +0000" channel="cn-east">
+    <title>Grizzy and the Lemmings</title>
+    <sub-title>Return of the Beloved Being</sub-title>
+    <desc>Grizzy pinches a magic statue from the Lemmings that makes objects appear in real life.</desc>
+  </programme>
+  <programme start="20261018151000 +0000" stop="20261018152000 +0000" channel="cn-east">
+    <title>Grizzy and the Lemmings</title>
+    <sub-title>Masked Powers</sub-title>
+    <desc>Grizzy propels the lemmings into the neighboring hut of a sorcerer and a mysterious mask falls onto one of them, endowing him with the power of telekinesis.</desc>
+  </programme>
+  <programme start="20261018152000 +0000" stop="20261018153000 +0000" channel="cn-east">
+    <title>Grizzy and the Lemmings</title>
+    <sub-title>Roaring Lemmings</sub-title>
+    <desc>Grizzy chases the Lemmings, who have loaded a jar of Yummy into their remote-control car.</desc>
+  </programme>
+  <programme start="20261018153000 +0000" stop="20261018154500 +0000" channel="cn-east">
+    <title>We Bare Bears</title>
+    <sub-title>I Am Ice Bear</sub-title>
+    <desc>After Ice Bear hits his head, Grizz and Panda notice him acting like a different person.</desc>
+    <episode-num system="xmltv_ns">107</episode-num>
+  </programme>
+  <programme start="20261018154500 +0000" stop="20261018160000 +0000" channel="cn-east">
+    <title>We Bare Bears</title>
+    <sub-title>Baby Bears Can't Jump</sub-title>
+    <desc>In order to win a pizza, the Baby Bears play basketball against a ragtag gang of kids.</desc>
+    <episode-num system="xmltv_ns">85</episode-num>
+  </programme>
+  <programme start="20261018160000 +0000" stop="20261018161500 +0000" channel="cn-east">
+    <title>We Bare Bears</title>
+    <sub-title>Go Fish</sub-title>
+    <desc>While on a fishing trip, the Bears get attacked by a giant legendary fish.</desc>
+    <episode-num system="xmltv_ns">111</episode-num>
+  </programme>
+  <programme start="20261018161500 +0000" stop="20261018163000 +0000" channel="cn-east">
+    <title>We Bare Bears</title>
+    <sub-title>Teacher's Pet</sub-title>
+    <desc>The Baby Bears escape their hectic lives by attending school.</desc>
+    <episode-num system="xmltv_ns">109</episode-num>
+  </programme>
+  <programme start="20261018163000 +0000" stop="20261018164500 +0000" channel="cn-east">
+    <title>Clarence</title>
+    <sub-title>Clarence's Millions</sub-title>
+    <desc>Clarence creates his own form of currency, turning the school upside down.</desc>
+    <episode-num system="xmltv_ns">10</episode-num>
+  </programme>
+  <programme start="20261018164500 +0000" stop="20261018170000 +0000" channel="cn-east">
+    <title>Clarence</title>
+    <sub-title>Clarence Gets a Girlfriend</sub-title>
+    <desc>Clarence tries to become a perfect gentleman before a date.</desc>
+    <episode-num system="xmltv_ns">5</episode-num>
+  </programme>
+  <programme start="20261018170000 +0000" stop="20261018171500 +0000" channel="cn-east">
+    <title>Clarence</title>
+    <sub-title>Jeff's New Toy</sub-title>
+    <desc>Jeff and Clarence clash over keeping a toy in its box.</desc>
+    <episode-num system="xmltv_ns">13</episode-num>
+  </programme>
+  <programme start="20261018171500 +0000" stop="20261018173000 +0000" channel="cn-east">
+    <title>Clarence</title>
+    <sub-title>Dinner Party</sub-title>
+    <desc>When Clarence attends a stuffy dinner party with his mother, he tries to find fun wherever he can.</desc>
+    <episode-num system="xmltv_ns">4</episode-num>
+  </programme>
+  <programme start="20261018173000 +0000" stop="20261018174500 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>TV Knight 10</sub-title>
+    <desc>Batman and Commissioner Gordon install a satellite dish so they can watch a wide variety of shows.</desc>
+  </programme>
+  <programme start="20261018174500 +0000" stop="20261018180000 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>A Time to Sew</sub-title>
+    <desc>After the Thread of Time is corrupted, the Titans have to travel through time to correct historical events.</desc>
+  </programme>
+  <programme start="20261018180000 +0000" stop="20261018181500 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Teen Titans Go to the Repair Shop Pt. 1</sub-title>
+    <desc>While in London to stop Mad Mod, the Titans' crime-fighting weapons are damaged; they turn to the crew at The Repair Shop for restoration help.</desc>
+  </programme>
+  <programme start="20261018181500 +0000" stop="20261018183000 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Teen Titans Go to the Repair Shop Pt. 2</sub-title>
+    <desc>The Repair Shop crew are pushed to the limit while fixing the Titans' gear so they can stop Mad Mod's world domination plan.</desc>
+  </programme>
+  <programme start="20261018183000 +0000" stop="20261018184500 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Line</sub-title>
+    <desc>The Wattersons will do whatever it takes to get into the first screening of the latest Stellar Odyssey sequel.</desc>
+    <episode-num system="xmltv_ns">136</episode-num>
+  </programme>
+  <programme start="20261018184500 +0000" stop="20261018190000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The List</sub-title>
+    <desc>When the kids find out that Mom's life hasn't panned out as she'd hoped, they start taking on her chores, but they accidentally grab her bucket list instead of her to-do list.</desc>
+    <episode-num system="xmltv_ns">134</episode-num>
+  </programme>
+  <programme start="20261018190000 +0000" stop="20261018191500 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The News</sub-title>
+    <desc>From police chases to the inside scoop on Daisy the Donkey, Elmore News has all the local stories; experienced newscaster Kip Schlesinger brings the news, sports and weather, even when there is absolutely nothing to report.</desc>
+    <episode-num system="xmltv_ns">110</episode-num>
+  </programme>
+  <programme start="20261018191500 +0000" stop="20261018193000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Rival</sub-title>
+    <desc>When Anais is a newborn baby, Gumball and Darwin become jealous of their new sibling, and spark a baby war.</desc>
+    <episode-num system="xmltv_ns">142</episode-num>
+  </programme>
+  <programme start="20261018193000 +0000" stop="20261018200000 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>Terror Tales of the Park III</sub-title>
+    <desc>Each of the park guys tries to win a bet by telling the scariest story at a Halloween party; the tales unsettle everyone.</desc>
+  </programme>
+  <programme start="20261018200000 +0000" stop="20261018203000 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>Terror Tales of the Park VI</sub-title>
+    <desc>The gang tells scary stories with a science fiction twist.</desc>
+    <episode-num system="onscreen">244/245</episode-num>
+  </programme>
+  <programme start="20261018203000 +0000" stop="20261018204500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Smoke Alarm on the Water</sub-title>
+    <desc>Mordecai and Rigby can't sleep because of the beep.</desc>
+  </programme>
+  <programme start="20261018204500 +0000" stop="20261018210000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Party Horse 4: Third Time's a Charm</sub-title>
+    <desc>The guys call an old friend to get the party started.</desc>
+  </programme>
+  <programme start="20261018210000 +0000" stop="20261019100000 +0000" channel="cn-east">
+    <title>Off Air</title>
+    <sub-title>Off Air</sub-title>
+    <desc>Off Air</desc>
+  </programme>
+</tv>

@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="retroblast">
+    <display-name>Retroblast</display-name>
+    <icon src="https://retroblast.tv/logo"/>
+  </channel>
+  <programme start="20261016000000 +0000" stop="20261016001300 +0000" channel="retroblast">
+    <title>ATHF</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016001300 +0000" stop="20261016002500 +0000" channel="retroblast">
+    <title>Tim and Eric</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016002500 +0000" stop="20261016005000 +0000" channel="retroblast">
+    <title>King of the Hill</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016005000 +0000" stop="20261016011500 +0000" channel="retroblast">
+    <title>Bleach TYBW</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016011500 +0000" stop="20261016014000 +0000" channel="retroblast">
+    <title>Hellsing</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016014000 +0000" stop="20261016020500 +0000" channel="retroblast">
+    <title>Cowboy Bebop</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016020500 +0000" stop="20261016023000 +0000" channel="retroblast">
+    <title>Futurama</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016023000 +0000" stop="20261016024900 +0000" channel="retroblast">
+    <title>Family Guy</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016024900 +0000" stop="20261016030000 +0000" channel="retroblast">
+    <title>On Cinema</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016030000 +0000" stop="20261016031300 +0000" channel="retroblast">
+    <title>Robot Chicken</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016031300 +0000" stop="20261016032500 +0000" channel="retroblast">
+    <title>Aqua Teen</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016032500 +0000" stop="20261016035000 +0000" channel="retroblast">
+    <title>King of the Hill</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016035000 +0000" stop="20261016041500 +0000" channel="retroblast">
+    <title>Bleach TYBW</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016041500 +0000" stop="20261016044000 +0000" channel="retroblast">
+    <title>JoJo's Bizarre Adventure</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016044000 +0000" stop="20261016050500 +0000" channel="retroblast">
+    <title>Inuyasha</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016050500 +0000" stop="20261016053000 +0000" channel="retroblast">
+    <title>Lupin the Third Part II</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016053000 +0000" stop="20261016055500 +0000" channel="retroblast">
+    <title>Case Closed</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016055500 +0000" stop="20261016062000 +0000" channel="retroblast">
+    <title>Animaniacs</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016062000 +0000" stop="20261016064500 +0000" channel="retroblast">
+    <title>Power Rangers</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016064500 +0000" stop="20261016071000 +0000" channel="retroblast">
+    <title>Batman TAS</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016071000 +0000" stop="20261016073500 +0000" channel="retroblast">
+    <title>X-Men TAS</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016073500 +0000" stop="20261016080000 +0000" channel="retroblast">
+    <title>Totally Spies</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016080000 +0000" stop="20261016082500 +0000" channel="retroblast">
+    <title>Code Lyoko</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016082500 +0000" stop="20261016085000 +0000" channel="retroblast">
+    <title>TMNT (2003)</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016085000 +0000" stop="20261016091500 +0000" channel="retroblast">
+    <title>Teen Titans</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016091500 +0000" stop="20261016094000 +0000" channel="retroblast">
+    <title>Pokemon Advanced</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016094000 +0000" stop="20261016100500 +0000" channel="retroblast">
+    <title>Yu-Gi-Oh! GX</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016100500 +0000" stop="20261016103000 +0000" channel="retroblast">
+    <title>The Cartoon Cartoon Show</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016103000 +0000" stop="20261016105500 +0000" channel="retroblast">
+    <title>Ben 10</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016105500 +0000" stop="20261016112000 +0000" channel="retroblast">
+    <title>Xiaolin Showdown</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016112000 +0000" stop="20261016114500 +0000" channel="retroblast">
+    <title>KND</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016114500 +0000" stop="20261016121000 +0000" channel="retroblast">
+    <title>Billy and Mandy</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016121000 +0000" stop="20261016123500 +0000" channel="retroblast">
+    <title>Ed Edd n Eddy</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016123500 +0000" stop="20261016130000 +0000" channel="retroblast">
+    <title>Juniper Lee</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016130000 +0000" stop="20261016132500 +0000" channel="retroblast">
+    <title>Fosters</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016132500 +0000" stop="20261016135000 +0000" channel="retroblast">
+    <title>Samurai Jack</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016135000 +0000" stop="20261016141500 +0000" channel="retroblast">
+    <title>Camp Lazlo</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016141500 +0000" stop="20261016144000 +0000" channel="retroblast">
+    <title>PPG</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016144000 +0000" stop="20261016150500 +0000" channel="retroblast">
+    <title>Star Wars The Clone Wars</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016150500 +0000" stop="20261016153000 +0000" channel="retroblast">
+    <title>Hi Hi Puffy Ami Yumi</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016153000 +0000" stop="20261016155500 +0000" channel="retroblast">
+    <title>Justice League</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016155500 +0000" stop="20261016162000 +0000" channel="retroblast">
+    <title>Sailor Moon</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016162000 +0000" stop="20261016164500 +0000" channel="retroblast">
+    <title>YuYu</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016164500 +0000" stop="20261016171000 +0000" channel="retroblast">
+    <title>Dragon Ball</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016171000 +0000" stop="20261016173500 +0000" channel="retroblast">
+    <title>BoboBoBoBoBoBo</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016173500 +0000" stop="20261016180000 +0000" channel="retroblast">
+    <title>Zatch Bell</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016180000 +0000" stop="20261016182500 +0000" channel="retroblast">
+    <title>DBZ (Run A)</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016182500 +0000" stop="20261016185000 +0000" channel="retroblast">
+    <title>One Piece</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016185000 +0000" stop="20261016191500 +0000" channel="retroblast">
+    <title>Naruto/ Shippuden</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016191500 +0000" stop="20261016194000 +0000" channel="retroblast">
+    <title>Fridays Halloween</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016194000 +0000" stop="20261016200500 +0000" channel="retroblast">
+    <title>Fridays Halloween</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016200500 +0000" stop="20261016203000 +0000" channel="retroblast">
+    <title>Fridays Halloween</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016203000 +0000" stop="20261016205500 +0000" channel="retroblast">
+    <title>Fridays Halloween</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016205500 +0000" stop="20261016212000 +0000" channel="retroblast">
+    <title>Fridays Halloween</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016212000 +0000" stop="20261016214500 +0000" channel="retroblast">
+    <title>Fridays Halloween</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016214500 +0000" stop="20261016221000 +0000" channel="retroblast">
+    <title>Fridays Halloween</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016221000 +0000" stop="20261016223500 +0000" channel="retroblast">
+    <title>Fridays Halloween</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016223500 +0000" stop="20261016230000 +0000" channel="retroblast">
+    <title>Fridays Halloween</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016230000 +0000" stop="20261016232500 +0000" channel="retroblast">
+    <title>Adult Halloween Specials</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016232500 +0000" stop="20261016234700 +0000" channel="retroblast">
+    <title>Adult Halloween Specials</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261016234700 +0000" stop="20261017000000 +0000" channel="retroblast">
+    <title>Harvey Birdman</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017000000 +0000" stop="20261017001300 +0000" channel="retroblast">
+    <title>Harvey Birdman </title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017001300 +0000" stop="20261017002500 +0000" channel="retroblast">
+    <title>Metalocyalpse</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017002500 +0000" stop="20261017005000 +0000" channel="retroblast">
+    <title>The Boondocks</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017005000 +0000" stop="20261017011500 +0000" channel="retroblast">
+    <title>Home Movies</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017011500 +0000" stop="20261017014000 +0000" channel="retroblast">
+    <title>Robot Chicken x2</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017014000 +0000" stop="20261017020500 +0000" channel="retroblast">
+    <title>ATHF x2</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017020500 +0000" stop="20261017023000 +0000" channel="retroblast">
+    <title>Harvey Birdman</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017023000 +0000" stop="20261017024900 +0000" channel="retroblast">
+    <title>Metalocyalpse</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017024900 +0000" stop="20261017030000 +0000" channel="retroblast">
+    <title>Space Ghost</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017030000 +0000" stop="20261017031300 +0000" channel="retroblast">
+    <title>Eric Andre</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017031300 +0000" stop="20261017032500 +0000" channel="retroblast">
+    <title>Eric Andre</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017032500 +0000" stop="20261017035000 +0000" channel="retroblast">
+    <title>Tim and Eric</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017035000 +0000" stop="20261017041500 +0000" channel="retroblast">
+    <title>Tim and Eric</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017041500 +0000" stop="20261017044000 +0000" channel="retroblast">
+    <title>Shin Chan</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017044000 +0000" stop="20261017050500 +0000" channel="retroblast">
+    <title>Shin Chan</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017050500 +0000" stop="20261017053000 +0000" channel="retroblast">
+    <title>The Boondocks</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017053000 +0000" stop="20261017055500 +0000" channel="retroblast">
+    <title>Home Movies</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017055500 +0000" stop="20261017062000 +0000" channel="retroblast">
+    <title>Boomerang</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017062000 +0000" stop="20261017064500 +0000" channel="retroblast">
+    <title>Boomerang</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017064500 +0000" stop="20261017071000 +0000" channel="retroblast">
+    <title>Boomerang</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017071000 +0000" stop="20261017073500 +0000" channel="retroblast">
+    <title>Boomerang</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017073500 +0000" stop="20261017080000 +0000" channel="retroblast">
+    <title>Boomerang</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017080000 +0000" stop="20261017082500 +0000" channel="retroblast">
+    <title>Boomerang</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017082500 +0000" stop="20261017085000 +0000" channel="retroblast">
+    <title>Scooby-Doo</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017085000 +0000" stop="20261017091500 +0000" channel="retroblast">
+    <title>Tom and Jerry</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017091500 +0000" stop="20261017094000 +0000" channel="retroblast">
+    <title>The Cartoon Cartoon Show</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017094000 +0000" stop="20261017100500 +0000" channel="retroblast">
+    <title>Scooby-Doo</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017100500 +0000" stop="20261017103000 +0000" channel="retroblast">
+    <title>Fosters</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017103000 +0000" stop="20261017105500 +0000" channel="retroblast">
+    <title>Hi Hi Puffy Ami Yumi</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017105500 +0000" stop="20261017112000 +0000" channel="retroblast">
+    <title>Batman TAS</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017112000 +0000" stop="20261017114500 +0000" channel="retroblast">
+    <title>Avatar TLA</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017114500 +0000" stop="20261017121000 +0000" channel="retroblast">
+    <title>Avatar TLA</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017121000 +0000" stop="20261017123500 +0000" channel="retroblast">
+    <title>Cartoon Theater*</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017123500 +0000" stop="20261017130000 +0000" channel="retroblast">
+    <title>Cartoon Theater*</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017130000 +0000" stop="20261017132500 +0000" channel="retroblast">
+    <title>Cartoon Theater*</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017132500 +0000" stop="20261017135000 +0000" channel="retroblast">
+    <title>Cartoon Theater*</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017135000 +0000" stop="20261017141500 +0000" channel="retroblast">
+    <title>Cartoon Theater*</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017141500 +0000" stop="20261017144000 +0000" channel="retroblast">
+    <title>Mucha Lucha</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017144000 +0000" stop="20261017150500 +0000" channel="retroblast">
+    <title>Yu-Gi-Oh! 5D's</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017150500 +0000" stop="20261017153000 +0000" channel="retroblast">
+    <title>Digimon Adventure</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017153000 +0000" stop="20261017155500 +0000" channel="retroblast">
+    <title>Totally Spies</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017155500 +0000" stop="20261017162000 +0000" channel="retroblast">
+    <title>Static Shock</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017162000 +0000" stop="20261017164500 +0000" channel="retroblast">
+    <title>KND</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017164500 +0000" stop="20261017171000 +0000" channel="retroblast">
+    <title>Megas XLR</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017171000 +0000" stop="20261017173500 +0000" channel="retroblast">
+    <title>Billy and Mandy</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017173500 +0000" stop="20261017180000 +0000" channel="retroblast">
+    <title>PPG</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017180000 +0000" stop="20261017182500 +0000" channel="retroblast">
+    <title>Courage</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017182500 +0000" stop="20261017185000 +0000" channel="retroblast">
+    <title>Ed Edd n Eddy</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017185000 +0000" stop="20261017191500 +0000" channel="retroblast">
+    <title>Batman Beyond</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017191500 +0000" stop="20261017194000 +0000" channel="retroblast">
+    <title>Jackie Chan Adventures </title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017194000 +0000" stop="20261017200500 +0000" channel="retroblast">
+    <title>Teen Titans</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017200500 +0000" stop="20261017203000 +0000" channel="retroblast">
+    <title>Maul Shadow Lord *NEW Series*</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017203000 +0000" stop="20261017205500 +0000" channel="retroblast">
+    <title>X-Men '97 *NEW Episodes*</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017205500 +0000" stop="20261017212000 +0000" channel="retroblast">
+    <title>Zatch Bell</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017212000 +0000" stop="20261017214500 +0000" channel="retroblast">
+    <title>DBZ (Run B)</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017214500 +0000" stop="20261017221000 +0000" channel="retroblast">
+    <title>One Piece (Run B)</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017221000 +0000" stop="20261017223500 +0000" channel="retroblast">
+    <title>Naruto (Run B)</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017223500 +0000" stop="20261017230000 +0000" channel="retroblast">
+    <title>Justice League</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017230000 +0000" stop="20261017232500 +0000" channel="retroblast">
+    <title>Futurama *NEW Episodes*</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017232500 +0000" stop="20261017234700 +0000" channel="retroblast">
+    <title>King of the Hill *NEW Episodes*</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261017234700 +0000" stop="20261018000000 +0000" channel="retroblast">
+    <title>ATHF</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018000000 +0000" stop="20261018001300 +0000" channel="retroblast">
+    <title>Horror Movie</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018001300 +0000" stop="20261018002500 +0000" channel="retroblast">
+    <title>Horror Movie</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018002500 +0000" stop="20261018005000 +0000" channel="retroblast">
+    <title>Horror Movie</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018005000 +0000" stop="20261018011500 +0000" channel="retroblast">
+    <title>Horror Movie</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018011500 +0000" stop="20261018014000 +0000" channel="retroblast">
+    <title>Horror Movie</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018014000 +0000" stop="20261018020500 +0000" channel="retroblast">
+    <title>The Boondocks</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018020500 +0000" stop="20261018023000 +0000" channel="retroblast">
+    <title>The Boondocks</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018023000 +0000" stop="20261018024900 +0000" channel="retroblast">
+    <title>Space Ghost Coast to Coast</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018024900 +0000" stop="20261018030000 +0000" channel="retroblast">
+    <title>Space Ghost Coast to Coast</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018030000 +0000" stop="20261018031300 +0000" channel="retroblast">
+    <title>Harvey Birdman</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018031300 +0000" stop="20261018032500 +0000" channel="retroblast">
+    <title>Harvey Birdman</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018032500 +0000" stop="20261018035000 +0000" channel="retroblast">
+    <title>Family Guy</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018035000 +0000" stop="20261018041500 +0000" channel="retroblast">
+    <title>King of the Hill</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018041500 +0000" stop="20261018044000 +0000" channel="retroblast">
+    <title>Robot Chicken</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018044000 +0000" stop="20261018050500 +0000" channel="retroblast">
+    <title>ATHF</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018050500 +0000" stop="20261018053000 +0000" channel="retroblast">
+    <title>The Boondocks</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018053000 +0000" stop="20261018055500 +0000" channel="retroblast">
+    <title>Home Movies</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018055500 +0000" stop="20261018062000 +0000" channel="retroblast">
+    <title>Boomerang</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018062000 +0000" stop="20261018064500 +0000" channel="retroblast">
+    <title>Boomerang</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018064500 +0000" stop="20261018071000 +0000" channel="retroblast">
+    <title>Boomerang</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018071000 +0000" stop="20261018073500 +0000" channel="retroblast">
+    <title>Boomerang</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018073500 +0000" stop="20261018080000 +0000" channel="retroblast">
+    <title>Boomerang</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018080000 +0000" stop="20261018082500 +0000" channel="retroblast">
+    <title>Boomerang</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018082500 +0000" stop="20261018085000 +0000" channel="retroblast">
+    <title>Scooby-Doo</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018085000 +0000" stop="20261018091500 +0000" channel="retroblast">
+    <title>Tom and Jerry</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018091500 +0000" stop="20261018094000 +0000" channel="retroblast">
+    <title>The Cartoon Cartoon Show</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018094000 +0000" stop="20261018100500 +0000" channel="retroblast">
+    <title>Scooby-Doo</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018100500 +0000" stop="20261018103000 +0000" channel="retroblast">
+    <title>Fosters</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018103000 +0000" stop="20261018105500 +0000" channel="retroblast">
+    <title>Hi Hi Puffy Ami Yumi</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018105500 +0000" stop="20261018112000 +0000" channel="retroblast">
+    <title>Batman TAS</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018112000 +0000" stop="20261018114500 +0000" channel="retroblast">
+    <title>Avatar TLA</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018114500 +0000" stop="20261018121000 +0000" channel="retroblast">
+    <title>Avatar TLA</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018121000 +0000" stop="20261018123500 +0000" channel="retroblast">
+    <title>Cartoon Theater*</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018123500 +0000" stop="20261018130000 +0000" channel="retroblast">
+    <title>Cartoon Theater*</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018130000 +0000" stop="20261018132500 +0000" channel="retroblast">
+    <title>Cartoon Theater*</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018132500 +0000" stop="20261018135000 +0000" channel="retroblast">
+    <title>Cartoon Theater*</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018135000 +0000" stop="20261018141500 +0000" channel="retroblast">
+    <title>Cartoon Theater*</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018141500 +0000" stop="20261018144000 +0000" channel="retroblast">
+    <title>Mucha Lucha</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018144000 +0000" stop="20261018150500 +0000" channel="retroblast">
+    <title>Yu-Gi-Oh! 5D's</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018150500 +0000" stop="20261018153000 +0000" channel="retroblast">
+    <title>Digimon Adventure</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018153000 +0000" stop="20261018155500 +0000" channel="retroblast">
+    <title>Totally Spies</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018155500 +0000" stop="20261018162000 +0000" channel="retroblast">
+    <title>Static Shock</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018162000 +0000" stop="20261018164500 +0000" channel="retroblast">
+    <title>KND</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018164500 +0000" stop="20261018171000 +0000" channel="retroblast">
+    <title>Megas XLR</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018171000 +0000" stop="20261018173500 +0000" channel="retroblast">
+    <title>Billy and Mandy</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018173500 +0000" stop="20261018180000 +0000" channel="retroblast">
+    <title>PPG</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018180000 +0000" stop="20261018182500 +0000" channel="retroblast">
+    <title>Courage</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018182500 +0000" stop="20261018185000 +0000" channel="retroblast">
+    <title>Ed Edd n Eddy</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018185000 +0000" stop="20261018191500 +0000" channel="retroblast">
+    <title>Batman Beyond</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018191500 +0000" stop="20261018194000 +0000" channel="retroblast">
+    <title>Jackie Chan</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018194000 +0000" stop="20261018200500 +0000" channel="retroblast">
+    <title>Teen Titans</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018200500 +0000" stop="20261018203000 +0000" channel="retroblast">
+    <title>Yu-Gi-Oh! GX</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018203000 +0000" stop="20261018205500 +0000" channel="retroblast">
+    <title>IGPX</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018205500 +0000" stop="20261018212000 +0000" channel="retroblast">
+    <title>Zatch Bell</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018212000 +0000" stop="20261018214500 +0000" channel="retroblast">
+    <title>DBZ (Run B)</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018214500 +0000" stop="20261018221000 +0000" channel="retroblast">
+    <title>One Piece</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018221000 +0000" stop="20261018223500 +0000" channel="retroblast">
+    <title>Naruto (Season 1)</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018223500 +0000" stop="20261018230000 +0000" channel="retroblast">
+    <title>Justice League</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018230000 +0000" stop="20261018232500 +0000" channel="retroblast">
+    <title>Space Ghost C2C</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018232500 +0000" stop="20261018234700 +0000" channel="retroblast">
+    <title>Futurama</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261018234700 +0000" stop="20261019000000 +0000" channel="retroblast">
+    <title>The Boondocks</title>
+    <desc>No description available.</desc>
+  </programme>
+</tv>

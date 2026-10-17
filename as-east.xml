@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="as-east">
+    <display-name>As East</display-name>
+    <icon src="https://www.adultswim.com/img/as-logo.svg"/>
+  </channel>
+  <programme start="20261016210000 +0000" stop="20261016213000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Running Mates</sub-title>
+    <desc>Peter resorts to dirty tricks when he runs against Lois for a position on the school board. Voices of Seth MacFarlane, Alex Borstein and Seth Green. Guest voices of James Carville and Lee Majors.</desc>
+    <episode-num system="xmltv_ns">109</episode-num>
+  </programme>
+  <programme start="20261016213000 +0000" stop="20261016220000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Da Boom</sub-title>
+    <desc>Peter and his family take cover in the basement on New Year's Eve and emerge to find a different world.</desc>
+    <episode-num system="xmltv_ns">206</episode-num>
+  </programme>
+  <programme start="20261016220000 +0000" stop="20261016223000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>The Man Who Shot Cane Skretteberg</sub-title>
+    <desc>Hank challenges the members of a loud neighborhood garage band to a game of paintball. Voices of Mike Judge, Kathy Najimy, Pamela Segall and Brittany Murphy. Guest voices: Green Day.</desc>
+    <episode-num system="onscreen">2ABE07</episode-num>
+  </programme>
+  <programme start="20261016223000 +0000" stop="20261016230000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>The Son That Got Away</sub-title>
+    <desc>Bobby and a classmate run away from home together after being disciplined for their behavior in school.</desc>
+    <episode-num system="onscreen">2ABE08</episode-num>
+  </programme>
+  <programme start="20261016230000 +0000" stop="20261016233000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>The Hauntening</sub-title>
+    <desc>When Louise reveals that she hasn't been scared before, the Belchers visit a haunted house; the trip is more frightening than anticipated.</desc>
+    <episode-num system="onscreen">5ASA13</episode-num>
+  </programme>
+  <programme start="20261016233000 +0000" stop="20261017000000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>The Place Beyond the Pinecones</sub-title>
+    <desc>Tina and the Thundergirls spend the night in the woods, and Tina faces something even scarier than her nemesis, Troop 257.</desc>
+    <episode-num system="xmltv_ns">1407</episode-num>
+  </programme>
+  <programme start="20261017000000 +0000" stop="20261017003000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Langley Dollar Listings</sub-title>
+    <desc>Francine and Roger compete when the opportunity arises to act as a real estate agent on one of TV's hottest reality shows, </desc>
+    <episode-num system="xmltv_ns">1601</episode-num>
+  </programme>
+  <programme start="20261017003000 +0000" stop="20261017010000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Dressed Down</sub-title>
+    <desc>When Stan doesn't feel confident in anything but his suits, Roger assumes a fashion designer persona to craft him a life-changing new wardrobe; Hayley and Jeff raise chickens in the backyard.</desc>
+    <episode-num system="xmltv_ns">1602</episode-num>
+  </programme>
+  <programme start="20261017010000 +0000" stop="20261017013000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Running Mates</sub-title>
+    <desc>Peter resorts to dirty tricks when he runs against Lois for a position on the school board. Voices of Seth MacFarlane, Alex Borstein and Seth Green. Guest voices of James Carville and Lee Majors.</desc>
+    <episode-num system="xmltv_ns">109</episode-num>
+  </programme>
+  <programme start="20261017013000 +0000" stop="20261017020000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Da Boom</sub-title>
+    <desc>Peter and his family take cover in the basement on New Year's Eve and emerge to find a different world.</desc>
+    <episode-num system="xmltv_ns">206</episode-num>
+  </programme>
+  <programme start="20261017020000 +0000" stop="20261017023000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>The Man Who Shot Cane Skretteberg</sub-title>
+    <desc>Hank challenges the members of a loud neighborhood garage band to a game of paintball. Voices of Mike Judge, Kathy Najimy, Pamela Segall and Brittany Murphy. Guest voices: Green Day.</desc>
+    <episode-num system="onscreen">2ABE07</episode-num>
+  </programme>
+  <programme start="20261017023000 +0000" stop="20261017030000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>The Son That Got Away</sub-title>
+    <desc>Bobby and a classmate run away from home together after being disciplined for their behavior in school.</desc>
+    <episode-num system="onscreen">2ABE08</episode-num>
+  </programme>
+  <programme start="20261017030000 +0000" stop="20261017031500 +0000" channel="as-east">
+    <title>The Great Yokai Battle of Akihabara</title>
+    <desc>Rick plans to build the ultimate AI toaster; things take a strange turn when he and Morty are forced to travel to Akihabara for spare parts.</desc>
+  </programme>
+  <programme start="20261017031500 +0000" stop="20261017033000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Rick and Morty in the Eternal Nightmare Machine</sub-title>
+    <desc>The simulation is corrupt; repair the core.</desc>
+  </programme>
+  <programme start="20261017033000 +0000" stop="20261017034500 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Tapping a Hero</sub-title>
+    <desc>No description available.</desc>
+    <episode-num system="xmltv_ns">45</episode-num>
+  </programme>
+  <programme start="20261017034500 +0000" stop="20261017040000 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Happy Russian Deathdog Dolloween 2 U</sub-title>
+    <desc>The trials and tribulations of a time-twisted teenager's toxic tussle with tons of terror on Halloween.</desc>
+  </programme>
+  <programme start="20261017040000 +0000" stop="20261017043000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>The Hauntening</sub-title>
+    <desc>When Louise reveals that she hasn't been scared before, the Belchers visit a haunted house; the trip is more frightening than anticipated.</desc>
+    <episode-num system="onscreen">5ASA13</episode-num>
+  </programme>
+  <programme start="20261017043000 +0000" stop="20261017050000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>The Place Beyond the Pinecones</sub-title>
+    <desc>Tina and the Thundergirls spend the night in the woods, and Tina faces something even scarier than her nemesis, Troop 257.</desc>
+    <episode-num system="xmltv_ns">1407</episode-num>
+  </programme>
+  <programme start="20261017050000 +0000" stop="20261017053000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Langley Dollar Listings</sub-title>
+    <desc>Francine and Roger compete when the opportunity arises to act as a real estate agent on one of TV's hottest reality shows, </desc>
+    <episode-num system="xmltv_ns">1601</episode-num>
+  </programme>
+  <programme start="20261017053000 +0000" stop="20261017060000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Dressed Down</sub-title>
+    <desc>When Stan doesn't feel confident in anything but his suits, Roger assumes a fashion designer persona to craft him a life-changing new wardrobe; Hayley and Jeff raise chickens in the backyard.</desc>
+    <episode-num system="xmltv_ns">1602</episode-num>
+  </programme>
+  <programme start="20261017060000 +0000" stop="20261017063000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Running Mates</sub-title>
+    <desc>Peter resorts to dirty tricks when he runs against Lois for a position on the school board. Voices of Seth MacFarlane, Alex Borstein and Seth Green. Guest voices of James Carville and Lee Majors.</desc>
+    <episode-num system="xmltv_ns">109</episode-num>
+  </programme>
+  <programme start="20261017063000 +0000" stop="20261017070000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Da Boom</sub-title>
+    <desc>Peter and his family take cover in the basement on New Year's Eve and emerge to find a different world.</desc>
+    <episode-num system="xmltv_ns">206</episode-num>
+  </programme>
+  <programme start="20261017070000 +0000" stop="20261017073000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>The Man Who Shot Cane Skretteberg</sub-title>
+    <desc>Hank challenges the members of a loud neighborhood garage band to a game of paintball. Voices of Mike Judge, Kathy Najimy, Pamela Segall and Brittany Murphy. Guest voices: Green Day.</desc>
+    <episode-num system="onscreen">2ABE07</episode-num>
+  </programme>
+  <programme start="20261017073000 +0000" stop="20261017080000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>The Son That Got Away</sub-title>
+    <desc>Bobby and a classmate run away from home together after being disciplined for their behavior in school.</desc>
+    <episode-num system="onscreen">2ABE08</episode-num>
+  </programme>
+  <programme start="20261017080000 +0000" stop="20261017083000 +0000" channel="as-east">
+    <title>Bob and Margaret</title>
+    <sub-title>Life Saver</sub-title>
+    <desc>Bob saves the life of a suicidal man and gets more than he bargained for in return.</desc>
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017090000 +0000" channel="as-east">
+    <title>Bob and Margaret</title>
+    <sub-title>The Wedding</sub-title>
+    <desc>Bob and Margaret attend their goddaughter's televised wedding.</desc>
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017091500 +0000" channel="as-east">
+    <title>The Great Yokai Battle of Akihabara</title>
+    <desc>Rick plans to build the ultimate AI toaster; things take a strange turn when he and Morty are forced to travel to Akihabara for spare parts.</desc>
+  </programme>
+  <programme start="20261017091500 +0000" stop="20261017093000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Rick and Morty in the Eternal Nightmare Machine</sub-title>
+    <desc>The simulation is corrupt; repair the core.</desc>
+  </programme>
+  <programme start="20261017093000 +0000" stop="20261017094500 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Tapping a Hero</sub-title>
+    <desc>No description available.</desc>
+    <episode-num system="xmltv_ns">45</episode-num>
+  </programme>
+  <programme start="20261017094500 +0000" stop="20261017100000 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Happy Russian Deathdog Dolloween 2 U</sub-title>
+    <desc>The trials and tribulations of a time-twisted teenager's toxic tussle with tons of terror on Halloween.</desc>
+  </programme>
+  <programme start="20261017100000 +0000" stop="20261017210000 +0000" channel="as-east">
+    <title>Off Air</title>
+    <sub-title>Off Air</sub-title>
+    <desc>Off Air</desc>
+  </programme>
+  <programme start="20261017210000 +0000" stop="20261017213000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Three Days of the Khando</sub-title>
+    <desc>Hank, Kahn and their families take a vacation in Mexico but must make a run for the border when they lose their papers.</desc>
+    <episode-num system="onscreen">2ABE15</episode-num>
+  </programme>
+  <programme start="20261017213000 +0000" stop="20261017220000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>The Book of Fischer</sub-title>
+    <desc>Stan takes Steve to his favorite barbershop to hang with his crew; Jeff starts journaling to help with his bad memory.</desc>
+    <episode-num system="xmltv_ns">1603</episode-num>
+  </programme>
+  <programme start="20261017220000 +0000" stop="20261017223000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>The Wolf of Wharf Street</sub-title>
+    <desc>On Halloween night, Linda tries to impress the kids by taking them to look for a wolf that has been terrorizing the town; an injured and medicated Bob believes that Teddy has turned into a werewolf.</desc>
+    <episode-num system="onscreen">7ASA07</episode-num>
+  </programme>
+  <programme start="20261017223000 +0000" stop="20261017230000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>The Lost City of Atlantic</sub-title>
+    <desc>The Belchers have a wild night at a casino and Linda learns more about her late grandfather than she wanted to know.</desc>
+    <episode-num system="xmltv_ns">1408</episode-num>
+  </programme>
+  <programme start="20261017230000 +0000" stop="20261017233000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>A Picture Is Worth 1,000 Bucks</sub-title>
+    <desc>A gallery owner admires Chris' painting and invites the Griffins to New York; Peter envies an old classmate.</desc>
+    <episode-num system="xmltv_ns">207</episode-num>
+  </programme>
+  <programme start="20261017233000 +0000" stop="20261018000000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Fifteen Minutes of Shame</sub-title>
+    <desc>After Meg appears on a talk show, the network executives turn the Griffins' stupefying life into a reality series.</desc>
+    <episode-num system="xmltv_ns">208</episode-num>
+  </programme>
+  <programme start="20261018000000 +0000" stop="20261018003000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Road to Rhode Island</sub-title>
+    <desc>After Stewie is banished from his grandparents' house, Brian takes a trip to retrieve the terrible tyke.</desc>
+    <episode-num system="xmltv_ns">212</episode-num>
+  </programme>
+  <programme start="20261018003000 +0000" stop="20261018010000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Bobby Slam</sub-title>
+    <desc>When the school creates a girls wrestling team, Bobby is matched with Connie.</desc>
+    <episode-num system="onscreen">2ABE10</episode-num>
+  </programme>
+  <programme start="20261018010000 +0000" stop="20261018013000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Meet the Manger Babies</sub-title>
+    <desc>Hank (voice of Mike Judge) weighs whether to help Luanne (voice of Brittany Murphy) with her puppet show or watch the Super Bowl. Guest voice: Troy Aikman.</desc>
+    <episode-num system="onscreen">2ABE12</episode-num>
+  </programme>
+  <programme start="20261018013000 +0000" stop="20261018020000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Three Days of the Khando</sub-title>
+    <desc>Hank, Kahn and their families take a vacation in Mexico but must make a run for the border when they lose their papers.</desc>
+    <episode-num system="onscreen">2ABE15</episode-num>
+  </programme>
+  <programme start="20261018020000 +0000" stop="20261018034500 +0000" channel="as-east">
+    <title>Movie</title>
+    <sub-title>Mortal Kombat Legends: Cage Match</sub-title>
+    <desc>Action superstar Johnny Cage squares off against a sinister secret society that's plotting a nefarious scheme. However, the brutal fight against the bloodthirsty warriors of the Netherrealm is just the beginning.</desc>
+  </programme>
+  <programme start="20261018034500 +0000" stop="20261018040000 +0000" channel="as-east">
+    <title>PSI Cops!</title>
+    <sub-title>Shape Shifter</sub-title>
+    <desc>Getting to know colleagues is hard, especially when one might be a demon in disguise.</desc>
+  </programme>
+  <programme start="20261018040000 +0000" stop="20261018043000 +0000" channel="as-east">
+    <title>Get Jiro!</title>
+    <sub-title>Secret Sauce</sub-title>
+    <desc>Bob and Roses' rivalry explodes into a damaging war; Cynda targets Jiro in her investigation and revisits her tragic family history in the process.</desc>
+  </programme>
+  <programme start="20261018043000 +0000" stop="20261018050000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>The Book of Fischer</sub-title>
+    <desc>Stan takes Steve to his favorite barbershop to hang with his crew; Jeff starts journaling to help with his bad memory.</desc>
+    <episode-num system="xmltv_ns">1603</episode-num>
+  </programme>
+  <programme start="20261018050000 +0000" stop="20261018053000 +0000" channel="as-east">
+    <title>President Curtis</title>
+    <sub-title>Timber</sub-title>
+    <desc>When a murderous American legend resurfaces, Curtis once again rises to the challenge -- but doing so proves to be the ultimate test of his public image.</desc>
+  </programme>
+  <programme start="20261018053000 +0000" stop="20261018060000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Unmortricken</sub-title>
+    <desc>Rick is destined to find Rick Prime, when an unexpected person comes to help out.</desc>
+  </programme>
+  <programme start="20261018060000 +0000" stop="20261018074500 +0000" channel="as-east">
+    <title>Movie</title>
+    <sub-title>Mortal Kombat Legends: Cage Match</sub-title>
+    <desc>Action superstar Johnny Cage squares off against a sinister secret society that's plotting a nefarious scheme. However, the brutal fight against the bloodthirsty warriors of the Netherrealm is just the beginning.</desc>
+  </programme>
+  <programme start="20261018074500 +0000" stop="20261018080000 +0000" channel="as-east">
+    <title>PSI Cops!</title>
+    <sub-title>Shape Shifter</sub-title>
+    <desc>Getting to know colleagues is hard, especially when one might be a demon in disguise.</desc>
+  </programme>
+  <programme start="20261018080000 +0000" stop="20261018094500 +0000" channel="as-east">
+    <title>Movie</title>
+    <sub-title>Mortal Kombat Legends: Cage Match</sub-title>
+    <desc>Action superstar Johnny Cage squares off against a sinister secret society that's plotting a nefarious scheme. However, the brutal fight against the bloodthirsty warriors of the Netherrealm is just the beginning.</desc>
+  </programme>
+  <programme start="20261018094500 +0000" stop="20261018100000 +0000" channel="as-east">
+    <title>PSI Cops!</title>
+    <sub-title>Shape Shifter</sub-title>
+    <desc>Getting to know colleagues is hard, especially when one might be a demon in disguise.</desc>
+  </programme>
+  <programme start="20261018100000 +0000" stop="20261018210000 +0000" channel="as-east">
+    <title>Off Air</title>
+    <sub-title>Off Air</sub-title>
+    <desc>Off Air</desc>
+  </programme>
+  <programme start="20261018210000 +0000" stop="20261018213000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>The Final Shinsult</sub-title>
+    <desc>Hank's father visits and has a car accident; Dale and Cotton scheme to steal from a museum. Voices of Mike Judge, Kathy Najimy, Pamela Segall and Brittany Murphy. Guest voice: Toby Huss.</desc>
+    <episode-num system="onscreen">2ABE17</episode-num>
+  </programme>
+  <programme start="20261018213000 +0000" stop="20261018220000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>A Roger Story</sub-title>
+    <desc>Steve and Snot's friendship gets put to the test when their mothers start to fight.</desc>
+    <episode-num system="xmltv_ns">1604</episode-num>
+  </programme>
+  <programme start="20261018220000 +0000" stop="20261018223000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Pig Trouble in Little Tina</sub-title>
+    <desc>Things get spooky when Tina dissects a pig in science class; Bob and Linda battle a giant ball of ear wax.</desc>
+    <episode-num system="xmltv_ns">904</episode-num>
+  </programme>
+  <programme start="20261018223000 +0000" stop="20261018230000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>The Shell Game</sub-title>
+    <desc>Bob competes in a competition to inherit Mr. Fischoeder's 100-year-old tortoise.</desc>
+    <episode-num system="xmltv_ns">1411</episode-num>
+  </programme>
+  <programme start="20261018230000 +0000" stop="20261018233000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Let's Go to the Hop</sub-title>
+    <desc>Peter infiltrates the high school after it is gripped by a toad-licking craze. Guest voice: Gregg Allman.</desc>
+    <episode-num system="xmltv_ns">204</episode-num>
+  </programme>
+  <programme start="20261018233000 +0000" stop="20261019000000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Dammit Janet</sub-title>
+    <desc>Stewie develops a crush on a girl at his day-care center, while newly liberated Lois becomes a flight attendant.</desc>
+    <episode-num system="xmltv_ns">209</episode-num>
+  </programme>
+  <programme start="20261019000000 +0000" stop="20261019003000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>There's Something About Paulie</sub-title>
+    <desc>Peter becomes embroiled in the affairs of a mob family after he takes a mobster's nephew to the movies.</desc>
+    <episode-num system="xmltv_ns">110</episode-num>
+  </programme>
+  <programme start="20261019003000 +0000" stop="20261019010000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Traffic Jam</sub-title>
+    <desc>Hank gets into an accident and is forced to attend a </desc>
+    <episode-num system="onscreen">2ABE14</episode-num>
+  </programme>
+  <programme start="20261019010000 +0000" stop="20261019013000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Hank's Dirty Laundry</sub-title>
+    <desc>Hank tries to clear his name when his credit rating hits an all-time low. Voices of Mike Judge, Kathy Najimy, Pamela Segall and Brittany Murphy.</desc>
+    <episode-num system="onscreen">2ABE16</episode-num>
+  </programme>
+  <programme start="20261019013000 +0000" stop="20261019020000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>The Final Shinsult</sub-title>
+    <desc>Hank's father visits and has a car accident; Dale and Cotton scheme to steal from a museum. Voices of Mike Judge, Kathy Najimy, Pamela Segall and Brittany Murphy. Guest voice: Toby Huss.</desc>
+    <episode-num system="onscreen">2ABE17</episode-num>
+  </programme>
+  <programme start="20261019020000 +0000" stop="20261019023000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>A Roger Story</sub-title>
+    <desc>Steve and Snot's friendship gets put to the test when their mothers start to fight.</desc>
+    <episode-num system="xmltv_ns">1604</episode-num>
+  </programme>
+  <programme start="20261019023000 +0000" stop="20261019030000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Mort: Ragnarick</sub-title>
+    <desc>Heaven is for real, bro.</desc>
+  </programme>
+  <programme start="20261019030000 +0000" stop="20261019033000 +0000" channel="as-east">
+    <title>Robot Chicken Walking Dead Special: Look Who's Walking</title>
+    <desc>An animated zombie apocalypse.</desc>
+  </programme>
+  <programme start="20261019033000 +0000" stop="20261019040000 +0000" channel="as-east">
+    <title>President Curtis</title>
+    <sub-title>Pilot</sub-title>
+    <desc>As Curtis goes head-to-head with the CIA over a secret tape, he's forced to confront secrets of his own.</desc>
+  </programme>
+  <programme start="20261019040000 +0000" stop="20261019041500 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>Finally Got a Good Therapist.</sub-title>
+    <desc>Dr. Thomas has been helping me a lot.</desc>
+  </programme>
+  <programme start="20261019041500 +0000" stop="20261019043000 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>I Gotta Relax.</sub-title>
+    <desc>Time for me to relax and get a massage.</desc>
+  </programme>
+  <programme start="20261019043000 +0000" stop="20261019050000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Mort: Ragnarick</sub-title>
+    <desc>Heaven is for real, bro.</desc>
+  </programme>
+  <programme start="20261019050000 +0000" stop="20261019053000 +0000" channel="as-east">
+    <title>Robot Chicken Walking Dead Special: Look Who's Walking</title>
+    <desc>An animated zombie apocalypse.</desc>
+  </programme>
+  <programme start="20261019053000 +0000" stop="20261019060000 +0000" channel="as-east">
+    <title>President Curtis</title>
+    <sub-title>Pilot</sub-title>
+    <desc>As Curtis goes head-to-head with the CIA over a secret tape, he's forced to confront secrets of his own.</desc>
+  </programme>
+  <programme start="20261019060000 +0000" stop="20261019061500 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>Finally Got a Good Therapist.</sub-title>
+    <desc>Dr. Thomas has been helping me a lot.</desc>
+  </programme>
+  <programme start="20261019061500 +0000" stop="20261019063000 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>I Gotta Relax.</sub-title>
+    <desc>Time for me to relax and get a massage.</desc>
+  </programme>
+  <programme start="20261019063000 +0000" stop="20261019064500 +0000" channel="as-east">
+    <title>Smiling Friends</title>
+    <sub-title>Charlie Pim And Bill Vs. The Alien</sub-title>
+    <desc>A thirty-four-year-old man named Pim sets out to save his mother on Mars after she is abducted by Martians.</desc>
+  </programme>
+  <programme start="20261019064500 +0000" stop="20261019070000 +0000" channel="as-east">
+    <title>Smiling Friends</title>
+    <sub-title>The Magical Red Jewel Aka Tyler Gets Fired</sub-title>
+    <desc>The Boss and Pim fight for their lives in a mysterious world called Spamtopia; Charlie confronts Allan over something serious.</desc>
+  </programme>
+  <programme start="20261019070000 +0000" stop="20261019073000 +0000" channel="as-east">
+    <title>Get Jiro!</title>
+    <sub-title>Pilot</sub-title>
+    <desc>In a futuristic L.A., mysterious Outer Ring sushi chef Jiro sets off a violent chain of events after a customer violates his one rule: no soy sauce.</desc>
+  </programme>
+  <programme start="20261019073000 +0000" stop="20261019080000 +0000" channel="as-east">
+    <title>Ninja Kamui</title>
+    <sub-title>Episode 1</sub-title>
+    <desc>After his family was brutally attacked by a gang of masked assailants, Joe Logan is approached by FBI agents Mike and Emma to help investigate the murder of his wife and son.</desc>
+  </programme>
+  <programme start="20261019080000 +0000" stop="20261019083000 +0000" channel="as-east">
+    <title>Common Side Effects</title>
+    <sub-title>Blowfish</sub-title>
+    <desc>Another inmate rescues Marshall, but now Marshall owes him a favor; desperate to get out of prison, he works on a risky plan when he runs into a surprising ally; Frances grapples with a life-changing event.</desc>
+  </programme>
+  <programme start="20261019083000 +0000" stop="20261019090000 +0000" channel="as-east">
+    <title>Genndy Tartakovsky's Primal</title>
+    <sub-title>The Red Mist</sub-title>
+    <desc>Spear and Fang fight to save Mira from the warrior clan that enslaved her.</desc>
+  </programme>
+  <programme start="20261019090000 +0000" stop="20261019093000 +0000" channel="as-east">
+    <title>Samurai Jack</title>
+    <sub-title>Jack and the Three Blind Archers</sub-title>
+    <desc>Three blind archers guard an island with a wishing well.</desc>
+    <episode-num system="xmltv_ns">7</episode-num>
+  </programme>
+  <programme start="20261019093000 +0000" stop="20261019094500 +0000" channel="as-east">
+    <title>Space Ghost: Coast to Coast</title>
+    <sub-title>Table Read</sub-title>
+    <desc>A behind-the-scenes look at a table read of the Space Ghost episode, </desc>
+    <episode-num system="xmltv_ns">9906</episode-num>
+  </programme>
+  <programme start="20261019094500 +0000" stop="20261019100000 +0000" channel="as-east">
+    <title>Space Ghost: Coast to Coast</title>
+    <sub-title>Fire Ant</sub-title>
+    <desc>Space Ghost and Conan O'Brien debate the quality of the show; Space Ghost drifts off to chase after an ant.</desc>
+    <episode-num system="xmltv_ns">9908</episode-num>
+  </programme>
+</tv>
