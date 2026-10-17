@@ -49,6 +49,8 @@ class tv_passport_channel:
     def handle_conversion(self):
         days_ahead = 2
 
+        shows = []
+
         for i in range(0, days_ahead + 1):
             today = self.today + timedelta(days=i)
             shows += self.get_shows(today)
