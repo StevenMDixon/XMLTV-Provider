@@ -4,6 +4,9 @@ from channels.aftermath import AftermathChannel
 from channels.retroblast import RetroblastChannel
 from utils.XMLConversion import XMLGenerator
 
+from utils import mergeEPGs
+
+from pathlib import Path
 from dotenv import load_dotenv
 import os
 import json
@@ -35,3 +38,12 @@ for channel in channels:
         channel.handle_conversion()
     except Exception as e:
         print(f"Error processing channel {channel}: {e}")
+
+
+
+folder_path = Path('./xml_schedules')
+
+xml_files = [str(file) for file in folder_path.glob('*.xml')]
+
+output_file = folder_path / "all_channels.xml"
+mergeEPGs.merge_epg_files(xml_files, str(output_file))
