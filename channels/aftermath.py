@@ -10,13 +10,12 @@ class AftermathChannel:
         self.CHANNEL_NAME = "Toonami Aftermath"
         self.CHANNEL_LOGO = "https://www.toonamiaftermath.com/assets/imgur/y0aF3SA.png"
 
-        today = datetime.now().date() - timedelta(days=1)
-        self.url = f"https://api.toonamiaftermath.com/media?scheduleName=Toonami%20Aftermath%20EST&dateString={today}T11%3A00%3A00Z&count=100"
+        self.today = datetime.now().date() - timedelta(days=1)
         
         self.generator = xml_generator
 
-    def fetch_shows(self):
-        response = requests.get(self.url, verify=False)
+    def fetch_shows(self, today):
+        response = requests.get(f"https://api.toonamiaftermath.com/media?scheduleName=Toonami%20Aftermath%20EST&dateString={today}T11%3A00%3A00Z&count=100", verify=False)
 
         print(f"Status Code: {response.status_code}")
 
@@ -34,7 +33,7 @@ class AftermathChannel:
         
         for i in range(0, days_ahead + 1):
             today = self.today + timedelta(days=i)
-            shows += self.get_shows(today)
+            shows += self.fetch_shows(today)
 
         if not shows:
             print("No shows to convert.")

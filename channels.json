@@ -43,7 +43,7 @@
         "station_id": "595",
         "station_slug": "disney-eastern-feed",
         "channel_id": "disney-east",
-        "channel_logo": "https://cdn.tvpassport.com/image/station/240x135/v2/s10171_h15_ae.png"
+        "channel_logo": "https://cdn.tvpassport.com/image/station/240x135/v2/s74885_h15_ac.png"
     },
     {
         "station_id": "1969",
@@ -55,6 +55,6 @@
         "station_id": "10523",
         "station_slug": "disney-junior-usa-hd-east",
         "channel_id": "disney-junior-east",
-        "channel_logo": "https://cdn.tvpassport.com/image/station/240x135/v2/s74885_h15_ac.png"
+        "channel_logo": "https://cdn.tvpassport.com/image/station/240x135/v2/s10171_h15_ae.png"
     }
 ]
