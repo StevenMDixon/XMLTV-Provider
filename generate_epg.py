@@ -1,7 +1,7 @@
 from channels.tv_passport_channel import tv_passport_channel
 from channels.rewind import RewindChannel
 from channels.aftermath import AftermathChannel
-from channels.retroblast import RetroburstChannel
+from channels.retroblast import RetroblastChannel
 from utils.XMLConversion import XMLGenerator
 
 from dotenv import load_dotenv
@@ -18,17 +18,17 @@ folder_path = "./xml_schedules"  # Define the path for the folder to be created
 os.makedirs(folder_path, exist_ok=True)
 
 channels = [
-    # RewindChannel(XMLGenerator),
-    # AftermathChannel(XMLGenerator),
-    RetroburstChannel(XMLGenerator),
+    RewindChannel(XMLGenerator),
+    AftermathChannel(XMLGenerator),
+    RetroblastChannel(XMLGenerator),
 ]
 
-# with open('./channels.json', 'r', encoding='utf-8') as file:
-#     data = json.load(file)
-#     print(f"Loaded channel data: {data}")
-#     for channel in data:
-#         print(channel)
-#         channels.append(tv_passport_channel(XMLGenerator, file_data=channel))
+with open('./channels.json', 'r', encoding='utf-8') as file:
+    data = json.load(file)
+    print(f"Loaded channel data: {data}")
+    for channel in data:
+        print(channel)
+        channels.append(tv_passport_channel(XMLGenerator, file_data=channel))
 
 for channel in channels:
     try:
