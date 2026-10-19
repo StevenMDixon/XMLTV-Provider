@@ -32,18 +32,31 @@ class tv_passport_channel:
         self.today = datetime.now().date() - timedelta(days=1)
 
     def get_shows(self, date):
-            url = (
-                f"https://www.tvpassport.com/tv-listings/stations/"
-                f"{self.STATION_SLUG}/{self.STATION_ID}/{date}"
-            )
+        timezone_url = "https://www.tvpassport.com/my-passport/dashboard/save_timezone"
+        
+        url = (
+            f"https://www.tvpassport.com/tv-listings/stations/"
+            f"{self.STATION_SLUG}/{self.STATION_ID}/{date}"
+        )
 
-            response = requests.get(
-                url,
-                headers={"User-Agent": "HiveMind-EPG/1.0"},
-                timeout=30
-            )
+        session = requests.session()
+        response = session.get(url)
 
-            return tvpassportparser.parse_schedule(response.text, EASTERN)
+        r = session.post(
+            timezone_url,
+            data={"timezone": "America/New_York"},
+            headers={"Referer": url}
+        )
+
+        print(r.status_code)
+
+        response = session.get(
+            url,
+            headers={"User-Agent": "HiveMind-EPG/1.0"},
+            timeout=30
+        )
+
+        return tvpassportparser.parse_schedule(response.text, EASTERN)
 
 
     def handle_conversion(self):
@@ -78,7 +91,6 @@ class tv_passport_channel:
         converted_shows = []
 
         for show in shows:
-            print(show)
             # Need to extract Times and convert them to a usable format for XMLTV
             start_time = show["start"]
             end_time = show["stop"]

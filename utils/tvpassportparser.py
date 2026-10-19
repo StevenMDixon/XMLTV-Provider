@@ -6,6 +6,14 @@ def parse_schedule(html: str, time_zone: ZoneInfo) -> list[dict]:
     soup = BeautifulSoup(html, "html.parser")
     programs = []
 
+    # Verify the selected timezone
+    selector = soup.select_one("#timezone_selector")
+    if selector:
+        selected = selector.select_one("option[selected]")
+        print("Selected timezone:", selected.get_text(strip=True) if selected else "Not marked")
+    else:
+        print("Timezone selector not found")
+
     for item in soup.select("div.list-group-item[data-st][data-showname]"):
         start_str = item.get("data-st")
         duration_str = item.get("data-duration")
