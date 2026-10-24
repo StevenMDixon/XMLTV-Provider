@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="nick-east">
+    <display-name>Nick East</display-name>
+    <icon src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c82dd5b3-b0d8-44e8-b11d-a50e55b7b9de/dfarp8m-d179a77e-c1f3-4564-bb8f-332374472311.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODJkZDViMy1iMGQ4LTQ0ZTgtYjExZC1hNTBlNTViN2I5ZGUvZGZhcnA4bS1kMTc5YTc3ZS1jMWYzLTQ1NjQtYmI4Zi0zMzIzNzQ0NzIzMTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.E3sERHPPdmhQcRhmoNhyM3upJWp0NTaNThoS3yDcmtM"/>
+  </channel>
+  <programme start="20261023100000 +0000" stop="20261023103000 +0000" channel="nick-east">
+    <title>The Neighborhood</title>
+    <sub-title>Welcome to Fight Night</sub-title>
+    <desc>Calvin reluctantly invites Dave to join his guys' night at home with Malcolm and Marty; Gemma and Tina take their first girls' trip to Vegas and find themselves unexpectedly in the spotlight.</desc>
+    <episode-num system="xmltv_ns">115</episode-num>
+  </programme>
+  <programme start="20261023103000 +0000" stop="20261023110000 +0000" channel="nick-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Mermaidman Begins / Plankton's Good Eye</sub-title>
+    <desc>SpongeBob and Patrick learn the secret origins of Mermaid Man and Barnacle Boy; Plankton grows a second eye and becomes nice.</desc>
+    <episode-num system="xmltv_ns">163</episode-num>
+  </programme>
+  <programme start="20261023110000 +0000" stop="20261023113000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Big Brother; Pups Save a Giant Baby</sub-title>
+    <desc>Farmer Yumi dreams about what her new baby will be like when she's bigger.</desc>
+  </programme>
+  <programme start="20261023113000 +0000" stop="20261023120000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Big Truck Pups Save the Swiped Speakers; Big Truck Pups Save the Big Big Pipes</sub-title>
+    <desc>When Mayor Humdinger hijacks Al's big rig carrying Luke Stars and his concert equipment, it's up to the pups to rescue him; when Al's load of pipes breaks loose, it's up to the pups to save their friends from the rolling hazards.</desc>
+    <episode-num system="xmltv_ns">911</episode-num>
+  </programme>
+  <programme start="20261023120000 +0000" stop="20261023123000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Plus a Plucky Chicken; Pups Save a Pet Show</sub-title>
+    <desc>When Humdinger steals Farmer Al's super-powered seeds, Chickaletta joins the PAW Patrol to help stop the mayor's corny plan; when Humdinger steals Katie and Cali's tiaras, it's up to the pups to save their costumes and the pet show.</desc>
+    <episode-num system="xmltv_ns">1103</episode-num>
+  </programme>
+  <programme start="20261023123000 +0000" stop="20261023130000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>All Paws on Deck</sub-title>
+    <desc>Ryder and his team of pups must take on 10-year-old genius Codi Gizmodi, who has her sights set on building her own high-tech city to replace Adventure Bay; joining the team are Everest, Tracker, Sweetie, Tuck and Ella, Rex, Liberty and more.</desc>
+    <episode-num system="xmltv_ns">916</episode-num>
+  </programme>
+  <programme start="20261023130000 +0000" stop="20261023133000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Stop the Falling Space Junk; Pups Stop the Giant Cuckoo</sub-title>
+    <desc>When Digi and Tal's space vacuum breaks, it's up to the pups to save Mayor Humdinger from falling space debris; Humdinger's cuckoo clock goes out of control; Ryder and the Pups must rescue Travis and get control of the cuckoo to save Humdinger.</desc>
+    <episode-num system="xmltv_ns">1011</episode-num>
+  </programme>
+  <programme start="20261023133000 +0000" stop="20261023140000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups and the Werepuppy!; Pups Save a Sleepwalking Mayor</sub-title>
+    <desc>When Rocky goes missing at Uncle Otis' cabin in the woods, the PAW Patrol needs to solve the mystery of the Werepuppy; on Cowboy Day at the Wingnuts Dude Ranch, Mayor Goodway braves the hazards of the ranch while sleepwalking.</desc>
+    <episode-num system="xmltv_ns">519</episode-num>
+  </programme>
+  <programme start="20261023140000 +0000" stop="20261023143000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Dino Digi and Tal; Pups Save a Dino Daredevil</sub-title>
+    <desc>Digi and Tal are visiting Dino Island to help Rex with dinosaur safety; when they take safety too far, they accidentally put the island at risk; when Daring Danny X's dino-stunt goes awry, he winds up with a grouchy Spinosaurus.</desc>
+  </programme>
+  <programme start="20261023143000 +0000" stop="20261023150000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save the Dino Chicken</sub-title>
+    <desc>The PAW Patrol team and Mayor Goodway travel to Dino Island for a tour led by Rex; during the visit, the group discovers that Timmy the Tyrannosaurus rex fears Mayor Goodway's pet chicken, Chickaletta.</desc>
+  </programme>
+  <programme start="20261023150000 +0000" stop="20261023153000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save the Kitties and the Kiddies; Pups Save the Greenhouse</sub-title>
+    <desc>Humdinger's hands are full when he babysits his new friend's kids; Everest helps the pups rescue both mayors trapped inside a greenhouse.</desc>
+    <episode-num system="xmltv_ns">822</episode-num>
+  </programme>
+  <programme start="20261023153000 +0000" stop="20261023160000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Mission PAW: Royally Spooked!; Pups Save Monkey-Dinger</sub-title>
+    <desc>The pups go to Barkingburg to investigate when the Princess thinks she has seen a ghost; while on safari with Carlos and Tracker, Mayor Humdinger steals a magic mask.</desc>
+    <episode-num system="xmltv_ns">407</episode-num>
+  </programme>
+  <programme start="20261023160000 +0000" stop="20261023163000 +0000" channel="nick-east">
+    <title>Rubble &amp;amp; Crew</title>
+    <sub-title>The Crew Builds a Skyscraper Parts 1 &amp;amp; 2</sub-title>
+    <desc>Rubble and crew are building their biggest construction project ever, a skyscraper; and a job that huge calls for brand-new, mega-sized construction vehicles; but when Speed Meister sees the pups' big trucks, he calls in help from his big brother.</desc>
+  </programme>
+  <programme start="20261023163000 +0000" stop="20261023170000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups and the Ghost Pirate</sub-title>
+    <desc>The PAW Patrol attend a Halloween party on an old pirate ship; the pirate ship begins to head out to sea.</desc>
+    <episode-num system="xmltv_ns">110</episode-num>
+  </programme>
+  <programme start="20261023170000 +0000" stop="20261023173000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save the Honey; Pups Save Mayor Goodway's Purse</sub-title>
+    <desc>Yumi's Yummy Honey is all the buzz when it -- and her beehive -- go missing from her farm; Mayor Goodway's purse disappears, along with its precious cargo, Chickaletta.</desc>
+    <episode-num system="xmltv_ns">604</episode-num>
+  </programme>
+  <programme start="20261023173000 +0000" stop="20261023180000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups and the Ghost Pirate</sub-title>
+    <desc>The PAW Patrol attend a Halloween party on an old pirate ship; the pirate ship begins to head out to sea.</desc>
+    <episode-num system="xmltv_ns">110</episode-num>
+  </programme>
+  <programme start="20261023180000 +0000" stop="20261023190000 +0000" channel="nick-east">
+    <title>Valiente: A Tracker Story</title>
+    <desc>When Tracker and Carlos come across a series of nocturnal animals fleeing the scariest part of the region, the Shadow Jungle, Tracker, with the help from Ryder and the PAW Patrol, must brave his fear of the dark and stop a new villain, Lucita Mala.</desc>
+  </programme>
+  <programme start="20261023190000 +0000" stop="20261023210000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>Dr. Seuss' the Lorax</sub-title>
+    <desc>To find the one thing that will win him the girl of his dreams, a boy delves into the story of a grumpy forest creature who fights to protect his world.</desc>
+  </programme>
+  <programme start="20261023210000 +0000" stop="20261023213000 +0000" channel="nick-east">
+    <title>The Boss Baby: Back in Business</title>
+    <sub-title>Escape From Krinkle's</sub-title>
+    <desc>Boss Baby has an interview at Baby Corp, but he has to break out of a high-tech Bubbeezee playroom first; the field team strives to help him escape.</desc>
+  </programme>
+  <programme start="20261023213000 +0000" stop="20261023220000 +0000" channel="nick-east">
+    <title>The Loud House</title>
+    <sub-title>Con Girl; No Fun Run</sub-title>
+    <desc>Ever wonder what it's like to grow up in a big family? Eleven-year-old Lincoln Loud gives viewers an inside look at how to survive the chaos of a huge household, especially as the only boy with ten sisters!</desc>
+    <episode-num system="xmltv_ns">1013</episode-num>
+  </programme>
+  <programme start="20261023220000 +0000" stop="20261023223000 +0000" channel="nick-east">
+    <title>The Patrick Star Show</title>
+    <sub-title>Toilet Training / The Patrick Show Reunion</sub-title>
+    <desc>After biting Squidward, Tinkle is sent to obedience training. In the not-so-distant future, the Star family produces a reunion episode.</desc>
+  </programme>
+  <programme start="20261023223000 +0000" stop="20261023230000 +0000" channel="nick-east">
+    <title>The Patrick Star Show</title>
+    <sub-title>The Squid and the Square; The Over-Under</sub-title>
+    <desc>After capturing the Lawnies' attention, SpongeBob and Squidward become a hit new live act; after Cecil stumbles into a pile of underwear, he becomes an underwear salesman.</desc>
+  </programme>
+  <programme start="20261023230000 +0000" stop="20261024010000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>Minions</sub-title>
+    <desc>On a mission to find a new master to serve, three Minions meet Scarlet Overkill, the world's first female supervillain.</desc>
+  </programme>
+  <programme start="20261024010000 +0000" stop="20261024013000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Engagement Picture</sub-title>
+    <desc>Rachel makes her handsome new assistant (Eddie Cahill) hang out with Joey rather than the women in her office.</desc>
+    <episode-num system="onscreen">151/226404</episode-num>
+  </programme>
+  <programme start="20261024013000 +0000" stop="20261024020000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Nap Partners</sub-title>
+    <desc>Monica makes Chandler apologize to an old girlfriend (Stacy Galina) for leaving her because she was fat; Monica struggles to select a maid of honor.</desc>
+    <episode-num system="onscreen">152/226406</episode-num>
+  </programme>
+  <programme start="20261024020000 +0000" stop="20261024023000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Middle Earth Paradigm</sub-title>
+    <desc>Leonard, Sheldon, Wolowitz and Koothrappali attend Penny's Halloween party.</desc>
+    <episode-num system="xmltv_ns">6</episode-num>
+  </programme>
+  <programme start="20261024023000 +0000" stop="20261024030000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Thespian Catalyst</sub-title>
+    <desc>Sheldon takes acting lessons from Penny in hope of becoming a better teacher; Koothrappali fantasizes about his friend's girlfriend.</desc>
+    <episode-num system="xmltv_ns">77</episode-num>
+  </programme>
+  <programme start="20261024030000 +0000" stop="20261024033000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Benefactor Factor</sub-title>
+    <desc>A wealthy donor makes Leonard question what he is willing to do for science.</desc>
+    <episode-num system="xmltv_ns">78</episode-num>
+  </programme>
+  <programme start="20261024033000 +0000" stop="20261024040000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Cohabitation Formulation</sub-title>
+    <desc>Wolowitz considers taking things with Bernadette to the next level; Leonard and Raj's sister rekindle their relationship.</desc>
+    <episode-num system="xmltv_ns">79</episode-num>
+  </programme>
+  <programme start="20261024040000 +0000" stop="20261024043000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Toast Derivation</sub-title>
+    <desc>Sheldon is upset when he realizes Leonard is the center of their group of friends.</desc>
+    <episode-num system="xmltv_ns">80</episode-num>
+  </programme>
+  <programme start="20261024043000 +0000" stop="20261024050000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With Ross' Library Book</sub-title>
+    <desc>Ross' doctoral dissertation is stored in a remote corner of the university library frequently used by students having sex; Rachel and Phoebe bond with Joey's date (Kristin Davis), then try to convince him to continue seeing her.</desc>
+    <episode-num system="onscreen">153/226410</episode-num>
+  </programme>
+  <programme start="20261024050000 +0000" stop="20261024053000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One Where Chandler Doesn't Like Dogs</sub-title>
+    <desc>Tag joins for Thanksgiving dinner; Joey may have ruined Rachel's chances with Tag when he opens his mouth during dinner; Phoebe reveals that she has been secretly keeping a dog in her room for a few days while its owner is away.</desc>
+    <episode-num system="onscreen">154/226407</episode-num>
+  </programme>
+  <programme start="20261024053000 +0000" stop="20261024060000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With All the Candy</sub-title>
+    <desc>Rachel finds it embarrassing that she is paying the way for her hunky new boyfriend (Eddie Cahill), who is also her assistant at work.</desc>
+    <episode-num system="onscreen">155/226408</episode-num>
+  </programme>
+  <programme start="20261024060000 +0000" stop="20261024063000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Holiday Armadillo</sub-title>
+    <desc>Ross' attempts to introduce his son, Ben, to Hanukkah are thwarted by the tyke's like of all things Christmas.</desc>
+    <episode-num system="onscreen">156/226409</episode-num>
+  </programme>
+  <programme start="20261024063000 +0000" stop="20261024070000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With All the Cheesecakes</sub-title>
+    <desc>Phoebe and Joey are at odds when she tries to cancel their weekly dinner plans so she can meet an old beau.</desc>
+    <episode-num system="onscreen">157/226412</episode-num>
+  </programme>
+  <programme start="20261024070000 +0000" stop="20261024073000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One Where They're Up All Night</sub-title>
+    <desc>During their first night together, Rachel and Tag realize they forgot to ship out an important package at the office.</desc>
+    <episode-num system="onscreen">158/226413</episode-num>
+  </programme>
+  <programme start="20261024073000 +0000" stop="20261024080000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One Where Rosita Dies</sub-title>
+    <desc>On her first day as a telemarketer, Phoebe encounters a distraught man (Jason Alexander) who is determined to end his life.</desc>
+    <episode-num system="onscreen">159/226415</episode-num>
+  </programme>
+  <programme start="20261024080000 +0000" stop="20261024083000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One Where They All Turn Thirty</sub-title>
+    <desc>Celebrating Rachel's 30th birthday inspires the friends to reminisce about their own 30th birthdays -- Joey got angry with God for breaking their deal; Ross bought a sports car; Monica got drunk and embarrassed herself at her surprise party.</desc>
+    <episode-num system="onscreen">160/226411</episode-num>
+  </programme>
+  <programme start="20261024083000 +0000" stop="20261024090000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With Joey's New Brain</sub-title>
+    <desc>Joey accidentally informs a cast member (Susan Sarandon) that she will be fired so that his character will get her character's brain.</desc>
+    <episode-num system="onscreen">161/226416</episode-num>
+  </programme>
+  <programme start="20261024090000 +0000" stop="20261024093000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Truth About London</sub-title>
+    <desc>Monica and Chandler fondly reminisce about London until a startling revelation leaves Chandler floored.</desc>
+    <episode-num system="onscreen">162/226417</episode-num>
+  </programme>
+  <programme start="20261024093000 +0000" stop="20261024100000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Cheap Wedding Dress</sub-title>
+    <desc>Monica regrets telling a woman about a discount bridal shop when they end up competing for a wedding dress.</desc>
+    <episode-num system="onscreen">163/226414</episode-num>
+  </programme>
+  <programme start="20261024100000 +0000" stop="20261024103000 +0000" channel="nick-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Lady in the Lighthouse; Bitter Groans and Gardens</sub-title>
+    <desc>Squidward must figure out whodunit after a mysterious stranger vandalizes Mrs. Puff's Boating School; Squidward enters a gardening competition but struggles to keep up with SpongeBob's naturally green thumb.</desc>
+  </programme>
+  <programme start="20261024103000 +0000" stop="20261024110000 +0000" channel="nick-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Home Away From Home; SpongeBob SpareParts</sub-title>
+    <desc>The houses on Conch Street come alive and go on an adventure to save Patrick's rock; Sandy upgrades SpongeBob with robotic parts after he injures his patty flipping arm.</desc>
+  </programme>
+  <programme start="20261024110000 +0000" stop="20261024120000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Rocky's Cat-astrophe</sub-title>
+    <desc>When one of Humdinger's schemes goes awry, a Junkyard Kitten's home is destroyed and Rocky bites off more than he can chew when he invites the kitten to stay at the Lookout overnight.</desc>
+    <episode-num system="xmltv_ns">977</episode-num>
+  </programme>
+  <programme start="20261024120000 +0000" stop="20261024140000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>Dr. Seuss' the Lorax</sub-title>
+    <desc>To find the one thing that will win him the girl of his dreams, a boy delves into the story of a grumpy forest creature who fights to protect his world.</desc>
+  </programme>
+  <programme start="20261024140000 +0000" stop="20261024143000 +0000" channel="nick-east">
+    <title>The Boss Baby: Back in Business</title>
+    <sub-title>Escape From Krinkle's</sub-title>
+    <desc>Boss Baby has an interview at Baby Corp, but he has to break out of a high-tech Bubbeezee playroom first; the field team strives to help him escape.</desc>
+  </programme>
+  <programme start="20261024143000 +0000" stop="20261024150000 +0000" channel="nick-east">
+    <title>The Loud House</title>
+    <sub-title>Con Girl; No Fun Run</sub-title>
+    <desc>Ever wonder what it's like to grow up in a big family? Eleven-year-old Lincoln Loud gives viewers an inside look at how to survive the chaos of a huge household, especially as the only boy with ten sisters!</desc>
+    <episode-num system="xmltv_ns">1013</episode-num>
+  </programme>
+  <programme start="20261024150000 +0000" stop="20261024153000 +0000" channel="nick-east">
+    <title>The Patrick Star Show</title>
+    <sub-title>Toilet Training / The Patrick Show Reunion</sub-title>
+    <desc>After biting Squidward, Tinkle is sent to obedience training. In the not-so-distant future, the Star family produces a reunion episode.</desc>
+  </programme>
+  <programme start="20261024153000 +0000" stop="20261024160000 +0000" channel="nick-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Dopey Dick; Plankton and the Beanstalk</sub-title>
+    <desc>Squidward joins a crew of sailors hunting down the great white jellyfish; Plankton finds a magic bean that takes him to a land of giants.</desc>
+    <episode-num system="xmltv_ns">288</episode-num>
+  </programme>
+  <programme start="20261024160000 +0000" stop="20261024163000 +0000" channel="nick-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Plankton's Old Chum; Stormy Weather</sub-title>
+    <desc>The place where Plankton usually dumps his rotten chum is too full, so he tricks SpongeBob into hiding it around the city; SpongeBob befriends a small storm cloud but has to protect it from a crazed weatherman.</desc>
+    <episode-num system="xmltv_ns">246</episode-num>
+  </programme>
+  <programme start="20261024163000 +0000" stop="20261024170000 +0000" channel="nick-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Jolly Lodgers; Biddy Sitting</sub-title>
+    <desc>After his house gets infested, Squidward checks into a hotel where a different kind of pest awaits him; SpongeBob and Patrick get duped into babysitting a grouchy old lady who keeps trying to escape.</desc>
+    <episode-num system="xmltv_ns">253</episode-num>
+  </programme>
+  <programme start="20261024170000 +0000" stop="20261024190000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>Minions</sub-title>
+    <desc>On a mission to find a new master to serve, three Minions meet Scarlet Overkill, the world's first female supervillain.</desc>
+  </programme>
+  <programme start="20261024190000 +0000" stop="20261024210000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>Shrek</sub-title>
+    <desc>In order to save his home, an ogre along with a donkey makes a deal with a mean lord to rescue a beautiful princess.</desc>
+  </programme>
+  <programme start="20261024210000 +0000" stop="20261024230000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>Shrek 2</sub-title>
+    <desc>After returning from their honeymoon and showing home movies to their friends, Shrek and Fiona learn that her parents have heard that she has married her true love and wish to invite him to their kingdom, called Far Far Away.</desc>
+  </programme>
+  <programme start="20261024230000 +0000" stop="20261025010000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>Shrek the Third</sub-title>
+    <desc>When the King falls ill, Shrek finds and trains an heir apparent while Princess Fiona fends off Prince Charming's advances.</desc>
+  </programme>
+  <programme start="20261025010000 +0000" stop="20261025013000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With Joey's Award</sub-title>
+    <desc>Joey is overjoyed to be nominated for a </desc>
+    <episode-num system="onscreen">164/226418</episode-num>
+  </programme>
+  <programme start="20261025013000 +0000" stop="20261025020000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With Ross and Monica's Cousin</sub-title>
+    <desc>Joey auditions for a big role which will require him to appear naked; Rachel and Phoebe plan Monica's bridal shower; Ross and Monica's attractive cousin visits and stirs the passions of all men who meet her.</desc>
+    <episode-num system="onscreen">165/226421</episode-num>
+  </programme>
+  <programme start="20261025020000 +0000" stop="20261025023000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Prestidigitation Approximation</sub-title>
+    <desc>Leonard has to choose between Penny and his new girlfriend, Priya; Howard's magic trick drives Sheldon crazy.</desc>
+    <episode-num system="xmltv_ns">81</episode-num>
+  </programme>
+  <programme start="20261025023000 +0000" stop="20261025030000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Zarnecki Incursion</sub-title>
+    <desc>The guys try to figure out who hacked Sheldon's online-game account.</desc>
+    <episode-num system="xmltv_ns">82</episode-num>
+  </programme>
+  <programme start="20261025030000 +0000" stop="20261025033000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Herb Garden Germination</sub-title>
+    <desc>Amy and Sheldon spread gossip as part of an experiment; Howard decides to take a big step in his relationship with Bernadette.</desc>
+    <episode-num system="xmltv_ns">83</episode-num>
+  </programme>
+  <programme start="20261025033000 +0000" stop="20261025040000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Agreement Dissection</sub-title>
+    <desc>Priya dissects the roommate agreement; the ladies take Sheldon dancing.</desc>
+    <episode-num system="xmltv_ns">84</episode-num>
+  </programme>
+  <programme start="20261025040000 +0000" stop="20261025043000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Wildebeest Implementation</sub-title>
+    <desc>Raj tries to cure his social anxiety; Penny spies on Leonard and his girlfriend through Bernadette.</desc>
+    <episode-num system="xmltv_ns">85</episode-num>
+  </programme>
+  <programme start="20261025043000 +0000" stop="20261025050000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With Rachel's Big Kiss</sub-title>
+    <desc>A college friend with whom Rachel shared an embarrassing and passionate moment shows up at Central Perk; Chandler and Ross argue for possession of Val Kilmer's tuxedo; Joey drives Monica crazy over the wedding schedule.</desc>
+    <episode-num system="onscreen">166/226419</episode-num>
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025053000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Vows</sub-title>
+    <desc>With only four weeks until their wedding, Monica and Chandler try to write their vows; Chandler enlists the boys' help, while Monica does the same with the girls.</desc>
+    <episode-num system="onscreen">167/226424</episode-num>
+  </programme>
+  <programme start="20261025053000 +0000" stop="20261025060000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With Chandler's Dad</sub-title>
+    <desc>Trying to ensure an ideal wedding, Monica arranges a meeting so Chandler and his estranged father can reconcile.</desc>
+    <episode-num system="onscreen">168/226420</episode-num>
+  </programme>
+  <programme start="20261025060000 +0000" stop="20261025063000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With Monica and Chandler's Wedding</sub-title>
+    <desc>On the eve of the wedding, Ross searches for missing Chandler, who has doubts, while the girls distract unsuspecting Monica.</desc>
+    <episode-num system="onscreen">169/226422</episode-num>
+  </programme>
+  <programme start="20261025063000 +0000" stop="20261025070000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With Monica and Chandler's Wedding</sub-title>
+    <desc>Ross tries to find Chandler with Phoebe's help; Rachel tries to hinder Monica.</desc>
+    <episode-num system="onscreen">170/226423</episode-num>
+  </programme>
+  <programme start="20261025070000 +0000" stop="20261025073000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One After </sub-title>
+    <desc>The reception following Monica and Chandler's wedding is almost upstaged by the news that a member of the group might be pregnant.</desc>
+  </programme>
+  <programme start="20261025073000 +0000" stop="20261025080000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Red Sweater</sub-title>
+    <desc>The gals speculate about the father of Rachel's baby, the guys scramble after Chandler loses the film from his wedding.</desc>
+    <episode-num system="onscreen">172/227402</episode-num>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025083000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One Where Rachel Tells ...</sub-title>
+    <desc>The real father of Rachel's baby is revealed; Monica and Chandler struggle to make their honeymoon flight.</desc>
+    <episode-num system="onscreen">173/227403</episode-num>
+  </programme>
+  <programme start="20261025083000 +0000" stop="20261025090000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Videotape</sub-title>
+    <desc>Ross and Rachel argue over how they ended up in bed together weeks earlier, so Ross announces he has the encounter on tape.</desc>
+    <episode-num system="onscreen">174/227406</episode-num>
+  </programme>
+  <programme start="20261025090000 +0000" stop="20261025093000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With Rachel's Date</sub-title>
+    <desc>Ross is horrified when Rachel goes on a date with a soap-opera star (Johnny Messner); Phoebe is attracted to a clumsy chef whom Monica wants to fire.</desc>
+    <episode-num system="onscreen">175/227404</episode-num>
+  </programme>
+  <programme start="20261025093000 +0000" stop="20261025100000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Halloween Party</sub-title>
+    <desc>At Monica's Halloween party, Phoebe meets her twin sister's fiancé and finds that she is attracted to him.</desc>
+    <episode-num system="onscreen">176/227405</episode-num>
+  </programme>
+  <programme start="20261025100000 +0000" stop="20261025103000 +0000" channel="nick-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Plankton's Squeeze Play; How the West Was Dumb</sub-title>
+    <desc>To get closer to the secret formula, Plankton swaps bodies with Squidward and must learn to adapt to his new lanky form; Sandy teaches SpongeBob cowboy skills while they pan for bubbles, unaware that Krabs trails them in the hunt.</desc>
+  </programme>
+  <programme start="20261025103000 +0000" stop="20261025110000 +0000" channel="nick-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Fry Cook and the Elves; It's About Mime</sub-title>
+    <desc>SpongeBob can't shake a group of elves who want to repay him for a good deed; a mime begins following (and imitating) SpongeBob, much to his annoyance.</desc>
+  </programme>
+  <programme start="20261025110000 +0000" stop="20261025113000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups vs. Ouchy Paws; Pups Save a Glow-in-the-Dark Party</sub-title>
+    <desc>Sid Swashbuckle pretends to be a legendary ghost so that he can take Danny's new skateboard; Ryder and the Pups race to save Mayor Goodway's Glow-in-the-Dark Party.</desc>
+    <episode-num system="xmltv_ns">814</episode-num>
+  </programme>
+  <programme start="20261025113000 +0000" stop="20261025120000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Sniffle; Pups and the Ghost Cabin</sub-title>
+    <desc>Just as the PAW Patrol is about to help Farmer Al capture his runaway pigs, Chase, Zuma and Skye all become sick; when lunches start disappearing at an old miner's cabin in the woods, the PAW Patrol comes to investigate.</desc>
+    <episode-num system="xmltv_ns">217</episode-num>
+  </programme>
+  <programme start="20261025120000 +0000" stop="20261025123000 +0000" channel="nick-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Ghoul Fools</sub-title>
+    <desc>SpongeBob and Patrick get caught in the feud between a crew of ghost pirates and the Flying Dutchman.</desc>
+    <episode-num system="xmltv_ns">162</episode-num>
+  </programme>
+  <programme start="20261025123000 +0000" stop="20261025130000 +0000" channel="nick-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Squidferatu; Slappy Daze</sub-title>
+    <desc>Squidward ventures to Nosferatu's castle after accidentally receiving his mail; Nosferatu's minion Slappy kills some time around Bikini Bottom.</desc>
+    <episode-num system="xmltv_ns">278</episode-num>
+  </programme>
+  <programme start="20261025130000 +0000" stop="20261025150000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>Hotel Transylvania</sub-title>
+    <desc>An unforeseen complication unfolds when Dracula (Adam Sandler) invites the world's most-infamous monsters to his lavish resort to celebrate his daughter's 118th birthday.</desc>
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025170000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>Shrek</sub-title>
+    <desc>In order to save his home, an ogre along with a donkey makes a deal with a mean lord to rescue a beautiful princess.</desc>
+  </programme>
+  <programme start="20261025170000 +0000" stop="20261025190000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>Shrek 2</sub-title>
+    <desc>After returning from their honeymoon and showing home movies to their friends, Shrek and Fiona learn that her parents have heard that she has married her true love and wish to invite him to their kingdom, called Far Far Away.</desc>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261025210000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>Shrek the Third</sub-title>
+    <desc>When the King falls ill, Shrek finds and trains an heir apparent while Princess Fiona fends off Prince Charming's advances.</desc>
+  </programme>
+  <programme start="20261025210000 +0000" stop="20261025230000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>Trolls World Tour</sub-title>
+    <desc>When the Queen of the Hard Rock Trolls tries to take over all the Troll kingdoms, Queen Poppy and her friends try different ways to save all the Trolls.</desc>
+  </programme>
+  <programme start="20261025230000 +0000" stop="20261026010000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>Hotel Transylvania</sub-title>
+    <desc>An unforeseen complication unfolds when Dracula (Adam Sandler) invites the world's most-infamous monsters to his lavish resort to celebrate his daughter's 118th birthday.</desc>
+  </programme>
+  <programme start="20261026010000 +0000" stop="20261026013000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Stain</sub-title>
+    <desc>Rachel wants to find her own apartment; Phoebe is ecstatic when Eric (Sean Penn) dumps Ursula to date her.</desc>
+    <episode-num system="onscreen">177/227407</episode-num>
+  </programme>
+  <programme start="20261026013000 +0000" stop="20261026020000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Rumor</sub-title>
+    <desc>Monica encounters a high-school friend (guest star Brad Pitt) and invites him to Thanksgiving Day dinner.</desc>
+    <episode-num system="onscreen">179/227410</episode-num>
+  </programme>
+  <programme start="20261026020000 +0000" stop="20261026023000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Engagement Reaction</sub-title>
+    <desc>Howard's mom winds up in the hospital after hearing news of her son's engagement to Bernadette.</desc>
+    <episode-num system="xmltv_ns">86</episode-num>
+  </programme>
+  <programme start="20261026023000 +0000" stop="20261026030000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Roommate Transmogrification</sub-title>
+    <desc>Bernadette gets her Ph.D., inspiring the guys to tease Wolowitz about his lack of a doctorate; Raj becomes Sheldon's roommate.</desc>
+    <episode-num system="xmltv_ns">87</episode-num>
+  </programme>
+  <programme start="20261026030000 +0000" stop="20261026033000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Skank Reflex Analysis</sub-title>
+    <desc>Penny worries that she has ruined her relationship with her friends; Sheldon takes over the paintball team.</desc>
+    <episode-num system="xmltv_ns">88</episode-num>
+  </programme>
+  <programme start="20261026033000 +0000" stop="20261026040000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Infestation Hypothesis</sub-title>
+    <desc>Amy is caught in the middle when Penny and Sheldon get into an argument over a pre-owned chair; Leonard tries to make his long-distance relationship more exciting.</desc>
+    <episode-num system="xmltv_ns">89</episode-num>
+  </programme>
+  <programme start="20261026040000 +0000" stop="20261026043000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Pulled Groin Extrapolation</sub-title>
+    <desc>Amy and Leonard try to become better acquainted; Bernadette, Howard and Mrs. Wolowitz spend the weekend together.</desc>
+    <episode-num system="xmltv_ns">90</episode-num>
+  </programme>
+  <programme start="20261026043000 +0000" stop="20261026050000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With Monica's Boots</sub-title>
+    <desc>Chandler is aghast when Monica buys expensive boots; Phoebe discovers that Ross' son attends school with Sting's son.</desc>
+    <episode-num system="onscreen">180/227409</episode-num>
+  </programme>
+  <programme start="20261026050000 +0000" stop="20261026053000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Creepy Holiday Card</sub-title>
+    <desc>Ross' new girlfriend wants to put their photograph on Christmas cards; Rachel eyes Joey as a possible partner.</desc>
+    <episode-num system="onscreen">181/227411</episode-num>
+  </programme>
+  <programme start="20261026053000 +0000" stop="20261026060000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One Where Joey Dates Rachel</sub-title>
+    <desc>Rachel and Joey might become more than friends; Chandler sets a Ms. Pac-Man record; Ross breaks land-speed records.</desc>
+    <episode-num system="onscreen">182/227412</episode-num>
+  </programme>
+  <programme start="20261026060000 +0000" stop="20261026063000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One Where Chandler Takes a Bath</sub-title>
+    <desc>Joey might declare his love for Rachel, or Phoebe; Rachel breaks a pact with Ross; Chandler becomes mister bubble bath.</desc>
+    <episode-num system="onscreen">183/227413</episode-num>
+  </programme>
+  <programme start="20261026063000 +0000" stop="20261026070000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Secret Closet</sub-title>
+    <desc>Joey realizes his intense feelings for Rachel are excluding Ross from the joys of impending fatherhood.</desc>
+    <episode-num system="onscreen">184/227414</episode-num>
+  </programme>
+  <programme start="20261026070000 +0000" stop="20261026073000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Birthing Video</sub-title>
+    <desc>Monica prepares a memorable St. Valentine's Day for Chandler with sexy lingerie and X-rated entertainment.</desc>
+    <episode-num system="onscreen">185/227415</episode-num>
+  </programme>
+  <programme start="20261026073000 +0000" stop="20261026080000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One Where Joey Tells Rachel</sub-title>
+    <desc>Joey confesses his true feelings for Rachel; Phoebe introduces Monica to her new boyfriend (Harry Van Gorkum).</desc>
+    <episode-num system="onscreen">186/227416</episode-num>
+  </programme>
+  <programme start="20261026080000 +0000" stop="20261026083000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Tea Leaves</sub-title>
+    <desc>Rachel devises a lie about her unborn child that she hopes will break the silence between her and Joey; Phoebe reads tea leaves and predicts she will soon encounter the man of her dreams.</desc>
+    <episode-num system="onscreen">187/227417</episode-num>
+  </programme>
+  <programme start="20261026083000 +0000" stop="20261026090000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One in Massapequa</sub-title>
+    <desc>Phoebe brings her annoyingly upbeat boyfriend to the 35th anniversary of Monica and Ross' parents, who urge Ross and pregnant Rachel to pretend to be married.</desc>
+    <episode-num system="onscreen">188/227418</episode-num>
+  </programme>
+  <programme start="20261026090000 +0000" stop="20261026093000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With Joey's Interview</sub-title>
+    <desc>When Soap Opera Digest requests an interview, Joey enlists his friends to make sure he does not say anything that could cost him his role.</desc>
+    <episode-num system="onscreen">189/227424</episode-num>
+  </programme>
+  <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Baby Shower</sub-title>
+    <desc>During her baby shower, Rachel realizes she is unprepared to be a mother and accepts her mother's (Marlo Thomas) offer to move in to help with the child.</desc>
+    <episode-num system="onscreen">190/227421</episode-num>
+  </programme>
+</tv>

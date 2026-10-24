@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="nickjr-east">
+    <display-name>Nickjr East</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s19211_h15_ac.png"/>
+  </channel>
+  <programme start="20261023100000 +0000" stop="20261023103000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Mission PAW: Pups Save a Royal Concert; Mission PAW: Pups Save the Princess' Pals</sub-title>
+    <desc>Luke Stars goes missing before his Royal Concert in Barkingburg and Sweetie attempts to take over the event; animals overrun Barkingburg Castle while the Princess is away, forcing Ryder and the </desc>
+    <episode-num system="xmltv_ns">518</episode-num>
+  </programme>
+  <programme start="20261023103000 +0000" stop="20261023110000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups and the Ghost Pirate</sub-title>
+    <desc>The PAW Patrol attend a Halloween party on an old pirate ship; the pirate ship begins to head out to sea.</desc>
+    <episode-num system="xmltv_ns">110</episode-num>
+  </programme>
+  <programme start="20261023110000 +0000" stop="20261023113000 +0000" channel="nickjr-east">
+    <title>Bubble Guppies</title>
+    <sub-title>The Amusement Parking Lot!</sub-title>
+    <desc>The children try to figure out how to get Mr. Grouper's car started after it breaks down on the way to an amusement park.</desc>
+    <episode-num system="xmltv_ns">312</episode-num>
+  </programme>
+  <programme start="20261023113000 +0000" stop="20261023120000 +0000" channel="nickjr-east">
+    <title>Bubble Guppies</title>
+    <sub-title>Space Guppies!</sub-title>
+    <desc>When the evil robot Major Bummer tries to eliminate music from the galaxy, Princess Molly and the Guppies must restore peace, harmony and melody.</desc>
+    <episode-num system="xmltv_ns">410</episode-num>
+  </programme>
+  <programme start="20261023120000 +0000" stop="20261023123000 +0000" channel="nickjr-east">
+    <title>Bubble Guppies</title>
+    <sub-title>Good Morning, Mr. Grumpfish!</sub-title>
+    <desc>The children try to teach Mr. Grumpfish about their favorite things when he is their substitute teacher.</desc>
+    <episode-num system="xmltv_ns">303</episode-num>
+  </programme>
+  <programme start="20261023123000 +0000" stop="20261023130000 +0000" channel="nickjr-east">
+    <title>Bubble Guppies</title>
+    <sub-title>A Dolphin Is a Guppy's Best Friend!</sub-title>
+    <desc>Molly, Gil and the Guppies must lead a baby dolphin named Buddy to the surprise birthday party his pod is throwing for him.</desc>
+    <episode-num system="xmltv_ns">325</episode-num>
+  </programme>
+  <programme start="20261023130000 +0000" stop="20261023133000 +0000" channel="nickjr-east">
+    <title>Bubble Guppies</title>
+    <sub-title>Humunga-Truck!</sub-title>
+    <desc>The Guppies learn about different types of trucks while on their way to the Truck Show.</desc>
+    <episode-num system="xmltv_ns">208</episode-num>
+  </programme>
+  <programme start="20261023133000 +0000" stop="20261023140000 +0000" channel="nickjr-east">
+    <title>Bubble Guppies</title>
+    <sub-title>The Bubble Bee-athalon!</sub-title>
+    <desc>The Guppies must work together to turn nectar into honey for the queen bee's tea time.</desc>
+    <episode-num system="xmltv_ns">317</episode-num>
+  </programme>
+  <programme start="20261023140000 +0000" stop="20261023143000 +0000" channel="nickjr-east">
+    <title>Bubble Guppies</title>
+    <sub-title>The Fastest Feather in the Race!</sub-title>
+    <desc>It's Team Flightless versus cocky Amelia the peregrine falcon; though Penguin Nonny, Ostrich Oona, and Kiwi Goby can't fly, these birds of a feather flock together; teamwork must be enough for them to win the race.</desc>
+    <episode-num system="xmltv_ns">619</episode-num>
+  </programme>
+  <programme start="20261023143000 +0000" stop="20261023150000 +0000" channel="nickjr-east">
+    <title>Bubble Guppies</title>
+    <sub-title>Sheep Doggy!</sub-title>
+    <desc>Molly and Gil meet Farmer Joe and all the cool barnyard animals on his farm; when Farmer Joe's cute baby lamb wanders off during a big swirling popcorn storm, Bubble Puppy has to become a sheepdog and herd her back to safety!</desc>
+    <episode-num system="xmltv_ns">411</episode-num>
+  </programme>
+  <programme start="20261023150000 +0000" stop="20261023153000 +0000" channel="nickjr-east">
+    <title>Bubble Guppies</title>
+    <sub-title>Costume Boxing!</sub-title>
+    <desc>Molly performs in the quick-change dress-up match during Fashion Week in Bubbletucky and ends up on the cover of a fashion magazine.</desc>
+    <episode-num system="xmltv_ns">403</episode-num>
+  </programme>
+  <programme start="20261023153000 +0000" stop="20261023160000 +0000" channel="nickjr-east">
+    <title>Bubble Guppies</title>
+    <sub-title>The Running of the Bullfrogs!</sub-title>
+    <desc>Gil and Goby bring a tadpole to school to watch him grow into a frog.</desc>
+    <episode-num system="xmltv_ns">318</episode-num>
+  </programme>
+  <programme start="20261023160000 +0000" stop="20261023163000 +0000" channel="nickjr-east">
+    <title>Bubble Guppies</title>
+    <sub-title>See You Later Alligator!</sub-title>
+    <desc>Chicken Farmers Deema and Goby discover an unusual egg on their farm one morning, and set off on a bayou river adventure to find the egg's mama.</desc>
+    <episode-num system="xmltv_ns">624</episode-num>
+  </programme>
+  <programme start="20261023163000 +0000" stop="20261023170000 +0000" channel="nickjr-east">
+    <title>Bubble Guppies</title>
+    <sub-title>Race to the Oasis!</sub-title>
+    <desc>Ice cream sellers Molly and Gil are trying to deliver ice cream to a water park on the other side of a hot desert before it melts and without getting caught by the Rattlers.</desc>
+    <episode-num system="xmltv_ns">524</episode-num>
+  </programme>
+  <programme start="20261023170000 +0000" stop="20261023173000 +0000" channel="nickjr-east">
+    <title>Bubble Guppies</title>
+    <sub-title>The Police Cop-etition!</sub-title>
+    <desc>Officer Miranda teaches Gil and the other children how police officers use laws to keep people safe.</desc>
+    <episode-num system="xmltv_ns">305</episode-num>
+  </programme>
+  <programme start="20261023173000 +0000" stop="20261023180000 +0000" channel="nickjr-east">
+    <title>Bubble Guppies</title>
+    <sub-title>The Legend of Pinkfoot!</sub-title>
+    <desc>The Guppies hear a spooky legend while on a camping trip.</desc>
+    <episode-num system="xmltv_ns">107</episode-num>
+  </programme>
+  <programme start="20261023180000 +0000" stop="20261023183000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>Bigger House; The Big Build; Decorating; New Car; Sunny Day Games</sub-title>
+    <desc>Peppa and family are on the search for a new home; Peppa and family renovate their home; Peppa and George decorate their new rooms; Peppa and family choose a new car; Peppa and George are playing in their grandparents' garden.</desc>
+  </programme>
+  <programme start="20261023183000 +0000" stop="20261023190000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>Potato City; The New House; Basketball; Horsey Twinkle Toes; Naughty Tortoise</sub-title>
+    <desc>Peppa and her family visit a new theme park; Peppa and George visit the home that Mr. Bull is building; Daddy Pig teaches the children to play basketball; Peppa and George receive a package; Dr. Hamster's pet tortoise gets stuck in a tree.</desc>
+  </programme>
+  <programme start="20261023190000 +0000" stop="20261023193000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>Pumpkin Party; Pumpkin Competition; Castle; Gerald Giraffe; Night Animals</sub-title>
+    <desc>Daddy Pig throws a Halloween costume party; everyone gathers their pumpkins for a pumpkin competition; the family visits a castle; Gerald Giraffe makes friends; Peppa and George stay up late to hunt for slugs and snails.</desc>
+  </programme>
+  <programme start="20261023193000 +0000" stop="20261023200000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>Grampy's Dinosaur Park; George's New Dinosaur; Captain Daddy Dog; Kylie Kangaroo; The Pet Competitio</sub-title>
+    <desc>The children take a trip to Dinosaur Park; George visits Mr. Fox's shop; Captain Daddy Dog returns from sea bearing gifts; Peppa and George meet Kylie Kangaroo and her brother; everyone brings their pets to a competition.</desc>
+  </programme>
+  <programme start="20261023200000 +0000" stop="20261023203000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Woodland Walrus; Pups Save a DJ in a Jam</sub-title>
+    <desc>After stowing away on the Turbots' camping trip, Wally the walrus gets stuck in a mountain crevasse, and it's up to Everest and the PAW Patrol to rescue him; Mayor Humdinger challenges Rubble for the right to deejay a dance party.</desc>
+  </programme>
+  <programme start="20261023203000 +0000" stop="20261023210000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Sniffle; Pups and the Ghost Cabin</sub-title>
+    <desc>Just as the PAW Patrol is about to help Farmer Al capture his runaway pigs, Chase, Zuma and Skye all become sick; when lunches start disappearing at an old miner's cabin in the woods, the PAW Patrol comes to investigate.</desc>
+    <episode-num system="xmltv_ns">217</episode-num>
+  </programme>
+  <programme start="20261023210000 +0000" stop="20261023213000 +0000" channel="nickjr-east">
+    <title>Rubble &amp;amp; Crew</title>
+    <sub-title>The Crew Builds A Rock-Climbing Wall; The Crew Builds A Giant Octo-Sandbox</sub-title>
+    <desc>Rubble and Crew use their vehicles to rock climb up a giant mountain to rescue a stuck Speed Meister; when there's no room to play inside a sandbox, the pups build a giant octopus with eight slides leading to eight different sandboxes to play in.</desc>
+  </programme>
+  <programme start="20261023213000 +0000" stop="20261023220000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Ghost; Pups Save a Show</sub-title>
+    <desc>When a ghost appears at the Lookout, the Pups and Chase have a stakeout; the Pups put on a Medieval play in the town square.</desc>
+    <episode-num system="xmltv_ns">205</episode-num>
+  </programme>
+  <programme start="20261023220000 +0000" stop="20261023221500 +0000" channel="nickjr-east">
+    <title>Deer Squad</title>
+    <sub-title>Penguin Peril; Fix It Fair</sub-title>
+    <desc>Baron Bite seizes a remote control that Kai was using to help penguins fly; Sir Steel and Blip cause mayhem at the Fix-It-Fair by attempting to fix items that are not broken.</desc>
+  </programme>
+  <programme start="20261023221500 +0000" stop="20261023223000 +0000" channel="nickjr-east">
+    <title>Deer Squad</title>
+    <sub-title>Penguin Peril; Fix It Fair</sub-title>
+    <desc>Baron Bite seizes a remote control that Kai was using to help penguins fly; Sir Steel and Blip cause mayhem at the Fix-It-Fair by attempting to fix items that are not broken.</desc>
+  </programme>
+  <programme start="20261023223000 +0000" stop="20261023230000 +0000" channel="nickjr-east">
+    <title>Blaze and the Monster Machines</title>
+    <sub-title>Ninja Blaze</sub-title>
+    <desc>Ninja Master Black belt is training Blaze and AJ to be powerful ninjas when Crusher and Pickle accidentally launch themselves onto an icy mountain; Blaze and AJ must use their new ninja skills to rescue them.</desc>
+    <episode-num system="xmltv_ns">404</episode-num>
+  </programme>
+  <programme start="20261023230000 +0000" stop="20261023233000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save the Trick-or-Treaters; Pups Save an Out of Control Mini Patrol</sub-title>
+    <desc>During Halloween in Adventure Bay, a mysterious kid in a giant spider costume takes all the treats from the trick-or-treaters; Alex and his Mini-Patrol accidentally take off on Daring Danny's rocket bike.</desc>
+    <episode-num system="xmltv_ns">516</episode-num>
+  </programme>
+  <programme start="20261023233000 +0000" stop="20261024000000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Dino Digi and Tal; Pups Save a Dino Daredevil</sub-title>
+    <desc>Digi and Tal are visiting Dino Island to help Rex with dinosaur safety; when they take safety too far, they accidentally put the island at risk; when Daring Danny X's dino-stunt goes awry, he winds up with a grouchy Spinosaurus.</desc>
+  </programme>
+  <programme start="20261024000000 +0000" stop="20261024003000 +0000" channel="nickjr-east">
+    <title>The Marsupilamis</title>
+    <sub-title>Mar-Snoop / Canteen Carnage</sub-title>
+    <desc>Three energetic Marsupilamis leave their jungle world for the city where mystery and excitement await as they bond with twins eager to protect their extraordinary friends.</desc>
+  </programme>
+  <programme start="20261024003000 +0000" stop="20261024010000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Ultimate Rescue: Pups Save the Movie Monster</sub-title>
+    <desc>Envious Mayor Humdinger tries to draw the Adventure Bay Monster Movie production to Foggy Bottom by commandeering the mechanical movie monster, but he can't control the fire-breathing robot.</desc>
+    <episode-num system="xmltv_ns">517</episode-num>
+  </programme>
+  <programme start="20261024010000 +0000" stop="20261024013000 +0000" channel="nickjr-east">
+    <title>Rubble &amp;amp; Crew</title>
+    <sub-title>The Crew Builds a Giant Halloween Pumpkin</sub-title>
+    <desc>Rubble moves with his family of construction pups to the nearby town of Builder Cove where they live, play and build whatever the community needs.</desc>
+  </programme>
+  <programme start="20261024013000 +0000" stop="20261024020000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups vs. Ouchy Paws; Pups Save a Glow-in-the-Dark Party</sub-title>
+    <desc>Sid Swashbuckle pretends to be a legendary ghost so that he can take Danny's new skateboard; Ryder and the Pups race to save Mayor Goodway's Glow-in-the-Dark Party.</desc>
+    <episode-num system="xmltv_ns">814</episode-num>
+  </programme>
+  <programme start="20261024020000 +0000" stop="20261024023000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>Bubbles; Emily Elephant; Polly's Holiday; Teddy's Day Out; Mysteries</sub-title>
+    <desc>Peppa and George play with bubbles; Peppa and her friends have a play group; Granny and Grandpa's pet comes to stay with Peppa; Peppa's family has a picnic lunch; the family watches their favorite show.</desc>
+  </programme>
+  <programme start="20261024023000 +0000" stop="20261024030000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>Grampy Rabbit's Jetpack; In the Future; The Electric Car; Detective Potato; The Flying Vet</sub-title>
+    <desc>Grampy Rabbit has built a jetpack; Charlotte Sheep is babysitting her cousin Suzy Sheep and her best friend Peppa; Daddy Pig arrives in a new electric car; Peppa and George are watching </desc>
+  </programme>
+  <programme start="20261024030000 +0000" stop="20261024033000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>The Carnival; George's New Clothes; Stamps; Talent Day; The Secret Club</sub-title>
+    <desc>Peppa and her family attend a big town carnival, watching Mr. Bull's jazz band and seeing Pedro Pony on a lorry.</desc>
+  </programme>
+  <programme start="20261024033000 +0000" stop="20261024040000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>Clubhouse; Detective Club; Clubhouse Shop; Clubhouse Adventure; Breakfast Club</sub-title>
+    <desc>Mr. Bull builds a clubhouse for Peppa and her friends; the children set up a detective club; the children pretend to run a little shop; Peppa and her friends create stories about wild animals.</desc>
+  </programme>
+  <programme start="20261024040000 +0000" stop="20261024042800 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save the Bunnies; Pup-Tacular</sub-title>
+    <desc>The PAW Patrol must investigate when Farmer Yumi's carrots disappear; Katie wants to enter one of the PAW Patrol in a puppy grooming competition.</desc>
+    <episode-num system="xmltv_ns">113</episode-num>
+  </programme>
+  <programme start="20261024042800 +0000" stop="20261024045600 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Stinky Flower; Pups Save a Monkey-Naut</sub-title>
+    <desc>Mayor Humdinger gives Mayor Goodway a flower that spreads a horrible stink when it blooms; a UFO with a monkey astronaut splashes down in Adventure Bay.</desc>
+    <episode-num system="xmltv_ns">310</episode-num>
+  </programme>
+  <programme start="20261024045600 +0000" stop="20261024052400 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Search and Rescue: Pups Save a Snack-Snatcher</sub-title>
+    <desc>When the Adventure Bay potluck food goes missing, the Search and Rescue pups deputize the whole community to track it down.</desc>
+  </programme>
+  <programme start="20261024052400 +0000" stop="20261024055100 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save the Diving Bell; Pups Save the Beavers</sub-title>
+    <desc>The PAW Patrol uses Zuma's new submarine to help Cap'n Turbot; when a storm washes away Chompy the Beaver's dam, he starts chomping wood all over town.</desc>
+    <episode-num system="xmltv_ns">204</episode-num>
+  </programme>
+  <programme start="20261024055100 +0000" stop="20261024061500 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Robosaurus; Pups Save a Film Festival</sub-title>
+    <desc>When a homemade robotic dinosaur comes to life, the pups must find him and bring him home; the pups are shooting their film festival entry until Daring Danny X cuts the action with his dangerous stunt.</desc>
+    <episode-num system="xmltv_ns">314</episode-num>
+  </programme>
+  <programme start="20261024061500 +0000" stop="20261024063900 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Rescue Knights: Pups Save a Dozing Dragon</sub-title>
+    <desc>When the Duke and Claw use a magic cauldron to put the people of Barkingburg to sleep, their plan backfires when the enchanted fog works on Sparks; it's up to the PAW Patrol to wake up the Dragon along with everyone else in town.</desc>
+    <episode-num system="xmltv_ns">818</episode-num>
+  </programme>
+  <programme start="20261024063900 +0000" stop="20261024070400 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Rescue Wheels: Pups Save the Risky Race; Rescue Wheels: Pups Save the Runaway Truck</sub-title>
+    <desc>When Boomer challenges Roxi in a race to the top of a mountain, his reckless driving causes an avalanche of boulders.</desc>
+    <episode-num system="xmltv_ns">1102</episode-num>
+  </programme>
+  <programme start="20261024070400 +0000" stop="20261024072800 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Aqua Pups Save the Reef; Aqua Pups Stop a Giant Squid</sub-title>
+    <desc>The Aqua Pups rescue Coral, Moby and McSquidly from a submarine before it crashes into a delicate reef; the Aqua Pups must save the Merpups' golden orb release when Moby lures a Giant Squid into Puplantis.</desc>
+    <episode-num system="xmltv_ns">920</episode-num>
+  </programme>
+  <programme start="20261024072800 +0000" stop="20261024075200 +0000" channel="nickjr-east">
+    <title>Rubble &amp;amp; Crew</title>
+    <sub-title>The Crew Builds a Halloween Maze; The Crew Builds a Giant Pup House</sub-title>
+    <desc>The crew builds a spooky maze for Halloween; when Omar and Romar get lost in the maze, the pups jump to the rescue; when a spooky movie keeps Rubble awake, the pups come up with a construction solution.</desc>
+    <episode-num system="xmltv_ns">402</episode-num>
+  </programme>
+  <programme start="20261024075200 +0000" stop="20261024081700 +0000" channel="nickjr-east">
+    <title>Rubble &amp;amp; Crew</title>
+    <sub-title>The Crew Builds a Giant Halloween Pumpkin</sub-title>
+    <desc>Rubble moves with his family of construction pups to the nearby town of Builder Cove where they live, play and build whatever the community needs.</desc>
+  </programme>
+  <programme start="20261024081700 +0000" stop="20261024084100 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Freaky Pup-Day; Pups Save a Runaway Mayor</sub-title>
+    <desc>Chase and Chickaletta switch bodies and must learn to work together to return Cap'n Turbot's boat to the bay; Mayor Humdinger creates robotic pants to cheat at the Most Amazing Athlete Contest, but his invention soon goes haywire.</desc>
+    <episode-num system="xmltv_ns">613</episode-num>
+  </programme>
+  <programme start="20261024084100 +0000" stop="20261024090500 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Moto Pups: Pups Save a Moto Mayor</sub-title>
+    <desc>Mayor Goodway thinks she can change the Ruff-Ruff pack's naughty ways by pretending to be a bad biker and becoming part of their gang; but when Gasket puts the Mayor through a battery of tough tests, it's up to the Moto Pups to rescue her.</desc>
+    <episode-num system="xmltv_ns">723</episode-num>
+  </programme>
+  <programme start="20261024090500 +0000" stop="20261024093000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Mighty Pups Charged Up: Pups vs. Three Super Baddies</sub-title>
+    <desc>Super baddies Harold, Ladybird and the Copycat team up and take the Mighty Pups' mighty meteor; the Mighty Pups must get their meteor back and charge up to stop them before the team of baddies destroys Adventure Bay.</desc>
+    <episode-num system="xmltv_ns">704</episode-num>
+  </programme>
+  <programme start="20261024093000 +0000" stop="20261024100000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save Bedtime; Pups Save Chickaletta's Egg</sub-title>
+    <desc>The Turbots are trapped somewhere in the jungle, but their phone cuts out when they try to call the PAW Patrol; after Chickaletta lays an egg, it rolls away and heads through town.</desc>
+    <episode-num system="xmltv_ns">608</episode-num>
+  </programme>
+  <programme start="20261024100000 +0000" stop="20261024103000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>Mandy Mouse's Birthday; Poems; Looking for Things; Please and Thank You; The Library</sub-title>
+    <desc>Mandy Mouse makes a birthday visit to a cheese theme park; Madame Gazelle introduces the children to poetry; Daddy Pig suggests that Peppa and George play a game.</desc>
+  </programme>
+  <programme start="20261024103000 +0000" stop="20261024110000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>Desert Island; Going Boating; The Little Boat; The Sand Pit; The Aquarium</sub-title>
+    <desc>Grandpa Pig and Grampy Rabbit are stranded on a desert island; everyone goes boating at the lake; Daddy Pig is left behind; Peppa and her friends build a desert island in the sandpit; Peppa takes Goldie to the aquarium.</desc>
+  </programme>
+  <programme start="20261024110000 +0000" stop="20261024113000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>My Cousin Chloe; Shopping; At the Beach; Secrets; The Museum</sub-title>
+    <desc>Peppa's cousin comes to visit; the family goes to the supermarket; Peppa and George enjoy the beach; Mummy Pig makes Peppa a special box; Peppa and her family visit the museum.</desc>
+  </programme>
+  <programme start="20261024113000 +0000" stop="20261024120000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>Run Daddy Run; Coach Peppa; Marathon; Grownup Playground; Duck Race</sub-title>
+    <desc>Daddy Pig applies to the London Marathon; Peppa and George help Daddy Pig train for the marathon; Daddy Pig runs the London Marathon; Grampy Rabbit gives Peppa a tour around an exercise park.</desc>
+  </programme>
+  <programme start="20261024120000 +0000" stop="20261024123000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>The Sleepy Princess; Fancy Dress Party; Mister Skinnylegs; Musical Instruments; The Tooth Fairy</sub-title>
+    <desc>Daddy Pig tells a bedtime story; Peppa and George have a fancy dress party; George finds a spider; Mummy and Daddy Pig find an old box; Peppa loses a tooth.</desc>
+  </programme>
+  <programme start="20261024123000 +0000" stop="20261024130000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>Pedro the Cowboy; Grandpa Pig's Train to the Rescue; Spider Web; Wishing Well; Lost Keys</sub-title>
+    <desc>Peppa and her family visit a new theme park; Miss Rabbit's train breaks down; Mummy Pig finds a spider in the house; Granny Pig orders gnomes and a wishing well for her garden; Daddy Pig loses his car keys.</desc>
+  </programme>
+  <programme start="20261024130000 +0000" stop="20261024133000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>Blackberry Bush; Pottery; Paper Aeroplanes; Edmond Elephant's Birthday; The Biggest Muddy Puddle in </sub-title>
+    <desc>Peppa and her family collect blackberries; Mrs. Zebra teaches the children to make pottery; Daddy Pig's work papers are accidentally turned into paper airplanes; Edmond Elephant's birthday party; a flood turns Peppa's house into a desert island.</desc>
+  </programme>
+  <programme start="20261024133000 +0000" stop="20261024140000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>Living Above the Shops; Roof Top Garden; Moving Day; Everybody Sleepover!; Cardboard Boxes</sub-title>
+    <desc>Peppa plays with Freddy Fox at his apartment; Peppa and family help everyone in the apartments make a garden; Peppa plays with Candy Cat; Peppa plays with all of her different friends in each of their apartments.</desc>
+    <episode-num system="xmltv_ns">201</episode-num>
+  </programme>
+  <programme start="20261024140000 +0000" stop="20261024143000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>Dinosaurs Alive!; Larenzo Lion; Calling Kylie; Hot Dry Day; Playgroup Garden</sub-title>
+    <desc>The playgroup is visiting the zoo today. Mummy Pig and Peppa are at the zoo and meet Lorenzo Lion who lives there. It's bedtime and Peppa calls Kylie Kangaroo and is surprised to learn it's not morning.</desc>
+  </programme>
+  <programme start="20261024143000 +0000" stop="20261024150000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>Mr. Dinosaur is Lost; Muddy Puddles; Fancy Dress Party; Camping; Very Hot Day</sub-title>
+    <desc>Mr. Dinosaur is George's favorite toy; the rain makes Peppa sad; Peppa and George have a fancy dress party; Peppa and her family go camping; Peppa and George want to jump in mud puddles.</desc>
+  </programme>
+  <programme start="20261024150000 +0000" stop="20261024153000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Stop the Cheetah</sub-title>
+    <desc>The cheetah has a nefarious plan to destroy the jungle and build the cheating-est racetrack ever.</desc>
+    <episode-num system="xmltv_ns">804</episode-num>
+  </programme>
+  <programme start="20261024153000 +0000" stop="20261024160000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Trophy; Pups Save the Wind Trekkers</sub-title>
+    <desc>When Mayor Humdinger's mom loses her son's phony trophy, the PAW Patrol have to rescue her and its secret stash of treats; when Mayor Goodway and Chickaletta get trapped inside a mesa, it's up to the PAW Patrol and a little snake to rescue them.</desc>
+    <episode-num system="xmltv_ns">922</episode-num>
+  </programme>
+  <programme start="20261024160000 +0000" stop="20261024180000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Best Animal Rescues</sub-title>
+    <desc>The pups reunite a family of elephants; a baby whale is beached in Adventure Bay; the pups help a family of deer; the pups help baby-sit Mayor Goodway's niece and nephew; an owl is trapped in a tree; Marshall takes a break from the PAW Patrol.</desc>
+    <episode-num system="xmltv_ns">892</episode-num>
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024183000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Big Truck Pups: Pups Save the Bridge</sub-title>
+    <desc>Ryder and the Pups team up with Al to save Adventure Bay's big bridge from collapsing.</desc>
+    <episode-num system="xmltv_ns">909</episode-num>
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save Gustavo's Guitar; Pups Save the Yoga Goats</sub-title>
+    <desc>The pups need to find Gustavo Goodway's missing guitar before the evening's campfire concert; Farmer Yumi's new yoga goat class is a hit, until her goats go missing.</desc>
+    <episode-num system="xmltv_ns">607</episode-num>
+  </programme>
+  <programme start="20261024190000 +0000" stop="20261024193000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Jungle Pups: Pups Save a Golden Sweetie; Jungle Pups: Pups Save the Giant Ants</sub-title>
+    <desc>The pups rescue Sweetie when she sneaks into the hidden jungle and finds a mysterious orb, which causes everything she touches to turn to gold; the pups must save a colony of giant ants from destroying the hidden jungle and themselves.</desc>
+    <episode-num system="xmltv_ns">1008</episode-num>
+  </programme>
+  <programme start="20261024193000 +0000" stop="20261024200000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save the Hatchlings; Pups Save a Wrongway Farmhand</sub-title>
+    <desc>When Mayor Humdinger decides to make the world's biggest omelet, he accidentally orders the wrong kind of eggs: ones that hatch; traveling Travis volunteers to watch farmer Yumi and farmer Al's farm and characteristically messes up everything.</desc>
+    <episode-num system="xmltv_ns">908</episode-num>
+  </programme>
+  <programme start="20261024200000 +0000" stop="20261024203000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save the Camping Trip; Pups and the Trouble with Turtles</sub-title>
+    <desc>Skye and Rocky go on a camping trip; Baby turtles start popping up all over town; Ryder and the pups must return baby turtles to their pond.</desc>
+    <episode-num system="xmltv_ns">122</episode-num>
+  </programme>
+  <programme start="20261024203000 +0000" stop="20261024210000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save Apollo; Pups Save the Hippos</sub-title>
+    <desc>The pups must invade the Spider King's lair to rescue Apollo; Ryder and the others must rebuild a trapeze before a show.</desc>
+    <episode-num system="xmltv_ns">307</episode-num>
+  </programme>
+  <programme start="20261024210000 +0000" stop="20261024230000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Jungle Pups</sub-title>
+    <desc>The heroic rescue pups, led by a tech-savvy boy named Ryder work together to protect the community; geared with special skills, gadgets and vehicles that help them on their rescue missions, the PAW Patrol is always up for the challenge.</desc>
+    <episode-num system="xmltv_ns">857</episode-num>
+  </programme>
+  <programme start="20261024230000 +0000" stop="20261024233000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Mer-Pup</sub-title>
+    <desc>When the pups and Cap'n Turbot camp out under a magical moon, they are transformed into mer-pups so they can perform an underwater rescue.</desc>
+    <episode-num system="xmltv_ns">213</episode-num>
+  </programme>
+  <programme start="20261024233000 +0000" stop="20261025000000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Mission PAW: Pups Save the Royal Throne</sub-title>
+    <desc>The pups must come to the rescue when Sweetie plans to steal the royal throne so that she can rule.</desc>
+    <episode-num system="xmltv_ns">410</episode-num>
+  </programme>
+  <programme start="20261025000000 +0000" stop="20261025003000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>All-Star Pups!; Pups Save Sports Day</sub-title>
+    <desc>The pups play kickball against Raimondo's team, until an eagle steals the ball; the All-Star pups are ready to compete in the summer sports day when Daring Danny X turns the field into an ice rink.</desc>
+    <episode-num system="xmltv_ns">317</episode-num>
+  </programme>
+  <programme start="20261025003000 +0000" stop="20261025010000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save the Treats; Pups Get a Lift</sub-title>
+    <desc>Mr. Porter's van full of puppy food and treats slides on the ice; the PAW Patrol comes to the rescue when Katie and her cat are trapped on a ski lift.</desc>
+    <episode-num system="xmltv_ns">109</episode-num>
+  </programme>
+  <programme start="20261025010000 +0000" stop="20261025013000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Sea Patrol: Pups Save the Pirated Sea Patroller</sub-title>
+    <desc>Sid the Pirate and Arrby steal the Ferris wheel; when the pups set out to bring it back to Adventure Bay, Sid comes up with a sneaky plan to steal the Sea Patroller.</desc>
+    <episode-num system="xmltv_ns">509</episode-num>
+  </programme>
+  <programme start="20261025013000 +0000" stop="20261025020000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Tour Bus; Pups Save Midnight at the Museum</sub-title>
+    <desc>Mayor Humdinger's tour bus goes out of control when he tries to bring tourists to Foggy Bottom; a fun museum sleepover is interrupted when Alex and the mini-patrol go missing, and Mayor Goodway gets stranded on a T. rex.</desc>
+    <episode-num system="xmltv_ns">626</episode-num>
+  </programme>
+  <programme start="20261025020000 +0000" stop="20261025023000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups and the Ghost Pirate</sub-title>
+    <desc>The PAW Patrol attend a Halloween party on an old pirate ship; the pirate ship begins to head out to sea.</desc>
+    <episode-num system="xmltv_ns">110</episode-num>
+  </programme>
+  <programme start="20261025023000 +0000" stop="20261025030000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups and the Lighthouse Boogie; Pups Save Ryder</sub-title>
+    <desc>When a storm sends Mayor Goodway's rowboat drifting out to sea, the PAW Patrol must come to the rescue; Ryder gets stranded while trying to rescue a goat who is stuck on the edge of a cliff.</desc>
+    <episode-num system="xmltv_ns">124</episode-num>
+  </programme>
+  <programme start="20261025030000 +0000" stop="20261025033000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Get Your Goat; Pups Save the Crop Circles</sub-title>
+    <desc>Cap'n Turbot and his cousin, Francois, observe a pair of mountain goats when a sudden avalanche strikes; Farmer Al finds mysterious crop circles in his corn field, so he calls on the </desc>
+    <episode-num system="xmltv_ns">1108</episode-num>
+  </programme>
+  <programme start="20261025033000 +0000" stop="20261025040000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Flamingo Dancer; Pups Save a Mayor and Her Mini</sub-title>
+    <desc>The PAW Patrol searches for Julia, Julius, and a flamingo when they go missing from a dance contest; the PAW Patrol comes to the rescue when Mayor Goodway and her niece Julia get stuck on a runaway art installation.</desc>
+    <episode-num system="xmltv_ns">921</episode-num>
+  </programme>
+  <programme start="20261025040000 +0000" stop="20261025042800 +0000" channel="nickjr-east">
+    <title>Bubble Guppies</title>
+    <sub-title>The Wizard of Oz-tralia!</sub-title>
+    <desc>A nature show host teaches the Guppies about Australian animals.</desc>
+    <episode-num system="xmltv_ns">308</episode-num>
+  </programme>
+  <programme start="20261025042800 +0000" stop="20261025045600 +0000" channel="nickjr-east">
+    <title>Bubble Guppies</title>
+    <sub-title>Only the Sphinx Nose!</sub-title>
+    <desc>The Guppies go on an adventure in Ancient Egypt to find the Sphinx's missing nose.</desc>
+    <episode-num system="xmltv_ns">215</episode-num>
+  </programme>
+  <programme start="20261025045600 +0000" stop="20261025052400 +0000" channel="nickjr-east">
+    <title>Bubble Guppies</title>
+    <sub-title>The Glitter Games!</sub-title>
+    <desc>Molly helps a princess-in-training with her manners, and together they become princesses in the hallowed Glitter Games.</desc>
+    <episode-num system="xmltv_ns">402</episode-num>
+  </programme>
+  <programme start="20261025052400 +0000" stop="20261025055100 +0000" channel="nickjr-east">
+    <title>Team Umizoomi</title>
+    <sub-title>Stolen Lunches</sub-title>
+    <desc>The Team is visiting their friend's school when the Troublemakers steal all the kids' lunches; Milli, Geo and Bot pursue the Troublemakers.</desc>
+    <episode-num system="xmltv_ns">409</episode-num>
+  </programme>
+  <programme start="20261025055100 +0000" stop="20261025061500 +0000" channel="nickjr-east">
+    <title>Team Umizoomi</title>
+    <sub-title>Presto's Magic House</sub-title>
+    <desc>The team must search through Presto's wacky house to rescue him from a magic bubble.</desc>
+    <episode-num system="xmltv_ns">312</episode-num>
+  </programme>
+  <programme start="20261025061500 +0000" stop="20261025063900 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save the Runaway Turtles; Pups Save the Shivering Sheep</sub-title>
+    <desc>Daring Danny X accidentally drives off with turtle eggs; Farmer Al's sheep run away, and Mayor Humdinger's kittens go missing.</desc>
+    <episode-num system="xmltv_ns">421</episode-num>
+  </programme>
+  <programme start="20261025063900 +0000" stop="20261025070400 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save Ace's Birthday Surprise; Pups Save a Tower of Pizza</sub-title>
+    <desc>Rocky and the pups fix an old junk car for Ace Sorensen's birthday; Adventure Bay works hard to earn the record for having the world's highest tower of pizzas.</desc>
+    <episode-num system="xmltv_ns">526</episode-num>
+  </programme>
+  <programme start="20261025070400 +0000" stop="20261025072800 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Fire Rescue: Pups Save a Baby Goat Birthday; Fire Rescue: Pups Save a S'more-Mergency</sub-title>
+    <desc>When Farmer Yumi and Al's baby goat birthday party goes up in flames, they call on the Fire Rescue Pups to put it out; Mayor Humdinger goes camping and has just one thing on his mind: s'mores, but roasting marshmallows turns into a disaster.</desc>
+  </programme>
+  <programme start="20261025072800 +0000" stop="20261025075200 +0000" channel="nickjr-east">
+    <title>Rubble &amp;amp; Crew</title>
+    <sub-title>The Crew Builds a Train Station; The Crew Builds a Sierra Sparkle Sign</sub-title>
+    <desc>Rubble and Crew build the first train station in Builder Cove just in time to welcome Farmer Zoe's new cow, Mooreen; Popstar Sierra Sparkle is moving to Builder Cove, but when the pups plan a surprise greeting, Speed Meister makes a plan of his own.</desc>
+    <episode-num system="xmltv_ns">202</episode-num>
+  </programme>
+  <programme start="20261025075200 +0000" stop="20261025081700 +0000" channel="nickjr-east">
+    <title>Rubble &amp;amp; Crew</title>
+    <sub-title>The Crew Builds a Hotel; The Crew Builds a Hiking Trail</sub-title>
+    <desc>Builder Cove gets its first hotel when Farmer Zoe's brother Hadley comes to visit; after a hiking trail sign mix-up confuses everyone going to Mr. Ducky-Doo's birthday party, Rubble and Crew help them get back on track.</desc>
+    <episode-num system="xmltv_ns">222</episode-num>
+  </programme>
+  <programme start="20261025081700 +0000" stop="20261025084100 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Tracker Joins the Pups!</sub-title>
+    <desc>Ryder and the pups head to the jungle to help Carlos move a massive relic, but Carlos falls into a deep pit.</desc>
+    <episode-num system="xmltv_ns">315</episode-num>
+  </programme>
+  <programme start="20261025084100 +0000" stop="20261025090500 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Ultimate Rescue: Pups Save a Swamp Creature; Ultimate Rescue: Pups and the Hidden Golden Bones</sub-title>
+    <desc>When something goes wrong on the swamp tour, it's Zuma and his Ultimate Swamp Vehicle to the rescue; everything is shaking and breaking beneath Adventure Bay, so Ryder needs Rocky to lead the pups on an Ultimate Fix-it Rescue.</desc>
+    <episode-num system="xmltv_ns">520</episode-num>
+  </programme>
+  <programme start="20261025090500 +0000" stop="20261025093000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Big Bad Bird Crew; Pups Save a Soapbox Derby</sub-title>
+    <desc>Myrna the Mynah bird leads her new feathered friends astray, and it's up to the PAW Patrol to rescue the wayward flock; Adventure Bay is holding a </desc>
+    <episode-num system="xmltv_ns">710</episode-num>
+  </programme>
+  <programme start="20261025093000 +0000" stop="20261025100000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save the Penguins; Pups Save a Dolphin Pup</sub-title>
+    <desc>The Pups must find a way to get a group of penguins back to the South Pole; the PAW Patrol must help a dolphin pup get back into the bay with her parents.</desc>
+    <episode-num system="xmltv_ns">201</episode-num>
+  </programme>
+  <programme start="20261025100000 +0000" stop="20261025103000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>Mountain Climbing; Trampolines; Skateboarding; Hoops; Soft Play</sub-title>
+    <desc>Grampy Rabbit teaches mountain climbing; Peppa goes to a trampoline park; Peppa and George play with their skateboards; Madame Gazelle and the class workout; Grandpa Pig takes Peppa sailing.</desc>
+  </programme>
+  <programme start="20261025103000 +0000" stop="20261025110000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>Danny's Pirate Party; The Train Ride; Teddy Playgroup; A Trip to the Moon; Numbers</sub-title>
+    <desc>Danny Dog's birthday arrives; Peppa and her friends go on a train ride; Peppa brings home a teddy; Peppa's family goes to a Moon Exhibition; Peppa and her friends learn how to count.</desc>
+  </programme>
+  <programme start="20261025110000 +0000" stop="20261025113000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>Motorbiking; Sea Treasure; Monkey Has a Cough; Police Car; Fire Station Practice</sub-title>
+    <desc>Granny and Grandpa take Peppa and George camping; Peppa finds a message in a bottle; Mummy Pig shows Peppa how to wink; Police Officers Panda and Squirrel visit Peppa's playgroup; Today is the fire station practice day.</desc>
+  </programme>
+  <programme start="20261025113000 +0000" stop="20261025120000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>Pen Pal; Granny and Grandpa's Attic; The Quarrel; The Toy Cupboard; School Camp</sub-title>
+    <desc>Peppa has a pen pal; Peppa and George help their grandparents clean their attic; Peppa and Suzy Sheep argue; Peppa and George's toy basket is too full; Peppa and her friends go camping.</desc>
+  </programme>
+  <programme start="20261025120000 +0000" stop="20261025123000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>The Outback; Surfing; The Great Barrier Reef; The Boomerang; Nature Trail</sub-title>
+    <desc>Peppa, George, Mummy Pig and Daddy Pig go to visit the Kangaroo family in Australia and get to explore the Outback.</desc>
+  </programme>
+  <programme start="20261025123000 +0000" stop="20261025130000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>Camping Holiday; Compost; Richard Rabbit Comes to Play; Fun Run; The Rainbow</sub-title>
+    <desc>Peppa's family goes on holiday in their camper van; Peppa and George learn about compost; Richard Rabbit comes to play with George; Daddy Pig runs a race to raise money; Peppa sees a rainbow.</desc>
+  </programme>
+  <programme start="20261025130000 +0000" stop="20261025133000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>Movie Night; Art House Day; Wildflower Wood; Sunny Day Games; Magic Trick</sub-title>
+    <desc>Peppa is at Penny Polar Bear's house for a movie night; Granny Sheep and Suzy take Granny Pig and Peppa around Art House Day; Madame Gazelle and Mr. Bull take the children to the woods to learn all about flowers; Peppa and George play in the garden.</desc>
+  </programme>
+  <programme start="20261025133000 +0000" stop="20261025140000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>The Big Announcement; Being Babies; Mr. Cat's Cafe; Folk Music Band; Staying up Late</sub-title>
+    <desc>Mummy and Daddy Pig have big news to tell Peppa and George; Peppa and Rebecca Rabbit pretend to be babies; Peppa is on a play date with Candy Cat at Mr. Cat's Café; Peppa and George listen to Granny's friends play folk music.</desc>
+  </programme>
+  <programme start="20261025140000 +0000" stop="20261025143000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>Strawberries; Pizza! Pizza!; Grandpa Pig's Birthday; Pancakes; Teddy's Day Out</sub-title>
+    <desc>Grandpa and Granny Pig have been growing strawberries; Peppa and family make pizzas; Peppa and her family celebrate Grandpa Pig's birthday; Daddy Pig thinks he's an expert pancake maker; Peppa loses Teddy at a picnic.</desc>
+  </programme>
+  <programme start="20261025143000 +0000" stop="20261025150000 +0000" channel="nickjr-east">
+    <title>Peppa Pig</title>
+    <sub-title>Pumpkin Party; Pumpkin Competition; Castle; Gerald Giraffe; Night Animals</sub-title>
+    <desc>Daddy Pig throws a Halloween costume party; everyone gathers their pumpkins for a pumpkin competition; the family visits a castle; Gerald Giraffe makes friends; Peppa and George stay up late to hunt for slugs and snails.</desc>
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025170000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Best of Big Truck Pups</sub-title>
+    <desc>The PAW Patrol use their new big trucks and the help of their new pup pal Al to repair a dam before Adventure Bay is flooded; Ryder and the Pups team up with Al to save Adventure Bay's big bridge from collapsing.</desc>
+    <episode-num system="xmltv_ns">864</episode-num>
+  </programme>
+  <programme start="20261025170000 +0000" stop="20261025173000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Ghost; Pups Save a Show</sub-title>
+    <desc>When a ghost appears at the Lookout, the Pups and Chase have a stakeout; the Pups put on a Medieval play in the town square.</desc>
+    <episode-num system="xmltv_ns">205</episode-num>
+  </programme>
+  <programme start="20261025173000 +0000" stop="20261025180000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save the Chalk Art; Pups Save the Hot Potato</sub-title>
+    <desc>The Mini Patrol and the Pups race to save a mural before it rains; Farmer Al and Yumi discover their garden is full of holes and their one-of-a-kind potato is missing.</desc>
+    <episode-num system="xmltv_ns">716</episode-num>
+  </programme>
+  <programme start="20261025180000 +0000" stop="20261025183000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>The New Pup</sub-title>
+    <desc>Ryder surprises the pups with a new mobile lookout so they can save the day outside of Adventure Bay; Jake gets lost in the South Pole.</desc>
+    <episode-num system="xmltv_ns">206</episode-num>
+  </programme>
+  <programme start="20261025183000 +0000" stop="20261025190000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Stop a Coconut Catapult; Pups Save Humdinger's Goose</sub-title>
+    <desc>The pups leap into action when Digi and Tal's coconut catapult goes rampant and rockets off through the jungle targeting birds and monkeys.</desc>
+    <episode-num system="xmltv_ns">1203</episode-num>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261025193000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save the Hum-Sprayer; Pups Save the Hot Springs</sub-title>
+    <desc>Mayor Humdinger makes a mess when he steals paint from Rubble's cousin Mix; two mountain goats cause trouble at adventure bay's hot springs.</desc>
+  </programme>
+  <programme start="20261025193000 +0000" stop="20261025200000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Moto Pups: Pups Save the Donuts; Moto Pups: Pups Save the Kitties</sub-title>
+    <desc>When the Ruff-Ruff Pack steals Mr. Porter's mini-donut maker, the Moto Pups set off to get the machine back in one piece; the Ruff-Ruff Pack takes over Humdinger's lair and runs off with his kitties.</desc>
+    <episode-num system="xmltv_ns">722</episode-num>
+  </programme>
+  <programme start="20261025200000 +0000" stop="20261025203000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save the Tooth Fairy; Pups Solve the Mystery of the Missing Art</sub-title>
+    <desc>Julius loses his tooth and has a dream that the PAW Patrol saves a bumbling tooth fairy; when all the paintings mysteriously disappear from the Art Museum Festival, the PAW Patrol must solve the missing art mystery and return all the paintings.</desc>
+    <episode-num system="xmltv_ns">907</episode-num>
+  </programme>
+  <programme start="20261025203000 +0000" stop="20261025210000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Charger Visits the Pups; Pups Save a Shiny Ride</sub-title>
+    <desc>Rubble's cousin Charger visits Adventure Bay just in time to help out when a Humdinger-caused geyser destroys Mr. Porter's café; Mayor Humdinger hatches a plan to sabotage the Shiniest Ride Contest, so it's up to the PAW Patrol to save the day.</desc>
+    <episode-num system="xmltv_ns">926</episode-num>
+  </programme>
+  <programme start="20261025210000 +0000" stop="20261025230000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Aqua Pups Save a Floating Castle; Aqua Pups Save the Reef; Aqua Pups Stop a Giant Squid; Aqua Pups S</sub-title>
+    <desc>Moby wants to clear all the Merpups out of Puplantis and make the castle his own; the PAW Patrol is there to stop his soggy schemes with help from a new Cockapoo Merpup named Coral.</desc>
+    <episode-num system="xmltv_ns">861</episode-num>
+  </programme>
+  <programme start="20261025230000 +0000" stop="20261025233000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Waiter-Bot; Pups Stop a Pie-Clone</sub-title>
+    <desc>Mr. Porter's new high-tech waiter robot helps around the café, but it can't stop cleaning; it's up to the pups to clean up the mess; Mayor Humdinger creates a cyclone of delicious pies, and the pups must stop it before the town is covered.</desc>
+    <episode-num system="xmltv_ns">705</episode-num>
+  </programme>
+  <programme start="20261025233000 +0000" stop="20261026000000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Rescue Wheels: Pups Save Adventure Bay</sub-title>
+    <desc>Two competitive truckers come to town for a monster truck rally, one of them befriends the pups, the other stirs up lots of trouble.</desc>
+    <episode-num system="xmltv_ns">1023</episode-num>
+  </programme>
+  <programme start="20261026000000 +0000" stop="20261026003000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Sniffle; Pups and the Ghost Cabin</sub-title>
+    <desc>Just as the PAW Patrol is about to help Farmer Al capture his runaway pigs, Chase, Zuma and Skye all become sick; when lunches start disappearing at an old miner's cabin in the woods, the PAW Patrol comes to investigate.</desc>
+    <episode-num system="xmltv_ns">217</episode-num>
+  </programme>
+  <programme start="20261026003000 +0000" stop="20261026010000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Dino Rescue: Pups Save a Hum-Dino</sub-title>
+    <desc>Mayor Humdinger and his Kitties go to Dino Wilds for Dino acting lessons but somehow find themselves bound for Adventure Bay.</desc>
+    <episode-num system="xmltv_ns">708</episode-num>
+  </programme>
+  <programme start="20261026010000 +0000" stop="20261026013000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Stop the Falling Space Junk; Pups Stop the Giant Cuckoo</sub-title>
+    <desc>When Digi and Tal's space vacuum breaks, it's up to the pups to save Mayor Humdinger from falling space debris; Humdinger's cuckoo clock goes out of control; Ryder and the Pups must rescue Travis and get control of the cuckoo to save Humdinger.</desc>
+    <episode-num system="xmltv_ns">1011</episode-num>
+  </programme>
+  <programme start="20261026013000 +0000" stop="20261026020000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Solar System; Pups Save the Suitcase</sub-title>
+    <desc>Francois builds a person-sized solar system attraction to celebrate the appearance of a shooting star; Lizzy returns from Adventure City with a priceless family heirloom; but her bag gets mixed up with Danny's stunt bag.</desc>
+  </programme>
+  <programme start="20261026020000 +0000" stop="20261026023000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Big Truck Pups Stop a Flood</sub-title>
+    <desc>The PAW Patrol uses its new big trucks and the help of new pup pal Al to repair a dam before Adventure Bay is flooded.</desc>
+    <episode-num system="xmltv_ns">906</episode-num>
+  </programme>
+  <programme start="20261026023000 +0000" stop="20261026030000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Rubble-Double; Pups Save a Clown</sub-title>
+    <desc>Rubble dreams that he's been taken aboard a spaceship and meets his alien double; the Pups must save Humdinger and his kittens when they mess around with Blinky the Clown's tiny clown car.</desc>
+    <episode-num system="xmltv_ns">803</episode-num>
+  </programme>
+  <programme start="20261026030000 +0000" stop="20261026033000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Pluck-O-Matic; Pups Save a Mascot</sub-title>
+    <desc>Yumi's new Robo-Corn Plucker goes haywire; Ryder and the </desc>
+    <episode-num system="xmltv_ns">524</episode-num>
+  </programme>
+  <programme start="20261026033000 +0000" stop="20261026040000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Bat; Pups Save a Toof</sub-title>
+    <desc>A baby Bat decides to take a nap hanging from the Town Hall's bell so Mayor Goodway can't ring it; Chase and the pups show Alex how fear of the dentist can be conquered.</desc>
+    <episode-num system="xmltv_ns">121</episode-num>
+  </programme>
+  <programme start="20261026040000 +0000" stop="20261026042800 +0000" channel="nickjr-east">
+    <title>Bubble Guppies</title>
+    <sub-title>Fruit Camp!</sub-title>
+    <desc>Deema must turn over a new leaf and try broccoli if she wants to earn her broccoli badge at scout troop initiation.</desc>
+    <episode-num system="xmltv_ns">321</episode-num>
+  </programme>
+  <programme start="20261026042800 +0000" stop="20261026045600 +0000" channel="nickjr-east">
+    <title>Bubble Guppies</title>
+    <sub-title>The Arctic Life!</sub-title>
+    <desc>Gil embarks on an icy expedition to the North Pole.</desc>
+    <episode-num system="xmltv_ns">309</episode-num>
+  </programme>
+  <programme start="20261026045600 +0000" stop="20261026052400 +0000" channel="nickjr-east">
+    <title>Bubble Guppies</title>
+    <sub-title>Something Fishy Going On!</sub-title>
+    <desc>Police Officers Molly and Gil are tracking some mysterious lights that have been popping up around town; with the help of several nocturnal animal friends, they discover the lights aren't aliens but anglerfish.</desc>
+    <episode-num system="xmltv_ns">523</episode-num>
+  </programme>
+  <programme start="20261026052400 +0000" stop="20261026055100 +0000" channel="nickjr-east">
+    <title>Team Umizoomi</title>
+    <sub-title>Favorite Things Show</sub-title>
+    <desc>The team helps Emily find shells for </desc>
+    <episode-num system="xmltv_ns">108</episode-num>
+  </programme>
+  <programme start="20261026055100 +0000" stop="20261026061500 +0000" channel="nickjr-east">
+    <title>Team Umizoomi</title>
+    <sub-title>Boardwalk Games!</sub-title>
+    <desc>Milli, Geo and Bot play carnival games to earn tickets and help a boy win a special prize.</desc>
+    <episode-num system="xmltv_ns">311</episode-num>
+  </programme>
+  <programme start="20261026061500 +0000" stop="20261026063900 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups' Adventures in Babysitting; Pups Save the Fireworks</sub-title>
+    <desc>Mayor Goodway asks the PAW Patrol to rescue her twin niece and nephew from a tree; Mayor Goodway receives a package of piglets instead of the fireworks she was expecting.</desc>
+    <episode-num system="xmltv_ns">216</episode-num>
+  </programme>
+  <programme start="20261026063900 +0000" stop="20261026070400 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Liberty's Mountain Rescue; Pups Save a Flying Farmer Yumi</sub-title>
+    <desc>Liberty comes to visit the pups just in time to help save the Turbots and their radar Doppler in a daring mountain rescue; when Farmer Al builds a windmill, the wind takes Farmer Yumi and Garby on a wild flight.</desc>
+    <episode-num system="xmltv_ns">1010</episode-num>
+  </programme>
+  <programme start="20261026070400 +0000" stop="20261026072800 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Cat Pack/PAW Patrol Rescue: The Cat That Roared; Cat Pack/PAW Patrol Rescue: Saving the Safe</sub-title>
+    <desc>Leo and Rory join the PAW Patrol on a visit to the jungle; they end up rescuing a baby monkey; when Mayor Humdinger rebuilds Meow Meow to break into Mayor Goodway's new safe, the Cat Pack joins the PAW Patrol to save the day.</desc>
+    <episode-num system="xmltv_ns">904</episode-num>
+  </programme>
+  <programme start="20261026072800 +0000" stop="20261026075200 +0000" channel="nickjr-east">
+    <title>Rubble &amp;amp; Crew</title>
+    <sub-title>The Crew Builds a Big Bike Shop; The Crew Builds a Super Tub</sub-title>
+    <desc>Rubble and the pups work to build a big bike shop in time for the Bike Festival, unless Speed Meister beats them to it; when Motor won't take a bath before their family photo, it's up to Rubble and the pups to find a construction solution.</desc>
+    <episode-num system="xmltv_ns">102</episode-num>
+  </programme>
+  <programme start="20261026075200 +0000" stop="20261026081700 +0000" channel="nickjr-east">
+    <title>Rubble &amp;amp; Crew</title>
+    <sub-title>The Crew Builds a Giant Halloween Pumpkin</sub-title>
+    <desc>Rubble moves with his family of construction pups to the nearby town of Builder Cove where they live, play and build whatever the community needs.</desc>
+  </programme>
+  <programme start="20261026081700 +0000" stop="20261026084100 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a T-Rex Tyke; Pups Save a Playful Elephant Calf</sub-title>
+    <desc>When a baby T. rex gets lost, Ryder and the pups go on a mission to the Dino Wilds to help find him; when Everest joins the PAW Patrol for a visit to the jungle, she makes friends with a clumsy elephant calf and then must help rescue him.</desc>
+    <episode-num system="xmltv_ns">915</episode-num>
+  </programme>
+  <programme start="20261026084100 +0000" stop="20261026090500 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save the Bears; Pups Save a Farmerless Farm</sub-title>
+    <desc>The PAW Patrol works quietly to save sleeping bears and return them to their cave; with the farmers out of town, Mayor Goodway calls the PAW Patrol to wrangle animals and control the chaos on a farmerless farm.</desc>
+    <episode-num system="xmltv_ns">617</episode-num>
+  </programme>
+  <programme start="20261026090500 +0000" stop="20261026093000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Ultimate Rescue: Pups Save the Mountain Climbers; Ultimate Rescue: Pup Save Captain Gordy</sub-title>
+    <desc>Rubble leads the pups in building an emergency landing pad for Captain Gordy; Mayor Goodway, Danny and the Turbots are stuck in a canyon in the mountains.</desc>
+    <episode-num system="xmltv_ns">605</episode-num>
+  </programme>
+  <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="nickjr-east">
+    <title>PAW Patrol</title>
+    <sub-title>Liberty Makes a New Friend; Pups Save the Pup Pup Boogie Contest</sub-title>
+    <desc>Liberty mistakenly brings a bear into town, thinking it's someone's pet; she must fix her mistake and rescue Chickaletta; Francois' hot-air balloon goes out of control before the Pup Pup Boogie Contest; the Pups, with Liberty, race to the rescue.</desc>
+    <episode-num system="xmltv_ns">901</episode-num>
+  </programme>
+</tv>

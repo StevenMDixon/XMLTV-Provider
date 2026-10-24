@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="as-east">
+    <display-name>As East</display-name>
+    <icon src="https://www.adultswim.com/img/as-logo.svg"/>
+  </channel>
+  <programme start="20261023210000 +0000" stop="20261023213000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>A Real Who's Hulu</sub-title>
+    <desc>The Griffins spoof </desc>
+    <episode-num system="xmltv_ns">2204</episode-num>
+  </programme>
+  <programme start="20261023213000 +0000" stop="20261023220000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Fore, Father</sub-title>
+    <desc>Peter ignores Chris in favor of Cleveland's son, who shows a flair for the game of golf. Voices of Seth MacFarlane, Alex Borstein, Seth Green and Mila Kunis. Guest voices: Patrick Warburton, Nicole Sullivan and Phil LaMarr.</desc>
+    <episode-num system="xmltv_ns">216</episode-num>
+  </programme>
+  <programme start="20261023220000 +0000" stop="20261023223000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Peggy's Pageant Fever</sub-title>
+    <desc>Peggy competes in a beauty contest for the grand prize and is forced to make a tough decision. Voices of Mike Judge, Kathy Najimy, Pamela Segall and Brittany Murphy. Guest voices of Erik Estrada, Mary Kay Place, Carol Alt and Kathy Ireland.</desc>
+    <episode-num system="onscreen">3ABE07</episode-num>
+  </programme>
+  <programme start="20261023223000 +0000" stop="20261023230000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Pigmalion</sub-title>
+    <desc>A wealthy pork supplier (guest star Michael Keaton) takes a special interest in Luanne. Chuck Mangione also guest stars as himself.</desc>
+    <episode-num system="onscreen">5ABE23</episode-num>
+  </programme>
+  <programme start="20261023230000 +0000" stop="20261023233000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Fraud of the Dead: Zombie-docu-pocalypse</sub-title>
+    <desc>A documentary film profiling world-class archer Louise Belcher is interrupted by unexpected visitors.</desc>
+    <episode-num system="xmltv_ns">1308</episode-num>
+  </programme>
+  <programme start="20261023233000 +0000" stop="20261024000000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Mr. Safebody</sub-title>
+    <desc>Louise's schoolmate Arnold enlists her to direct a promotional video for his new bodyguarding business; a stolen car blasting 90s alternative rock is abandoned outside the restaurant.</desc>
+    <episode-num system="xmltv_ns">1414</episode-num>
+  </programme>
+  <programme start="20261024000000 +0000" stop="20261024003000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>You Are Here</sub-title>
+    <desc>Roger and Steve try to save a dying mall.</desc>
+    <episode-num system="xmltv_ns">1618</episode-num>
+  </programme>
+  <programme start="20261024003000 +0000" stop="20261024010000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>I Heard You Wanna Buy Some Speakers</sub-title>
+    <desc>Barry blows out his dad's speakers and Snot helps him replace them; Stan attempts to do a standing backflip.</desc>
+    <episode-num system="xmltv_ns">1615</episode-num>
+  </programme>
+  <programme start="20261024010000 +0000" stop="20261024013000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>A Real Who's Hulu</sub-title>
+    <desc>The Griffins spoof </desc>
+    <episode-num system="xmltv_ns">2204</episode-num>
+  </programme>
+  <programme start="20261024013000 +0000" stop="20261024020000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Fore, Father</sub-title>
+    <desc>Peter ignores Chris in favor of Cleveland's son, who shows a flair for the game of golf. Voices of Seth MacFarlane, Alex Borstein, Seth Green and Mila Kunis. Guest voices: Patrick Warburton, Nicole Sullivan and Phil LaMarr.</desc>
+    <episode-num system="xmltv_ns">216</episode-num>
+  </programme>
+  <programme start="20261024020000 +0000" stop="20261024023000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Peggy's Pageant Fever</sub-title>
+    <desc>Peggy competes in a beauty contest for the grand prize and is forced to make a tough decision. Voices of Mike Judge, Kathy Najimy, Pamela Segall and Brittany Murphy. Guest voices of Erik Estrada, Mary Kay Place, Carol Alt and Kathy Ireland.</desc>
+    <episode-num system="onscreen">3ABE07</episode-num>
+  </programme>
+  <programme start="20261024023000 +0000" stop="20261024030000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Pigmalion</sub-title>
+    <desc>A wealthy pork supplier (guest star Michael Keaton) takes a special interest in Luanne. Chuck Mangione also guest stars as himself.</desc>
+    <episode-num system="onscreen">5ABE23</episode-num>
+  </programme>
+  <programme start="20261024030000 +0000" stop="20261024033000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Summer of All Fears</sub-title>
+    <desc>Rick disciplines the kids.</desc>
+  </programme>
+  <programme start="20261024033000 +0000" stop="20261024040000 +0000" channel="as-east">
+    <title>Robot Chicken Walking Dead Special: Look Who's Walking</title>
+    <desc>An animated zombie apocalypse.</desc>
+  </programme>
+  <programme start="20261024040000 +0000" stop="20261024043000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Fraud of the Dead: Zombie-docu-pocalypse</sub-title>
+    <desc>A documentary film profiling world-class archer Louise Belcher is interrupted by unexpected visitors.</desc>
+    <episode-num system="xmltv_ns">1308</episode-num>
+  </programme>
+  <programme start="20261024043000 +0000" stop="20261024050000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Mr. Safebody</sub-title>
+    <desc>Louise's schoolmate Arnold enlists her to direct a promotional video for his new bodyguarding business; a stolen car blasting 90s alternative rock is abandoned outside the restaurant.</desc>
+    <episode-num system="xmltv_ns">1414</episode-num>
+  </programme>
+  <programme start="20261024050000 +0000" stop="20261024053000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>You Are Here</sub-title>
+    <desc>Roger and Steve try to save a dying mall.</desc>
+    <episode-num system="xmltv_ns">1618</episode-num>
+  </programme>
+  <programme start="20261024053000 +0000" stop="20261024060000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>I Heard You Wanna Buy Some Speakers</sub-title>
+    <desc>Barry blows out his dad's speakers and Snot helps him replace them; Stan attempts to do a standing backflip.</desc>
+    <episode-num system="xmltv_ns">1615</episode-num>
+  </programme>
+  <programme start="20261024060000 +0000" stop="20261024063000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>A Real Who's Hulu</sub-title>
+    <desc>The Griffins spoof </desc>
+    <episode-num system="xmltv_ns">2204</episode-num>
+  </programme>
+  <programme start="20261024063000 +0000" stop="20261024070000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Fore, Father</sub-title>
+    <desc>Peter ignores Chris in favor of Cleveland's son, who shows a flair for the game of golf. Voices of Seth MacFarlane, Alex Borstein, Seth Green and Mila Kunis. Guest voices: Patrick Warburton, Nicole Sullivan and Phil LaMarr.</desc>
+    <episode-num system="xmltv_ns">216</episode-num>
+  </programme>
+  <programme start="20261024070000 +0000" stop="20261024073000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Peggy's Pageant Fever</sub-title>
+    <desc>Peggy competes in a beauty contest for the grand prize and is forced to make a tough decision. Voices of Mike Judge, Kathy Najimy, Pamela Segall and Brittany Murphy. Guest voices of Erik Estrada, Mary Kay Place, Carol Alt and Kathy Ireland.</desc>
+    <episode-num system="onscreen">3ABE07</episode-num>
+  </programme>
+  <programme start="20261024073000 +0000" stop="20261024080000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Pigmalion</sub-title>
+    <desc>A wealthy pork supplier (guest star Michael Keaton) takes a special interest in Luanne. Chuck Mangione also guest stars as himself.</desc>
+    <episode-num system="onscreen">5ABE23</episode-num>
+  </programme>
+  <programme start="20261024080000 +0000" stop="20261024083000 +0000" channel="as-east">
+    <title>Bob and Margaret</title>
+    <sub-title>A Tale of Two Dentists</sub-title>
+    <desc>A new dentist arrives in town and has a dramatic effect on Bob's practice.</desc>
+  </programme>
+  <programme start="20261024083000 +0000" stop="20261024090000 +0000" channel="as-east">
+    <title>Bob and Margaret</title>
+    <sub-title>Bob's Burglary</sub-title>
+    <desc>Criminals clear Bob and Margaret's house and Bob makes an over-the-top insurance claim.</desc>
+  </programme>
+  <programme start="20261024090000 +0000" stop="20261024093000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Summer of All Fears</sub-title>
+    <desc>Rick disciplines the kids.</desc>
+  </programme>
+  <programme start="20261024093000 +0000" stop="20261024100000 +0000" channel="as-east">
+    <title>Robot Chicken Walking Dead Special: Look Who's Walking</title>
+    <desc>An animated zombie apocalypse.</desc>
+  </programme>
+  <programme start="20261024100000 +0000" stop="20261024210000 +0000" channel="as-east">
+    <title>Off Air</title>
+    <sub-title>Off Air</sub-title>
+    <desc>Off Air</desc>
+  </programme>
+  <programme start="20261024210000 +0000" stop="20261024213000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>To Spank, With Love</sub-title>
+    <desc>Peggy impresses the principal of Bobby's school when she substitutes for a teacher and disciplines the class.</desc>
+    <episode-num system="onscreen">3ABE03</episode-num>
+  </programme>
+  <programme start="20261024213000 +0000" stop="20261024220000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Exquisite Corpses</sub-title>
+    <desc>Jeff, Francine and Roger decide to team up and start their own bus tour business, with murderous results.</desc>
+    <episode-num system="xmltv_ns">1407</episode-num>
+  </programme>
+  <programme start="20261024220000 +0000" stop="20261024223000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Heartbreak Hotel-oween</sub-title>
+    <desc>Louise's plan to get revenge on Halloween for a candy transgression hits a snag when the Belcher kids meet a mysterious elderly woman at a hotel; Linda and a very squeamish Bob donate blood at a vampire-themed blood mobile.</desc>
+    <episode-num system="xmltv_ns">1004</episode-num>
+  </programme>
+  <programme start="20261024223000 +0000" stop="20261024230000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>The Pumpkinening</sub-title>
+    <desc>When a mysterious note is sent to Linda on Halloween, she and Gayle must travel to their hometown to face a wrong they committed 27 years ago.</desc>
+    <episode-num system="xmltv_ns">1102</episode-num>
+  </programme>
+  <programme start="20261024230000 +0000" stop="20261024233000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Halloween on Spooner Street</sub-title>
+    <desc>Peter and Joe perform painful and humiliating Halloween pranks on unsuspecting family and friends; Brian shows Stewie the ropes of trick or treating; Meg attends her first high school Halloween party.</desc>
+    <episode-num system="onscreen">8ACX06</episode-num>
+  </programme>
+  <programme start="20261024233000 +0000" stop="20261025000000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>The Thin White Line</sub-title>
+    <desc>Brian becomes the top dog at a local police department, where his nose gets him into trouble. Voices of Seth MacFarlane, Alex Borstein, Seth Green and Mila Kunis. Guest voices: Haley Joel Osment, Patrick Warburton and Leif Garrett.</desc>
+    <episode-num system="xmltv_ns">217</episode-num>
+  </programme>
+  <programme start="20261025000000 +0000" stop="20261025003000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Brian Does Hollywood</sub-title>
+    <desc>A down-and-out Brian takes a job directing a porno flick to impress the Griffins. Voices of Seth MacFarlane, Alex Borstein, Seth Green and Mila Kunis. Guest voices: Jenna Jameson, Ron Jeremy and Ray Liotta.</desc>
+    <episode-num system="xmltv_ns">220</episode-num>
+  </programme>
+  <programme start="20261025003000 +0000" stop="20261025010000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Good Hill Hunting</sub-title>
+    <desc>The fathers decide to take their sons deer hunting; Hank tries to teach Bobby how to drive. Voices of Mike Judge, Kathy Najimy, Pamela Segall and Brittany Murphy.</desc>
+    <episode-num system="onscreen">3ABE04</episode-num>
+  </programme>
+  <programme start="20261025010000 +0000" stop="20261025013000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>A Fire Fighting We Will Go</sub-title>
+    <desc>Trouble ensues when Hank, Bill, Dale and Boomhauer become volunteer firemen. Voices of Mike Judge, Kathy Najimy, Pamela Segall and Johnny Hardwick. Guest voice: Barry Corbin.</desc>
+    <episode-num system="onscreen">3ABE11</episode-num>
+  </programme>
+  <programme start="20261025013000 +0000" stop="20261025020000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>To Spank, With Love</sub-title>
+    <desc>Peggy impresses the principal of Bobby's school when she substitutes for a teacher and disciplines the class.</desc>
+    <episode-num system="onscreen">3ABE03</episode-num>
+  </programme>
+  <programme start="20261025020000 +0000" stop="20261025034500 +0000" channel="as-east">
+    <title>Movie</title>
+    <sub-title>Aztec Batman: Clash of Empires</sub-title>
+    <desc>A young Aztec boy escapes to Tenochtitlan after his father is murdered by Spanish conquistadors. There, he trains in the temple of the bat god Tzinacan, and develops weaponry to avenge his father's death.</desc>
+  </programme>
+  <programme start="20261025034500 +0000" stop="20261025040000 +0000" channel="as-east">
+    <title>Smiling Friends</title>
+    <sub-title>Curse of the Green Halloween Witch</sub-title>
+    <desc>A Halloween witch puts a curse on Smiling Friends office on Halloween.</desc>
+  </programme>
+  <programme start="20261025040000 +0000" stop="20261025043000 +0000" channel="as-east">
+    <title>Get Jiro!</title>
+    <sub-title>Pressure Cooker</sub-title>
+    <desc>An injured Jiro is relentlessly pursued by Bob's goons; left with no choice, Jiro is forced to prepare a special omakase for Bob's right-hand man.</desc>
+  </programme>
+  <programme start="20261025043000 +0000" stop="20261025050000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Exquisite Corpses</sub-title>
+    <desc>Jeff, Francine and Roger decide to team up and start their own bus tour business, with murderous results.</desc>
+    <episode-num system="xmltv_ns">1407</episode-num>
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025053000 +0000" channel="as-east">
+    <title>President Curtis</title>
+    <sub-title>Triangle</sub-title>
+    <desc>After a dead Loch Ness monster washes ashore, Curtis, Banks and O'Doyle investigate a secret monster prison in the Bermuda Triangle.</desc>
+  </programme>
+  <programme start="20261025053000 +0000" stop="20261025060000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Night Family</sub-title>
+    <desc>The family discover Rick has been using some new technology that they want to try too; after obliging, classic Rick and Morty chaos ensues.</desc>
+    <episode-num system="xmltv_ns">605</episode-num>
+  </programme>
+  <programme start="20261025060000 +0000" stop="20261025074500 +0000" channel="as-east">
+    <title>Movie</title>
+    <sub-title>Aztec Batman: Clash of Empires</sub-title>
+    <desc>A young Aztec boy escapes to Tenochtitlan after his father is murdered by Spanish conquistadors. There, he trains in the temple of the bat god Tzinacan, and develops weaponry to avenge his father's death.</desc>
+  </programme>
+  <programme start="20261025074500 +0000" stop="20261025080000 +0000" channel="as-east">
+    <title>Smiling Friends</title>
+    <sub-title>Curse of the Green Halloween Witch</sub-title>
+    <desc>A Halloween witch puts a curse on Smiling Friends office on Halloween.</desc>
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025094500 +0000" channel="as-east">
+    <title>Movie</title>
+    <sub-title>Aztec Batman: Clash of Empires</sub-title>
+    <desc>A young Aztec boy escapes to Tenochtitlan after his father is murdered by Spanish conquistadors. There, he trains in the temple of the bat god Tzinacan, and develops weaponry to avenge his father's death.</desc>
+  </programme>
+  <programme start="20261025094500 +0000" stop="20261025100000 +0000" channel="as-east">
+    <title>Smiling Friends</title>
+    <sub-title>Curse of the Green Halloween Witch</sub-title>
+    <desc>A Halloween witch puts a curse on Smiling Friends office on Halloween.</desc>
+  </programme>
+  <programme start="20261025100000 +0000" stop="20261025210000 +0000" channel="as-east">
+    <title>Off Air</title>
+    <sub-title>Off Air</sub-title>
+    <desc>Off Air</desc>
+  </programme>
+  <programme start="20261025210000 +0000" stop="20261025213000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>The Wedding of Bobby Hill</sub-title>
+    <desc>Hank, Peggy and Luanne teach Bobby a lesson when he replaces Luanne's birth control pills with candy.</desc>
+    <episode-num system="onscreen">3ABE09</episode-num>
+  </programme>
+  <programme start="20261025213000 +0000" stop="20261025220000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Steve's Franken Out</sub-title>
+    <desc>When Principal Lewis threatens to cancel science club, Steve takes matters into his own hands in a monstrous way.</desc>
+  </programme>
+  <programme start="20261025220000 +0000" stop="20261025223000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Apple Gore-chard! (But Not Gory)</sub-title>
+    <desc>Louise suspects there's something sinister afoot during a Halloween field trip to an apple orchard; Tina and Gene hope to win the school costume parade.</desc>
+    <episode-num system="xmltv_ns">1205</episode-num>
+  </programme>
+  <programme start="20261025223000 +0000" stop="20261025230000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Full Bars</sub-title>
+    <desc>The Belcher kids ditch their usual trick-or-treating route and head to a neighborhood known for distributing full-size candy bars; Linda and Bob go to Teddy's </desc>
+    <episode-num system="onscreen">2ASA17</episode-num>
+  </programme>
+  <programme start="20261025230000 +0000" stop="20261025233000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Must Love Dogs</sub-title>
+    <desc>Quagmire meets an avid dog lover and pretends Brian is his dog in an attempt to win her over; Chris helps Stewie track down the culprit who stole his Halloween candy.</desc>
+    <episode-num system="xmltv_ns">1818</episode-num>
+  </programme>
+  <programme start="20261025233000 +0000" stop="20261026000000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Mr. Griffin Goes to Washington</sub-title>
+    <desc>Peter's company sends him to Washington, D.C., to give a speech on the benefits of smoking cigarettes.</desc>
+    <episode-num system="xmltv_ns">211</episode-num>
+  </programme>
+  <programme start="20261026000000 +0000" stop="20261026003000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>One if by Clam, Two if by Sea</sub-title>
+    <desc>Peter's favorite bar, the Drunken Clam, is turned into a British-style pub after being razed by a hurricane.</desc>
+    <episode-num system="xmltv_ns">219</episode-num>
+  </programme>
+  <programme start="20261026003000 +0000" stop="20261026010000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Three Coaches and a Bobby</sub-title>
+    <desc>Bobby pleases his assistant football coach father by joining the team. Voices of Mike Judge, Kathy Najimy, Pamela Segall and Brittany Murphy.</desc>
+    <episode-num system="onscreen">3ABE12</episode-num>
+  </programme>
+  <programme start="20261026010000 +0000" stop="20261026013000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>De-Kahnstructing Henry</sub-title>
+    <desc>When Hank tours a military lab, he spills the beans to blabbermouth Bill about a top-secret project. Voices of Mike Judge, Kathy Najimy, Pamela Segall and Brittany Murphy. Guest voice of Chuck Mangione.</desc>
+    <episode-num system="onscreen">3ABE14</episode-num>
+  </programme>
+  <programme start="20261026013000 +0000" stop="20261026020000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>The Wedding of Bobby Hill</sub-title>
+    <desc>Hank, Peggy and Luanne teach Bobby a lesson when he replaces Luanne's birth control pills with candy.</desc>
+    <episode-num system="onscreen">3ABE09</episode-num>
+  </programme>
+  <programme start="20261026020000 +0000" stop="20261026023000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Steve's Franken Out</sub-title>
+    <desc>When Principal Lewis threatens to cancel science club, Steve takes matters into his own hands in a monstrous way.</desc>
+  </programme>
+  <programme start="20261026023000 +0000" stop="20261026024500 +0000" channel="as-east">
+    <title>The Great Yokai Battle of Akihabara</title>
+    <desc>Rick plans to build the ultimate AI toaster; things take a strange turn when he and Morty are forced to travel to Akihabara for spare parts.</desc>
+  </programme>
+  <programme start="20261026024500 +0000" stop="20261026030000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Rick and Morty in the Eternal Nightmare Machine</sub-title>
+    <desc>The simulation is corrupt; repair the core.</desc>
+  </programme>
+  <programme start="20261026030000 +0000" stop="20261026031500 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Happy Russian Deathdog Dolloween 2 U</sub-title>
+    <desc>The trials and tribulations of a time-twisted teenager's toxic tussle with tons of terror on Halloween.</desc>
+  </programme>
+  <programme start="20261026031500 +0000" stop="20261026033000 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Slaughterhouse on the Prairie</sub-title>
+    <desc>She-Ra's time of the month; Danny Zuko and the </desc>
+    <episode-num system="xmltv_ns">55</episode-num>
+  </programme>
+  <programme start="20261026033000 +0000" stop="20261026040000 +0000" channel="as-east">
+    <title>President Curtis</title>
+    <sub-title>Ex</sub-title>
+    <desc>Curtis gets an invite to his ex-wife's inauguration gala, while Banks and O'Doyle are forced to undergo a job evaluation at a fully-immersive offsite facility.</desc>
+  </programme>
+  <programme start="20261026040000 +0000" stop="20261026041500 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>Really Interesting</sub-title>
+    <desc>I'm Batman, I think; some guy keeps booking the lactation room.</desc>
+  </programme>
+  <programme start="20261026041500 +0000" stop="20261026043000 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>Finally Got a Good Therapist.</sub-title>
+    <desc>Dr. Thomas has been helping me a lot.</desc>
+  </programme>
+  <programme start="20261026043000 +0000" stop="20261026044500 +0000" channel="as-east">
+    <title>The Great Yokai Battle of Akihabara</title>
+    <desc>Rick plans to build the ultimate AI toaster; things take a strange turn when he and Morty are forced to travel to Akihabara for spare parts.</desc>
+  </programme>
+  <programme start="20261026044500 +0000" stop="20261026050000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Rick and Morty in the Eternal Nightmare Machine</sub-title>
+    <desc>The simulation is corrupt; repair the core.</desc>
+  </programme>
+  <programme start="20261026050000 +0000" stop="20261026051500 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Happy Russian Deathdog Dolloween 2 U</sub-title>
+    <desc>The trials and tribulations of a time-twisted teenager's toxic tussle with tons of terror on Halloween.</desc>
+  </programme>
+  <programme start="20261026051500 +0000" stop="20261026053000 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Slaughterhouse on the Prairie</sub-title>
+    <desc>She-Ra's time of the month; Danny Zuko and the </desc>
+    <episode-num system="xmltv_ns">55</episode-num>
+  </programme>
+  <programme start="20261026053000 +0000" stop="20261026060000 +0000" channel="as-east">
+    <title>President Curtis</title>
+    <sub-title>Ex</sub-title>
+    <desc>Curtis gets an invite to his ex-wife's inauguration gala, while Banks and O'Doyle are forced to undergo a job evaluation at a fully-immersive offsite facility.</desc>
+  </programme>
+  <programme start="20261026060000 +0000" stop="20261026061500 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>Really Interesting</sub-title>
+    <desc>I'm Batman, I think; some guy keeps booking the lactation room.</desc>
+  </programme>
+  <programme start="20261026061500 +0000" stop="20261026063000 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>Finally Got a Good Therapist.</sub-title>
+    <desc>Dr. Thomas has been helping me a lot.</desc>
+  </programme>
+  <programme start="20261026063000 +0000" stop="20261026064500 +0000" channel="as-east">
+    <title>Smiling Friends</title>
+    <sub-title>A Silly Halloween Special</sub-title>
+    <desc>Pim ventures into the forest across the road to fetch firewood for the office Halloween party.</desc>
+  </programme>
+  <programme start="20261026064500 +0000" stop="20261026070000 +0000" channel="as-east">
+    <title>Smiling Friends</title>
+    <sub-title>Curse of the Green Halloween Witch</sub-title>
+    <desc>A Halloween witch puts a curse on Smiling Friends office on Halloween.</desc>
+  </programme>
+  <programme start="20261026070000 +0000" stop="20261026073000 +0000" channel="as-east">
+    <title>Get Jiro!</title>
+    <sub-title>Meat Is Murder</sub-title>
+    <desc>Jiro is tasked with making a special delivery to an L.A. food festival, but must survive a gauntlet of bounty hunter food trucks along the way.</desc>
+  </programme>
+  <programme start="20261026073000 +0000" stop="20261026080000 +0000" channel="as-east">
+    <title>Ninja Kamui</title>
+    <desc>Higan learns that a string of recent murder victims were all former ninjas who had their covers blown; Higan goes after the boss ninja and swears to take revenge for his dead wife and son by crushing the organization.</desc>
+  </programme>
+  <programme start="20261026080000 +0000" stop="20261026083000 +0000" channel="as-east">
+    <title>Common Side Effects</title>
+    <sub-title>Amelia &amp;amp; Wyatt</sub-title>
+    <desc>Marshall meets an old friend and forges a new plan; Frances receives terrible news and feels torn by it.</desc>
+  </programme>
+  <programme start="20261026083000 +0000" stop="20261026090000 +0000" channel="as-east">
+    <title>Genndy Tartakovsky's Primal</title>
+    <sub-title>The Primal Theory</sub-title>
+    <desc>In England, 1890, a group of gentlemen scientists disagree that modern man is no different to his primitive ancestors, until they are forced to take up weapons to defend themselves against a dangerous escaped criminal.</desc>
+    <episode-num system="xmltv_ns">15</episode-num>
+  </programme>
+  <programme start="20261026090000 +0000" stop="20261026093000 +0000" channel="as-east">
+    <title>Samurai Jack</title>
+    <sub-title>XXXV</sub-title>
+    <desc>When Jack enters a spooky, old mansion and gets locked inside, he catches sight of a figure and sets after it to find out what is going on; Jack discovers that the house and its inhabitants have an evil plan that involves him.</desc>
+    <episode-num system="xmltv_ns">35</episode-num>
+  </programme>
+  <programme start="20261026093000 +0000" stop="20261026094500 +0000" channel="as-east">
+    <title>Space Ghost: Coast to Coast</title>
+    <sub-title>King Dead</sub-title>
+    <desc>H. Jon Benjamin gets kidnapped by Zorak and Moltar as they hold Space Ghost's apartment hostage.</desc>
+  </programme>
+  <programme start="20261026094500 +0000" stop="20261026100000 +0000" channel="as-east">
+    <title>Space Ghost: Coast to Coast</title>
+    <sub-title>Kentucky Nightmare Liquor</sub-title>
+    <desc>A failing liquor chain purchases the show, forcing Space Ghost to plug the company when asking Willie Nelson questions.</desc>
+  </programme>
+</tv>
