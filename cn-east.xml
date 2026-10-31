@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="cn-east">
+    <display-name>Cn East</display-name>
+    <icon src="https://static.wikia.nocookie.net/youtube/images/3/3e/Cartoon_Network.jpeg/revision/latest/scale-to-width-down/268?cb=20250222103744"/>
+  </channel>
+  <programme start="20261030100000 +0000" stop="20261030101200 +0000" channel="cn-east">
+    <title>Batwheels</title>
+    <sub-title>Oh Crow You Don't</sub-title>
+    <desc>The Batwheels investigate a spooky mystery while camping out in the woods beyond Gotham.</desc>
+  </programme>
+  <programme start="20261030101200 +0000" stop="20261030102800 +0000" channel="cn-east">
+    <title>Bugs Bunny Builders</title>
+    <sub-title>Spellbound</sub-title>
+    <desc>It's Halloween and the Looney crew try to make Witch Hazel's house scarier; they use magical things and become enchanted themselves.</desc>
+  </programme>
+  <programme start="20261030102800 +0000" stop="20261030105600 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>Terror Tales of the Park</sub-title>
+    <desc>An old RV is haunted by an '80s death metal band; Mordecai and Rigby discover an old Victorian doll that Pops has not played with since he was a child.</desc>
+  </programme>
+  <programme start="20261030105600 +0000" stop="20261030110000 +0000" channel="cn-east">
+    <title>The Heroic Quest of the Valiant Prince Ivandoe</title>
+    <sub-title>The Prince and the Hissy Swan</sub-title>
+    <desc>Ivandoe comes face to face with a cocky young swan prince. To settle their differences they engage in a good old-fashioned Prince-Off with the help of their trusty squires. Ivandoe's underwhelming royal roar unexpectedly saves the day.</desc>
+  </programme>
+  <programme start="20261030110000 +0000" stop="20261030112800 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>Terror Tales of the Park II</sub-title>
+    <desc>Mordecai and Rigby tell scary stories while traveling to a Halloween party.</desc>
+  </programme>
+  <programme start="20261030112800 +0000" stop="20261030114000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>Halloween</sub-title>
+    <desc>Carrie, Gumball, Darwin and Anais go to a haunted house party on Halloween.</desc>
+    <episode-num system="xmltv_ns">25833406</episode-num>
+  </programme>
+  <programme start="20261030114000 +0000" stop="20261030115600 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Mirror</sub-title>
+    <desc>Against Darwin's advice, Gumball refuses to forward a scare email, bringing down a curse on the whole family.</desc>
+  </programme>
+  <programme start="20261030115600 +0000" stop="20261030120800 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Vacation</sub-title>
+    <desc>The Wattersons go on vacation and wind up running for their lives.</desc>
+  </programme>
+  <programme start="20261030120800 +0000" stop="20261030122400 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Scam</sub-title>
+    <desc>Carrie backs up Gumball's story about a monster, and the students want to hire them as ghost exterminators for Halloween candy.</desc>
+    <episode-num system="xmltv_ns">85</episode-num>
+  </programme>
+  <programme start="20261030122400 +0000" stop="20261030123600 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Ghost With the Most</sub-title>
+    <desc>When the Halloween Spirit is kidnapped, the Titans must team up with Beetlejuice to save the holiday.</desc>
+    <episode-num system="xmltv_ns">305</episode-num>
+  </programme>
+  <programme start="20261030123600 +0000" stop="20261030125200 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Pepo the Pumpkinman</sub-title>
+    <desc>A magic hat brings the Titans' pumpkin man to life, but they have to figure out how to keep Pepo from rotting.</desc>
+    <episode-num system="xmltv_ns">335</episode-num>
+  </programme>
+  <programme start="20261030125200 +0000" stop="20261030130400 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>EEbows</sub-title>
+    <desc>Tired of getting pinched, the Titans' elbows rebel and soon bend the very fabric of time and space.</desc>
+  </programme>
+  <programme start="20261030130400 +0000" stop="20261030133200 +0000" channel="cn-east">
+    <title>Total Dramarama</title>
+    <sub-title>Gwen Scary, Gwen Lost</sub-title>
+    <desc>Chef is devastated when he discovers his spooky Halloween pranks have never scared the kids; determined to finally get them, he agrees to hand over full control of his pranking to Gwen, whose plan turns out far spookier than Chef ever hoped.</desc>
+    <episode-num system="onscreen">231/232</episode-num>
+  </programme>
+  <programme start="20261030133200 +0000" stop="20261030134400 +0000" channel="cn-east">
+    <title>Craig of the Creek</title>
+    <sub-title>Sleep Talk JP</sub-title>
+    <desc>Another side of JP is revealed.</desc>
+  </programme>
+  <programme start="20261030134400 +0000" stop="20261030140000 +0000" channel="cn-east">
+    <title>Craig of the Creek</title>
+    <sub-title>The Slumber Party</sub-title>
+    <desc>Craig and his friends compete in a series of cutthroat games to win Eliza's mystery prize.</desc>
+  </programme>
+  <programme start="20261030140000 +0000" stop="20261030143000 +0000" channel="cn-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>Farmed and Dangerous</sub-title>
+    <desc>The gang goes to visit the Secret Six Puppies and discovers that a mysterious Demon Farmer haunts their farmhouse.</desc>
+    <episode-num system="onscreen">33A</episode-num>
+  </programme>
+  <programme start="20261030143000 +0000" stop="20261030150000 +0000" channel="cn-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>Block-Long Hong Kong Terror!</sub-title>
+    <desc>A trip to Hong Kong turns into yet another mystery for the gang to solve.</desc>
+    <episode-num system="onscreen">37A</episode-num>
+  </programme>
+  <programme start="20261030150000 +0000" stop="20261030153000 +0000" channel="cn-east">
+    <title>The Scooby-Doo Show</title>
+    <sub-title>Hang in There, Scooby-Doo</sub-title>
+    <desc>The gang heads to the southwest to watch a hang gliding contest, only to run into a ghostly pterodactyl.</desc>
+  </programme>
+  <programme start="20261030153000 +0000" stop="20261030160000 +0000" channel="cn-east">
+    <title>The Scooby-Doo Show</title>
+    <sub-title>The Creepy Heap from the Deep</sub-title>
+    <desc>The gang is having a beach party when a bizarre monster emerges from the deep; soon after they meet an old sea captain who tells them about the monster, only to have it steal his soul.</desc>
+    <episode-num system="xmltv_ns">15787276</episode-num>
+  </programme>
+  <programme start="20261030160000 +0000" stop="20261030161000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Zipping Along</sub-title>
+    <desc>Coyote tries using hypnosis, string-rigged rifles and mousetraps to catch the Road Runner.</desc>
+  </programme>
+  <programme start="20261030161000 +0000" stop="20261030162000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Duck Amuck</sub-title>
+    <desc>Daffy Duck is tormented by an animator's hand, who constantly changes locations, props and traps for Daffy to fall into.</desc>
+  </programme>
+  <programme start="20261030162000 +0000" stop="20261030163000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Hare Trimmed</sub-title>
+    <desc>Granny finds herself in a love triangle between Sam and Bugs both fighting for her hand in marriage, Sam for money, Bugs for good deeds. Sam tries to seduce her, and Bugs challenges Sam to a gentlemen's duel.</desc>
+  </programme>
+  <programme start="20261030163000 +0000" stop="20261030164000 +0000" channel="cn-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Cat Napping</sub-title>
+    <desc>Jerry is snoozing on a hammock but Tom wants it for himself.</desc>
+  </programme>
+  <programme start="20261030164000 +0000" stop="20261030165000 +0000" channel="cn-east">
+    <title>Tom and Jerry</title>
+    <sub-title>The Flying Cat</sub-title>
+    <desc>Using cheese as bait, Tom lures Jerry into a trap, but his meal gets stolen by a passing hawk.</desc>
+  </programme>
+  <programme start="20261030165000 +0000" stop="20261030170000 +0000" channel="cn-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Fit to Be Tied</sub-title>
+    <desc>After Jerry helps Spike remove a nail from his paw, Spike becomes Jerry's protector.</desc>
+  </programme>
+  <programme start="20261030170000 +0000" stop="20261030171500 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Batman's Birthday Gift</sub-title>
+    <desc>The Titans join Robin as he travels to deliver a birthday gift to Batman, but they are detoured several times along the way.</desc>
+    <episode-num system="xmltv_ns">332</episode-num>
+  </programme>
+  <programme start="20261030171500 +0000" stop="20261030173000 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>What a Boy Wonders</sub-title>
+    <desc>Robin forms a book club to debut his new autobiography, but the Titans would rather discuss other books.</desc>
+    <episode-num system="xmltv_ns">334</episode-num>
+  </programme>
+  <programme start="20261030173000 +0000" stop="20261030174500 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Haunted Tank</sub-title>
+    <desc>At a Halloween festival, the Titans meet the famous Haunted Tank and its ghostly inhabitant, Gen. Tucker.</desc>
+  </programme>
+  <programme start="20261030174500 +0000" stop="20261030180000 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Not a Halloween Special</sub-title>
+    <desc>The Titans decide to not produce a Halloween special this year but soon discover they may not have a choice.</desc>
+  </programme>
+  <programme start="20261030180000 +0000" stop="20261030181500 +0000" channel="cn-east">
+    <title>Over the Garden Wall</title>
+    <sub-title>Chapter 1: The Old Grist Mill</sub-title>
+    <desc>While lost in the woods of the Unknown, brothers Wirt and Gregory run into a jaded old woodsman who warns them to beware of a beast.</desc>
+    <episode-num system="xmltv_ns">1</episode-num>
+  </programme>
+  <programme start="20261030181500 +0000" stop="20261030183000 +0000" channel="cn-east">
+    <title>Over the Garden Wall</title>
+    <sub-title>Chapter 2: Hard Times at the Huskin' Bee</sub-title>
+    <desc>Wirt refuses a bluebird's help and winds up wandering into a huge mess of trouble at the annual Pottsfield harvest festival.</desc>
+    <episode-num system="xmltv_ns">2</episode-num>
+  </programme>
+  <programme start="20261030183000 +0000" stop="20261030184500 +0000" channel="cn-east">
+    <title>Over the Garden Wall</title>
+    <sub-title>Chapter 3: Schooltown Follies</sub-title>
+    <desc>Wirt, Greg and Beatrice get all mixed up in the musical antics of a schoolhouse of animals, a lovelorn teacher, a grouchy old benefactor and an escaped gorilla.</desc>
+    <episode-num system="xmltv_ns">3</episode-num>
+  </programme>
+  <programme start="20261030184500 +0000" stop="20261030190000 +0000" channel="cn-east">
+    <title>Over the Garden Wall</title>
+    <sub-title>Chapter 4: Songs of the Dark Lantern</sub-title>
+    <desc>Beatrice is left out in the rain with a brainless horse; Wirt and Greg ask for directions in a lively colonial tavern called The Dark Lantern.</desc>
+    <episode-num system="xmltv_ns">4</episode-num>
+  </programme>
+  <programme start="20261030190000 +0000" stop="20261030191500 +0000" channel="cn-east">
+    <title>Over the Garden Wall</title>
+    <sub-title>Chapter 5: Mad Love</sub-title>
+    <desc>Quincy Endicott's sprawling mansion may be haunted by a beautiful ghost; Wirt and Beatrice get trapped in an armoire while searching for loose change.</desc>
+    <episode-num system="xmltv_ns">5</episode-num>
+  </programme>
+  <programme start="20261030191500 +0000" stop="20261030193000 +0000" channel="cn-east">
+    <title>Over the Garden Wall</title>
+    <sub-title>Chapter 6: Lullaby in Frogland</sub-title>
+    <desc>Wirt and Greg take a lighthearted romp aboard the Frogland Ferry; Greg realizes that his own frog may be better off living with his amphibian compatriots.</desc>
+    <episode-num system="xmltv_ns">6</episode-num>
+  </programme>
+  <programme start="20261030193000 +0000" stop="20261030194500 +0000" channel="cn-east">
+    <title>Over the Garden Wall</title>
+    <sub-title>Chapter 7: The Ringing of the Bell</sub-title>
+    <desc>An unexpected darkness tears the gang apart; Wirt takes charge and meets Loma.</desc>
+    <episode-num system="xmltv_ns">7</episode-num>
+  </programme>
+  <programme start="20261030194500 +0000" stop="20261030200000 +0000" channel="cn-east">
+    <title>Over the Garden Wall</title>
+    <sub-title>Chapter 8: Babes in the Wood</sub-title>
+    <desc>Wirt and Greg are drawn into a dream world of cherubs, flowers and clouds where Greg must battle the North Wind; Wirt gives up hope of getting home.</desc>
+    <episode-num system="xmltv_ns">8</episode-num>
+  </programme>
+  <programme start="20261030200000 +0000" stop="20261030201500 +0000" channel="cn-east">
+    <title>Over the Garden Wall</title>
+    <sub-title>Chapter 9: Into the Unknown</sub-title>
+    <desc>The origin of Wirt and Greg's descent into the unknown reveals itself.</desc>
+    <episode-num system="xmltv_ns">9</episode-num>
+  </programme>
+  <programme start="20261030201500 +0000" stop="20261030203000 +0000" channel="cn-east">
+    <title>Over the Garden Wall</title>
+    <sub-title>Chapter 10: The Unknown</sub-title>
+    <desc>The Beast has come; the final chapter begins.</desc>
+    <episode-num system="xmltv_ns">10</episode-num>
+  </programme>
+  <programme start="20261030203000 +0000" stop="20261030210000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Regular Show Presents: Terror Tales of the Park VII Halloween Special</sub-title>
+    <desc>Some new Halloween stories!</desc>
+  </programme>
+  <programme start="20261031100000 +0000" stop="20261031103000 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>Terror Tales of the Park III</sub-title>
+    <desc>Each of the park guys tries to win a bet by telling the scariest story at a Halloween party; the tales unsettle everyone.</desc>
+  </programme>
+  <programme start="20261031103000 +0000" stop="20261031110000 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>Terror Tales of the Park II</sub-title>
+    <desc>Mordecai and Rigby tell scary stories while traveling to a Halloween party.</desc>
+  </programme>
+  <programme start="20261031110000 +0000" stop="20261031113000 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>Terror Tales of the Park IV</sub-title>
+    <desc>While en route to visit Muscle Man's mother, the guys tell scary stories to keep Muscle Man from falling asleep.</desc>
+    <episode-num system="onscreen">161/162</episode-num>
+  </programme>
+  <programme start="20261031113000 +0000" stop="20261031120000 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>Terror Tales of the Park V</sub-title>
+    <desc>Benson tries to spice up the park's annual Halloween party by renting a wish making machine.</desc>
+    <episode-num system="onscreen">193/194</episode-num>
+  </programme>
+  <programme start="20261031120000 +0000" stop="20261031123000 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>Terror Tales of the Park VI</sub-title>
+    <desc>The gang tells scary stories with a science fiction twist.</desc>
+    <episode-num system="onscreen">244/245</episode-num>
+  </programme>
+  <programme start="20261031123000 +0000" stop="20261031130000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Regular Show Presents: Terror Tales of the Park VII Halloween Special</sub-title>
+    <desc>Some new Halloween stories!</desc>
+  </programme>
+  <programme start="20261031130000 +0000" stop="20261031131500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Artist's Block</sub-title>
+    <desc>Mordecai gets freaked out by someone he used to babysit.</desc>
+  </programme>
+  <programme start="20261031131500 +0000" stop="20261031133000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Clean the Living Room</sub-title>
+    <desc>A covert mission must be completed before cleaning the living room.</desc>
+  </programme>
+  <programme start="20261031133000 +0000" stop="20261031134000 +0000" channel="cn-east">
+    <title>Grizzy and the Lemmings</title>
+    <sub-title>Safari Express</sub-title>
+    <desc>In order to win a trophy filled with Yummy candies, Grizzy and the Lemmings take part in a safari photo competition on an animal reserve.</desc>
+  </programme>
+  <programme start="20261031134000 +0000" stop="20261031135000 +0000" channel="cn-east">
+    <title>Grizzy and the Lemmings</title>
+    <sub-title>False Children</sub-title>
+    <desc>While Grizzy organizes a picnic alongside the pond, the Lemmings steal his jar of Yummy.</desc>
+  </programme>
+  <programme start="20261031135000 +0000" stop="20261031140000 +0000" channel="cn-east">
+    <title>Grizzy and the Lemmings</title>
+    <sub-title>Game of Stone</sub-title>
+    <desc>Chased by a raging elephant, Grizzy and the Lemmings are ejected from the cabin and land on a small nearby promontory, where one of the rodents is mistaken for being the Savannah animals' king.</desc>
+  </programme>
+  <programme start="20261031140000 +0000" stop="20261031141500 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Not a Halloween Special</sub-title>
+    <desc>The Titans decide to not produce a Halloween special this year but soon discover they may not have a choice.</desc>
+  </programme>
+  <programme start="20261031141500 +0000" stop="20261031143000 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Haunted Tank</sub-title>
+    <desc>At a Halloween festival, the Titans meet the famous Haunted Tank and its ghostly inhabitant, Gen. Tucker.</desc>
+  </programme>
+  <programme start="20261031143000 +0000" stop="20261031144500 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Welcome to Halloween</sub-title>
+    <desc>While the Titans and Pepo continue their journey, they escape the cold in a nearby castle and happen upon Krampus.</desc>
+  </programme>
+  <programme start="20261031144500 +0000" stop="20261031150000 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Pepo the Pumpkinman</sub-title>
+    <desc>A magic hat brings the Titans' pumpkin man to life, but they have to figure out how to keep Pepo from rotting.</desc>
+    <episode-num system="xmltv_ns">335</episode-num>
+  </programme>
+  <programme start="20261031150000 +0000" stop="20261031151500 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Azarath, Metrion Bookstore; Bookyman</sub-title>
+    <desc>Raven returns to Azarath to help out Trigon and Nana at the family bookstore, and learns a lot about her father; when Trigon claims to not be afraid of anything, Nana reminds him of a childhood fear.</desc>
+  </programme>
+  <programme start="20261031151500 +0000" stop="20261031153000 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>The Great Azarathian Face Off; Original Idea</sub-title>
+    <desc>When a visiting author notices the magical abilities of the bookstore gang, she invites them to be contestants on a new TV show; after Trigon proclaims the entire bookstore is his domain, Nana informs him that he has no control in the public domain.</desc>
+  </programme>
+  <programme start="20261031153000 +0000" stop="20261031154500 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Bookyman</sub-title>
+    <desc>The powerful Trigon has to admit to his family that he still suffers from fears from his childhood; something unexpected happens.</desc>
+  </programme>
+  <programme start="20261031154500 +0000" stop="20261031160000 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Unleashed</sub-title>
+    <desc>Trigon shows off his collection of conquered planets, which includes Acmetropolis.</desc>
+  </programme>
+  <programme start="20261031160000 +0000" stop="20261031161500 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Original Idea</sub-title>
+    <desc>After Trigon proclaims the entire bookstore is his domain, Nana informs him that he has no control in the public domain.</desc>
+  </programme>
+  <programme start="20261031161500 +0000" stop="20261031163000 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Not a Halloween Special</sub-title>
+    <desc>The Titans decide to not produce a Halloween special this year but soon discover they may not have a choice.</desc>
+  </programme>
+  <programme start="20261031163000 +0000" stop="20261031164500 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>Halloween</sub-title>
+    <desc>Carrie, Gumball, Darwin and Anais go to a haunted house party on Halloween.</desc>
+    <episode-num system="xmltv_ns">25833406</episode-num>
+  </programme>
+  <programme start="20261031164500 +0000" stop="20261031170000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Mirror</sub-title>
+    <desc>Against Darwin's advice, Gumball refuses to forward a scare email, bringing down a curse on the whole family.</desc>
+  </programme>
+  <programme start="20261031170000 +0000" stop="20261031171500 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Ghouls</sub-title>
+    <desc>Halloween isn't what it used to be, so Gumball and Darwin try to help the ghouls get their scare back.</desc>
+    <episode-num system="xmltv_ns">177</episode-num>
+  </programme>
+  <programme start="20261031171500 +0000" stop="20261031173000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Gumball Chronicles: The Curse of Elmore</sub-title>
+    <desc>When Gumball's schoolfriend Leslie finds an old videotape, the creepy mystery of Elmore's ghostly past unfolds; featuring spooky and hilarious clips from the first six seasons of </desc>
+  </programme>
+  <programme start="20261031173000 +0000" stop="20261031183000 +0000" channel="cn-east">
+    <title>Tiny Toons Looniversity</title>
+    <sub-title>Nightmare on Toon Street</sub-title>
+    <desc>Sweetie and Buster's plan to give their friends a non-scary Halloween goes awry.</desc>
+  </programme>
+  <programme start="20261031183000 +0000" stop="20261031184000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>The Yolks on You</sub-title>
+    <desc>Assigned to lay turquoise eggs for Easter, Prissy accidentally produces a gold egg.</desc>
+  </programme>
+  <programme start="20261031184000 +0000" stop="20261031185000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Duck Dodgers in the 24 1/2th Century</sub-title>
+    <desc>Classic animation featuring Bugs Bunny, Daffy Duck, Wile E. Coyote, Foghorn Leghorn, Porky Pig, Road Runner, Tweety and Sylvester.</desc>
+    <episode-num system="xmltv_ns">25948844</episode-num>
+  </programme>
+  <programme start="20261031185000 +0000" stop="20261031190000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Cat's Aweigh</sub-title>
+    <desc>Sylvester and Junior become ship cats to hunt mice; Sylvester tells Junior to get the small ones, and he'll get the bigger ones.</desc>
+  </programme>
+  <programme start="20261031190000 +0000" stop="20261031210000 +0000" channel="cn-east">
+    <title>Movie</title>
+    <sub-title>SCOOB!</sub-title>
+    <desc>Scooby and the gang face their biggest, most challenging mystery ever -- a plot to unleash the ghost dog Cerberus upon the world. As they race to stop the global dog-pocalypse, the gang discovers that Scooby has a secret legacy and an epic destiny.</desc>
+  </programme>
+  <programme start="20261031210000 +0000" stop="20261101100000 +0000" channel="cn-east">
+    <title>Off Air</title>
+    <sub-title>Off Air</sub-title>
+    <desc>Off Air</desc>
+  </programme>
+  <programme start="20261101100000 +0000" stop="20261101103000 +0000" channel="cn-east">
+    <title>Unicorn: Warriors Eternal</title>
+    <sub-title>The Awakening</sub-title>
+    <desc>A young girl, unwittingly infused with magical ability, discovers that she is part of a group of eternal heroes destined to fight a supernatural evil throughout time.</desc>
+  </programme>
+  <programme start="20261101103000 +0000" stop="20261101110000 +0000" channel="cn-east">
+    <title>Unicorn: Warriors Eternal</title>
+    <sub-title>The Awakening, Part 2</sub-title>
+    <desc>Melinda and Copernicus seek the remaining heroes of Unicorn while the supernatural evil unleashes a sinister force to stop them.</desc>
+  </programme>
+  <programme start="20261101110000 +0000" stop="20261101111500 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Console</sub-title>
+    <desc>When Gumball is given a cursed video game console, Elmore becomes trapped inside a fantasy RPG world; Gumball, Darwin and Anais have to battle their way through town, unraveling the secrets of their new virtual reality.</desc>
+    <episode-num system="xmltv_ns">115</episode-num>
+  </programme>
+  <programme start="20261101111500 +0000" stop="20261101113000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Disaster</sub-title>
+    <desc>When Rob purchases a universal remote from the Awesome Store, he discovers he can control the entire universe; he rewinds into the past and remembers Gumball had left him.</desc>
+    <episode-num system="xmltv_ns">98</episode-num>
+  </programme>
+  <programme start="20261101113000 +0000" stop="20261101114500 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Re-Run</sub-title>
+    <desc>Gumball hits rewind on Rob's Universal Remote just in time to save himself from being trapped in The Void.</desc>
+    <episode-num system="xmltv_ns">99</episode-num>
+  </programme>
+  <programme start="20261101114500 +0000" stop="20261101120000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Future</sub-title>
+    <desc>Gumball, Darwin and Banana Joe investigate Banana Barbara's mysterious disappearance; they uncover an old rival's shadowy scheme in the process.</desc>
+    <episode-num system="xmltv_ns">170</episode-num>
+  </programme>
+  <programme start="20261101120000 +0000" stop="20261101121500 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Shell</sub-title>
+    <desc>After accidentally cracking open Penny's shell, Gumball encourages her to show the world who she really is.</desc>
+    <episode-num system="onscreen">48B</episode-num>
+  </programme>
+  <programme start="20261101121500 +0000" stop="20261101123000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Signal</sub-title>
+    <desc>When Gumball develops a bizarre stutter, he unintentionally offends Darwin.</desc>
+    <episode-num system="xmltv_ns">81</episode-num>
+  </programme>
+  <programme start="20261101123000 +0000" stop="20261101124500 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Vision</sub-title>
+    <desc>After finding a secret manifesto on Alan's memory stick, Gumball and Darwin decide to foil his plan for world domination.</desc>
+    <episode-num system="xmltv_ns">103</episode-num>
+  </programme>
+  <programme start="20261101124500 +0000" stop="20261101130000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The One</sub-title>
+    <desc>Gumball and Darwin are joking around, but when Tobias joins in and makes fun of Gumball, he's offended; they explain to Tobias that he needs to be higher on Gumball's friend list to make those jokes.</desc>
+    <episode-num system="xmltv_ns">143</episode-num>
+  </programme>
+  <programme start="20261101130000 +0000" stop="20261101133000 +0000" channel="cn-east">
+    <title>Chowder</title>
+    <sub-title>The Apprentice Games</sub-title>
+    <desc>Chowder and Gorgonzola are unwillingly paired up at the annual Apprentice Games competition.</desc>
+    <episode-num system="xmltv_ns">17</episode-num>
+  </programme>
+  <programme start="20261101133000 +0000" stop="20261101140000 +0000" channel="cn-east">
+    <title>Chowder</title>
+    <sub-title>Paint the Town; The Blackout</sub-title>
+    <desc>Chowder creates a world on a canvas dimension; Chowder must brave the dark and an army of weirdos to restore power.</desc>
+    <episode-num system="xmltv_ns">35</episode-num>
+  </programme>
+  <programme start="20261101140000 +0000" stop="20261101141000 +0000" channel="cn-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Jerry and Jumbo</sub-title>
+    <desc>Jerry and a painted baby elephant keep trading places to confuse Tom.</desc>
+  </programme>
+  <programme start="20261101141000 +0000" stop="20261101142000 +0000" channel="cn-east">
+    <title>Tom and Jerry</title>
+    <sub-title>Johann Mouse</sub-title>
+    <desc>The story of a waltzing mouse; a waltzing mouse dances, and Tom tries to catch him.</desc>
+  </programme>
+  <programme start="20261101142000 +0000" stop="20261101143000 +0000" channel="cn-east">
+    <title>Tom and Jerry</title>
+    <sub-title>That's My Pup!</sub-title>
+    <desc>Spike the bulldog tries to teach his young son how to chase cats.</desc>
+  </programme>
+  <programme start="20261101143000 +0000" stop="20261101144000 +0000" channel="cn-east">
+    <title>Tom and Jerry</title>
+    <sub-title>Just Ducky</sub-title>
+    <desc>A duckling gets left behind and Jerry tries to teach him to swim, but Tom tries to catch the duck.</desc>
+  </programme>
+  <programme start="20261101144000 +0000" stop="20261101145000 +0000" channel="cn-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Posse Cat</sub-title>
+    <desc>Tom is told he won't get any more food from the ranch cook until he gets rid of Jerry.</desc>
+  </programme>
+  <programme start="20261101145000 +0000" stop="20261101150000 +0000" channel="cn-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Hic-cup Pup</sub-title>
+    <desc>Spike the bulldog warns Tom not to wake up his sleeping son Tyke.</desc>
+  </programme>
+  <programme start="20261101150000 +0000" stop="20261101151000 +0000" channel="cn-east">
+    <title>Tom and Jerry</title>
+    <sub-title>The Bowling Alley Cat</sub-title>
+    <desc>Tom chases Jerry into an empty bowling alley.</desc>
+  </programme>
+  <programme start="20261101151000 +0000" stop="20261101152000 +0000" channel="cn-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Sufferin' Cats</sub-title>
+    <desc>Tom battles a scruffy cat for possession of Jerry.</desc>
+  </programme>
+  <programme start="20261101152000 +0000" stop="20261101153000 +0000" channel="cn-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>The Million Dollar Cat</sub-title>
+    <desc>Tom finds out that he'll inherit a million dollars if he is kind to all animals, including Jerry.</desc>
+    <episode-num system="xmltv_ns">14</episode-num>
+  </programme>
+  <programme start="20261101153000 +0000" stop="20261101154000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>A Street Cat Named Sylvester</sub-title>
+    <desc>Tweety seeks refuge from the freezing winter weather in the house where Granny lives with her cat and dog, Sylvester and Hector.</desc>
+  </programme>
+  <programme start="20261101154000 +0000" stop="20261101155000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Life With Feathers</sub-title>
+    <desc>After having a fight with his wife, the lovebird decides to let a cat eat him; after trying everything to get Sylvester to eat him the lovebird gets a message from home that things will be alright, so he returns.</desc>
+  </programme>
+  <programme start="20261101155000 +0000" stop="20261101160000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Tweetie Pie</sub-title>
+    <desc>A woman rescues Tweety before her cat can devour him.</desc>
+  </programme>
+  <programme start="20261101160000 +0000" stop="20261101161000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Crowing Pains</sub-title>
+    <desc>Sylvester, Foghorn, Henery Hawk and the dog all battle it out; Sylvester wants the dog's bone, and Henery Hawk is in the middle of Foghorn and Sylvester, trying to decide who is the real chicken to eat.</desc>
+  </programme>
+  <programme start="20261101161000 +0000" stop="20261101162000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Hop, Look and Listen</sub-title>
+    <desc>Sylvester mistakes an escaped baby kangaroo for a giant mouse and sets off in pursuit.</desc>
+  </programme>
+  <programme start="20261101162000 +0000" stop="20261101163000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Scaredy Cat</sub-title>
+    <desc>When Porky and Sylvester move, they notice strange things in their new home.</desc>
+  </programme>
+  <programme start="20261101163000 +0000" stop="20261101164000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Too Hop to Handle</sub-title>
+    <desc>Desiring Sylvester to teach him to catch mice, Sylvester Jr. creates a pipe that summons a kangaroo instead.</desc>
+  </programme>
+  <programme start="20261101164000 +0000" stop="20261101165000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Sandy Claws</sub-title>
+    <desc>While enjoying a day at the beach, Tweety becomes stranded out at sea until Sylvester lends a hand to rescue him.</desc>
+  </programme>
+  <programme start="20261101165000 +0000" stop="20261101170000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Claws in the Lease</sub-title>
+    <desc>Junior is fed up with poor living and sets out to find a home for him and Sylvester.</desc>
+    <episode-num system="xmltv_ns">25935935</episode-num>
+  </programme>
+  <programme start="20261101170000 +0000" stop="20261101180000 +0000" channel="cn-east">
+    <title>Tiny Toons Looniversity</title>
+    <sub-title>Spring Beak</sub-title>
+    <desc>Plucky goes home with Babs and Buster for Spring Break and quickly becomes the new star of Burrowville, while Hamton and Sweetie embark on the adventure after accidentally missing their train stop.</desc>
+  </programme>
+  <programme start="20261101180000 +0000" stop="20261101183000 +0000" channel="cn-east">
+    <title>Tiny Toons Looniversity</title>
+    <sub-title>Tooney Ball Lights</sub-title>
+    <desc>Buster and Sweetie join the Tooney Ball team during Electives Week while Babs and Plucky tackle the basics in Anvils 101, leaving Hamton on a journey to fix his indecisiveness.</desc>
+  </programme>
+  <programme start="20261101183000 +0000" stop="20261101190000 +0000" channel="cn-east">
+    <title>Tiny Toons Looniversity</title>
+    <sub-title>Slay Cheese</sub-title>
+    <desc>Babs accidentally shrinks herself; Buster fails to get the perfect photo day haircut; Plucky gives lessons on being direct; Hamton struggles to find his photo persona.</desc>
+  </programme>
+  <programme start="20261101190000 +0000" stop="20261101193000 +0000" channel="cn-east">
+    <title>Tiny Toons Looniversity</title>
+    <sub-title>Squash Me if You Can</sub-title>
+    <desc>Sweetie and Buster's plan to give their friends a non-scary Halloween goes awry.</desc>
+  </programme>
+  <programme start="20261101193000 +0000" stop="20261101194500 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Burger vs. Burrito</sub-title>
+    <desc>Cyborg and Beast Boy face off about food.</desc>
+  </programme>
+  <programme start="20261101194500 +0000" stop="20261101200000 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Second Christmas</sub-title>
+    <desc>Starfire is tricked into believing in a second Christmas and a second Santa.</desc>
+  </programme>
+  <programme start="20261101200000 +0000" stop="20261101201500 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Egg Hunt</sub-title>
+    <desc>When Robin still regrets not being able to find an Easter egg when he was a kid, the Titans head to Gotham to solve the mystery.</desc>
+    <episode-num system="xmltv_ns">277</episode-num>
+  </programme>
+  <programme start="20261101201500 +0000" stop="20261101203000 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Feed Me</sub-title>
+    <desc>The Titans release a small marshmallow ducky that the Easter Bunny had locked up, not knowing the danger they have unleashed.</desc>
+    <episode-num system="xmltv_ns">319</episode-num>
+  </programme>
+  <programme start="20261101203000 +0000" stop="20261101204500 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Pig in a Poke</sub-title>
+    <desc>The Titans are worried when Starfire says she has sent all of her money to a prince online, especially when it could be the clown prince himself.</desc>
+    <episode-num system="xmltv_ns">321</episode-num>
+  </programme>
+  <programme start="20261101204500 +0000" stop="20261101210000 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Utility Belt</sub-title>
+    <desc>Worried that he's only special because of his utility belt, Robin donates it to a thrift store.</desc>
+  </programme>
+  <programme start="20261101210000 +0000" stop="20261102100000 +0000" channel="cn-east">
+    <title>Off Air</title>
+    <sub-title>Off Air</sub-title>
+    <desc>Off Air</desc>
+  </programme>
+  <programme start="20261102100000 +0000" stop="20261102103000 +0000" channel="cn-east">
+    <title>Home Movies</title>
+    <sub-title>Broken Dreams</sub-title>
+    <desc>Melissa breaks her arm. Then suspiciously, Jason breaks his arm too. Brendon is concerned that Melissa may be smarter than he.</desc>
+    <episode-num system="xmltv_ns">37</episode-num>
+  </programme>
+  <programme start="20261102103000 +0000" stop="20261102110000 +0000" channel="cn-east">
+    <title>Home Movies</title>
+    <sub-title>Stow Away</sub-title>
+    <desc>The kids decide to run away to Europe and become expatriate artists, but find their plan is a little lost at sea; McGuirk's car breaks down, and he has no money to fix it.</desc>
+    <episode-num system="xmltv_ns">38</episode-num>
+  </programme>
+</tv>

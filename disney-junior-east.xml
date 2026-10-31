@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="disney-junior-east">
+    <display-name>Disney Junior East</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s74885_h15_ac.png"/>
+  </channel>
+  <programme start="20261030100000 +0000" stop="20261030103000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Trampoline; The Dump; Zoo</sub-title>
+    <desc>Dad plays trampoline games with Bluey and Bingo; Dad plans on throwing out Bluey's old drawings; Bingo causes chaos at Bluey's backyard zoo.</desc>
+  </programme>
+  <programme start="20261030103000 +0000" stop="20261030110000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Bedroom; Perfect; Obstacle Course</sub-title>
+    <desc>Bluey gets her own room; Bluey wants her Father's Day card to be perfect; Mum sets up a backyard obstacle course just for fun.</desc>
+  </programme>
+  <programme start="20261030110000 +0000" stop="20261030112500 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Clubhouse+</title>
+    <sub-title>The Haunted Halloween Hunt</sub-title>
+    <desc>Mickey and his pals celebrate Halloween on Magic Island, where Witch Clarabelle invites them to do her Haunted Halloween Hunt for a surprise at the end!</desc>
+  </programme>
+  <programme start="20261030112500 +0000" stop="20261030113000 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Hot Diggity-Dog Tales</title>
+    <sub-title>Pluto's Howl-A-Ween!</sub-title>
+    <desc>When Mickey and Pluto are having trouble coming up with Halloween costumes, Pluto inspires Mickey to create the most </desc>
+    <episode-num system="xmltv_ns">103</episode-num>
+  </programme>
+  <programme start="20261030113000 +0000" stop="20261030120000 +0000" channel="disney-junior-east">
+    <title>Sofia the First: Royal Magic</title>
+    <sub-title>Crown Chaos / Off to the Races</sub-title>
+    <desc>Sofia defends Charmswell Academy from the wicked sorceress, Zandrya, with help from Rapunzel. Camila learns to be there for her friends during the school's flying derby race.</desc>
+  </programme>
+  <programme start="20261030120000 +0000" stop="20261030123000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Pizza Girls; Tina; Whale Watching</sub-title>
+    <desc>Bluey and Bingo make mud pizzas; Bluey and Bingo's giant, invisible friend, Tina; Bluey promises her customer Bingo the best tour ever.</desc>
+  </programme>
+  <programme start="20261030123000 +0000" stop="20261030132500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Rug Island; Hairdressers; Sticky Gecko</sub-title>
+    <desc>Dad washes up on the beach of a desert island; hairdressers Bluey and Bingo discover that their customer has nits; Bluey and Bingo wait for a rubber gecko to fall from the ceiling.</desc>
+  </programme>
+  <programme start="20261030132500 +0000" stop="20261030135000 +0000" channel="disney-junior-east">
+    <title>Pupstruction</title>
+    <sub-title>Happy Howl-o-ween; The House of Howls</sub-title>
+    <desc>Bobby Boots thinks he wasn't invited to Pupstruction's Howl-O-Ween party; Tank doesn't think he's brave enough to help build a haunted house, but his friends are trapped.</desc>
+    <episode-num system="xmltv_ns">110</episode-num>
+  </programme>
+  <programme start="20261030135000 +0000" stop="20261030141500 +0000" channel="disney-junior-east">
+    <title>Marvel's Spidey and His Amazing Friends</title>
+    <sub-title>Rhinoctopus; A Pumpkin Problem</sub-title>
+    <desc>When the team stops Ock's heist, she throws away her tentacle suit in frustration and Rhino takes her place; Spidey is sidetracked when his prize pumpkin becomes a threat.</desc>
+  </programme>
+  <programme start="20261030141500 +0000" stop="20261030144000 +0000" channel="disney-junior-east">
+    <title>Marvel's Spidey and His Amazing Friends</title>
+    <sub-title>Bootsie's Haunted Adventure; Too Many Tricks, Not EnoughTreats</sub-title>
+    <desc>With help from Bootsie, Team Spidey foils Sandman's theft of priceless Egyptian artifacts; Team Spidey saves Halloween from Green Goblin and his candy-stealing scarecrows.</desc>
+    <episode-num system="xmltv_ns">215</episode-num>
+  </programme>
+  <programme start="20261030144000 +0000" stop="20261030150500 +0000" channel="disney-junior-east">
+    <title>Iron Man and His Awesome Friends</title>
+    <sub-title>Iron Friends Trick or Treats!; Leaping into Fall</sub-title>
+    <desc>Amadeus uses a robot costume for Halloween, but it goes on a candy rampage; Swarm steals all the pumpkins, and the team must get them back.</desc>
+  </programme>
+  <programme start="20261030150500 +0000" stop="20261030152500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Ice Cream / Bad Mood / Double Babysitter</sub-title>
+    <desc>Bluey and Bingo want a lick of each other's ice cream; Bingo is playing Bad Mood with Dad; two babysitters turn up to look after Bluey and Bingo.</desc>
+  </programme>
+  <programme start="20261030152500 +0000" stop="20261030155000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>The Kids; Butterflies; The Creek</sub-title>
+    <desc>Bluey decides to be Mum during a game of </desc>
+  </programme>
+  <programme start="20261030155000 +0000" stop="20261030161000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Family Meeting; Barky Boats; Smoochy Kiss</sub-title>
+    <desc>Dad is accused of fluffing in Bluey's face; Bluey and Mackenzie play with two older friends; Bluey and Bingo want Dad all to themselves.</desc>
+  </programme>
+  <programme start="20261030161000 +0000" stop="20261030163500 +0000" channel="disney-junior-east">
+    <title>Magicampers</title>
+    <sub-title>A Sandy Situation; Big Bubble Trouble</sub-title>
+    <desc>The Magicampers build sandcastles; Loomis makes a protective bubble for Chiffen.</desc>
+    <episode-num system="xmltv_ns">119</episode-num>
+  </programme>
+  <programme start="20261030163500 +0000" stop="20261030170000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Mr Monkeyjocks / Typewriter / Burger Shop</sub-title>
+    <desc>Dad thinks Bluey and Bingo have too many toys; Bluey and friends get ambushed by the Terriers; Bluey and Bingo play a game of Burger Shop with Dad.</desc>
+  </programme>
+  <programme start="20261030170000 +0000" stop="20261030172500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>See Saw; Movies; Grandad</sub-title>
+    <desc>Dad plants himself on one end of the seesaw; it is Bluey's first trip to the cinema; Bluey and Bingo go on an adventure with Grandad.</desc>
+  </programme>
+  <programme start="20261030172500 +0000" stop="20261030175000 +0000" channel="disney-junior-east">
+    <title>SuperKitties</title>
+    <sub-title>Purdy Birdy Picnic; Swimmy Zone</sub-title>
+    <desc>Zsa-Zsa takes her Aunt Lola on a picnic, where she makes all the park animals start to float away; Mr. Puppypaws puts the Zoomie Zone in a giant fishbowl for King Fishyfins.</desc>
+    <episode-num system="xmltv_ns">316</episode-num>
+  </programme>
+  <programme start="20261030175000 +0000" stop="20261030181500 +0000" channel="disney-junior-east">
+    <title>SuperKitties</title>
+    <sub-title>Bistro Bungle; Zoomie Ball</sub-title>
+    <desc>Cat Burglar takes the cake; Willa gets the Zoomies.</desc>
+  </programme>
+  <programme start="20261030181500 +0000" stop="20261030184000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>The Weekend; BBQ; Fruitbat</sub-title>
+    <desc>Bingo gets upset when Dad is too distracted to notice a walking leaf; Bluey dreams about being a nocturnal fruit bat; Bingo makes a salad.</desc>
+  </programme>
+  <programme start="20261030184000 +0000" stop="20261030190500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Teasing; Shaun; Daddy Robot</sub-title>
+    <desc>The girls convince Mum that Dad is a Big Teaser; Bluey struggles to train her new pet; Daddy Robot helps Bluey and Bingo tidy the playroom.</desc>
+    <episode-num system="xmltv_ns">118</episode-num>
+  </programme>
+  <programme start="20261030190500 +0000" stop="20261030193000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Shops; The Pool; Blue Mountains</sub-title>
+    <desc>Bluey plays a game of </desc>
+  </programme>
+  <programme start="20261030193000 +0000" stop="20261030195500 +0000" channel="disney-junior-east">
+    <title>Ariel: Mermaid Tales</title>
+    <sub-title>The Kite Monster; The Spooky Mirror Trick</sub-title>
+    <desc>The kite monster legend; Ursula's spooky mirror traps everyone.</desc>
+  </programme>
+  <programme start="20261030195500 +0000" stop="20261030202000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Fairies; Work; Bumpy and the Wise Old Wolfhound</sub-title>
+    <desc>Invisible mischievous fairies infest the house; Bluey, Bingo and Dad play </desc>
+  </programme>
+  <programme start="20261030202000 +0000" stop="20261030204500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Dunny / Duck Cake / Handstand</sub-title>
+    <desc>Mum bans the girls from saying the word 'dunny'; Bluey wants to help Dad make Bingo's birthday cake; Bingo is desperate to show off her handstand skills.</desc>
+    <episode-num system="xmltv_ns">215</episode-num>
+  </programme>
+  <programme start="20261030204500 +0000" stop="20261030211000 +0000" channel="disney-junior-east">
+    <title>Robogobo</title>
+    <sub-title>Hoppers Haunted Halloween; Trick or Trap</sub-title>
+    <desc>Allie and Dax help Hopper face his fears to help save Halloween from Monkey Wrënch; RoboGobo must get through Captain Shrimperton's spooky traps to save everyone's treats.</desc>
+  </programme>
+  <programme start="20261030211000 +0000" stop="20261030213500 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Funhouse</title>
+    <sub-title>This Cat Doesn't Swim!; Funhouse-Made Costumes</sub-title>
+    <desc>Despite Minnie trying, Bast the cat doesn't want to swim at Pete the Mighty's pool party; the gang has to improvise their costumes when they go missing on Halloween.</desc>
+  </programme>
+  <programme start="20261030213500 +0000" stop="20261030222000 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Clubhouse</title>
+    <sub-title>Mickey's Pirate Adventure</sub-title>
+    <desc>Goofy's long-lost grandfather, Captain Goof-Beard asks for the gang's help; Harmony-Chord Island, Goof-Beard's home, is at risk of sinking.</desc>
+    <episode-num system="xmltv_ns">516</episode-num>
+  </programme>
+  <programme start="20261030222000 +0000" stop="20261030230500 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Clubhouse</title>
+    <sub-title>Mickey's Monster Musical</sub-title>
+    <desc>Mickey decides to hold a musical.</desc>
+    <episode-num system="xmltv_ns">518</episode-num>
+  </programme>
+  <programme start="20261030230500 +0000" stop="20261030233000 +0000" channel="disney-junior-east">
+    <title>Sofia the First: Royal Magic</title>
+    <sub-title>Abracadazzle; Show and Spell</sub-title>
+    <desc>Sofia joins a magical challenge against students from the other castles; Layla tries a levitation spell but instead reveals her ability to sprout butterfly wings.</desc>
+  </programme>
+  <programme start="20261030233000 +0000" stop="20261030235500 +0000" channel="disney-junior-east">
+    <title>SuperKitties</title>
+    <sub-title>Franken-Rat; Pumpkin Parade</sub-title>
+    <desc>The Kitties must save Kittydale's Halloween candy from Lab Rat's FrankenRat robot; the Kitties stop Mr. Puppypaws from spoiling Kittydale's Pumpkin Parade!</desc>
+  </programme>
+  <programme start="20261030235500 +0000" stop="20261031002000 +0000" channel="disney-junior-east">
+    <title>Marvel's Spidey and His Amazing Friends</title>
+    <sub-title>Night of the Goblins; Bat Attitude</sub-title>
+    <desc>Green Goblin's clones threaten to ruin Halloween. Doc Ock's device controls the city's bats to steal things for her.</desc>
+  </programme>
+  <programme start="20261031002000 +0000" stop="20261031005000 +0000" channel="disney-junior-east">
+    <title>Spidey and the Avengers: Halloween Team-Up!</title>
+    <desc>Spidey and the Avengers' Halloween plans are turned upside down by the mysterious Hallows' Eve, who plays magical tricks on trick-or-treaters and plans to ruin Halloween forever.</desc>
+  </programme>
+  <programme start="20261031005000 +0000" stop="20261031011500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Trampoline; The Dump; Zoo</sub-title>
+    <desc>Dad plays trampoline games with Bluey and Bingo; Dad plans on throwing out Bluey's old drawings; Bingo causes chaos at Bluey's backyard zoo.</desc>
+  </programme>
+  <programme start="20261031011500 +0000" stop="20261031014000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Bedroom; Perfect; Obstacle Course</sub-title>
+    <desc>Bluey gets her own room; Bluey wants her Father's Day card to be perfect; Mum sets up a backyard obstacle course just for fun.</desc>
+  </programme>
+  <programme start="20261031014000 +0000" stop="20261031020500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Pizza Girls; Tina; Whale Watching</sub-title>
+    <desc>Bluey and Bingo make mud pizzas; Bluey and Bingo's giant, invisible friend, Tina; Bluey promises her customer Bingo the best tour ever.</desc>
+  </programme>
+  <programme start="20261031020500 +0000" stop="20261031022500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Rug Island; Hairdressers; Sticky Gecko</sub-title>
+    <desc>Dad washes up on the beach of a desert island; hairdressers Bluey and Bingo discover that their customer has nits; Bluey and Bingo wait for a rubber gecko to fall from the ceiling.</desc>
+  </programme>
+  <programme start="20261031022500 +0000" stop="20261031025000 +0000" channel="disney-junior-east">
+    <title>Marvel's Spidey and His Amazing Friends</title>
+    <sub-title>Rocket Rhino!; Trick or TRACE-E</sub-title>
+    <desc>The Green Goblin manages to throw the heroes' plans off course; a new superpowered spidey-jetpack ends up in the hands of Rhino.</desc>
+    <episode-num system="xmltv_ns">105</episode-num>
+  </programme>
+  <programme start="20261031025000 +0000" stop="20261031031500 +0000" channel="disney-junior-east">
+    <title>Marvel's Spidey and His Amazing Friends</title>
+    <sub-title>The Curse of the Corn Dog King; Zola's Halloween</sub-title>
+    <desc>The Corn Dog King haunts the Amusement Park, ruining the Halloween fun; Zola puts grown-ups under a spell to get them to bring him all the Halloween candy.</desc>
+  </programme>
+  <programme start="20261031031500 +0000" stop="20261031034000 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Funhouse</title>
+    <sub-title>Fifty-Foot Pluto!; A Big Giant Problem!</sub-title>
+    <desc>Franken-Pete needs help getting ready for the pumpkin carving contest, but when Pluto helps, he accidentally gets zapped to giant size; Mickey accidentally breaks Minnie's kite.</desc>
+  </programme>
+  <programme start="20261031034000 +0000" stop="20261031040500 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Funhouse</title>
+    <sub-title>This Cat Doesn't Swim!; Funhouse-Made Costumes</sub-title>
+    <desc>Despite Minnie trying, Bast the cat doesn't want to swim at Pete the Mighty's pool party; the gang has to improvise their costumes when they go missing on Halloween.</desc>
+  </programme>
+  <programme start="20261031040500 +0000" stop="20261031043000 +0000" channel="disney-junior-east">
+    <title>BeddyByes</title>
+    <sub-title>Showtime; Moth</sub-title>
+    <desc>MeMo and BaBa discover the joy of putting on a puppet show; MeMo and BaBa find a moth and start learning about nocturnal life.</desc>
+  </programme>
+  <programme start="20261031043000 +0000" stop="20261031045500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Ice Cream / Bad Mood / Double Babysitter</sub-title>
+    <desc>Bluey and Bingo want a lick of each other's ice cream; Bingo is playing Bad Mood with Dad; two babysitters turn up to look after Bluey and Bingo.</desc>
+  </programme>
+  <programme start="20261031045500 +0000" stop="20261031052000 +0000" channel="disney-junior-east">
+    <title>PJ Masks</title>
+    <sub-title>Halloween Tricksters Part 1; Halloween Tricksters Part 2</sub-title>
+    <desc>The PJ Masks must protect children from Luna Girl, Night Ninja and the Wolfy Kids who have teamed up to steal Halloween goody bags.</desc>
+    <episode-num system="xmltv_ns">226</episode-num>
+  </programme>
+  <programme start="20261031052000 +0000" stop="20261031054500 +0000" channel="disney-junior-east">
+    <title>PJ Masks</title>
+    <sub-title>Trick or Treat; Trick or Treat Part II</sub-title>
+    <desc>Morticia gets carried away by tricking and not treating, resulting in mild Halloween horror.</desc>
+  </programme>
+  <programme start="20261031054500 +0000" stop="20261031061000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>The Kids; Butterflies; The Creek</sub-title>
+    <desc>Bluey decides to be Mum during a game of </desc>
+  </programme>
+  <programme start="20261031061000 +0000" stop="20261031063500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Family Meeting; Barky Boats; Smoochy Kiss</sub-title>
+    <desc>Dad is accused of fluffing in Bluey's face; Bluey and Mackenzie play with two older friends; Bluey and Bingo want Dad all to themselves.</desc>
+  </programme>
+  <programme start="20261031063500 +0000" stop="20261031070000 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Clubhouse</title>
+    <sub-title>Donald the Genie</sub-title>
+    <desc>Donald becomes a genuine magical genie and realizes it is not as easy as it sounds.</desc>
+    <episode-num system="xmltv_ns">329</episode-num>
+  </programme>
+  <programme start="20261031070000 +0000" stop="20261031072500 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Clubhouse</title>
+    <sub-title>Space Captain Donald</sub-title>
+    <desc>Mickey and his friends take a trip to the moon to retrieve Pluto's ball.</desc>
+    <episode-num system="xmltv_ns">224</episode-num>
+  </programme>
+  <programme start="20261031072500 +0000" stop="20261031075000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Mr Monkeyjocks / Typewriter / Burger Shop</sub-title>
+    <desc>Dad thinks Bluey and Bingo have too many toys; Bluey and friends get ambushed by the Terriers; Bluey and Bingo play a game of Burger Shop with Dad.</desc>
+  </programme>
+  <programme start="20261031075000 +0000" stop="20261031081500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>See Saw; Movies; Grandad</sub-title>
+    <desc>Dad plants himself on one end of the seesaw; it is Bluey's first trip to the cinema; Bluey and Bingo go on an adventure with Grandad.</desc>
+  </programme>
+  <programme start="20261031081500 +0000" stop="20261031084000 +0000" channel="disney-junior-east">
+    <title>Mickey and the Roadster Racers</title>
+    <sub-title>The Haunted Hot Rod; Pete's Ghostly Gala</sub-title>
+    <desc>Mickey wants to race the Haunted Hot Rod, a ghostly roadster who only races on Halloween; the Happy Helpers try to catch three ghosts who threaten to ruin Pete's Halloween Party.</desc>
+    <episode-num system="xmltv_ns">112</episode-num>
+  </programme>
+  <programme start="20261031084000 +0000" stop="20261031090500 +0000" channel="disney-junior-east">
+    <title>Mickey and the Roadster Racers</title>
+    <sub-title>Goof Mansion; A Doozy Night of Mystery</sub-title>
+    <desc>Goofy and the gang have to spend a night in Uncle Goof's haunted mansion in order for Goofy to inherit it; when Mr. Doozy invites everyone to his hotel for a dinner party, a family heirloom goes missing.</desc>
+    <episode-num system="xmltv_ns">211</episode-num>
+  </programme>
+  <programme start="20261031090500 +0000" stop="20261031093000 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Clubhouse</title>
+    <sub-title>Mickey's Treat</sub-title>
+    <desc>Mickey and his friends try to make their way to Pete's Halloween party at Trick-or-Treat Tower.</desc>
+    <episode-num system="xmltv_ns">112</episode-num>
+  </programme>
+  <programme start="20261031093000 +0000" stop="20261031100000 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Clubhouse+</title>
+    <sub-title>The Late, Late Show</sub-title>
+    <desc>When Mickey and friends hear about a meteor shower in the night sky, they do everything to stay awake and watch.</desc>
+    <episode-num system="xmltv_ns">128</episode-num>
+  </programme>
+  <programme start="20261031100000 +0000" stop="20261031102500 +0000" channel="disney-junior-east">
+    <title>Pupstruction</title>
+    <sub-title>Pumpkin Pups; Corn Dogs</sub-title>
+    <desc>Crew leader Phinny, an innovative young corgi who dreams of ideas to help his town of Petsburg, leads a construction crew of dogs.</desc>
+  </programme>
+  <programme start="20261031102500 +0000" stop="20261031105000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Library; Swim School; Bin Night</sub-title>
+    <desc>Muffin plays the game of library her way; Mum, Dad and Bingo must pass swim school; Bluey, Bingo and Dad always take out the bins.</desc>
+  </programme>
+  <programme start="20261031105000 +0000" stop="20261031111500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Early Baby; Hospital; Daddy Putdown</sub-title>
+    <desc>Rusty interrupts Bluey's game at playgroup; Doctor Bluey operates on a cat in Dad's tummy; Bluey misses Mum when she goes out for the night.</desc>
+    <episode-num system="xmltv_ns">117</episode-num>
+  </programme>
+  <programme start="20261031111500 +0000" stop="20261031114000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Bob Bilby; Spygame; Takeaway</sub-title>
+    <desc>It's Bingo's turn with Kindy's Bob Bilby puppet; a game goes haywire when Bingo stops playing; five minutes feel like an eternity when waiting.</desc>
+  </programme>
+  <programme start="20261031114000 +0000" stop="20261031120000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>The Doctor; The Claw; Markets</sub-title>
+    <desc>Honey's trip to Dr. Bingo keeps getting interrupted; Mum and Dad create their own Magic Claw machine; Bluey takes her tooth fairy money to the market.</desc>
+  </programme>
+  <programme start="20261031120000 +0000" stop="20261031132000 +0000" channel="disney-junior-east">
+    <title>Movie</title>
+    <sub-title>Toy Story</sub-title>
+    <desc>A flashy new action hero's arrival creates upset in a community of toys that comes to life when people are absent.</desc>
+  </programme>
+  <programme start="20261031132000 +0000" stop="20261031140500 +0000" channel="disney-junior-east">
+    <title>Mickey's Tale of Two Witches</title>
+    <desc>On Halloween, Mickey tells a tale of two witches-in-training, Minnie and Daisy, who must pass four tests to graduate from the Witch Academy in Happy Haunt Hills.</desc>
+  </programme>
+  <programme start="20261031140500 +0000" stop="20261031141500 +0000" channel="disney-junior-east">
+    <title>Mickey and Friends Trick or Treats</title>
+    <desc>Mickey, Minnie, Goofy, Donald and Daisy are trick-or-treating when Donald spies a spooky mansion and assumes it has the best treats; after he convinces his friends to risk a visit, the owner casts a spell that turns them into their costumes.</desc>
+  </programme>
+  <programme start="20261031141500 +0000" stop="20261031143000 +0000" channel="disney-junior-east">
+    <title>Bluey Compilations</title>
+    <sub-title>Family Trip (2026)</sub-title>
+    <desc>Bluey and Bingo go on fun trips with their family.</desc>
+  </programme>
+  <programme start="20261031143000 +0000" stop="20261031150000 +0000" channel="disney-junior-east">
+    <title>Sofia the First: Royal Magic</title>
+    <sub-title>Hallow's Eve Hijinks / Costume Clash</sub-title>
+    <desc>Zane releases a mischievous goblin to help win a Hallow's Eve decoration contest; Lucinda the Witch and Camila spend All Hallow's Eve with Sofia.</desc>
+  </programme>
+  <programme start="20261031150000 +0000" stop="20261031154500 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Clubhouse</title>
+    <sub-title>Mickey's Monster Musical</sub-title>
+    <desc>Mickey decides to hold a musical.</desc>
+    <episode-num system="xmltv_ns">518</episode-num>
+  </programme>
+  <programme start="20261031154500 +0000" stop="20261031161000 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Mixed-Up Adventures</title>
+    <sub-title>The Spooky Spook House!; Clarabelle's Banana Splitz!</sub-title>
+    <desc>Mickey decorates Mr. Doozy's bed and breakfast for a chance to win Alistair's Halloween contest; it's Clarabelle's dream to win the Bratwurst Bowling Championship.</desc>
+  </programme>
+  <programme start="20261031161000 +0000" stop="20261031163500 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Clubhouse</title>
+    <sub-title>Mickey's Treat</sub-title>
+    <desc>Mickey and his friends try to make their way to Pete's Halloween party at Trick-or-Treat Tower.</desc>
+    <episode-num system="xmltv_ns">112</episode-num>
+  </programme>
+  <programme start="20261031163500 +0000" stop="20261031170000 +0000" channel="disney-junior-east">
+    <title>Mickey and the Roadster Racers</title>
+    <sub-title>Goof Mansion; A Doozy Night of Mystery</sub-title>
+    <desc>Goofy and the gang have to spend a night in Uncle Goof's haunted mansion in order for Goofy to inherit it; when Mr. Doozy invites everyone to his hotel for a dinner party, a family heirloom goes missing.</desc>
+    <episode-num system="xmltv_ns">211</episode-num>
+  </programme>
+  <programme start="20261031170000 +0000" stop="20261031172500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Ghost Basket; Escape; Surprise</sub-title>
+    <desc>Dad pretends to sell the Grannies' house to Mum; Mum and Dad drop the girls off at Nana's so they can have some time to themselves; Bluey and Bingo want Dad to play two different games.</desc>
+  </programme>
+  <programme start="20261031172500 +0000" stop="20261031174500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Grannies; Yoga Ball; Calypso</sub-title>
+    <desc>Bluey and Bingo call Nana to ask one major question; Bingo finds her big girl bark; teacher Calypso has her hands full in the classroom.</desc>
+  </programme>
+  <programme start="20261031174500 +0000" stop="20261031181000 +0000" channel="disney-junior-east">
+    <title>SuperKitties</title>
+    <sub-title>Howloween Cat</sub-title>
+    <desc>SuperKitties face their fear of the Howloween Cat to prove that they aren't Scaredy Cats.</desc>
+    <episode-num system="xmltv_ns">123</episode-num>
+  </programme>
+  <programme start="20261031181000 +0000" stop="20261031183500 +0000" channel="disney-junior-east">
+    <title>SuperKitties</title>
+    <sub-title>Super Spooky House; Pumpkin Ball</sub-title>
+    <desc>The Kitties face their fears and enter the Super Spooky House; when the Pumpkin Ball is stolen, it's up to the SuperKitties to get it back in time for the Halloween Party.</desc>
+  </programme>
+  <programme start="20261031183500 +0000" stop="20261031190000 +0000" channel="disney-junior-east">
+    <title>SuperKitties</title>
+    <sub-title>Howl-o-ween Charm</sub-title>
+    <desc>The SuperKitties must help Howl-o-ween Cat get back her stolen charm and stop the tricky Trixsters from ruining Howl-o-ween!</desc>
+    <episode-num system="xmltv_ns">325</episode-num>
+  </programme>
+  <programme start="20261031190000 +0000" stop="20261031192500 +0000" channel="disney-junior-east">
+    <title>SuperKitties</title>
+    <sub-title>Franken-Rat; Pumpkin Parade</sub-title>
+    <desc>The Kitties must save Kittydale's Halloween candy from Lab Rat's FrankenRat robot; the Kitties stop Mr. Puppypaws from spoiling Kittydale's Pumpkin Parade!</desc>
+  </programme>
+  <programme start="20261031192500 +0000" stop="20261031195000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>TV Shop; Dragon; Slide</sub-title>
+    <desc>At the pharmacy, Bluey and Bingo have fun playing with the CCTV screens.</desc>
+  </programme>
+  <programme start="20261031195000 +0000" stop="20261031201500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Pirates; Chickenrat; Neighbours</sub-title>
+    <desc>Bluey and Bingo play pirates on the hammock swing; Bingo's favorite toy goes missing; Bluey needs advice on dealing with noisy neighbors.</desc>
+    <episode-num system="xmltv_ns">116</episode-num>
+  </programme>
+  <programme start="20261031201500 +0000" stop="20261031204000 +0000" channel="disney-junior-east">
+    <title>Spidey and the Avengers: Halloween Team-Up!</title>
+    <desc>Spidey and the Avengers' Halloween plans are turned upside down by the mysterious Hallows' Eve, who plays magical tricks on trick-or-treaters and plans to ruin Halloween forever.</desc>
+  </programme>
+  <programme start="20261031204000 +0000" stop="20261031210500 +0000" channel="disney-junior-east">
+    <title>Marvel's Spidey and His Amazing Friends</title>
+    <sub-title>Night of the Goblins; Bat Attitude</sub-title>
+    <desc>Green Goblin's clones threaten to ruin Halloween. Doc Ock's device controls the city's bats to steal things for her.</desc>
+  </programme>
+  <programme start="20261031210500 +0000" stop="20261031213000 +0000" channel="disney-junior-east">
+    <title>Iron Man and His Awesome Friends</title>
+    <sub-title>Iron Friends Trick or Treats!; Leaping into Fall</sub-title>
+    <desc>Amadeus uses a robot costume for Halloween, but it goes on a candy rampage; Swarm steals all the pumpkins, and the team must get them back.</desc>
+  </programme>
+  <programme start="20261031213000 +0000" stop="20261031220000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>The Weekend; BBQ; Fruitbat</sub-title>
+    <desc>Bingo gets upset when Dad is too distracted to notice a walking leaf; Bluey dreams about being a nocturnal fruit bat; Bingo makes a salad.</desc>
+  </programme>
+  <programme start="20261031220000 +0000" stop="20261031222500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Granny Mobile / Space / Cubby</sub-title>
+    <desc>Muffin is playing Grouchy Granny at a garage sale, making Dad push her on an old mobility scooter; Mackenzie, Jack and Rusty are playing astronauts, but Mackenzie keeps going missing; Bluey and Bingo build a very special cubby for their stuffed toy.</desc>
+  </programme>
+  <programme start="20261031222500 +0000" stop="20261031225000 +0000" channel="disney-junior-east">
+    <title>Sofia the First: Royal Magic</title>
+    <sub-title>Hallow's Eve Hijinks / Costume Clash</sub-title>
+    <desc>Zane releases a mischievous goblin to help win a Hallow's Eve decoration contest; Lucinda the Witch and Camila spend All Hallow's Eve with Sofia.</desc>
+  </programme>
+  <programme start="20261031225000 +0000" stop="20261031231500 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Clubhouse+</title>
+    <sub-title>The Haunted Halloween Hunt</sub-title>
+    <desc>Mickey and his pals celebrate Halloween on Magic Island, where Witch Clarabelle invites them to do her Haunted Halloween Hunt for a surprise at the end!</desc>
+  </programme>
+  <programme start="20261031231500 +0000" stop="20261031234000 +0000" channel="disney-junior-east">
+    <title>Hey AJ!</title>
+    <sub-title>Halloween</sub-title>
+    <desc>It's Halloween and AJ can't decide what to wear; she has an amazing imagination, but she doesn't know which of her many personas is the best for the night.</desc>
+  </programme>
+  <programme start="20261031234000 +0000" stop="20261101000500 +0000" channel="disney-junior-east">
+    <title>Marvel's Spidey and His Amazing Friends</title>
+    <sub-title>Rocket Rhino!; Trick or TRACE-E</sub-title>
+    <desc>The Green Goblin manages to throw the heroes' plans off course; a new superpowered spidey-jetpack ends up in the hands of Rhino.</desc>
+    <episode-num system="xmltv_ns">105</episode-num>
+  </programme>
+  <programme start="20261101000500 +0000" stop="20261101003000 +0000" channel="disney-junior-east">
+    <title>Marvel's Spidey and His Amazing Friends</title>
+    <sub-title>The Curse of the Corn Dog King; Zola's Halloween</sub-title>
+    <desc>The Corn Dog King haunts the Amusement Park, ruining the Halloween fun; Zola puts grown-ups under a spell to get them to bring him all the Halloween candy.</desc>
+  </programme>
+  <programme start="20261101003000 +0000" stop="20261101005500 +0000" channel="disney-junior-east">
+    <title>Marvel's Spidey and His Amazing Friends</title>
+    <sub-title>Bootsie's Haunted Adventure; Too Many Tricks, Not EnoughTreats</sub-title>
+    <desc>With help from Bootsie, Team Spidey foils Sandman's theft of priceless Egyptian artifacts; Team Spidey saves Halloween from Green Goblin and his candy-stealing scarecrows.</desc>
+    <episode-num system="xmltv_ns">215</episode-num>
+  </programme>
+  <programme start="20261101005500 +0000" stop="20261101012000 +0000" channel="disney-junior-east">
+    <title>Marvel's Spidey and His Amazing Friends</title>
+    <sub-title>Night of the Goblins; Bat Attitude</sub-title>
+    <desc>Green Goblin's clones threaten to ruin Halloween. Doc Ock's device controls the city's bats to steal things for her.</desc>
+  </programme>
+  <programme start="20261101012000 +0000" stop="20261101014500 +0000" channel="disney-junior-east">
+    <title>Spidey and the Avengers: Halloween Team-Up!</title>
+    <desc>Spidey and the Avengers' Halloween plans are turned upside down by the mysterious Hallows' Eve, who plays magical tricks on trick-or-treaters and plans to ruin Halloween forever.</desc>
+  </programme>
+  <programme start="20261101014500 +0000" stop="20261101022500 +0000" channel="disney-junior-east">
+    <title>Bluey Compilations</title>
+    <sub-title>Let's Dance</sub-title>
+    <desc>Bluey and Bingo return with six dance-filled episodes.</desc>
+  </programme>
+  <programme start="20261101022500 +0000" stop="20261101025000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Library; Swim School; Bin Night</sub-title>
+    <desc>Muffin plays the game of library her way; Mum, Dad and Bingo must pass swim school; Bluey, Bingo and Dad always take out the bins.</desc>
+  </programme>
+  <programme start="20261101025000 +0000" stop="20261101031500 +0000" channel="disney-junior-east">
+    <title>Marvel's Spidey and His Amazing Friends</title>
+    <sub-title>Rhinoctopus; A Pumpkin Problem</sub-title>
+    <desc>When the team stops Ock's heist, she throws away her tentacle suit in frustration and Rhino takes her place; Spidey is sidetracked when his prize pumpkin becomes a threat.</desc>
+  </programme>
+  <programme start="20261101031500 +0000" stop="20261101034000 +0000" channel="disney-junior-east">
+    <title>Marvel's Spidey and His Amazing Friends</title>
+    <sub-title>The Goblin and the Geyser; Skeleton Stomp</sub-title>
+    <desc>Gobby's Dino-mech takes over a natural geyser; Lizard brings dinosaurs to life in the museum.</desc>
+    <episode-num system="xmltv_ns">319</episode-num>
+  </programme>
+  <programme start="20261101034000 +0000" stop="20261101040500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Early Baby; Hospital; Daddy Putdown</sub-title>
+    <desc>Rusty interrupts Bluey's game at playgroup; Doctor Bluey operates on a cat in Dad's tummy; Bluey misses Mum when she goes out for the night.</desc>
+    <episode-num system="xmltv_ns">117</episode-num>
+  </programme>
+  <programme start="20261101040500 +0000" stop="20261101043000 +0000" channel="disney-junior-east">
+    <title>BeddyByes</title>
+    <sub-title>Bigger; MeMo's Bag</sub-title>
+    <desc>MeMo and BaBa learn how some things are bigger and others are smaller; MeMo's bag is very useful; BaBa and MeMo use it to carry things around.</desc>
+  </programme>
+  <programme start="20261101043000 +0000" stop="20261101050000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Bob Bilby; Spygame; Takeaway</sub-title>
+    <desc>It's Bingo's turn with Kindy's Bob Bilby puppet; a game goes haywire when Bingo stops playing; five minutes feel like an eternity when waiting.</desc>
+  </programme>
+  <programme start="20261101050000 +0000" stop="20261101053500 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Clubhouse</title>
+    <sub-title>The Wizard of Dizz!</sub-title>
+    <desc>Minnie and Pluto are swept up in a big wind; once the dust settles, they find themselves in the wonderful world of Dizz.</desc>
+    <episode-num system="xmltv_ns">432</episode-num>
+  </programme>
+  <programme start="20261101053500 +0000" stop="20261101080000 +0000" channel="disney-junior-east">
+    <title>PJ Masks</title>
+    <sub-title>Halloween Tricksters Part 1; Halloween Tricksters Part 2</sub-title>
+    <desc>The PJ Masks must protect children from Luna Girl, Night Ninja and the Wolfy Kids who have teamed up to steal Halloween goody bags.</desc>
+    <episode-num system="xmltv_ns">226</episode-num>
+  </programme>
+  <programme start="20261101070000 +0000" stop="20261101071000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>The Sign</sub-title>
+    <desc>When the Heeler home goes up for sale, Bluey is not at all happy about the news.</desc>
+  </programme>
+  <programme start="20261101071000 +0000" stop="20261101073500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Ghost Basket; Escape; Surprise</sub-title>
+    <desc>Dad pretends to sell the Grannies' house to Mum; Mum and Dad drop the girls off at Nana's so they can have some time to themselves; Bluey and Bingo want Dad to play two different games.</desc>
+  </programme>
+  <programme start="20261101073500 +0000" stop="20261101080000 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Clubhouse</title>
+    <sub-title>Secret Spy Daisy</sub-title>
+    <desc>Secret Spy Daisy and her team of secret agents must protect Clarabelle's special recipe for Monster Raisin Cookies.</desc>
+    <episode-num system="xmltv_ns">225</episode-num>
+  </programme>
+  <programme start="20261101080000 +0000" stop="20261101082500 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Clubhouse</title>
+    <sub-title>Goofy's Thinking Cap</sub-title>
+    <desc>Goofy wears a thinking cap created by professor Ludwig Von Drake; after he wins the scavenger hunt, professor Von Drake tells him it was a fake.</desc>
+    <episode-num system="xmltv_ns">321</episode-num>
+  </programme>
+  <programme start="20261101082500 +0000" stop="20261101085000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Grannies; Yoga Ball; Calypso</sub-title>
+    <desc>Bluey and Bingo call Nana to ask one major question; Bingo finds her big girl bark; teacher Calypso has her hands full in the classroom.</desc>
+  </programme>
+  <programme start="20261101085000 +0000" stop="20261101091500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>TV Shop; Dragon; Slide</sub-title>
+    <desc>At the pharmacy, Bluey and Bingo have fun playing with the CCTV screens.</desc>
+  </programme>
+  <programme start="20261101091500 +0000" stop="20261101094000 +0000" channel="disney-junior-east">
+    <title>Mickey and the Roadster Racers</title>
+    <sub-title>Ye Olde Royal Heist; Tea Time Trouble!</sub-title>
+    <desc>Mickey and Minnie celebrate their raceversary in London; the Happy Helpers get invited to tea with the Queen.</desc>
+    <episode-num system="xmltv_ns">107</episode-num>
+  </programme>
+  <programme start="20261101094000 +0000" stop="20261101100500 +0000" channel="disney-junior-east">
+    <title>Mickey and the Roadster Racers</title>
+    <sub-title>Super-Charged: Pop Star Helpers; The Chip 'N Dale 500</sub-title>
+    <desc>The Happy Helpers are hired to get pop star Nina Glitter to her show on time; Chip and Dale shrink everyone down to their size.</desc>
+    <episode-num system="xmltv_ns">213</episode-num>
+  </programme>
+  <programme start="20261101100500 +0000" stop="20261101103000 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Clubhouse</title>
+    <sub-title>Mickey Goes Fishing</sub-title>
+    <desc>Goofy drops off his kitten, Mr. Pettibone, at the Clubhouse for the day.</desc>
+    <episode-num system="xmltv_ns">107</episode-num>
+  </programme>
+  <programme start="20261101103000 +0000" stop="20261101110000 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Clubhouse+</title>
+    <sub-title>Donald's Clubhouse Sleepover</sub-title>
+    <desc>Donald hosts a sleepover at his new Clubhouse but can't fall asleep; Mickey and friends help him get a good night's rest.</desc>
+  </programme>
+  <programme start="20261101110000 +0000" stop="20261101112500 +0000" channel="disney-junior-east">
+    <title>Pupstruction</title>
+    <sub-title>Happy Howl-o-ween; The House of Howls</sub-title>
+    <desc>Bobby Boots thinks he wasn't invited to Pupstruction's Howl-O-Ween party; Tank doesn't think he's brave enough to help build a haunted house, but his friends are trapped.</desc>
+    <episode-num system="xmltv_ns">110</episode-num>
+  </programme>
+  <programme start="20261101112500 +0000" stop="20261101115000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Hammerbarn; Feather Wand; Dance Mode</sub-title>
+    <desc>The Heelers take a trip to Hammerbarn; Bingo has an idea for a new game; Dad eats Bingo's last chip.</desc>
+  </programme>
+  <programme start="20261101115000 +0000" stop="20261101121500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Faceytalk; Ragdoll; Fairytale</sub-title>
+    <desc>Bluey and Bingo love to video chat; Dad agrees to buy ice cream; Dad tells a real-life fairy tale.</desc>
+  </programme>
+  <programme start="20261101121500 +0000" stop="20261101124000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Squash; Charades; Bingo</sub-title>
+    <desc>Bluey and Bingo help Uncle Stripe and Bandit play squash and spend the day with Nana; Bingo has to learn to play alone.</desc>
+  </programme>
+  <programme start="20261101124000 +0000" stop="20261101130000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Muffin Cone; Circus; Road Trip</sub-title>
+    <desc>The Heelers go on a road trip! Mum bans the girls from saying the word 'dunny.' Bluey wants to help Dad make Bingo's birthday cake.</desc>
+  </programme>
+  <programme start="20261101130000 +0000" stop="20261101143500 +0000" channel="disney-junior-east">
+    <title>Movie</title>
+    <sub-title>Encanto</sub-title>
+    <desc>A Colombian girl may be the last hope for her family when she discovers that the magic surrounding the Encanto -- an enchanted place that blesses children with unique gifts -- is now in danger.</desc>
+  </programme>
+  <programme start="20261101143500 +0000" stop="20261101150000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Mum and Dads; Mount Mumandad; Asparagus</sub-title>
+    <desc>Indy and Rusty can't agree in a game of Mum and Dads; Bluey and Bingo work together to climb Mount MumandDad; magic asparagus turns the family into wild animals.</desc>
+    <episode-num system="xmltv_ns">114</episode-num>
+  </programme>
+  <programme start="20261101150000 +0000" stop="20261101153000 +0000" channel="disney-junior-east">
+    <title>Sofia the First: Royal Magic</title>
+    <sub-title>Veggie Good Deed; The Lilygnome</sub-title>
+    <desc>Wanting to do a good deed, Amber helps Sofia with the village feast but causes some magical problems instead; Sofia needs Layla's help to tame a mischievous magical flower.</desc>
+  </programme>
+  <programme start="20261101153000 +0000" stop="20261101160000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Chest; Omelette; Pass the Parcel</sub-title>
+    <desc>Dad tries to teach Bluey how to play chess, but Mom thinks she is still too young; Bingo helps Mom make an omelette for Dad's birthday; Lucky's Dad is outraged that modern Pass the Parcel has a present in every layer.</desc>
+  </programme>
+  <programme start="20261101160000 +0000" stop="20261101163000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Turtle Boy; Onesies; Tradies</sub-title>
+    <desc>Bingo finds a toy turtle at the playground and wants to take him home; Mom's sister Brandy comes over for a visit; Bluey and Bingo hide under the house and spy on two mysterious tradies working in the backyard.</desc>
+  </programme>
+  <programme start="20261101163000 +0000" stop="20261101170000 +0000" channel="disney-junior-east">
+    <title>Magicampers</title>
+    <sub-title>The Trollamander and the Purple Pumpkins; Critter Spotting</sub-title>
+    <desc>The Magicampers go into the spooky part of the forest; Darly and Loomis search for a rare critter.</desc>
+  </programme>
+  <programme start="20261101170000 +0000" stop="20261101172500 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Clubhouse+</title>
+    <sub-title>Pete's Big Surprise</sub-title>
+    <desc>With the help of some clever Mouseketools, Mickey, Donald and Goofy deliver a special present for Pete's birthday.</desc>
+  </programme>
+  <programme start="20261101172500 +0000" stop="20261101182500 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Clubhouse+</title>
+    <sub-title>The Big Acorn Hunt</sub-title>
+    <desc>Since Dale caught the sniffles on the big acorn hunt day, Mickey and Pals help Chip gather acorns with Professor Von Drake's Nifty Nutty Acorn Collector.</desc>
+  </programme>
+  <programme start="20261101182500 +0000" stop="20261101185000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Keepy Uppy; Magic Xylophone; Shadowlands</sub-title>
+    <desc>Bluey, Bingo and Mum enjoy a game of Keepy-Uppy around the house; Bluey and Bingo squabble over their magic xylophone; Coco keeps taking shortcuts while playing Shadowlands.</desc>
+  </programme>
+  <programme start="20261101185000 +0000" stop="20261101191000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Musical Statues; Stories; Puppets</sub-title>
+    <desc>Mum gets everyone to play musical statues.</desc>
+  </programme>
+  <programme start="20261101191000 +0000" stop="20261101193500 +0000" channel="disney-junior-east">
+    <title>SuperKitties</title>
+    <sub-title>Elephantastic Elephant; Glam-tastrophe</sub-title>
+    <desc>It's up to the Kitties to stop a baby elephant on the loose! The SuperKitties and Willa step in when Mr. Puppypaws' glam new look gets out of control.</desc>
+  </programme>
+  <programme start="20261101193500 +0000" stop="20261101200000 +0000" channel="disney-junior-east">
+    <title>SuperKitties</title>
+    <sub-title>Fishy Fish Thief; Burgled Backpacks</sub-title>
+    <desc>Willa helps the SuperKitties stop Mr. Puppypaws from taking a special fish statue; the Kitties must save the first day of school when the Glamsters steal all the backpacks!</desc>
+  </programme>
+  <programme start="20261101200000 +0000" stop="20261101202500 +0000" channel="disney-junior-east">
+    <title>Magicampers</title>
+    <sub-title>Chick and Chiffen; All For Little Gruffypants</sub-title>
+    <desc>Chiffen finds a lost egg; Dracoon takes his favorite toy on a quest.</desc>
+  </programme>
+  <programme start="20261101202500 +0000" stop="20261101205000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Bus; Mum School; Piggyback</sub-title>
+    <desc>The Heelers play a game of Bus; Mum and Bluey play Mum School, where Mum teaches Bluey how to corral her rowdy kids; Bingo decides she's too tired to walk and needs a piggyback.</desc>
+  </programme>
+  <programme start="20261101205000 +0000" stop="20261101211500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Unicorse; Born Yesterday; Curry Quest</sub-title>
+    <desc>Bluey can't get to sleep, so Mum reads her a story; Dad pretends he was born yesterday; Bingo and Dad brave a magpie protecting its nest.</desc>
+  </programme>
+  <programme start="20261101211500 +0000" stop="20261101214000 +0000" channel="disney-junior-east">
+    <title>Marvel's Spidey and His Amazing Friends</title>
+    <sub-title>Gobby's Leprechaun Caper; Kitty Cat Thief</sub-title>
+    <desc>Green Goblin disguises himself as a leprechaun; a special library story time is interrupted by a string of villains trying to steal the book to be read.</desc>
+  </programme>
+  <programme start="20261101214000 +0000" stop="20261101220500 +0000" channel="disney-junior-east">
+    <title>Marvel's Spidey and His Amazing Friends</title>
+    <sub-title>Silk Swings In; Gobby and Rhino's Webby Adventure</sub-title>
+    <desc>Team Spidey and their new friend Silk must stop Doc Ock from using her Slo-Go Ray; Team Spidey must defeat new spider-villains and retrieve their stolen web-shooters.</desc>
+    <episode-num system="xmltv_ns">510</episode-num>
+  </programme>
+  <programme start="20261101220500 +0000" stop="20261101223000 +0000" channel="disney-junior-east">
+    <title>Iron Man and His Awesome Friends</title>
+    <sub-title>Swarm Visits the Pier; Ultron Says</sub-title>
+    <desc>Aña joins Tony, Riri and Scott at the pier, but Swarm's robo-crabs cause a shellfish mess; the Iron Friends armor up to stop Ultron's Ultron Says ray from controlling the city.</desc>
+    <episode-num system="xmltv_ns">130</episode-num>
+  </programme>
+  <programme start="20261101223000 +0000" stop="20261101230000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Housework; Sheepdog; Explorers</sub-title>
+    <desc>Mum and Dad need to finish their housework; Dad, Bluey and Bingo play Sheepdog; Jack pretends to be a sailor on his way home.</desc>
+  </programme>
+  <programme start="20261101230000 +0000" stop="20261101232500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>TV Shop; Dragon; Slide</sub-title>
+    <desc>At the pharmacy, Bluey and Bingo have fun playing with the CCTV screens.</desc>
+  </programme>
+  <programme start="20261101232500 +0000" stop="20261101235000 +0000" channel="disney-junior-east">
+    <title>Sofia the First: Royal Magic</title>
+    <sub-title>Welcome to Charmswell</sub-title>
+    <desc>It's Sofia's first day of royal magic school, and she teams up with new friends to win a race and gets a magical visit from Rapunzel.</desc>
+    <episode-num system="xmltv_ns">101</episode-num>
+  </programme>
+  <programme start="20261101235000 +0000" stop="20261102001500 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Clubhouse+</title>
+    <sub-title>Mickey's Get-Up-And-Go Day</sub-title>
+    <desc>Mickey and pals do outdoor chores using Mouseketools to tidy the Clubhouse yard; after cleaning, they enjoy a pool party to end the day together.</desc>
+  </programme>
+  <programme start="20261102001500 +0000" stop="20261102004000 +0000" channel="disney-junior-east">
+    <title>Hey AJ!</title>
+    <sub-title>Not The Hiccups; The Captain Durag Effect</sub-title>
+    <desc>Jazz's uncontrollable hiccups turn him into a hiccup monster in Boptopia; when Jazz feels nervous about his first karate lesson, AJ goes with him to help.</desc>
+  </programme>
+  <programme start="20261102004000 +0000" stop="20261102010500 +0000" channel="disney-junior-east">
+    <title>Marvel's Spidey and His Amazing Friends</title>
+    <sub-title>One Fantastic Surprise Party; Kitty Cat Chaos</sub-title>
+    <desc>Spidey helps Mr. Fantastic when his hiccups cause him to change shapes; after a potion turns them into kittens, Spidey and Spin must get creative to defeat Lizard.</desc>
+  </programme>
+  <programme start="20261102010500 +0000" stop="20261102013000 +0000" channel="disney-junior-east">
+    <title>Marvel's Spidey and His Amazing Friends</title>
+    <sub-title>It's Raining Pranks; Jeff Bites Back</sub-title>
+    <desc>Spidey, Rocket and Groot save a beautiful day from Green Goblin's prank machine; Team Spidey helps Jeff the Land Shark after he loses a tooth and is captured by Doc Ock.</desc>
+    <episode-num system="xmltv_ns">511</episode-num>
+  </programme>
+  <programme start="20261102013000 +0000" stop="20261102015500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Hammerbarn; Feather Wand; Dance Mode</sub-title>
+    <desc>The Heelers take a trip to Hammerbarn; Bingo has an idea for a new game; Dad eats Bingo's last chip.</desc>
+  </programme>
+  <programme start="20261102015500 +0000" stop="20261102022000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Faceytalk; Ragdoll; Fairytale</sub-title>
+    <desc>Bluey and Bingo love to video chat; Dad agrees to buy ice cream; Dad tells a real-life fairy tale.</desc>
+  </programme>
+  <programme start="20261102022000 +0000" stop="20261102024000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Squash; Charades; Bingo</sub-title>
+    <desc>Bluey and Bingo help Uncle Stripe and Bandit play squash and spend the day with Nana; Bingo has to learn to play alone.</desc>
+  </programme>
+  <programme start="20261102024000 +0000" stop="20261102030000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Muffin Cone; Circus; Road Trip</sub-title>
+    <desc>The Heelers go on a road trip! Mum bans the girls from saying the word 'dunny.' Bluey wants to help Dad make Bingo's birthday cake.</desc>
+  </programme>
+  <programme start="20261102030000 +0000" stop="20261102032500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Chest; Omelette; Pass the Parcel</sub-title>
+    <desc>Dad tries to teach Bluey how to play chess, but Mom thinks she is still too young; Bingo helps Mom make an omelette for Dad's birthday; Lucky's Dad is outraged that modern Pass the Parcel has a present in every layer.</desc>
+  </programme>
+  <programme start="20261102032500 +0000" stop="20261102035000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Turtle Boy; Onesies; Tradies</sub-title>
+    <desc>Bingo finds a toy turtle at the playground and wants to take him home; Mom's sister Brandy comes over for a visit; Bluey and Bingo hide under the house and spy on two mysterious tradies working in the backyard.</desc>
+  </programme>
+  <programme start="20261102035000 +0000" stop="20261102041500 +0000" channel="disney-junior-east">
+    <title>Marvel's Spidey and His Amazing Friends</title>
+    <sub-title>Going Green; Coming Clean</sub-title>
+    <desc>Team Spidey is planting trees in the park, but Green Goblin interrupts by spewing gas everywhere; Peter uses his new invention to clean up a mess.</desc>
+    <episode-num system="xmltv_ns">113</episode-num>
+  </programme>
+  <programme start="20261102041500 +0000" stop="20261102044000 +0000" channel="disney-junior-east">
+    <title>Marvel's Spidey and His Amazing Friends</title>
+    <sub-title>A Syrupy Solution; Little Ant, Big Problem</sub-title>
+    <desc>Gwen teams up with her dad to save the forest from Doc Ock; Peter accidentally grows his pet ant to the size of a dog.</desc>
+    <episode-num system="xmltv_ns">220</episode-num>
+  </programme>
+  <programme start="20261102044000 +0000" stop="20261102050500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>The Quiet Game / Postman / Cafe</sub-title>
+    <desc>Bluey and Bingo play The Quiet Game; when Mum and Dad have a disagreement, Bluey makes Dad write a love letter to Mum; in the park, Bluey meets a new playmate, Winnie.</desc>
+  </programme>
+  <programme start="20261102050500 +0000" stop="20261102053000 +0000" channel="disney-junior-east">
+    <title>BeddyByes</title>
+    <sub-title>Den; Mirror</sub-title>
+    <desc>MeMo helps BaBa to build a den that's just right. MeMo and BaBa have fun playing with their reflections.</desc>
+  </programme>
+  <programme start="20261102053000 +0000" stop="20261102055500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Keepy Uppy; Magic Xylophone; Shadowlands</sub-title>
+    <desc>Bluey, Bingo and Mum enjoy a game of Keepy-Uppy around the house; Bluey and Bingo squabble over their magic xylophone; Coco keeps taking shortcuts while playing Shadowlands.</desc>
+  </programme>
+  <programme start="20261102055500 +0000" stop="20261102062000 +0000" channel="disney-junior-east">
+    <title>PJ Masks</title>
+    <sub-title>Slow and Sneaky; The PJ Riders Save the Day</sub-title>
+    <desc>Romeo challenges Carly and Cartoka to a race, but it's all part of a sneaky plan to steal speed crystals; the PJ Riders are jealous when the PJs plan to restore their vehicles.</desc>
+  </programme>
+  <programme start="20261102062000 +0000" stop="20261102064500 +0000" channel="disney-junior-east">
+    <title>PJ Masks</title>
+    <sub-title>Magnet in the Moat; Motsuki Bugs Out</sub-title>
+    <desc>Luna and Motsuki drop Luna's magnet in the moat and are silly enough to accept Octobella's help getting it; Motsuki gets angry at being told she's too buggy to be in charge.</desc>
+    <episode-num system="xmltv_ns">416</episode-num>
+  </programme>
+  <programme start="20261102064500 +0000" stop="20261102071000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Musical Statues; Stories; Puppets</sub-title>
+    <desc>Mum gets everyone to play musical statues.</desc>
+  </programme>
+  <programme start="20261102071000 +0000" stop="20261102073500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Bus; Mum School; Piggyback</sub-title>
+    <desc>The Heelers play a game of Bus; Mum and Bluey play Mum School, where Mum teaches Bluey how to corral her rowdy kids; Bingo decides she's too tired to walk and needs a piggyback.</desc>
+  </programme>
+  <programme start="20261102073500 +0000" stop="20261102080000 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Clubhouse</title>
+    <sub-title>Goofy the Homemaker</sub-title>
+    <desc>Mickey, Goofy and their friends build a birdhouse for Baby Red Bird and his family.</desc>
+    <episode-num system="xmltv_ns">203</episode-num>
+  </programme>
+  <programme start="20261102080000 +0000" stop="20261102082500 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Clubhouse</title>
+    <sub-title>Mickey's Big Job</sub-title>
+    <desc>The Giant asks Mickey and his friends to house-sit his farm.</desc>
+    <episode-num system="xmltv_ns">216</episode-num>
+  </programme>
+  <programme start="20261102082500 +0000" stop="20261102085000 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Unicorse; Born Yesterday; Curry Quest</sub-title>
+    <desc>Bluey can't get to sleep, so Mum reads her a story; Dad pretends he was born yesterday; Bingo and Dad brave a magpie protecting its nest.</desc>
+  </programme>
+  <programme start="20261102085000 +0000" stop="20261102091500 +0000" channel="disney-junior-east">
+    <title>Bluey</title>
+    <sub-title>Housework; Sheepdog; Explorers</sub-title>
+    <desc>Mum and Dad need to finish their housework; Dad, Bluey and Bingo play Sheepdog; Jack pretends to be a sailor on his way home.</desc>
+  </programme>
+  <programme start="20261102091500 +0000" stop="20261102094000 +0000" channel="disney-junior-east">
+    <title>Mickey and the Roadster Racers</title>
+    <sub-title>Super-Charged!; Super-Charged: Mickey's Monster Rally</sub-title>
+    <desc>Professor Von Drake super-charges Mickey's roadster, giving it super-speed and a few surprises; Mickey and the gang must chase after Pete's truck, which was accidentally transformed into a Monster Truck.</desc>
+    <episode-num system="xmltv_ns">212</episode-num>
+  </programme>
+  <programme start="20261102094000 +0000" stop="20261102100500 +0000" channel="disney-junior-east">
+    <title>Mickey and the Roadster Racers</title>
+    <sub-title>Daisy's Photo Finish!; Super-Charged: Daisy's Grande Goal</sub-title>
+    <desc>Minnie and Daisy travel to Brazil's Amazon rainforest to help Daisy's cousin get a picture of a rare bird; during a Roadster Soccer match, Daisy's competitiveness gets out of hand.</desc>
+    <episode-num system="xmltv_ns">215</episode-num>
+  </programme>
+  <programme start="20261102100500 +0000" stop="20261102103000 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Clubhouse</title>
+    <sub-title>Pluto's Puppy-Sitting Adventure</sub-title>
+    <desc>Clarabelle Cow asks Mickey and Pluto to baby-sit her new puppy.</desc>
+    <episode-num system="xmltv_ns">118</episode-num>
+  </programme>
+  <programme start="20261102103000 +0000" stop="20261102110000 +0000" channel="disney-junior-east">
+    <title>Mickey Mouse Clubhouse+</title>
+    <sub-title>Say Cheese</sub-title>
+    <desc>Mickey and pals travel to all their favorite places and take pictures for his friendship photo wall; Duffy gets a photo, too!</desc>
+  </programme>
+</tv>

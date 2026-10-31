@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="as-east">
+    <display-name>As East</display-name>
+    <icon src="https://www.adultswim.com/img/as-logo.svg"/>
+  </channel>
+  <programme start="20261030210000 +0000" stop="20261030213000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Halloween on Spooner Street</sub-title>
+    <desc>Peter and Joe perform painful and humiliating Halloween pranks on unsuspecting family and friends; Brian shows Stewie the ropes of trick or treating; Meg attends her first high school Halloween party.</desc>
+    <episode-num system="onscreen">8ACX06</episode-num>
+  </programme>
+  <programme start="20261030213000 +0000" stop="20261030220000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Mr. Saturday Knight</sub-title>
+    <desc>Peter joins a traveling Renaissance fair and is forced to defend his family's honor in a duel with the infamous Black Knight.</desc>
+    <episode-num system="xmltv_ns">304</episode-num>
+  </programme>
+  <programme start="20261030220000 +0000" stop="20261030223000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Wings of the Dope</sub-title>
+    <desc>The town becomes angel-crazy after Luanne thinks she sees Buckley's spirit bouncing on Khan's trampoline.</desc>
+    <episode-num system="onscreen">3ABE21</episode-num>
+  </programme>
+  <programme start="20261030223000 +0000" stop="20261030230000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Take Me Out of the Ball Game</sub-title>
+    <desc>Hank doesn't give Peggy the credit she's due when she becomes the star pitcher of his company's coed softball team.</desc>
+    <episode-num system="onscreen">3ABE22</episode-num>
+  </programme>
+  <programme start="20261030230000 +0000" stop="20261030233000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>The Pumpkinening</sub-title>
+    <desc>When a mysterious note is sent to Linda on Halloween, she and Gayle must travel to their hometown to face a wrong they committed 27 years ago.</desc>
+    <episode-num system="xmltv_ns">1102</episode-num>
+  </programme>
+  <programme start="20261030233000 +0000" stop="20261031000000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Apple Gore-chard! (But Not Gory)</sub-title>
+    <desc>Louise suspects there's something sinister afoot during a Halloween field trip to an apple orchard; Tina and Gene hope to win the school costume parade.</desc>
+    <episode-num system="xmltv_ns">1205</episode-num>
+  </programme>
+  <programme start="20261031000000 +0000" stop="20261031003000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Steve's Franken Out</sub-title>
+    <desc>When Principal Lewis threatens to cancel science club, Steve takes matters into his own hands in a monstrous way.</desc>
+  </programme>
+  <programme start="20261031003000 +0000" stop="20261031010000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>The Professor and the Coach</sub-title>
+    <desc>Hayley tries to help Roger write a book.</desc>
+    <episode-num system="xmltv_ns">1701</episode-num>
+  </programme>
+  <programme start="20261031010000 +0000" stop="20261031013000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Halloween on Spooner Street</sub-title>
+    <desc>Peter and Joe perform painful and humiliating Halloween pranks on unsuspecting family and friends; Brian shows Stewie the ropes of trick or treating; Meg attends her first high school Halloween party.</desc>
+    <episode-num system="onscreen">8ACX06</episode-num>
+  </programme>
+  <programme start="20261031013000 +0000" stop="20261031020000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Mr. Saturday Knight</sub-title>
+    <desc>Peter joins a traveling Renaissance fair and is forced to defend his family's honor in a duel with the infamous Black Knight.</desc>
+    <episode-num system="xmltv_ns">304</episode-num>
+  </programme>
+  <programme start="20261031020000 +0000" stop="20261031023000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Wings of the Dope</sub-title>
+    <desc>The town becomes angel-crazy after Luanne thinks she sees Buckley's spirit bouncing on Khan's trampoline.</desc>
+    <episode-num system="onscreen">3ABE21</episode-num>
+  </programme>
+  <programme start="20261031023000 +0000" stop="20261031030000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Take Me Out of the Ball Game</sub-title>
+    <desc>Hank doesn't give Peggy the credit she's due when she becomes the star pitcher of his company's coed softball team.</desc>
+    <episode-num system="onscreen">3ABE22</episode-num>
+  </programme>
+  <programme start="20261031030000 +0000" stop="20261031033000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Night Family</sub-title>
+    <desc>The family discover Rick has been using some new technology that they want to try too; after obliging, classic Rick and Morty chaos ensues.</desc>
+    <episode-num system="xmltv_ns">605</episode-num>
+  </programme>
+  <programme start="20261031033000 +0000" stop="20261031040000 +0000" channel="as-east">
+    <title>Robot Chicken Walking Dead Special: Look Who's Walking</title>
+    <desc>An animated zombie apocalypse.</desc>
+  </programme>
+  <programme start="20261031040000 +0000" stop="20261031043000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>The Pumpkinening</sub-title>
+    <desc>When a mysterious note is sent to Linda on Halloween, she and Gayle must travel to their hometown to face a wrong they committed 27 years ago.</desc>
+    <episode-num system="xmltv_ns">1102</episode-num>
+  </programme>
+  <programme start="20261031043000 +0000" stop="20261031050000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Apple Gore-chard! (But Not Gory)</sub-title>
+    <desc>Louise suspects there's something sinister afoot during a Halloween field trip to an apple orchard; Tina and Gene hope to win the school costume parade.</desc>
+    <episode-num system="xmltv_ns">1205</episode-num>
+  </programme>
+  <programme start="20261031050000 +0000" stop="20261031053000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Steve's Franken Out</sub-title>
+    <desc>When Principal Lewis threatens to cancel science club, Steve takes matters into his own hands in a monstrous way.</desc>
+  </programme>
+  <programme start="20261031053000 +0000" stop="20261031060000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>The Professor and the Coach</sub-title>
+    <desc>Hayley tries to help Roger write a book.</desc>
+    <episode-num system="xmltv_ns">1701</episode-num>
+  </programme>
+  <programme start="20261031060000 +0000" stop="20261031063000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Halloween on Spooner Street</sub-title>
+    <desc>Peter and Joe perform painful and humiliating Halloween pranks on unsuspecting family and friends; Brian shows Stewie the ropes of trick or treating; Meg attends her first high school Halloween party.</desc>
+    <episode-num system="onscreen">8ACX06</episode-num>
+  </programme>
+  <programme start="20261031063000 +0000" stop="20261031070000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Mr. Saturday Knight</sub-title>
+    <desc>Peter joins a traveling Renaissance fair and is forced to defend his family's honor in a duel with the infamous Black Knight.</desc>
+    <episode-num system="xmltv_ns">304</episode-num>
+  </programme>
+  <programme start="20261031070000 +0000" stop="20261031073000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Wings of the Dope</sub-title>
+    <desc>The town becomes angel-crazy after Luanne thinks she sees Buckley's spirit bouncing on Khan's trampoline.</desc>
+    <episode-num system="onscreen">3ABE21</episode-num>
+  </programme>
+  <programme start="20261031073000 +0000" stop="20261031080000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Take Me Out of the Ball Game</sub-title>
+    <desc>Hank doesn't give Peggy the credit she's due when she becomes the star pitcher of his company's coed softball team.</desc>
+    <episode-num system="onscreen">3ABE22</episode-num>
+  </programme>
+  <programme start="20261031080000 +0000" stop="20261031083000 +0000" channel="as-east">
+    <title>In the Know</title>
+    <sub-title>I'm No Hero</sub-title>
+    <desc>Lauren Caspian, NPR's third-most popular host, helps an unhoused person by inviting them into the studio and interviews Kaia Gerber and Jonathan Van Ness.</desc>
+  </programme>
+  <programme start="20261031083000 +0000" stop="20261031090000 +0000" channel="as-east">
+    <title>Bob and Margaret</title>
+    <sub-title>Trick or Treat</sub-title>
+    <desc>Bob confronts death at the funeral of a friend and considers visiting his father's grave.</desc>
+  </programme>
+  <programme start="20261031090000 +0000" stop="20261031093000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Night Family</sub-title>
+    <desc>The family discover Rick has been using some new technology that they want to try too; after obliging, classic Rick and Morty chaos ensues.</desc>
+    <episode-num system="xmltv_ns">605</episode-num>
+  </programme>
+  <programme start="20261031093000 +0000" stop="20261031100000 +0000" channel="as-east">
+    <title>Robot Chicken Walking Dead Special: Look Who's Walking</title>
+    <desc>An animated zombie apocalypse.</desc>
+  </programme>
+  <programme start="20261031100000 +0000" stop="20261031210000 +0000" channel="as-east">
+    <title>Off Air</title>
+    <sub-title>Off Air</sub-title>
+    <desc>Off Air</desc>
+  </programme>
+  <programme start="20261031210000 +0000" stop="20261031213000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Pigmalion</sub-title>
+    <desc>A wealthy pork supplier (guest star Michael Keaton) takes a special interest in Luanne. Chuck Mangione also guest stars as himself.</desc>
+    <episode-num system="onscreen">5ABE23</episode-num>
+  </programme>
+  <programme start="20261031213000 +0000" stop="20261031220000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Best Little Horror House in Langley Falls</sub-title>
+    <desc>Wanting to have the scariest haunted house on the block, Stan comes up with a </desc>
+    <episode-num system="onscreen">5AJN19</episode-num>
+  </programme>
+  <programme start="20261031220000 +0000" stop="20261031223000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Fraud of the Dead: Zombie-docu-pocalypse</sub-title>
+    <desc>A documentary film profiling world-class archer Louise Belcher is interrupted by unexpected visitors.</desc>
+    <episode-num system="xmltv_ns">1308</episode-num>
+  </programme>
+  <programme start="20261031223000 +0000" stop="20261031230000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>The Twinnening</sub-title>
+    <desc>Teddy takes a handyman job next door to the restaurant and finds himself trapped inside a store full of spooky antiques.</desc>
+    <episode-num system="xmltv_ns">1418</episode-num>
+  </programme>
+  <programme start="20261031230000 +0000" stop="20261031233000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Happy Holo-ween</sub-title>
+    <desc>Peter makes a hologram of himself to get out of menial household duties.</desc>
+    <episode-num system="xmltv_ns">2003</episode-num>
+  </programme>
+  <programme start="20261031233000 +0000" stop="20261101000000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>A Real Who's Hulu</sub-title>
+    <desc>The Griffins spoof </desc>
+    <episode-num system="xmltv_ns">2204</episode-num>
+  </programme>
+  <programme start="20261101000000 +0000" stop="20261101003000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Halloween on Spooner Street</sub-title>
+    <desc>Peter and Joe perform painful and humiliating Halloween pranks on unsuspecting family and friends; Brian shows Stewie the ropes of trick or treating; Meg attends her first high school Halloween party.</desc>
+    <episode-num system="onscreen">8ACX06</episode-num>
+  </programme>
+  <programme start="20261101003000 +0000" stop="20261101010000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>As Old as the Hills</sub-title>
+    <desc>Bobby anticipates the birth of Cotton and Didi's baby, while Hank and Peggy go skydiving. Voices of Mike Judge, Kathy Najimy, Pamela Segall and Brittany Murphy.</desc>
+    <episode-num system="onscreen">3ABE23</episode-num>
+  </programme>
+  <programme start="20261101010000 +0000" stop="20261101013000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Hilloween</sub-title>
+    <desc>Hank's revenge against another parent (voice of Sally Field) almost ruins Halloween when it is seen as a cult activity. Voices of Mike Judge and Kathy Najimy.</desc>
+    <episode-num system="onscreen">2ABE06</episode-num>
+  </programme>
+  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Pigmalion</sub-title>
+    <desc>A wealthy pork supplier (guest star Michael Keaton) takes a special interest in Luanne. Chuck Mangione also guest stars as himself.</desc>
+    <episode-num system="onscreen">5ABE23</episode-num>
+  </programme>
+  <programme start="20261101020000 +0000" stop="20261101034500 +0000" channel="as-east">
+    <title>Movie</title>
+    <sub-title>Metalocalypse: The Army of the Doomstar</sub-title>
+    <desc>Dethklok frontman Nathan Explosion finds himself traumatized while tasked with fulfilling the prophecy and completing the ultimate songwriting challenge to save the planet.</desc>
+  </programme>
+  <programme start="20261101034500 +0000" stop="20261101040000 +0000" channel="as-east">
+    <title>Smiling Friends</title>
+    <sub-title>A Silly Halloween Special</sub-title>
+    <desc>Pim ventures into the forest across the road to fetch firewood for the office Halloween party.</desc>
+  </programme>
+  <programme start="20261101040000 +0000" stop="20261101043000 +0000" channel="as-east">
+    <title>Get Jiro!</title>
+    <sub-title>Tokyo Story</sub-title>
+    <desc>A flashback episode explores Jiro's origins in Tokyo, where he is torn between two conflicting worlds.</desc>
+  </programme>
+  <programme start="20261101043000 +0000" stop="20261101050000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Best Little Horror House in Langley Falls</sub-title>
+    <desc>Wanting to have the scariest haunted house on the block, Stan comes up with a </desc>
+    <episode-num system="onscreen">5AJN19</episode-num>
+  </programme>
+  <programme start="20261101050000 +0000" stop="20261101053000 +0000" channel="as-east">
+    <title>President Curtis</title>
+    <sub-title>Purchase</sub-title>
+    <desc>After discovering an addendum on the Louisiana Purchase receipt, Curtis and his team must race against old enemies and friends to maintain control of the Louisiana Purchase territory.</desc>
+  </programme>
+  <programme start="20261101053000 +0000" stop="20261101054500 +0000" channel="as-east">
+    <title>The Great Yokai Battle of Akihabara</title>
+    <desc>Rick plans to build the ultimate AI toaster; things take a strange turn when he and Morty are forced to travel to Akihabara for spare parts.</desc>
+  </programme>
+  <programme start="20261101054500 +0000" stop="20261101080000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Rick and Morty in the Eternal Nightmare Machine</sub-title>
+    <desc>The simulation is corrupt; repair the core.</desc>
+  </programme>
+  <programme start="20261101070000 +0000" stop="20261101084500 +0000" channel="as-east">
+    <title>Movie</title>
+    <sub-title>Metalocalypse: The Army of the Doomstar</sub-title>
+    <desc>Dethklok frontman Nathan Explosion finds himself traumatized while tasked with fulfilling the prophecy and completing the ultimate songwriting challenge to save the planet.</desc>
+  </programme>
+  <programme start="20261101084500 +0000" stop="20261101090000 +0000" channel="as-east">
+    <title>Smiling Friends</title>
+    <sub-title>A Silly Halloween Special</sub-title>
+    <desc>Pim ventures into the forest across the road to fetch firewood for the office Halloween party.</desc>
+  </programme>
+  <programme start="20261101090000 +0000" stop="20261101104500 +0000" channel="as-east">
+    <title>Movie</title>
+    <sub-title>Metalocalypse: The Army of the Doomstar</sub-title>
+    <desc>Dethklok frontman Nathan Explosion finds himself traumatized while tasked with fulfilling the prophecy and completing the ultimate songwriting challenge to save the planet.</desc>
+  </programme>
+  <programme start="20261101100000 +0000" stop="20261101210000 +0000" channel="as-east">
+    <title>Off Air</title>
+    <sub-title>Off Air</sub-title>
+    <desc>Off Air</desc>
+  </programme>
+  <programme start="20261101210000 +0000" stop="20261101213000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Peggy Hill: The Decline and Fall</sub-title>
+    <desc>While skydiving, Peggy's parachute fails to open, and she plummets toward the ground. Voices of Mike Judge, Kathy Najimy, Pamela Segall and Brittany Murphy.</desc>
+    <episode-num system="onscreen">3ABE24</episode-num>
+  </programme>
+  <programme start="20261101213000 +0000" stop="20261101220000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Cotton's Plot</sub-title>
+    <desc>When Peggy needs physical therapy, Cotton becomes her hard-driving drill sergeant. Voices of Mike Judge, Kathy Najimy, Pamela Segall and Brittany Murphy. Guest voice: Toby Huss.</desc>
+    <episode-num system="onscreen">4ABE01</episode-num>
+  </programme>
+  <programme start="20261101220000 +0000" stop="20261101223000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Bills Are Made to Be Broken</sub-title>
+    <desc>Hank sends Bill back into training so he can defend his high-school touchdown record, which has just been broken by a local player.</desc>
+    <episode-num system="onscreen">4ABE02</episode-num>
+  </programme>
+  <programme start="20261101223000 +0000" stop="20261101230000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Viced Principal</sub-title>
+    <desc>Steve and Principal Lewis get caught in a dangerous situation at the school; the rest of the family make an adorable new friend.</desc>
+    <episode-num system="xmltv_ns">1703</episode-num>
+  </programme>
+  <programme start="20261101230000 +0000" stop="20261101233000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Insomnibob</sub-title>
+    <desc>Insomnia sends Bob on a creative spree in the kitchen, but at what cost?</desc>
+    <episode-num system="xmltv_ns">1409</episode-num>
+  </programme>
+  <programme start="20261101233000 +0000" stop="20261102000000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Human Flesh</sub-title>
+    <desc>Bob tries to drum up some business; Louise starts a rumor that results in a visit from the health department.</desc>
+    <episode-num system="onscreen">1ASA01</episode-num>
+  </programme>
+  <programme start="20261102000000 +0000" stop="20261102003000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Fish Out of Water</sub-title>
+    <desc>When Peter puts everything he owns on the line to buy a fishing boat, he must hunt down a famous man-eating fish to recoup his losses.</desc>
+    <episode-num system="xmltv_ns">305</episode-num>
+  </programme>
+  <programme start="20261102003000 +0000" stop="20261102010000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Emission Impossible</sub-title>
+    <desc>Stewie vows to keep his parents from procreating when they decide to have another baby, and he finally shrinks himself down to microscopic size in order to destroy all of Peter's sperm.</desc>
+    <episode-num system="xmltv_ns">301</episode-num>
+  </programme>
+  <programme start="20261102010000 +0000" stop="20261102013000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>To Love and Die in Dixie</sub-title>
+    <desc>The Griffins enter the witness protection program and relocate to a small Southern town after Chris identifies a convenience-store thief in a police lineup.</desc>
+    <episode-num system="xmltv_ns">309</episode-num>
+  </programme>
+  <programme start="20261102013000 +0000" stop="20261102020000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Peggy Hill: The Decline and Fall</sub-title>
+    <desc>While skydiving, Peggy's parachute fails to open, and she plummets toward the ground. Voices of Mike Judge, Kathy Najimy, Pamela Segall and Brittany Murphy.</desc>
+    <episode-num system="onscreen">3ABE24</episode-num>
+  </programme>
+  <programme start="20261102020000 +0000" stop="20261102023000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Cotton's Plot</sub-title>
+    <desc>When Peggy needs physical therapy, Cotton becomes her hard-driving drill sergeant. Voices of Mike Judge, Kathy Najimy, Pamela Segall and Brittany Murphy. Guest voice: Toby Huss.</desc>
+    <episode-num system="onscreen">4ABE01</episode-num>
+  </programme>
+  <programme start="20261102023000 +0000" stop="20261102030000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Bills Are Made to Be Broken</sub-title>
+    <desc>Hank sends Bill back into training so he can defend his high-school touchdown record, which has just been broken by a local player.</desc>
+    <episode-num system="onscreen">4ABE02</episode-num>
+  </programme>
+  <programme start="20261102030000 +0000" stop="20261102033000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Viced Principal</sub-title>
+    <desc>Steve and Principal Lewis get caught in a dangerous situation at the school; the rest of the family make an adorable new friend.</desc>
+    <episode-num system="xmltv_ns">1703</episode-num>
+  </programme>
+  <programme start="20261102033000 +0000" stop="20261102040000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>The CuRicksous Case of Bethjamin Button</sub-title>
+    <desc>The bros go to a theme park Rick loves; Beth and Space Beth stay behind and regress or something.</desc>
+  </programme>
+  <programme start="20261102040000 +0000" stop="20261102041500 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>In a DVD Factory</sub-title>
+    <desc>Killing a werewolf; Composite Santa Claus; a deleted scene from </desc>
+    <episode-num system="xmltv_ns">63</episode-num>
+  </programme>
+  <programme start="20261102041500 +0000" stop="20261102043000 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>They Took My Thumbs</sub-title>
+    <desc>Indiana Jones temple contractor; Ziggy turns his life around; The Justice League endures </desc>
+    <episode-num system="xmltv_ns">64</episode-num>
+  </programme>
+  <programme start="20261102043000 +0000" stop="20261102050000 +0000" channel="as-east">
+    <title>President Curtis</title>
+    <sub-title>David</sub-title>
+    <desc>After butting heads with his own Party, Curtis visits Camp David to undergo a true test of his Presidential prowess.</desc>
+  </programme>
+  <programme start="20261102050000 +0000" stop="20261102051500 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>Oh, Whoa</sub-title>
+    <desc>Insane dream where this assassin is trying to kill me, and I wrote a book.</desc>
+  </programme>
+  <programme start="20261102051500 +0000" stop="20261102053000 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>Really Interesting</sub-title>
+    <desc>I'm Batman, I think; some guy keeps booking the lactation room.</desc>
+  </programme>
+  <programme start="20261102053000 +0000" stop="20261102060000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>The CuRicksous Case of Bethjamin Button</sub-title>
+    <desc>The bros go to a theme park Rick loves; Beth and Space Beth stay behind and regress or something.</desc>
+  </programme>
+  <programme start="20261102060000 +0000" stop="20261102061500 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>In a DVD Factory</sub-title>
+    <desc>Killing a werewolf; Composite Santa Claus; a deleted scene from </desc>
+    <episode-num system="xmltv_ns">63</episode-num>
+  </programme>
+  <programme start="20261102061500 +0000" stop="20261102063000 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>They Took My Thumbs</sub-title>
+    <desc>Indiana Jones temple contractor; Ziggy turns his life around; The Justice League endures </desc>
+    <episode-num system="xmltv_ns">64</episode-num>
+  </programme>
+  <programme start="20261102063000 +0000" stop="20261102070000 +0000" channel="as-east">
+    <title>President Curtis</title>
+    <sub-title>David</sub-title>
+    <desc>After butting heads with his own Party, Curtis visits Camp David to undergo a true test of his Presidential prowess.</desc>
+  </programme>
+  <programme start="20261102070000 +0000" stop="20261102071500 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>Oh, Whoa</sub-title>
+    <desc>Insane dream where this assassin is trying to kill me, and I wrote a book.</desc>
+  </programme>
+  <programme start="20261102071500 +0000" stop="20261102073000 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>Really Interesting</sub-title>
+    <desc>I'm Batman, I think; some guy keeps booking the lactation room.</desc>
+  </programme>
+  <programme start="20261102073000 +0000" stop="20261102074500 +0000" channel="as-east">
+    <title>Smiling Friends</title>
+    <sub-title>Pim Finally Turns Green</sub-title>
+    <desc>Pim mysteriously turns bright green after eating an ancient artifact and his friends and rivals are horrified; they eventually learn to accept and love the new Pim.</desc>
+  </programme>
+  <programme start="20261102074500 +0000" stop="20261102080000 +0000" channel="as-east">
+    <title>Smiling Friends</title>
+    <sub-title>Silly Samuel</sub-title>
+    <desc>Pim and Charlie are tasked with helping a freak no one likes.</desc>
+  </programme>
+  <programme start="20261102080000 +0000" stop="20261102083000 +0000" channel="as-east">
+    <title>Get Jiro!</title>
+    <sub-title>The Ortolan</sub-title>
+    <desc>Jiro takes on a new apprentice and learns to cook a controversial new dish, and finds himself in the crosshairs of a meticulous assassin.</desc>
+  </programme>
+  <programme start="20261102083000 +0000" stop="20261102090000 +0000" channel="as-east">
+    <title>Ninja Kamui</title>
+    <desc>Yamaji addresses questions from one of his lieutenants regarding Higan's survival; Mike joins forces with Higan and Emma to launch their own independent investigation into AUZA.</desc>
+  </programme>
+  <programme start="20261102090000 +0000" stop="20261102093000 +0000" channel="as-east">
+    <title>Common Side Effects</title>
+    <sub-title>Cliff's Edge</sub-title>
+    <desc>Marshall finds out what Hildy is up to, but still faces obstacles; Copano and Harrington follow Marshall's trail.</desc>
+  </programme>
+  <programme start="20261102093000 +0000" stop="20261102100000 +0000" channel="as-east">
+    <title>Genndy Tartakovsky's Primal</title>
+    <sub-title>Vidarr</sub-title>
+    <desc>Spear, Fang and Mira are hunted by the last survivors of a village decimated by their carnage.</desc>
+  </programme>
+</tv>

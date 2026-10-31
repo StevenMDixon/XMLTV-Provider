@@ -1,0 +1,1488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="boomerang-east">
+    <display-name>Boomerang East</display-name>
+    <icon src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/250px-Boomerang_2014_logo.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail"/>
+  </channel>
+  <programme start="20261030100000 +0000" stop="20261030101000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>The Unruly Hare</sub-title>
+    <desc>Elmer disturbs Bugs' rest with his singing.</desc>
+  </programme>
+  <programme start="20261030101000 +0000" stop="20261030102000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Baseball Bugs</sub-title>
+    <desc>Bugs is invited to play a game of baseball after heckling the players.</desc>
+  </programme>
+  <programme start="20261030102000 +0000" stop="20261030103000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Baby Bottleneck</sub-title>
+    <desc>A post-war baby boom overworks the storks, so Porky and Daffy lend a hand.</desc>
+  </programme>
+  <programme start="20261030103000 +0000" stop="20261030104000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Hare Remover</sub-title>
+    <desc>Mad scientist Elmer tries his best to make a </desc>
+  </programme>
+  <programme start="20261030104000 +0000" stop="20261030105000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Hair Raising Hare</sub-title>
+    <desc>A mad scientist sends a sexy rabbit-robot to lure Bugs in as food for his monster.</desc>
+    <episode-num system="xmltv_ns">25954032</episode-num>
+  </programme>
+  <programme start="20261030105000 +0000" stop="20261030110000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Acrobatty Bunny</sub-title>
+    <desc>A circus is being set up above Bugs' home and the lion cage is placed directly above the hole.</desc>
+  </programme>
+  <programme start="20261030110000 +0000" stop="20261030111000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Buckaroo Bugs</sub-title>
+    <desc>The masked marauder strikes again, and a local hero is hired to catch the villain.</desc>
+  </programme>
+  <programme start="20261030111000 +0000" stop="20261030112000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>The Old Grey Hare</sub-title>
+    <desc>Elmer Fudd visits the future, while Bugs recalls the past.</desc>
+  </programme>
+  <programme start="20261030112000 +0000" stop="20261030113000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Rhapsody Rabbit</sub-title>
+    <desc>Bugs, a concert pianist, must overcome a coughing audience member, sheet music distractions, hunger pangs and an irksome musical mouse in his piano.</desc>
+  </programme>
+  <programme start="20261030113000 +0000" stop="20261030114000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>The Unruly Hare</sub-title>
+    <desc>Elmer disturbs Bugs' rest with his singing.</desc>
+  </programme>
+  <programme start="20261030114000 +0000" stop="20261030115000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Tweetie Pie</sub-title>
+    <desc>A woman rescues Tweety before her cat can devour him.</desc>
+  </programme>
+  <programme start="20261030115000 +0000" stop="20261030120000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Rabbit Transit</sub-title>
+    <desc>Bugs challenges Cecil to a race after reading a fable.</desc>
+  </programme>
+  <programme start="20261030120000 +0000" stop="20261030121000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Purr-Chance to Dream</sub-title>
+    <desc>When Tom awakens after a bad dream, his real circumstances remind him of his horror.</desc>
+  </programme>
+  <programme start="20261030121000 +0000" stop="20261030122000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Puss 'n' Boats</sub-title>
+    <desc>Jerry sees a load of cheese being loaded onto a cargo ship and tries a variety of tricks to board, but Tom is a security guard who tries to stop him.</desc>
+  </programme>
+  <programme start="20261030122000 +0000" stop="20261030123000 +0000" channel="boomerang-east">
+    <title>The Tom and Jerry Comedy Show</title>
+    <sub-title>Save That Mouse</sub-title>
+    <desc>Tom has a problem when his owner takes pity on Jerry and orders the cat to protect the little mouse or face serious consequences.</desc>
+  </programme>
+  <programme start="20261030123000 +0000" stop="20261030124000 +0000" channel="boomerang-east">
+    <title>The Tom and Jerry Comedy Show</title>
+    <sub-title>Say What?</sub-title>
+    <desc>Aunt Henrietta's talking parrot, Bertram, teams up with Jerry to frustrate Tom.</desc>
+  </programme>
+  <programme start="20261030124000 +0000" stop="20261030125000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Scared Bear</sub-title>
+    <desc>Droopy and Barney Bear seek shelter in an old house during a rainstorm; they soon find themselves unable to leave the building, which appears to be abandoned.</desc>
+  </programme>
+  <programme start="20261030125000 +0000" stop="20261030130000 +0000" channel="boomerang-east">
+    <title>The New Adventures of Tom &amp;amp; Jerry</title>
+    <sub-title>School For Cats</sub-title>
+    <desc>A new colorful take on the classic characters but still with all the madcap slapstick and mayhem.</desc>
+    <episode-num system="xmltv_ns">111</episode-num>
+  </programme>
+  <programme start="20261030130000 +0000" stop="20261030131000 +0000" channel="boomerang-east">
+    <title>Tom and Jerry Tales</title>
+    <sub-title>Snow Brawl</sub-title>
+    <desc>A simple snowball fight escalates into an all-out snow war when snowmen come to life.</desc>
+  </programme>
+  <programme start="20261030131000 +0000" stop="20261030132000 +0000" channel="boomerang-east">
+    <title>The New Adventures of Tom &amp;amp; Jerry</title>
+    <sub-title>Spike's Birthday</sub-title>
+    <desc>A new colorful take on the classic characters but still with all the madcap slapstick and mayhem.</desc>
+    <episode-num system="xmltv_ns">113</episode-num>
+  </programme>
+  <programme start="20261030132000 +0000" stop="20261030133000 +0000" channel="boomerang-east">
+    <title>The Tom and Jerry Comedy Show</title>
+    <sub-title>Stage Struck</sub-title>
+    <desc>Tom and Jerry become arch rivals for fame in the world of show business; Jerry, as a song and dance mouse, is in constant competition with Tom's lavish magic act until the cat's tricks backfire.</desc>
+  </programme>
+  <programme start="20261030133000 +0000" stop="20261030134000 +0000" channel="boomerang-east">
+    <title>Tom and Jerry</title>
+    <sub-title>Superstocker</sub-title>
+    <desc>Tom's part-time job in a supermarket hits a snag when Jerry not only becomes a pest in the cheese department but when he turns the entire market into turmoil as he attempts to get Tom fired.</desc>
+  </programme>
+  <programme start="20261030134000 +0000" stop="20261030135000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Surf-Bored Cat</sub-title>
+    <desc>Tom decides to go surfing but has problems with a shark and a rather tenacious starfish.</desc>
+  </programme>
+  <programme start="20261030135000 +0000" stop="20261030140000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>The Brothers Carry-Mouse-Off</sub-title>
+    <desc>Jerry uses radar to avoid any traps Tom has set up for him using food; Tom tries to dress up like a female mouse to trap Jerry, but he is foiled when other cats chase him.</desc>
+  </programme>
+  <programme start="20261030140000 +0000" stop="20261030143000 +0000" channel="boomerang-east">
+    <title>Scooby-Doo, Where Are You!</title>
+    <sub-title>A Tiki Scare Is No Fair</sub-title>
+    <desc>A witch doctor scares a Hawaiian village.</desc>
+    <episode-num system="xmltv_ns">70006</episode-num>
+  </programme>
+  <programme start="20261030143000 +0000" stop="20261030150000 +0000" channel="boomerang-east">
+    <title>Scooby-Doo, Where Are You!</title>
+    <sub-title>What a Night for a Knight</sub-title>
+    <desc>The gang searches for a missing archaeologist.</desc>
+    <episode-num system="xmltv_ns">69001</episode-num>
+  </programme>
+  <programme start="20261030150000 +0000" stop="20261030153000 +0000" channel="boomerang-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>High-Tech House of the Future</sub-title>
+    <desc>The gang visit a fair of future inventions. While inside the 'House of Tomorrow' exhibition, Daphne vanishes.</desc>
+  </programme>
+  <programme start="20261030153000 +0000" stop="20261030160000 +0000" channel="boomerang-east">
+    <title>Codename: Kids Next Door</title>
+    <sub-title>Operation V.I.R.U.S.; Operation O.U.T.B.R.E.A.K.</sub-title>
+    <desc>In 'Operation: V.I.R.U.S.', the gang tries to prevent Cree from taking revenge on Number Five; in 'Operation: O.U.T.B.R.E.A.K.', Number Four discovers an experimental underwater treehouse.</desc>
+    <episode-num system="xmltv_ns">58</episode-num>
+  </programme>
+  <programme start="20261030160000 +0000" stop="20261030163000 +0000" channel="boomerang-east">
+    <title>Codename: Kids Next Door</title>
+    <sub-title>Operation D.A.D.D.Y.; Operation R.E.C.R.U.I.T.</sub-title>
+    <desc>Numbah One works to save a child from a haircut; a Kids Next Door fan is recruited.</desc>
+    <episode-num system="xmltv_ns">61</episode-num>
+  </programme>
+  <programme start="20261030163000 +0000" stop="20261030170000 +0000" channel="boomerang-east">
+    <title>Chowder</title>
+    <sub-title>Shnitzel Quits</sub-title>
+    <desc>Feeling underappreciated, Schnitzel decides to quit, but Mung and Chowder try to convince him to come back.</desc>
+    <episode-num system="xmltv_ns">19</episode-num>
+  </programme>
+  <programme start="20261030170000 +0000" stop="20261030173000 +0000" channel="boomerang-east">
+    <title>Chowder</title>
+    <sub-title>Banned From the Stand; Creme Puff Hands</sub-title>
+    <desc>Gazpacho must choose between being right and having friends; Chowder finds that he is unusually useful when his hand becomes inflated.</desc>
+    <episode-num system="xmltv_ns">20</episode-num>
+  </programme>
+  <programme start="20261030173000 +0000" stop="20261030174500 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>Officer Moody</sub-title>
+    <desc>Pieces of Mr. Reese's past are revealed when his old partner on the police force, Officer Moody, visits Aberdale Elementary.</desc>
+    <episode-num system="xmltv_ns">99</episode-num>
+  </programme>
+  <programme start="20261030174500 +0000" stop="20261030180000 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>Gilben's Different</sub-title>
+    <desc>Gilben's newly sprouted peach fuzz sparks a discussion about puberty that ultimately convinces Clarence to act more like an adult.</desc>
+    <episode-num system="xmltv_ns">100</episode-num>
+  </programme>
+  <programme start="20261030180000 +0000" stop="20261030181500 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>Cool Guy Clarence</sub-title>
+    <desc>Clarence finds a fast friend in JT, who shows him some cool new music, a new outlook on life, and a sweet rat-tail; Clarence leans into the rat-tail lifestyle, discovering a whole new side of Aberdale he never knew existed.</desc>
+    <episode-num system="xmltv_ns">101</episode-num>
+  </programme>
+  <programme start="20261030181500 +0000" stop="20261030183000 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>Just Wait in the Car</sub-title>
+    <desc>As Mary runs errands, Clarence waits in the car and struggles to fight boredom.</desc>
+    <episode-num system="xmltv_ns">103</episode-num>
+  </programme>
+  <programme start="20261030183000 +0000" stop="20261030184000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>The Unruly Hare</sub-title>
+    <desc>Elmer disturbs Bugs' rest with his singing.</desc>
+  </programme>
+  <programme start="20261030184000 +0000" stop="20261030185000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Baseball Bugs</sub-title>
+    <desc>Bugs is invited to play a game of baseball after heckling the players.</desc>
+  </programme>
+  <programme start="20261030185000 +0000" stop="20261030190000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Baby Bottleneck</sub-title>
+    <desc>A post-war baby boom overworks the storks, so Porky and Daffy lend a hand.</desc>
+  </programme>
+  <programme start="20261030190000 +0000" stop="20261030191000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Hare Remover</sub-title>
+    <desc>Mad scientist Elmer tries his best to make a </desc>
+  </programme>
+  <programme start="20261030191000 +0000" stop="20261030192000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Hair Raising Hare</sub-title>
+    <desc>A mad scientist sends a sexy rabbit-robot to lure Bugs in as food for his monster.</desc>
+    <episode-num system="xmltv_ns">25954032</episode-num>
+  </programme>
+  <programme start="20261030192000 +0000" stop="20261030193000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Acrobatty Bunny</sub-title>
+    <desc>A circus is being set up above Bugs' home and the lion cage is placed directly above the hole.</desc>
+  </programme>
+  <programme start="20261030193000 +0000" stop="20261030194000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Buckaroo Bugs</sub-title>
+    <desc>The masked marauder strikes again, and a local hero is hired to catch the villain.</desc>
+  </programme>
+  <programme start="20261030194000 +0000" stop="20261030195000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>The Old Grey Hare</sub-title>
+    <desc>Elmer Fudd visits the future, while Bugs recalls the past.</desc>
+  </programme>
+  <programme start="20261030195000 +0000" stop="20261030200000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Rhapsody Rabbit</sub-title>
+    <desc>Bugs, a concert pianist, must overcome a coughing audience member, sheet music distractions, hunger pangs and an irksome musical mouse in his piano.</desc>
+  </programme>
+  <programme start="20261030200000 +0000" stop="20261030201000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>The Unruly Hare</sub-title>
+    <desc>Elmer disturbs Bugs' rest with his singing.</desc>
+  </programme>
+  <programme start="20261030201000 +0000" stop="20261030202000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Tweetie Pie</sub-title>
+    <desc>A woman rescues Tweety before her cat can devour him.</desc>
+  </programme>
+  <programme start="20261030202000 +0000" stop="20261030203000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Rabbit Transit</sub-title>
+    <desc>Bugs challenges Cecil to a race after reading a fable.</desc>
+  </programme>
+  <programme start="20261030203000 +0000" stop="20261030204000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Purr-Chance to Dream</sub-title>
+    <desc>When Tom awakens after a bad dream, his real circumstances remind him of his horror.</desc>
+  </programme>
+  <programme start="20261030204000 +0000" stop="20261030205000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Puss 'n' Boats</sub-title>
+    <desc>Jerry sees a load of cheese being loaded onto a cargo ship and tries a variety of tricks to board, but Tom is a security guard who tries to stop him.</desc>
+  </programme>
+  <programme start="20261030205000 +0000" stop="20261030210000 +0000" channel="boomerang-east">
+    <title>The Tom and Jerry Comedy Show</title>
+    <sub-title>Save That Mouse</sub-title>
+    <desc>Tom has a problem when his owner takes pity on Jerry and orders the cat to protect the little mouse or face serious consequences.</desc>
+  </programme>
+  <programme start="20261030210000 +0000" stop="20261030211000 +0000" channel="boomerang-east">
+    <title>The Tom and Jerry Comedy Show</title>
+    <sub-title>Say What?</sub-title>
+    <desc>Aunt Henrietta's talking parrot, Bertram, teams up with Jerry to frustrate Tom.</desc>
+  </programme>
+  <programme start="20261030211000 +0000" stop="20261030212000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Scared Bear</sub-title>
+    <desc>Droopy and Barney Bear seek shelter in an old house during a rainstorm; they soon find themselves unable to leave the building, which appears to be abandoned.</desc>
+  </programme>
+  <programme start="20261030212000 +0000" stop="20261030213000 +0000" channel="boomerang-east">
+    <title>The New Adventures of Tom &amp;amp; Jerry</title>
+    <sub-title>School For Cats</sub-title>
+    <desc>A new colorful take on the classic characters but still with all the madcap slapstick and mayhem.</desc>
+    <episode-num system="xmltv_ns">111</episode-num>
+  </programme>
+  <programme start="20261030213000 +0000" stop="20261030214000 +0000" channel="boomerang-east">
+    <title>Tom and Jerry Tales</title>
+    <sub-title>Snow Brawl</sub-title>
+    <desc>A simple snowball fight escalates into an all-out snow war when snowmen come to life.</desc>
+  </programme>
+  <programme start="20261030214000 +0000" stop="20261030215000 +0000" channel="boomerang-east">
+    <title>The New Adventures of Tom &amp;amp; Jerry</title>
+    <sub-title>Spike's Birthday</sub-title>
+    <desc>A new colorful take on the classic characters but still with all the madcap slapstick and mayhem.</desc>
+    <episode-num system="xmltv_ns">113</episode-num>
+  </programme>
+  <programme start="20261030215000 +0000" stop="20261030220000 +0000" channel="boomerang-east">
+    <title>The Tom and Jerry Comedy Show</title>
+    <sub-title>Stage Struck</sub-title>
+    <desc>Tom and Jerry become arch rivals for fame in the world of show business; Jerry, as a song and dance mouse, is in constant competition with Tom's lavish magic act until the cat's tricks backfire.</desc>
+  </programme>
+  <programme start="20261030220000 +0000" stop="20261030221000 +0000" channel="boomerang-east">
+    <title>Tom and Jerry</title>
+    <sub-title>Superstocker</sub-title>
+    <desc>Tom's part-time job in a supermarket hits a snag when Jerry not only becomes a pest in the cheese department but when he turns the entire market into turmoil as he attempts to get Tom fired.</desc>
+  </programme>
+  <programme start="20261030221000 +0000" stop="20261030222000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Surf-Bored Cat</sub-title>
+    <desc>Tom decides to go surfing but has problems with a shark and a rather tenacious starfish.</desc>
+  </programme>
+  <programme start="20261030222000 +0000" stop="20261030223000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>The Brothers Carry-Mouse-Off</sub-title>
+    <desc>Jerry uses radar to avoid any traps Tom has set up for him using food; Tom tries to dress up like a female mouse to trap Jerry, but he is foiled when other cats chase him.</desc>
+  </programme>
+  <programme start="20261030223000 +0000" stop="20261030230000 +0000" channel="boomerang-east">
+    <title>Scooby-Doo, Where Are You!</title>
+    <sub-title>A Tiki Scare Is No Fair</sub-title>
+    <desc>A witch doctor scares a Hawaiian village.</desc>
+    <episode-num system="xmltv_ns">70006</episode-num>
+  </programme>
+  <programme start="20261030230000 +0000" stop="20261030233000 +0000" channel="boomerang-east">
+    <title>Scooby-Doo, Where Are You!</title>
+    <sub-title>What a Night for a Knight</sub-title>
+    <desc>The gang searches for a missing archaeologist.</desc>
+    <episode-num system="xmltv_ns">69001</episode-num>
+  </programme>
+  <programme start="20261030233000 +0000" stop="20261031000000 +0000" channel="boomerang-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>High-Tech House of the Future</sub-title>
+    <desc>The gang visit a fair of future inventions. While inside the 'House of Tomorrow' exhibition, Daphne vanishes.</desc>
+  </programme>
+  <programme start="20261031000000 +0000" stop="20261031003000 +0000" channel="boomerang-east">
+    <title>Codename: Kids Next Door</title>
+    <sub-title>Operation V.I.R.U.S.; Operation O.U.T.B.R.E.A.K.</sub-title>
+    <desc>In 'Operation: V.I.R.U.S.', the gang tries to prevent Cree from taking revenge on Number Five; in 'Operation: O.U.T.B.R.E.A.K.', Number Four discovers an experimental underwater treehouse.</desc>
+    <episode-num system="xmltv_ns">58</episode-num>
+  </programme>
+  <programme start="20261031003000 +0000" stop="20261031010000 +0000" channel="boomerang-east">
+    <title>Codename: Kids Next Door</title>
+    <sub-title>Operation D.A.D.D.Y.; Operation R.E.C.R.U.I.T.</sub-title>
+    <desc>Numbah One works to save a child from a haircut; a Kids Next Door fan is recruited.</desc>
+    <episode-num system="xmltv_ns">61</episode-num>
+  </programme>
+  <programme start="20261031010000 +0000" stop="20261031013000 +0000" channel="boomerang-east">
+    <title>Chowder</title>
+    <sub-title>Shnitzel Quits</sub-title>
+    <desc>Feeling underappreciated, Schnitzel decides to quit, but Mung and Chowder try to convince him to come back.</desc>
+    <episode-num system="xmltv_ns">19</episode-num>
+  </programme>
+  <programme start="20261031013000 +0000" stop="20261031020000 +0000" channel="boomerang-east">
+    <title>Chowder</title>
+    <sub-title>Banned From the Stand; Creme Puff Hands</sub-title>
+    <desc>Gazpacho must choose between being right and having friends; Chowder finds that he is unusually useful when his hand becomes inflated.</desc>
+    <episode-num system="xmltv_ns">20</episode-num>
+  </programme>
+  <programme start="20261031020000 +0000" stop="20261031021500 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>Officer Moody</sub-title>
+    <desc>Pieces of Mr. Reese's past are revealed when his old partner on the police force, Officer Moody, visits Aberdale Elementary.</desc>
+    <episode-num system="xmltv_ns">99</episode-num>
+  </programme>
+  <programme start="20261031021500 +0000" stop="20261031023000 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>Gilben's Different</sub-title>
+    <desc>Gilben's newly sprouted peach fuzz sparks a discussion about puberty that ultimately convinces Clarence to act more like an adult.</desc>
+    <episode-num system="xmltv_ns">100</episode-num>
+  </programme>
+  <programme start="20261031023000 +0000" stop="20261031024500 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>Cool Guy Clarence</sub-title>
+    <desc>Clarence finds a fast friend in JT, who shows him some cool new music, a new outlook on life, and a sweet rat-tail; Clarence leans into the rat-tail lifestyle, discovering a whole new side of Aberdale he never knew existed.</desc>
+    <episode-num system="xmltv_ns">101</episode-num>
+  </programme>
+  <programme start="20261031024500 +0000" stop="20261031030000 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>Just Wait in the Car</sub-title>
+    <desc>As Mary runs errands, Clarence waits in the car and struggles to fight boredom.</desc>
+    <episode-num system="xmltv_ns">103</episode-num>
+  </programme>
+  <programme start="20261031030000 +0000" stop="20261031033000 +0000" channel="boomerang-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>Large Dragon at Large</sub-title>
+    <desc>The gang attends a Renaissance fair, where a dragon interrupts the fun.</desc>
+    <episode-num system="xmltv_ns">20</episode-num>
+  </programme>
+  <programme start="20261031033000 +0000" stop="20261031040000 +0000" channel="boomerang-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>Mummy Scares Best</sub-title>
+    <desc>Egyptian mummy turns almost everyone into zombies.</desc>
+    <episode-num system="xmltv_ns">15</episode-num>
+  </programme>
+  <programme start="20261031040000 +0000" stop="20261031041000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>The Up Standing Sitter</sub-title>
+    <desc>Daffy Duck is sent to a hen house to babysit an egg, but while he is there, the egg hatches a little chick who is afraid of strangers; the chick runs away from Daffy, who must chase him all over the barnyard.</desc>
+  </programme>
+  <programme start="20261031041000 +0000" stop="20261031042000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Crowing Pains</sub-title>
+    <desc>Sylvester, Foghorn, Henery Hawk and the dog all battle it out; Sylvester wants the dog's bone, and Henery Hawk is in the middle of Foghorn and Sylvester, trying to decide who is the real chicken to eat.</desc>
+  </programme>
+  <programme start="20261031042000 +0000" stop="20261031043000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>A Pest In the House</sub-title>
+    <desc>A tired businessman goes to Elmer's hotel for some peace and quiet; the only problem is that Daffy is a bellman who doesn't know how to be quiet; every time the businessman is disturbed he hits Elmer, which turns out to be a lot.</desc>
+  </programme>
+  <programme start="20261031043000 +0000" stop="20261031044000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Slick Hare</sub-title>
+    <desc>Rabbit is on the menu, and it appears that Bugs Bunny will be the dish of the day unless he can outwit Elmer Fudd.</desc>
+  </programme>
+  <programme start="20261031044000 +0000" stop="20261031045000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Along Came Daffy</sub-title>
+    <desc>Yosemite Sam and his brother are starving in their desolate snow-bound cabin, and when Daffy shows up as a salesman, he finds himself their target for dinner.</desc>
+  </programme>
+  <programme start="20261031045000 +0000" stop="20261031050000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Hare Splitter</sub-title>
+    <desc>Bugs attempts to keep Casbah away from Daisy, so Bugs can date her himself.</desc>
+  </programme>
+  <programme start="20261031050000 +0000" stop="20261031051000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>The Cat and the Mermouse</sub-title>
+    <desc>Tom's peaceful day at the beach is disturbed by Jerry.</desc>
+  </programme>
+  <programme start="20261031051000 +0000" stop="20261031052000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Cat's Me-Ouch</sub-title>
+    <desc>Jerry gets a dog to beat Tom up; he ends up in the hospital with the dog clinging to him by the teeth.</desc>
+  </programme>
+  <programme start="20261031052000 +0000" stop="20261031053000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>The Duck Doctor</sub-title>
+    <desc>Tom wounds a duckling while hunting in the woods; Jerry doctors little Quacker.</desc>
+  </programme>
+  <programme start="20261031053000 +0000" stop="20261031054000 +0000" channel="boomerang-east">
+    <title>The New Adventures of Tom &amp;amp; Jerry</title>
+    <sub-title>Great Mousini</sub-title>
+    <desc>Jerry joins a circus as the escape artist Mousini with Tom as his co-star.</desc>
+    <episode-num system="xmltv_ns">102</episode-num>
+  </programme>
+  <programme start="20261031054000 +0000" stop="20261031055000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>The Guided Mouse-ile</sub-title>
+    <desc>Tom and Jerry battle it out with remote-controlled robots in the year 2565.</desc>
+  </programme>
+  <programme start="20261031055000 +0000" stop="20261031060000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>The Mansion Cat</sub-title>
+    <desc>Tom has house-sitting responsibilities at a mansion while the owner is away, but Jerry won't make it very relaxing.</desc>
+  </programme>
+  <programme start="20261031060000 +0000" stop="20261031063000 +0000" channel="boomerang-east">
+    <title>The Marvelous Misadventures of Flapjack</title>
+    <sub-title>Sittin' Muscle; Knot Funny</sub-title>
+    <desc>Flapjack and K'nuckles search for a long-lost body part at the South Pole; Flapjack and K'nuckles attend the Knot Festival.</desc>
+    <episode-num system="xmltv_ns">8</episode-num>
+  </programme>
+  <programme start="20261031063000 +0000" stop="20261031070000 +0000" channel="boomerang-east">
+    <title>The Marvelous Misadventures of Flapjack</title>
+    <sub-title>Pun Times With Punsie McKale; Balance</sub-title>
+    <desc>Flapjack helps Peppermint Larry battle Punsy McHale in a pun-off; Flapjack has trouble understanding why everyone loves movies so much.</desc>
+    <episode-num system="xmltv_ns">10</episode-num>
+  </programme>
+  <programme start="20261031070000 +0000" stop="20261031073000 +0000" channel="boomerang-east">
+    <title>Ben 10</title>
+    <sub-title>Back With a Vengeance</sub-title>
+    <desc>Vilgax and Kevin team up; Ben discovers the watch can allow him to change into any alien he wants to, and he soon develops a cocky attitude.</desc>
+    <episode-num system="xmltv_ns">26</episode-num>
+  </programme>
+  <programme start="20261031073000 +0000" stop="20261031080000 +0000" channel="boomerang-east">
+    <title>Ben 10</title>
+    <sub-title>Midnight Madness</sub-title>
+    <desc>An evil hypnotist uses ordinary people at the Mall to steal for him; Ben falls under his spell; Grandpa Max and Gwen try to snap him out of it.</desc>
+    <episode-num system="xmltv_ns">27</episode-num>
+  </programme>
+  <programme start="20261031080000 +0000" stop="20261031083000 +0000" channel="boomerang-east">
+    <title>Ben 10</title>
+    <sub-title>A Change of Face</sub-title>
+    <desc>Charmcaster's plan to use a spell to take over Ben's actions backfires when she accidentally switches bodies with Gwen.</desc>
+    <episode-num system="xmltv_ns">29</episode-num>
+  </programme>
+  <programme start="20261031083000 +0000" stop="20261031090000 +0000" channel="boomerang-east">
+    <title>The Powerpuff Girls</title>
+    <sub-title>Stuck Up, Up, and Away; Schoolhouse Rocked</sub-title>
+    <desc>A bratty girl decides she wants to be a Powerpuff Girl; the Gangrene Gang returns to kindergarten, where its members become mean school bullies.</desc>
+    <episode-num system="xmltv_ns">14</episode-num>
+  </programme>
+  <programme start="20261031090000 +0000" stop="20261031093000 +0000" channel="boomerang-east">
+    <title>Captain Planet and the Planeteers</title>
+    <sub-title>The Deadly Glow</sub-title>
+    <desc>Duke Nukem plots to steal radioactive minerals and use them for his nefarious schemes.</desc>
+  </programme>
+  <programme start="20261031093000 +0000" stop="20261031100000 +0000" channel="boomerang-east">
+    <title>Captain Planet and the Planeteers</title>
+    <sub-title>A Perfect World</sub-title>
+    <desc>The Planeteers help Dr. Derek restore his computer simulation of a pollution-free world after Dr. Blight and MAL infect it with a virus.</desc>
+    <episode-num system="onscreen">CPL126</episode-num>
+  </programme>
+  <programme start="20261031100000 +0000" stop="20261031101000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Broom-Stick Bunny</sub-title>
+    <desc>Bugs goes trick-or-treating as a witch on Halloween, but when he calls at Witch Hazel's house, she treats him as a threat to her claim of being the ugliest witch of all.</desc>
+  </programme>
+  <programme start="20261031101000 +0000" stop="20261031102000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Bewitched Bunny</sub-title>
+    <desc>Disguised as a truant officer, Bugs attempts to rescue Hansel and Gretel from under the witch's evil clutches.</desc>
+  </programme>
+  <programme start="20261031102000 +0000" stop="20261031103000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>A Witch's Tangled Hare</sub-title>
+    <desc>Includes references to various plays by William Shakespeare.</desc>
+  </programme>
+  <programme start="20261031103000 +0000" stop="20261031104000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Transylvania 6-5000</sub-title>
+    <desc>Bugs is given a room for the night at Count Bloodcount's castle in Transylvania.</desc>
+  </programme>
+  <programme start="20261031104000 +0000" stop="20261031105000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Hair Raising Hare</sub-title>
+    <desc>A mad scientist sends a sexy rabbit-robot to lure Bugs in as food for his monster.</desc>
+    <episode-num system="xmltv_ns">25954032</episode-num>
+  </programme>
+  <programme start="20261031105000 +0000" stop="20261031110000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Water Water Every Hare</sub-title>
+    <desc>A sudden flood puts Bugs Bunny in the path of an evil scientist and Rudolph, an orange furry beast.</desc>
+  </programme>
+  <programme start="20261031110000 +0000" stop="20261031111000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Scaredy Cat</sub-title>
+    <desc>When Porky and Sylvester move, they notice strange things in their new home.</desc>
+  </programme>
+  <programme start="20261031111000 +0000" stop="20261031112000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Claws for Alarm</sub-title>
+    <desc>Porky and Sylvester stay the night in a big scary mansion.</desc>
+  </programme>
+  <programme start="20261031112000 +0000" stop="20261031113000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Hyde and Hare</sub-title>
+    <desc>Bugs becomes the pet of the friendly Doctor Jekyll but soon finds out about his frightening alter ego.</desc>
+  </programme>
+  <programme start="20261031113000 +0000" stop="20261031114000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Dr. Jerkyl's Hide</sub-title>
+    <desc>Sylvester Cat gets chased into Dr. Jekyll's lab by a pair of canines.</desc>
+  </programme>
+  <programme start="20261031114000 +0000" stop="20261031115000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Hyde and Go Tweet</sub-title>
+    <desc>Sylvester chases Tweety as he flies outside the office of Dr. Jekyll; Tweety ends up in the Hyde formula, transforming him into a giant.</desc>
+  </programme>
+  <programme start="20261031115000 +0000" stop="20261031120000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>The Case of the Stuttering Pig</sub-title>
+    <desc>A monster targets Porky and his family for their inheritance.</desc>
+  </programme>
+  <programme start="20261031120000 +0000" stop="20261031121000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>The Milky Waif</sub-title>
+    <desc>Jerry is awakened by a knock on the door: someone has left a baby mouse on his doorstep, with a note and saying he needs lots of milk.</desc>
+  </programme>
+  <programme start="20261031121000 +0000" stop="20261031122000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>The Mouse from H.U.N.G.E.R.</sub-title>
+    <desc>Secret agent Jerry must infiltrate the mansion of Tom Thrush and recover a refrigerator full of cheese.</desc>
+  </programme>
+  <programme start="20261031122000 +0000" stop="20261031123000 +0000" channel="boomerang-east">
+    <title>The Tom and Jerry Comedy Show</title>
+    <sub-title>The Plaid Baron Strikes Again</sub-title>
+    <desc>Jerry evades Tom in a flying model airplane.</desc>
+  </programme>
+  <programme start="20261031123000 +0000" stop="20261031124000 +0000" channel="boomerang-east">
+    <title>The Tom and Jerry Comedy Show</title>
+    <sub-title>The Puppy Sitter</sub-title>
+    <desc>Tom watches Tyke, but Jerry interferes.</desc>
+  </programme>
+  <programme start="20261031124000 +0000" stop="20261031125000 +0000" channel="boomerang-east">
+    <title>The New Adventures of Tom &amp;amp; Jerry</title>
+    <sub-title>Trojan Dog</sub-title>
+    <desc>A new colorful take on the classic characters but still with all the madcap slapstick and mayhem.</desc>
+    <episode-num system="xmltv_ns">114</episode-num>
+  </programme>
+  <programme start="20261031125000 +0000" stop="20261031130000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Hatch Up Your Troubles</sub-title>
+    <desc>A troublesome little woodpecker believes Jerry to be its mother.</desc>
+  </programme>
+  <programme start="20261031130000 +0000" stop="20261031131000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Yankee Doodle Mouse</sub-title>
+    <desc>While chasing Jerry, Tom ties him to an ignited rocket.</desc>
+  </programme>
+  <programme start="20261031131000 +0000" stop="20261031132000 +0000" channel="boomerang-east">
+    <title>The Tom and Jerry Comedy Show</title>
+    <sub-title>Under the Big Top</sub-title>
+    <desc>Tom has the thrill of his life when he gets a job as a circus clown, only to discover that Jerry has also been hired as a clown; Tom's desperate attempts to get rid of Jerry very nearly end his dreams of a circus career forever.</desc>
+  </programme>
+  <programme start="20261031132000 +0000" stop="20261031133000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>The Karate Guard</sub-title>
+    <desc>Jerry enlists a spiritual mentor to help him deal with Tom.</desc>
+  </programme>
+  <programme start="20261031133000 +0000" stop="20261031134000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Kitty Foiled</sub-title>
+    <desc>A canary watches as Tom and Jerry fight.</desc>
+  </programme>
+  <programme start="20261031134000 +0000" stop="20261031135000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Little Quacker</sub-title>
+    <desc>A feisty duckling foils Tom's attempts to cook him for dinner.</desc>
+  </programme>
+  <programme start="20261031135000 +0000" stop="20261031140000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Jerry and the Lion</sub-title>
+    <desc>Jerry befriends an escaped circus lion.</desc>
+  </programme>
+  <programme start="20261031140000 +0000" stop="20261031143000 +0000" channel="boomerang-east">
+    <title>Scooby-Doo, Where Are You!</title>
+    <sub-title>A Clue for Scooby-Doo</sub-title>
+    <desc>The gang finds a haunted sunken ship while scuba diving.</desc>
+    <episode-num system="xmltv_ns">6902</episode-num>
+  </programme>
+  <programme start="20261031143000 +0000" stop="20261031150000 +0000" channel="boomerang-east">
+    <title>Scooby-Doo, Where Are You!</title>
+    <sub-title>Hassle in the Castle</sub-title>
+    <desc>A phantom is searching for a hidden pirate treasure.</desc>
+    <episode-num system="xmltv_ns">69003</episode-num>
+  </programme>
+  <programme start="20261031150000 +0000" stop="20261031153000 +0000" channel="boomerang-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>Big Appetite in Little Tokyo</sub-title>
+    <desc>While in Tokyo the gang suspects that Shaggy has fallen victim to a curse that turns him into a monster.</desc>
+    <episode-num system="xmltv_ns">14</episode-num>
+  </programme>
+  <programme start="20261031153000 +0000" stop="20261031160000 +0000" channel="boomerang-east">
+    <title>Codename: Kids Next Door</title>
+    <sub-title>Operation: H.O.M.E.; Operation: L.I.C.O.R.I.C.E.</sub-title>
+    <desc>Numbah Three wants her Rainbow Monkey to retire; Numbah Five has to team up with old foes to battle a new menace.</desc>
+    <episode-num system="xmltv_ns">64</episode-num>
+  </programme>
+  <programme start="20261031160000 +0000" stop="20261031163000 +0000" channel="boomerang-east">
+    <title>Codename: Kids Next Door</title>
+    <sub-title>Operation: S.A.F.E.T.Y.</sub-title>
+    <desc>A senator builds robots that cushion harmful items.</desc>
+    <episode-num system="xmltv_ns">66</episode-num>
+  </programme>
+  <programme start="20261031163000 +0000" stop="20261031170000 +0000" channel="boomerang-east">
+    <title>Chowder</title>
+    <sub-title>The Spookiest House in Marzipan; Poultry Geist</sub-title>
+    <desc>Chowder makes a delivery to the scariest house in Marzipan; Mung and the gang must find a way to free Chowder when an expired chicken dish possesses him.</desc>
+    <episode-num system="xmltv_ns">43</episode-num>
+  </programme>
+  <programme start="20261031170000 +0000" stop="20261031173000 +0000" channel="boomerang-east">
+    <title>Chowder</title>
+    <sub-title>Certifrycation Class; The Sing Beans</sub-title>
+    <desc>Mung is forced to spend the day in Chef Certifrycation School; the gang has to pull an all-nighter to prepare Sing Beans.</desc>
+    <episode-num system="xmltv_ns">4</episode-num>
+  </programme>
+  <programme start="20261031173000 +0000" stop="20261031174500 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>Spooky Boo</sub-title>
+    <desc>Clarence leads a few neighborhood kids through his homemade haunted house.</desc>
+    <episode-num system="xmltv_ns">46</episode-num>
+  </programme>
+  <programme start="20261031174500 +0000" stop="20261031180000 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>Missing Cat</sub-title>
+    <desc>When Chelsea's cat goes missing, she is hesitant to ask for help, but Clarence is determined to find the lost pet.</desc>
+    <episode-num system="xmltv_ns">96</episode-num>
+  </programme>
+  <programme start="20261031180000 +0000" stop="20261031181500 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>Big Trouble in Little Aberdale</sub-title>
+    <desc>After finding a mysterious new child in their neighborhood, Clarence, Jeff and Sumo show him around the town.</desc>
+    <episode-num system="xmltv_ns">107</episode-num>
+  </programme>
+  <programme start="20261031181500 +0000" stop="20261031183000 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>A Nightmare on Aberdale Street: Balance's Revenge</sub-title>
+    <desc>Clarence uses a special jack-o-lantern to enter people's dreams, and learns that something is causing his friends to have nightmares.</desc>
+    <episode-num system="xmltv_ns">122</episode-num>
+  </programme>
+  <programme start="20261031183000 +0000" stop="20261031184000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Broom-Stick Bunny</sub-title>
+    <desc>Bugs goes trick-or-treating as a witch on Halloween, but when he calls at Witch Hazel's house, she treats him as a threat to her claim of being the ugliest witch of all.</desc>
+  </programme>
+  <programme start="20261031184000 +0000" stop="20261031185000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Bewitched Bunny</sub-title>
+    <desc>Disguised as a truant officer, Bugs attempts to rescue Hansel and Gretel from under the witch's evil clutches.</desc>
+  </programme>
+  <programme start="20261031185000 +0000" stop="20261031190000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>A Witch's Tangled Hare</sub-title>
+    <desc>Includes references to various plays by William Shakespeare.</desc>
+  </programme>
+  <programme start="20261031190000 +0000" stop="20261031191000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Transylvania 6-5000</sub-title>
+    <desc>Bugs is given a room for the night at Count Bloodcount's castle in Transylvania.</desc>
+  </programme>
+  <programme start="20261031191000 +0000" stop="20261031192000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Hair Raising Hare</sub-title>
+    <desc>A mad scientist sends a sexy rabbit-robot to lure Bugs in as food for his monster.</desc>
+    <episode-num system="xmltv_ns">25954032</episode-num>
+  </programme>
+  <programme start="20261031192000 +0000" stop="20261031193000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Water Water Every Hare</sub-title>
+    <desc>A sudden flood puts Bugs Bunny in the path of an evil scientist and Rudolph, an orange furry beast.</desc>
+  </programme>
+  <programme start="20261031193000 +0000" stop="20261031194000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Scaredy Cat</sub-title>
+    <desc>When Porky and Sylvester move, they notice strange things in their new home.</desc>
+  </programme>
+  <programme start="20261031194000 +0000" stop="20261031195000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Claws for Alarm</sub-title>
+    <desc>Porky and Sylvester stay the night in a big scary mansion.</desc>
+  </programme>
+  <programme start="20261031195000 +0000" stop="20261031200000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Hyde and Hare</sub-title>
+    <desc>Bugs becomes the pet of the friendly Doctor Jekyll but soon finds out about his frightening alter ego.</desc>
+  </programme>
+  <programme start="20261031200000 +0000" stop="20261031201000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Dr. Jerkyl's Hide</sub-title>
+    <desc>Sylvester Cat gets chased into Dr. Jekyll's lab by a pair of canines.</desc>
+  </programme>
+  <programme start="20261031201000 +0000" stop="20261031202000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Hyde and Go Tweet</sub-title>
+    <desc>Sylvester chases Tweety as he flies outside the office of Dr. Jekyll; Tweety ends up in the Hyde formula, transforming him into a giant.</desc>
+  </programme>
+  <programme start="20261031202000 +0000" stop="20261031203000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>The Case of the Stuttering Pig</sub-title>
+    <desc>A monster targets Porky and his family for their inheritance.</desc>
+  </programme>
+  <programme start="20261031203000 +0000" stop="20261031204000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>The Milky Waif</sub-title>
+    <desc>Jerry is awakened by a knock on the door: someone has left a baby mouse on his doorstep, with a note and saying he needs lots of milk.</desc>
+  </programme>
+  <programme start="20261031204000 +0000" stop="20261031205000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>The Mouse from H.U.N.G.E.R.</sub-title>
+    <desc>Secret agent Jerry must infiltrate the mansion of Tom Thrush and recover a refrigerator full of cheese.</desc>
+  </programme>
+  <programme start="20261031205000 +0000" stop="20261031210000 +0000" channel="boomerang-east">
+    <title>The Tom and Jerry Comedy Show</title>
+    <sub-title>The Plaid Baron Strikes Again</sub-title>
+    <desc>Jerry evades Tom in a flying model airplane.</desc>
+  </programme>
+  <programme start="20261031210000 +0000" stop="20261031211000 +0000" channel="boomerang-east">
+    <title>The Tom and Jerry Comedy Show</title>
+    <sub-title>The Puppy Sitter</sub-title>
+    <desc>Tom watches Tyke, but Jerry interferes.</desc>
+  </programme>
+  <programme start="20261031211000 +0000" stop="20261031212000 +0000" channel="boomerang-east">
+    <title>The New Adventures of Tom &amp;amp; Jerry</title>
+    <sub-title>Trojan Dog</sub-title>
+    <desc>A new colorful take on the classic characters but still with all the madcap slapstick and mayhem.</desc>
+    <episode-num system="xmltv_ns">114</episode-num>
+  </programme>
+  <programme start="20261031212000 +0000" stop="20261031213000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Hatch Up Your Troubles</sub-title>
+    <desc>A troublesome little woodpecker believes Jerry to be its mother.</desc>
+  </programme>
+  <programme start="20261031213000 +0000" stop="20261031214000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Yankee Doodle Mouse</sub-title>
+    <desc>While chasing Jerry, Tom ties him to an ignited rocket.</desc>
+  </programme>
+  <programme start="20261031214000 +0000" stop="20261031215000 +0000" channel="boomerang-east">
+    <title>The Tom and Jerry Comedy Show</title>
+    <sub-title>Under the Big Top</sub-title>
+    <desc>Tom has the thrill of his life when he gets a job as a circus clown, only to discover that Jerry has also been hired as a clown; Tom's desperate attempts to get rid of Jerry very nearly end his dreams of a circus career forever.</desc>
+  </programme>
+  <programme start="20261031215000 +0000" stop="20261031220000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>The Karate Guard</sub-title>
+    <desc>Jerry enlists a spiritual mentor to help him deal with Tom.</desc>
+  </programme>
+  <programme start="20261031220000 +0000" stop="20261031221000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Kitty Foiled</sub-title>
+    <desc>A canary watches as Tom and Jerry fight.</desc>
+  </programme>
+  <programme start="20261031221000 +0000" stop="20261031222000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Little Quacker</sub-title>
+    <desc>A feisty duckling foils Tom's attempts to cook him for dinner.</desc>
+  </programme>
+  <programme start="20261031222000 +0000" stop="20261031223000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Jerry and the Lion</sub-title>
+    <desc>Jerry befriends an escaped circus lion.</desc>
+  </programme>
+  <programme start="20261031223000 +0000" stop="20261031230000 +0000" channel="boomerang-east">
+    <title>Scooby-Doo, Where Are You!</title>
+    <sub-title>A Clue for Scooby-Doo</sub-title>
+    <desc>The gang finds a haunted sunken ship while scuba diving.</desc>
+    <episode-num system="xmltv_ns">6902</episode-num>
+  </programme>
+  <programme start="20261031230000 +0000" stop="20261031233000 +0000" channel="boomerang-east">
+    <title>Scooby-Doo, Where Are You!</title>
+    <sub-title>Hassle in the Castle</sub-title>
+    <desc>A phantom is searching for a hidden pirate treasure.</desc>
+    <episode-num system="xmltv_ns">69003</episode-num>
+  </programme>
+  <programme start="20261031233000 +0000" stop="20261101000000 +0000" channel="boomerang-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>Big Appetite in Little Tokyo</sub-title>
+    <desc>While in Tokyo the gang suspects that Shaggy has fallen victim to a curse that turns him into a monster.</desc>
+    <episode-num system="xmltv_ns">14</episode-num>
+  </programme>
+  <programme start="20261101000000 +0000" stop="20261101003000 +0000" channel="boomerang-east">
+    <title>Codename: Kids Next Door</title>
+    <sub-title>Operation: H.O.M.E.; Operation: L.I.C.O.R.I.C.E.</sub-title>
+    <desc>Numbah Three wants her Rainbow Monkey to retire; Numbah Five has to team up with old foes to battle a new menace.</desc>
+    <episode-num system="xmltv_ns">64</episode-num>
+  </programme>
+  <programme start="20261101003000 +0000" stop="20261101010000 +0000" channel="boomerang-east">
+    <title>Codename: Kids Next Door</title>
+    <sub-title>Operation: S.A.F.E.T.Y.</sub-title>
+    <desc>A senator builds robots that cushion harmful items.</desc>
+    <episode-num system="xmltv_ns">66</episode-num>
+  </programme>
+  <programme start="20261101010000 +0000" stop="20261101013000 +0000" channel="boomerang-east">
+    <title>Chowder</title>
+    <sub-title>The Spookiest House in Marzipan; Poultry Geist</sub-title>
+    <desc>Chowder makes a delivery to the scariest house in Marzipan; Mung and the gang must find a way to free Chowder when an expired chicken dish possesses him.</desc>
+    <episode-num system="xmltv_ns">43</episode-num>
+  </programme>
+  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="boomerang-east">
+    <title>Chowder</title>
+    <sub-title>Certifrycation Class; The Sing Beans</sub-title>
+    <desc>Mung is forced to spend the day in Chef Certifrycation School; the gang has to pull an all-nighter to prepare Sing Beans.</desc>
+    <episode-num system="xmltv_ns">4</episode-num>
+  </programme>
+  <programme start="20261101020000 +0000" stop="20261101021500 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>Spooky Boo</sub-title>
+    <desc>Clarence leads a few neighborhood kids through his homemade haunted house.</desc>
+    <episode-num system="xmltv_ns">46</episode-num>
+  </programme>
+  <programme start="20261101021500 +0000" stop="20261101023000 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>Missing Cat</sub-title>
+    <desc>When Chelsea's cat goes missing, she is hesitant to ask for help, but Clarence is determined to find the lost pet.</desc>
+    <episode-num system="xmltv_ns">96</episode-num>
+  </programme>
+  <programme start="20261101023000 +0000" stop="20261101024500 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>Big Trouble in Little Aberdale</sub-title>
+    <desc>After finding a mysterious new child in their neighborhood, Clarence, Jeff and Sumo show him around the town.</desc>
+    <episode-num system="xmltv_ns">107</episode-num>
+  </programme>
+  <programme start="20261101024500 +0000" stop="20261101030000 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>A Nightmare on Aberdale Street: Balance's Revenge</sub-title>
+    <desc>Clarence uses a special jack-o-lantern to enter people's dreams, and learns that something is causing his friends to have nightmares.</desc>
+    <episode-num system="xmltv_ns">122</episode-num>
+  </programme>
+  <programme start="20261101030000 +0000" stop="20261101033000 +0000" channel="boomerang-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>The Fast and the Wormious</sub-title>
+    <desc>The gang heads to Mexico for the Enduro Slam 5000 off-road race.</desc>
+    <episode-num system="xmltv_ns">16</episode-num>
+  </programme>
+  <programme start="20261101033000 +0000" stop="20261101040000 +0000" channel="boomerang-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>Homeward Hound</sub-title>
+    <desc>Six priceless puppies and Scooby-Doo are kidnapped.</desc>
+    <episode-num system="xmltv_ns">19</episode-num>
+  </programme>
+  <programme start="20261101040000 +0000" stop="20261101041000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>The Unruly Hare</sub-title>
+    <desc>Elmer disturbs Bugs' rest with his singing.</desc>
+  </programme>
+  <programme start="20261101041000 +0000" stop="20261101042000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Baseball Bugs</sub-title>
+    <desc>Bugs is invited to play a game of baseball after heckling the players.</desc>
+  </programme>
+  <programme start="20261101042000 +0000" stop="20261101043000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>The Phantom Ship</sub-title>
+    <desc>Beans and his stowaway nephews, Ham and Ex, search for a lost treasure on a haunted ship in the frozen North.</desc>
+  </programme>
+  <programme start="20261101043000 +0000" stop="20261101044000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Falling Hare</sub-title>
+    <desc>A gremlin hijacks a World War II bomber and Bugs must stop him.</desc>
+  </programme>
+  <programme start="20261101044000 +0000" stop="20261101045000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Wearing of the Grin</sub-title>
+    <desc>After Porky is put on trial by two leprechauns who suspect him of trying to steal their gold, he is forced to wear magic green shoes that make him dance.</desc>
+  </programme>
+  <programme start="20261101045000 +0000" stop="20261101050000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Satan's Waitin'</sub-title>
+    <desc>In the course of chasing Tweety all over the rooftops, Sylvester falls off a building and dies; while waiting for his other eight lives, a satanic bulldog goads Sylvester into losing all of his lives.</desc>
+  </programme>
+  <programme start="20261101050000 +0000" stop="20261101051000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Ventriloquist Cat</sub-title>
+    <desc>A sneaky alley cat uses a ventriloquist device to trick an angry bulldog into believing he is in many different places.</desc>
+  </programme>
+  <programme start="20261101051000 +0000" stop="20261101052000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Tom and Jerry in the Hollywood Bowl</sub-title>
+    <desc>Tom tries to conduct a cat orchestra; Jerry wants to help Tom out as a conductor at the Hollywood Bowl, but the cat is having none of it; Jerry causes problems.</desc>
+  </programme>
+  <programme start="20261101052000 +0000" stop="20261101053000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Cue Ball Cat</sub-title>
+    <desc>Tom's midnight game of pool wakes up Jerry.</desc>
+  </programme>
+  <programme start="20261101053000 +0000" stop="20261101054000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Jerry and the Goldfish</sub-title>
+    <desc>Jerry tries to help his new goldfish friend avoid getting eaten by Tom.</desc>
+  </programme>
+  <programme start="20261101054000 +0000" stop="20261101055000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Jerry's Cousin</sub-title>
+    <desc>Jerry enlists help from his tough cousin Muscles Mouse to deal with Tom.</desc>
+  </programme>
+  <programme start="20261101055000 +0000" stop="20261101080000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Cat Napping</sub-title>
+    <desc>Jerry is snoozing on a hammock but Tom wants it for himself.</desc>
+  </programme>
+  <programme start="20261101070000 +0000" stop="20261101073000 +0000" channel="boomerang-east">
+    <title>The Marvelous Misadventures of Flapjack</title>
+    <sub-title>Oh Brother; Panfake</sub-title>
+    <desc>Flapjack tries to make a little brother; Flapjack helps Peppermint Larry with a new occupation after losing the Candy Barrel.</desc>
+    <episode-num system="xmltv_ns">12</episode-num>
+  </programme>
+  <programme start="20261101073000 +0000" stop="20261101080000 +0000" channel="boomerang-east">
+    <title>The Marvelous Misadventures of Flapjack</title>
+    <sub-title>Sea Legs (Too Big for His Britches); No Syrup for Old Flapjacks</sub-title>
+    <desc>Captain K'nuckles finds some giant legs and wants to keep them; Flapjack learns to make syrup on a visit to Maple Syrup Island.</desc>
+    <episode-num system="xmltv_ns">14</episode-num>
+  </programme>
+  <programme start="20261101080000 +0000" stop="20261101083000 +0000" channel="boomerang-east">
+    <title>Ben 10</title>
+    <sub-title>Merry Christmas</sub-title>
+    <desc>The Rustbucket breaks down in the middle of the desert, leaving Ben, Gwen and Max to take refuge in an over-the-top Christmas theme park run by the mysterious Mr. Jingles.</desc>
+    <episode-num system="xmltv_ns">30</episode-num>
+  </programme>
+  <programme start="20261101083000 +0000" stop="20261101090000 +0000" channel="boomerang-east">
+    <title>Ben 10</title>
+    <sub-title>Ben Wolf</sub-title>
+    <desc>Ben is confronted by a Navajo Werewolf while visiting Grandpa Max's old friend in New Mexico; he gets bitten during the battle which causes some alarming changes.</desc>
+    <episode-num system="xmltv_ns">31</episode-num>
+  </programme>
+  <programme start="20261101090000 +0000" stop="20261101093000 +0000" channel="boomerang-east">
+    <title>Ben 10</title>
+    <sub-title>Ben 10,000</sub-title>
+    <desc>Gwen is abducted by her future self to help future Ben reconnect with his family and defeat Dr Animo's latest plan to revive Vilgax.</desc>
+    <episode-num system="xmltv_ns">28</episode-num>
+  </programme>
+  <programme start="20261101093000 +0000" stop="20261101100000 +0000" channel="boomerang-east">
+    <title>The Powerpuff Girls</title>
+    <sub-title>Fallen Arches; The Mane Event</sub-title>
+    <desc>Villains come out of retirement; an accident happens.</desc>
+    <episode-num system="xmltv_ns">27</episode-num>
+  </programme>
+  <programme start="20261101100000 +0000" stop="20261101103000 +0000" channel="boomerang-east">
+    <title>Captain Planet and the Planeteers</title>
+    <sub-title>The Dream Machine</sub-title>
+    <desc>Zarm gives a young child the ability to grant wishes at the cost of the environment; however, the other townsfolk want a piece of the pie and greed spreads amongst the masses.</desc>
+    <episode-num system="onscreen">CPL123</episode-num>
+  </programme>
+  <programme start="20261101103000 +0000" stop="20261101110000 +0000" channel="boomerang-east">
+    <title>Captain Planet and the Planeteers</title>
+    <sub-title>Bitter Waters</sub-title>
+    <desc>Looten Plunder tricks people into selling their land for urban development; Sky Runner implores the Planeteers to aid him and his people.</desc>
+  </programme>
+  <programme start="20261101110000 +0000" stop="20261101111000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Wild Hare</sub-title>
+    <desc>Bugs humiliates Elmer while he's out hunting rabbits.</desc>
+  </programme>
+  <programme start="20261101111000 +0000" stop="20261101112000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Tortoise Beats Hare</sub-title>
+    <desc>Bugs reads the title to his own cartoon and fumes at the possibility that a tortoise could beat him in a race, so he challenges Cecil the Turtle, who calls up his look-alike relatives to pull one over on the overconfident rabbit.</desc>
+  </programme>
+  <programme start="20261101112000 +0000" stop="20261101113000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Wabbit Twouble</sub-title>
+    <desc>Elmer Fudd's quest for rest and relaxation at Jellystone National Park is spoiled after he sets up camp in the vicinity of Bugs Bunny's rabbit hole.</desc>
+  </programme>
+  <programme start="20261101113000 +0000" stop="20261101114000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Rabbit of Seville</sub-title>
+    <desc>Bugs and Elmer Fudd stage a bizarre version of </desc>
+  </programme>
+  <programme start="20261101114000 +0000" stop="20261101115000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Super-Rabbit</sub-title>
+    <desc>When Bugs eats a special carrot, he gets superpowers that help him battle a famous rabbit hunter.</desc>
+  </programme>
+  <programme start="20261101115000 +0000" stop="20261101120000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Falling Hare</sub-title>
+    <desc>A gremlin hijacks a World War II bomber and Bugs must stop him.</desc>
+  </programme>
+  <programme start="20261101120000 +0000" stop="20261101121000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Little Red Riding Rabbit</sub-title>
+    <desc>Bugs must avoid getting eaten by a wolf when an obnoxious girl delivers him to her grandma's house.</desc>
+  </programme>
+  <programme start="20261101121000 +0000" stop="20261101122000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Bunker Hill Bunny</sub-title>
+    <desc>A heavily armed Hessian called Sam von Schamm fights the most frustrating battle of his life against Bugs, an American Minuteman who will do whatever it takes to protect his measly fort.</desc>
+  </programme>
+  <programme start="20261101122000 +0000" stop="20261101123000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Hare Remover</sub-title>
+    <desc>Mad scientist Elmer tries his best to make a </desc>
+  </programme>
+  <programme start="20261101123000 +0000" stop="20261101124000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Bunny Hugged</sub-title>
+    <desc>Bugs gets involved in a wrestling match to save Ravishing Ronald from The Crusher.</desc>
+  </programme>
+  <programme start="20261101124000 +0000" stop="20261101125000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Hair Raising Hare</sub-title>
+    <desc>A mad scientist sends a sexy rabbit-robot to lure Bugs in as food for his monster.</desc>
+    <episode-num system="xmltv_ns">25954032</episode-num>
+  </programme>
+  <programme start="20261101125000 +0000" stop="20261101130000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Rabbit Fire</sub-title>
+    <desc>Bugs and Daffy fight over whether it is rabbit or duck hunting season.</desc>
+  </programme>
+  <programme start="20261101130000 +0000" stop="20261101131000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Rhapsody Rabbit</sub-title>
+    <desc>Bugs, a concert pianist, must overcome a coughing audience member, sheet music distractions, hunger pangs and an irksome musical mouse in his piano.</desc>
+  </programme>
+  <programme start="20261101131000 +0000" stop="20261101132000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Bugs Bunny Rides Again</sub-title>
+    <desc>Bugs battles Yosemite Sam in a western showdown.</desc>
+  </programme>
+  <programme start="20261101132000 +0000" stop="20261101133000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Haredevil Hare</sub-title>
+    <desc>Bugs gets blasted into space and makes it all the way up to the moon.</desc>
+  </programme>
+  <programme start="20261101133000 +0000" stop="20261101134000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Rabbit Hood</sub-title>
+    <desc>While stealing a carrot in Sherwood Forest on the king's property, Bugs gets caught by the sheriff; Bugs tricks the sheriff into letting him go, but he plays pranks on the hapless lawman.</desc>
+  </programme>
+  <programme start="20261101134000 +0000" stop="20261101135000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Long-Haired Hare</sub-title>
+    <desc>Bugs annoys an opera singer who is rehearsing for a concert.</desc>
+  </programme>
+  <programme start="20261101135000 +0000" stop="20261101140000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Bunker Hill Bunny</sub-title>
+    <desc>A heavily armed Hessian called Sam von Schamm fights the most frustrating battle of his life against Bugs, an American Minuteman who will do whatever it takes to protect his measly fort.</desc>
+  </programme>
+  <programme start="20261101140000 +0000" stop="20261101141000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Bunny Hugged</sub-title>
+    <desc>Bugs gets involved in a wrestling match to save Ravishing Ronald from The Crusher.</desc>
+  </programme>
+  <programme start="20261101141000 +0000" stop="20261101142000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Big Top Bunny</sub-title>
+    <desc>When Bugs is roped in to perform alongside Bruno the star bear of Colonel Corny's World Famous Circus, it triggers a long and hilarious game of one-upmanship between them.</desc>
+  </programme>
+  <programme start="20261101142000 +0000" stop="20261101143000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Rabbit Seasoning</sub-title>
+    <desc>Daffy Duck tricks Elmer Fudd into believing it's rabbit season, not duck.</desc>
+  </programme>
+  <programme start="20261101143000 +0000" stop="20261101144000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>14 Carrot Rabbit</sub-title>
+    <desc>Bugs Bunny frustrates Yosemite Sam during the Klondike gold rush.</desc>
+  </programme>
+  <programme start="20261101144000 +0000" stop="20261101145000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Hyde and Hare</sub-title>
+    <desc>Bugs becomes the pet of the friendly Doctor Jekyll but soon finds out about his frightening alter ego.</desc>
+  </programme>
+  <programme start="20261101145000 +0000" stop="20261101150000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Rabbitson Crusoe</sub-title>
+    <desc>Bugs washes up on the island that Yosemite Sam has been living on for 20 years.</desc>
+  </programme>
+  <programme start="20261101150000 +0000" stop="20261101153000 +0000" channel="boomerang-east">
+    <title>Scooby-Doo, Where Are You!</title>
+    <sub-title>Mine Your Own Business</sub-title>
+    <desc>The gang spends the night in a haunted ghost town.</desc>
+    <episode-num system="xmltv_ns">69004</episode-num>
+  </programme>
+  <programme start="20261101153000 +0000" stop="20261101160000 +0000" channel="boomerang-east">
+    <title>Scooby-Doo, Where Are You!</title>
+    <sub-title>Decoy for a Dognapper</sub-title>
+    <desc>The gang uses Scooby as a decoy to find out who's stealing prizewinning dogs.</desc>
+    <episode-num system="xmltv_ns">69005</episode-num>
+  </programme>
+  <programme start="20261101160000 +0000" stop="20261101163000 +0000" channel="boomerang-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>The Vampire Strikes Back</sub-title>
+    <desc>The gang visits the hex girls at a Transylvanian castle and run into a real-life vampire.</desc>
+    <episode-num system="xmltv_ns">15</episode-num>
+  </programme>
+  <programme start="20261101163000 +0000" stop="20261101170000 +0000" channel="boomerang-east">
+    <title>Codename: Kids Next Door</title>
+    <sub-title>Operation B.R.I.D.G.E.; Operation S.I.X.</sub-title>
+    <desc>In 'Operation B.R.I.D.G.E.', Number 5 plans to destroy the bridge that connects the mall to a fashion shop; in 'Operation S.I.X.', Numbers 2 and 3 lead a dangerous mission to distribute cola.</desc>
+    <episode-num system="xmltv_ns">71</episode-num>
+  </programme>
+  <programme start="20261101170000 +0000" stop="20261101173000 +0000" channel="boomerang-east">
+    <title>Codename: Kids Next Door</title>
+    <sub-title>Operation C.R.I.M.E.; Operation P.A.R.T.Y.</sub-title>
+    <desc>In 'Operation C.R.I.M.E.', the gang investigates a psychic member of the School Safety Patrol; in 'Operation P.A.R.T.Y.', the Delightful Children invite teenagers to plan against the Kids Next Door.</desc>
+    <episode-num system="xmltv_ns">73</episode-num>
+  </programme>
+  <programme start="20261101173000 +0000" stop="20261101180000 +0000" channel="boomerang-east">
+    <title>Chowder</title>
+    <sub-title>Mahjong Night; Stinky Love</sub-title>
+    <desc>Messing with the Truffles' game night means certain doom; Kimchi whisks away a smelly dish for a romantic setting.</desc>
+    <episode-num system="xmltv_ns">3</episode-num>
+  </programme>
+  <programme start="20261101180000 +0000" stop="20261101183000 +0000" channel="boomerang-east">
+    <title>Chowder</title>
+    <sub-title>Gazpacho Stands Up; A Taste of Marzipan</sub-title>
+    <desc>Chowder helps Gazpacho prepare for his comedy debut; Mung and Ms. Endive unveil the same dish at Marzipan City's biggest food fair.</desc>
+    <episode-num system="xmltv_ns">8</episode-num>
+  </programme>
+  <programme start="20261101183000 +0000" stop="20261101184500 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>The Trade</sub-title>
+    <desc>After he accidentally trades away Chad's favorite baseball card, Clarence transforms into a slick salesman to get it back.</desc>
+    <episode-num system="xmltv_ns">118</episode-num>
+  </programme>
+  <programme start="20261101184500 +0000" stop="20261101190000 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>A Nightmare on Aberdale Street: Balance's Revenge</sub-title>
+    <desc>Clarence uses a special jack-o-lantern to enter people's dreams, and learns that something is causing his friends to have nightmares.</desc>
+    <episode-num system="xmltv_ns">122</episode-num>
+  </programme>
+  <programme start="20261101190000 +0000" stop="20261101191500 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>Chadsgiving</sub-title>
+    <desc>Clarence is excited for Thanksgiving dinner with Chad's parents, but Chad worries that their bizarre customs will make him look irresponsible.</desc>
+    <episode-num system="xmltv_ns">126</episode-num>
+  </programme>
+  <programme start="20261101191500 +0000" stop="20261101193000 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>A Sumoful Mind</sub-title>
+    <desc>Fostering newfound intellectual Sumo.</desc>
+  </programme>
+  <programme start="20261101193000 +0000" stop="20261101194000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Wild Hare</sub-title>
+    <desc>Bugs humiliates Elmer while he's out hunting rabbits.</desc>
+  </programme>
+  <programme start="20261101194000 +0000" stop="20261101195000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Tortoise Beats Hare</sub-title>
+    <desc>Bugs reads the title to his own cartoon and fumes at the possibility that a tortoise could beat him in a race, so he challenges Cecil the Turtle, who calls up his look-alike relatives to pull one over on the overconfident rabbit.</desc>
+  </programme>
+  <programme start="20261101195000 +0000" stop="20261101200000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Wabbit Twouble</sub-title>
+    <desc>Elmer Fudd's quest for rest and relaxation at Jellystone National Park is spoiled after he sets up camp in the vicinity of Bugs Bunny's rabbit hole.</desc>
+  </programme>
+  <programme start="20261101200000 +0000" stop="20261101201000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Rabbit of Seville</sub-title>
+    <desc>Bugs and Elmer Fudd stage a bizarre version of </desc>
+  </programme>
+  <programme start="20261101201000 +0000" stop="20261101202000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Super-Rabbit</sub-title>
+    <desc>When Bugs eats a special carrot, he gets superpowers that help him battle a famous rabbit hunter.</desc>
+  </programme>
+  <programme start="20261101202000 +0000" stop="20261101203000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Falling Hare</sub-title>
+    <desc>A gremlin hijacks a World War II bomber and Bugs must stop him.</desc>
+  </programme>
+  <programme start="20261101203000 +0000" stop="20261101204000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Little Red Riding Rabbit</sub-title>
+    <desc>Bugs must avoid getting eaten by a wolf when an obnoxious girl delivers him to her grandma's house.</desc>
+  </programme>
+  <programme start="20261101204000 +0000" stop="20261101205000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Bunker Hill Bunny</sub-title>
+    <desc>A heavily armed Hessian called Sam von Schamm fights the most frustrating battle of his life against Bugs, an American Minuteman who will do whatever it takes to protect his measly fort.</desc>
+  </programme>
+  <programme start="20261101205000 +0000" stop="20261101210000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Hare Remover</sub-title>
+    <desc>Mad scientist Elmer tries his best to make a </desc>
+  </programme>
+  <programme start="20261101210000 +0000" stop="20261101211000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Bunny Hugged</sub-title>
+    <desc>Bugs gets involved in a wrestling match to save Ravishing Ronald from The Crusher.</desc>
+  </programme>
+  <programme start="20261101211000 +0000" stop="20261101212000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Hair Raising Hare</sub-title>
+    <desc>A mad scientist sends a sexy rabbit-robot to lure Bugs in as food for his monster.</desc>
+    <episode-num system="xmltv_ns">25954032</episode-num>
+  </programme>
+  <programme start="20261101212000 +0000" stop="20261101213000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Rabbit Fire</sub-title>
+    <desc>Bugs and Daffy fight over whether it is rabbit or duck hunting season.</desc>
+  </programme>
+  <programme start="20261101213000 +0000" stop="20261101214000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Rhapsody Rabbit</sub-title>
+    <desc>Bugs, a concert pianist, must overcome a coughing audience member, sheet music distractions, hunger pangs and an irksome musical mouse in his piano.</desc>
+  </programme>
+  <programme start="20261101214000 +0000" stop="20261101215000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Bugs Bunny Rides Again</sub-title>
+    <desc>Bugs battles Yosemite Sam in a western showdown.</desc>
+  </programme>
+  <programme start="20261101215000 +0000" stop="20261101220000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Haredevil Hare</sub-title>
+    <desc>Bugs gets blasted into space and makes it all the way up to the moon.</desc>
+  </programme>
+  <programme start="20261101220000 +0000" stop="20261101221000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Rabbit Hood</sub-title>
+    <desc>While stealing a carrot in Sherwood Forest on the king's property, Bugs gets caught by the sheriff; Bugs tricks the sheriff into letting him go, but he plays pranks on the hapless lawman.</desc>
+  </programme>
+  <programme start="20261101221000 +0000" stop="20261101222000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Long-Haired Hare</sub-title>
+    <desc>Bugs annoys an opera singer who is rehearsing for a concert.</desc>
+  </programme>
+  <programme start="20261101222000 +0000" stop="20261101223000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Bunker Hill Bunny</sub-title>
+    <desc>A heavily armed Hessian called Sam von Schamm fights the most frustrating battle of his life against Bugs, an American Minuteman who will do whatever it takes to protect his measly fort.</desc>
+  </programme>
+  <programme start="20261101223000 +0000" stop="20261101224000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Bunny Hugged</sub-title>
+    <desc>Bugs gets involved in a wrestling match to save Ravishing Ronald from The Crusher.</desc>
+  </programme>
+  <programme start="20261101224000 +0000" stop="20261101225000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Big Top Bunny</sub-title>
+    <desc>When Bugs is roped in to perform alongside Bruno the star bear of Colonel Corny's World Famous Circus, it triggers a long and hilarious game of one-upmanship between them.</desc>
+  </programme>
+  <programme start="20261101225000 +0000" stop="20261101230000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Rabbit Seasoning</sub-title>
+    <desc>Daffy Duck tricks Elmer Fudd into believing it's rabbit season, not duck.</desc>
+  </programme>
+  <programme start="20261101230000 +0000" stop="20261101231000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>14 Carrot Rabbit</sub-title>
+    <desc>Bugs Bunny frustrates Yosemite Sam during the Klondike gold rush.</desc>
+  </programme>
+  <programme start="20261101231000 +0000" stop="20261101232000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Hyde and Hare</sub-title>
+    <desc>Bugs becomes the pet of the friendly Doctor Jekyll but soon finds out about his frightening alter ego.</desc>
+  </programme>
+  <programme start="20261101232000 +0000" stop="20261101233000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Rabbitson Crusoe</sub-title>
+    <desc>Bugs washes up on the island that Yosemite Sam has been living on for 20 years.</desc>
+  </programme>
+  <programme start="20261101233000 +0000" stop="20261102000000 +0000" channel="boomerang-east">
+    <title>Scooby-Doo, Where Are You!</title>
+    <sub-title>Mine Your Own Business</sub-title>
+    <desc>The gang spends the night in a haunted ghost town.</desc>
+    <episode-num system="xmltv_ns">69004</episode-num>
+  </programme>
+  <programme start="20261102000000 +0000" stop="20261102003000 +0000" channel="boomerang-east">
+    <title>Scooby-Doo, Where Are You!</title>
+    <sub-title>Decoy for a Dognapper</sub-title>
+    <desc>The gang uses Scooby as a decoy to find out who's stealing prizewinning dogs.</desc>
+    <episode-num system="xmltv_ns">69005</episode-num>
+  </programme>
+  <programme start="20261102003000 +0000" stop="20261102010000 +0000" channel="boomerang-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>The Vampire Strikes Back</sub-title>
+    <desc>The gang visits the hex girls at a Transylvanian castle and run into a real-life vampire.</desc>
+    <episode-num system="xmltv_ns">15</episode-num>
+  </programme>
+  <programme start="20261102010000 +0000" stop="20261102013000 +0000" channel="boomerang-east">
+    <title>Codename: Kids Next Door</title>
+    <sub-title>Operation B.R.I.D.G.E.; Operation S.I.X.</sub-title>
+    <desc>In 'Operation B.R.I.D.G.E.', Number 5 plans to destroy the bridge that connects the mall to a fashion shop; in 'Operation S.I.X.', Numbers 2 and 3 lead a dangerous mission to distribute cola.</desc>
+    <episode-num system="xmltv_ns">71</episode-num>
+  </programme>
+  <programme start="20261102013000 +0000" stop="20261102020000 +0000" channel="boomerang-east">
+    <title>Codename: Kids Next Door</title>
+    <sub-title>Operation C.R.I.M.E.; Operation P.A.R.T.Y.</sub-title>
+    <desc>In 'Operation C.R.I.M.E.', the gang investigates a psychic member of the School Safety Patrol; in 'Operation P.A.R.T.Y.', the Delightful Children invite teenagers to plan against the Kids Next Door.</desc>
+    <episode-num system="xmltv_ns">73</episode-num>
+  </programme>
+  <programme start="20261102020000 +0000" stop="20261102023000 +0000" channel="boomerang-east">
+    <title>Chowder</title>
+    <sub-title>Mahjong Night; Stinky Love</sub-title>
+    <desc>Messing with the Truffles' game night means certain doom; Kimchi whisks away a smelly dish for a romantic setting.</desc>
+    <episode-num system="xmltv_ns">3</episode-num>
+  </programme>
+  <programme start="20261102023000 +0000" stop="20261102030000 +0000" channel="boomerang-east">
+    <title>Chowder</title>
+    <sub-title>Gazpacho Stands Up; A Taste of Marzipan</sub-title>
+    <desc>Chowder helps Gazpacho prepare for his comedy debut; Mung and Ms. Endive unveil the same dish at Marzipan City's biggest food fair.</desc>
+    <episode-num system="xmltv_ns">8</episode-num>
+  </programme>
+  <programme start="20261102030000 +0000" stop="20261102031500 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>The Trade</sub-title>
+    <desc>After he accidentally trades away Chad's favorite baseball card, Clarence transforms into a slick salesman to get it back.</desc>
+    <episode-num system="xmltv_ns">118</episode-num>
+  </programme>
+  <programme start="20261102031500 +0000" stop="20261102033000 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>A Nightmare on Aberdale Street: Balance's Revenge</sub-title>
+    <desc>Clarence uses a special jack-o-lantern to enter people's dreams, and learns that something is causing his friends to have nightmares.</desc>
+    <episode-num system="xmltv_ns">122</episode-num>
+  </programme>
+  <programme start="20261102033000 +0000" stop="20261102034500 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>Chadsgiving</sub-title>
+    <desc>Clarence is excited for Thanksgiving dinner with Chad's parents, but Chad worries that their bizarre customs will make him look irresponsible.</desc>
+    <episode-num system="xmltv_ns">126</episode-num>
+  </programme>
+  <programme start="20261102034500 +0000" stop="20261102040000 +0000" channel="boomerang-east">
+    <title>Clarence</title>
+    <sub-title>A Sumoful Mind</sub-title>
+    <desc>Fostering newfound intellectual Sumo.</desc>
+  </programme>
+  <programme start="20261102040000 +0000" stop="20261102043000 +0000" channel="boomerang-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>It's All Greek to Scooby</sub-title>
+    <desc>On a trip to Greece to visit ancient ruins, the gang encounters a centaur.</desc>
+    <episode-num system="xmltv_ns">21</episode-num>
+  </programme>
+  <programme start="20261102043000 +0000" stop="20261102050000 +0000" channel="boomerang-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>New Mexico, Old Monster</sub-title>
+    <desc>The gang travels to New Mexico and finds a giant, ancient legendary bird that carries the locals off to its mysterious lair.</desc>
+    <episode-num system="xmltv_ns">23</episode-num>
+  </programme>
+  <programme start="20261102050000 +0000" stop="20261102051000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Buckaroo Bugs</sub-title>
+    <desc>The masked marauder strikes again, and a local hero is hired to catch the villain.</desc>
+  </programme>
+  <programme start="20261102051000 +0000" stop="20261102052000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Acrobatty Bunny</sub-title>
+    <desc>A circus is being set up above Bugs' home and the lion cage is placed directly above the hole.</desc>
+  </programme>
+  <programme start="20261102052000 +0000" stop="20261102053000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Rhapsody Rabbit</sub-title>
+    <desc>Bugs, a concert pianist, must overcome a coughing audience member, sheet music distractions, hunger pangs and an irksome musical mouse in his piano.</desc>
+  </programme>
+  <programme start="20261102053000 +0000" stop="20261102054000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>Big Top Bunny</sub-title>
+    <desc>When Bugs is roped in to perform alongside Bruno the star bear of Colonel Corny's World Famous Circus, it triggers a long and hilarious game of one-upmanship between them.</desc>
+  </programme>
+  <programme start="20261102054000 +0000" stop="20261102055000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>His Hare-Raising Tale</sub-title>
+    <desc>Bugs Bunny and his nephew Clyde Rabbit look at a scrapbook of various photographs and newspaper clippings of Bugs and his adventures.</desc>
+  </programme>
+  <programme start="20261102055000 +0000" stop="20261102060000 +0000" channel="boomerang-east">
+    <title>Looney Tunes</title>
+    <sub-title>The Old Grey Hare</sub-title>
+    <desc>Elmer Fudd visits the future, while Bugs recalls the past.</desc>
+  </programme>
+  <programme start="20261102060000 +0000" stop="20261102061000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Neapolitan Mouse</sub-title>
+    <desc>Tom and Jerry are befriended by a mouse named Topo while touring Naples, Italy.</desc>
+  </programme>
+  <programme start="20261102061000 +0000" stop="20261102062000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Pet Peeve</sub-title>
+    <desc>The husband and wife decide either Tom or Spike must go.</desc>
+  </programme>
+  <programme start="20261102062000 +0000" stop="20261102063000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Southbound Duckling</sub-title>
+    <desc>After deciding to fly south for winter, Quacker inadvertently lands on Tom's plate.</desc>
+  </programme>
+  <programme start="20261102063000 +0000" stop="20261102064000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Pup on a Picnic</sub-title>
+    <desc>Spike tries to ensure that he and his son have a peaceful picnic.</desc>
+  </programme>
+  <programme start="20261102064000 +0000" stop="20261102065000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Mouse for Sale</sub-title>
+    <desc>Jerry paints Tom white and sells him to a pet shop, only to have Joan buy the mouse and bring him home.</desc>
+  </programme>
+  <programme start="20261102065000 +0000" stop="20261102070000 +0000" channel="boomerang-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Tom and Cherie</sub-title>
+    <desc>Jerry teaches Tuffy a lesson on what it means to be a brave Mouseketeer.</desc>
+  </programme>
+  <programme start="20261102070000 +0000" stop="20261102073000 +0000" channel="boomerang-east">
+    <title>The Marvelous Misadventures of Flapjack</title>
+    <sub-title>Something's a Miss; Gone Wishin'</sub-title>
+    <desc>Flap gets sick of being mistaken for a girl; Flap and K'nuckles wish on a mermaid's heart.</desc>
+    <episode-num system="xmltv_ns">17</episode-num>
+  </programme>
+  <programme start="20261102073000 +0000" stop="20261102080000 +0000" channel="boomerang-east">
+    <title>The Marvelous Misadventures of Flapjack</title>
+    <sub-title>Whale Times; Candy Cruise Blues</sub-title>
+    <desc>Bubbie meets a handsome whale suitor and Flapjack gets jealous; Flapjack and K'nuckles stow away on the Candy Queen cruise ship.</desc>
+    <episode-num system="xmltv_ns">19</episode-num>
+  </programme>
+  <programme start="20261102080000 +0000" stop="20261102083000 +0000" channel="boomerang-east">
+    <title>Ben 10</title>
+    <sub-title>Game Over</sub-title>
+    <desc>Ben and Gwen are zapped into a Sumo Slammers video game; their only chance of escape is to complete the game, while a sinister alien also tries to leave the computer world behind.</desc>
+    <episode-num system="xmltv_ns">32</episode-num>
+  </programme>
+  <programme start="20261102083000 +0000" stop="20261102090000 +0000" channel="boomerang-east">
+    <title>Ben 10</title>
+    <sub-title>Monster Weather</sub-title>
+    <desc>Max takes the kids to a music festival in Chicago; a crazed weatherman plans to use his weather-predicting robot to change the weather and advance his career.</desc>
+    <episode-num system="xmltv_ns">33</episode-num>
+  </programme>
+  <programme start="20261102090000 +0000" stop="20261102093000 +0000" channel="boomerang-east">
+    <title>Ben 10</title>
+    <sub-title>Super Alien Hero Buddy Adventures</sub-title>
+    <desc>Ben discovers that his aliens are the stars of a new cartoon series and his favourite action hero cartoon has been axed.</desc>
+    <episode-num system="xmltv_ns">34</episode-num>
+  </programme>
+  <programme start="20261102093000 +0000" stop="20261102100000 +0000" channel="boomerang-east">
+    <title>The Powerpuff Girls</title>
+    <sub-title>Town and Out; Child Fearing</sub-title>
+    <desc>Professor gets a job in a different town; Mojo baby-sits the girls.</desc>
+    <episode-num system="xmltv_ns">28</episode-num>
+  </programme>
+  <programme start="20261102100000 +0000" stop="20261102103000 +0000" channel="boomerang-east">
+    <title>Captain Planet and the Planeteers</title>
+    <sub-title>The Guinea Pigs</sub-title>
+    <desc>The Planeteers must stop Dr. Blight and her minions from kidnapping animals for her experiments.</desc>
+  </programme>
+  <programme start="20261102103000 +0000" stop="20261102110000 +0000" channel="boomerang-east">
+    <title>Captain Planet and the Planeteers</title>
+    <sub-title>OK at the Gunfight Corral</sub-title>
+    <desc>Villains plot to cause Earth's biggest trash crisis in history by traveling back in time to succeed with their caper.</desc>
+  </programme>
+</tv>
