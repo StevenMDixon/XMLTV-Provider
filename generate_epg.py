@@ -15,8 +15,6 @@ load_dotenv()
 
 tvg_api_key = os.getenv("TVG_API_KEY")
 
-print(f"TV Guide API Key: {tvg_api_key}")
-
 folder_path = "./xml_schedules"  # Define the path for the folder to be created
 os.makedirs(folder_path, exist_ok=True)
 
@@ -38,7 +36,6 @@ for channel in channels:
         channel.handle_conversion()
     except Exception as e:
         print(f"Error processing channel {channel}: {e}")
-
 
 
 folder_path = Path('./xml_schedules')
