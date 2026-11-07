@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="as-east">
+    <display-name>As East</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s26769_h15_ab.png"/>
+  </channel>
+  <programme start="20261106210000 +0000" stop="20261106213000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Don't You Be My Neighbor</sub-title>
+    <desc>The Smiths get new neighbors; Roger dreads having to be a little boy's kite for a day.</desc>
+    <episode-num system="xmltv_ns">1714</episode-num>
+  </programme>
+  <programme start="20261106213000 +0000" stop="20261106220000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Productive Panic</sub-title>
+    <desc>Francine becomes an overnight sensation when a famous art dealer discovers her homemade pottery.</desc>
+  </programme>
+  <programme start="20261106220000 +0000" stop="20261106223000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>When You Wish Upon a Weinstein</sub-title>
+    <desc>After a visit from a Jewish man, Peter tries to convert Chris.</desc>
+    <episode-num system="xmltv_ns">205</episode-num>
+  </programme>
+  <programme start="20261106223000 +0000" stop="20261106230000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>North by North Quahog</sub-title>
+    <desc>During Peter and Lois' second honeymoon, Peter impersonates Mel Gibson, and they stay in his suite, where they find a copy of </desc>
+    <episode-num system="xmltv_ns">401</episode-num>
+  </programme>
+  <programme start="20261106230000 +0000" stop="20261106233000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Hanky Panky</sub-title>
+    <desc>Buck Strickland's wife tosses him out of the house, takes over his propane business and sets her sights on Hank.</desc>
+    <episode-num system="onscreen">4ABE13</episode-num>
+  </programme>
+  <programme start="20261106233000 +0000" stop="20261107000000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>High Anxiety</sub-title>
+    <desc>After Hank is framed for Debbie's murder, he must defend himself to Peggy, as well as Sheriff Mumford.</desc>
+    <episode-num system="onscreen">4ABE14</episode-num>
+  </programme>
+  <programme start="20261107000000 +0000" stop="20261107003000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Sheesh! Cab, Bob?</sub-title>
+    <desc>Tina desperately wants to get her first kiss at her 13th birthday party, but a series of unlucky events threatens her plans.</desc>
+    <episode-num system="onscreen">1ASA09</episode-num>
+  </programme>
+  <programme start="20261107003000 +0000" stop="20261107010000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Spaghetti Western and Meatballs</sub-title>
+    <desc>Louise feels alienated when Bob and Gene start watching spaghetti westerns; Tina fights her way through a conflict-resolution program.</desc>
+    <episode-num system="onscreen">1ASA10</episode-num>
+  </programme>
+  <programme start="20261107010000 +0000" stop="20261107013000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Don't You Be My Neighbor</sub-title>
+    <desc>The Smiths get new neighbors; Roger dreads having to be a little boy's kite for a day.</desc>
+    <episode-num system="xmltv_ns">1714</episode-num>
+  </programme>
+  <programme start="20261107013000 +0000" stop="20261107020000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Productive Panic</sub-title>
+    <desc>Francine becomes an overnight sensation when a famous art dealer discovers her homemade pottery.</desc>
+  </programme>
+  <programme start="20261107020000 +0000" stop="20261107023000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>When You Wish Upon a Weinstein</sub-title>
+    <desc>After a visit from a Jewish man, Peter tries to convert Chris.</desc>
+    <episode-num system="xmltv_ns">205</episode-num>
+  </programme>
+  <programme start="20261107023000 +0000" stop="20261107030000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>North by North Quahog</sub-title>
+    <desc>During Peter and Lois' second honeymoon, Peter impersonates Mel Gibson, and they stay in his suite, where they find a copy of </desc>
+    <episode-num system="xmltv_ns">401</episode-num>
+  </programme>
+  <programme start="20261107030000 +0000" stop="20261107033000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Hanky Panky</sub-title>
+    <desc>Buck Strickland's wife tosses him out of the house, takes over his propane business and sets her sights on Hank.</desc>
+    <episode-num system="onscreen">4ABE13</episode-num>
+  </programme>
+  <programme start="20261107033000 +0000" stop="20261107040000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>High Anxiety</sub-title>
+    <desc>After Hank is framed for Debbie's murder, he must defend himself to Peggy, as well as Sheriff Mumford.</desc>
+    <episode-num system="onscreen">4ABE14</episode-num>
+  </programme>
+  <programme start="20261107040000 +0000" stop="20261107043000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>There's Something About Morty</sub-title>
+    <desc>Rick's been lonely, broh; Morty's worried bout side pieces.</desc>
+  </programme>
+  <programme start="20261107043000 +0000" stop="20261107044500 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Maurice Was Caught</sub-title>
+    <desc>Kermit introduces everyone to his cousin, Annie Warbucks.</desc>
+    <episode-num system="xmltv_ns">73</episode-num>
+  </programme>
+  <programme start="20261107044500 +0000" stop="20261107050000 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Unionizing Our Labor</sub-title>
+    <desc>Superman; the original Dukes of Hazzard; Smurfs take on the Snorks.</desc>
+    <episode-num system="xmltv_ns">74</episode-num>
+  </programme>
+  <programme start="20261107050000 +0000" stop="20261107053000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Sheesh! Cab, Bob?</sub-title>
+    <desc>Tina desperately wants to get her first kiss at her 13th birthday party, but a series of unlucky events threatens her plans.</desc>
+    <episode-num system="onscreen">1ASA09</episode-num>
+  </programme>
+  <programme start="20261107053000 +0000" stop="20261107060000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Spaghetti Western and Meatballs</sub-title>
+    <desc>Louise feels alienated when Bob and Gene start watching spaghetti westerns; Tina fights her way through a conflict-resolution program.</desc>
+    <episode-num system="onscreen">1ASA10</episode-num>
+  </programme>
+  <programme start="20261107060000 +0000" stop="20261107063000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Don't You Be My Neighbor</sub-title>
+    <desc>The Smiths get new neighbors; Roger dreads having to be a little boy's kite for a day.</desc>
+    <episode-num system="xmltv_ns">1714</episode-num>
+  </programme>
+  <programme start="20261107063000 +0000" stop="20261107070000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Productive Panic</sub-title>
+    <desc>Francine becomes an overnight sensation when a famous art dealer discovers her homemade pottery.</desc>
+  </programme>
+  <programme start="20261107070000 +0000" stop="20261107073000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>When You Wish Upon a Weinstein</sub-title>
+    <desc>After a visit from a Jewish man, Peter tries to convert Chris.</desc>
+    <episode-num system="xmltv_ns">205</episode-num>
+  </programme>
+  <programme start="20261107073000 +0000" stop="20261107080000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>North by North Quahog</sub-title>
+    <desc>During Peter and Lois' second honeymoon, Peter impersonates Mel Gibson, and they stay in his suite, where they find a copy of </desc>
+    <episode-num system="xmltv_ns">401</episode-num>
+  </programme>
+  <programme start="20261107080000 +0000" stop="20261107083000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Hanky Panky</sub-title>
+    <desc>Buck Strickland's wife tosses him out of the house, takes over his propane business and sets her sights on Hank.</desc>
+    <episode-num system="onscreen">4ABE13</episode-num>
+  </programme>
+  <programme start="20261107083000 +0000" stop="20261107090000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>High Anxiety</sub-title>
+    <desc>After Hank is framed for Debbie's murder, he must defend himself to Peggy, as well as Sheriff Mumford.</desc>
+    <episode-num system="onscreen">4ABE14</episode-num>
+  </programme>
+  <programme start="20261107090000 +0000" stop="20261107093000 +0000" channel="as-east">
+    <title>In the Know</title>
+    <sub-title>Whose House?</sub-title>
+    <desc>During Pledge Drive Day at </desc>
+  </programme>
+  <programme start="20261107093000 +0000" stop="20261107100000 +0000" channel="as-east">
+    <title>Bob and Margaret</title>
+    <sub-title>Fish at the Bat</sub-title>
+    <desc>Bob joins the office softball team and is embarrassed to admit he is terrible at sports.</desc>
+  </programme>
+  <programme start="20261107100000 +0000" stop="20261107210000 +0000" channel="as-east">
+    <title>Off Air</title>
+    <sub-title>Off Air</sub-title>
+    <desc>Off Air</desc>
+  </programme>
+  <programme start="20261107210000 +0000" stop="20261107213000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Movin' On Up</sub-title>
+    <desc>After being reprimanded by Hank, Luanne moves next door with some rowdy college students (guest voices Andy Dick, Vicki Lewis, Maura Tierney). Voices of Mike Judge, Kathy Najimy and Pamela Segall.</desc>
+    <episode-num system="onscreen">4ABE16</episode-num>
+  </programme>
+  <programme start="20261107213000 +0000" stop="20261107220000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Bill of Sales</sub-title>
+    <desc>Peggy becomes involved in a pyramid scam and recruits Bill as her star sales representative. Voices of Mike Judge, Kathy Najimy, Stephen Root and Pamela Segall. Guest voice: Teri Garr.</desc>
+    <episode-num system="onscreen">4ABE15</episode-num>
+  </programme>
+  <programme start="20261107220000 +0000" stop="20261107223000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Won't You Pimai Neighbor?</sub-title>
+    <desc>Bobby emerges as the chosen one when Buddhist monks arrive in Arlen, Texas, looking for a reincarnated lama.</desc>
+    <episode-num system="onscreen">4ABE18</episode-num>
+  </programme>
+  <programme start="20261107223000 +0000" stop="20261107230000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Multiverse of American Dadness</sub-title>
+    <desc>Hayley searches for a runaway Steve so they can go to a Shaggy concert.</desc>
+    <episode-num system="xmltv_ns">1716</episode-num>
+  </programme>
+  <programme start="20261107230000 +0000" stop="20261107233000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Weekend at Mort's</sub-title>
+    <desc>Bob and his family spend the weekend with Mort the mortician while work is done on the restaurant; Linda and Bob double date with Mort and a female mortician (Amy Sedaris).</desc>
+    <episode-num system="onscreen">1ASA11</episode-num>
+  </programme>
+  <programme start="20261107233000 +0000" stop="20261108000000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Torpedo</sub-title>
+    <desc>Bob befriends his favorite baseball player when the pitcher starts playing for the local team; the dark side of minor league baseball threatens to corrupt the Belchers.</desc>
+    <episode-num system="onscreen">1ASA12</episode-num>
+  </programme>
+  <programme start="20261108000000 +0000" stop="20261108003000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Fast Times at Buddy Cianci Jr. High</sub-title>
+    <desc>Chris falls for his new substitute teacher, who wants him to kill her husband; Brian tries to get through to a bunch of school rejects.</desc>
+    <episode-num system="xmltv_ns">402</episode-num>
+  </programme>
+  <programme start="20261108003000 +0000" stop="20261108010000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Blind Ambition</sub-title>
+    <desc>When Peter becomes jealous of his friends' achievements, he decides to break a Guinness record so that he will be remembered after he dies.</desc>
+    <episode-num system="xmltv_ns">404</episode-num>
+  </programme>
+  <programme start="20261108010000 +0000" stop="20261108013000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Don't Make Me Over</sub-title>
+    <desc>When Meg is rejected by a cute boy at school, she is devastated until Lois takes her to the mall for a makeover.</desc>
+    <episode-num system="xmltv_ns">403</episode-num>
+  </programme>
+  <programme start="20261108013000 +0000" stop="20261108020000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Movin' On Up</sub-title>
+    <desc>After being reprimanded by Hank, Luanne moves next door with some rowdy college students (guest voices Andy Dick, Vicki Lewis, Maura Tierney). Voices of Mike Judge, Kathy Najimy and Pamela Segall.</desc>
+    <episode-num system="onscreen">4ABE16</episode-num>
+  </programme>
+  <programme start="20261108020000 +0000" stop="20261108023000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Bill of Sales</sub-title>
+    <desc>Peggy becomes involved in a pyramid scam and recruits Bill as her star sales representative. Voices of Mike Judge, Kathy Najimy, Stephen Root and Pamela Segall. Guest voice: Teri Garr.</desc>
+    <episode-num system="onscreen">4ABE15</episode-num>
+  </programme>
+  <programme start="20261108023000 +0000" stop="20261108030000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Won't You Pimai Neighbor?</sub-title>
+    <desc>Bobby emerges as the chosen one when Buddhist monks arrive in Arlen, Texas, looking for a reincarnated lama.</desc>
+    <episode-num system="onscreen">4ABE18</episode-num>
+  </programme>
+  <programme start="20261108030000 +0000" stop="20261108044500 +0000" channel="as-east">
+    <title>Movie</title>
+    <sub-title>Watchmen Chapter I</sub-title>
+    <desc>In an alternate world, the murder of a government sponsored superhero draws his outlawed colleagues out of retirement, into a mystery that threatens their lives and the world itself.</desc>
+  </programme>
+  <programme start="20261108044500 +0000" stop="20261108050000 +0000" channel="as-east">
+    <title>PSI Cops!</title>
+    <sub-title>Small Townies</sub-title>
+    <desc>The Psi Cops Duo explores small town living, cars that crash into nothing, and meets the charming locals like Old Bill, and Old Bill, and Old Bill.</desc>
+  </programme>
+  <programme start="20261108050000 +0000" stop="20261108053000 +0000" channel="as-east">
+    <title>Get Jiro!</title>
+    <sub-title>Cage Free</sub-title>
+    <desc>An unexpected ally visits Jiro in Butcher's Block Penitentiary and helps him mount an escape attempt.</desc>
+  </programme>
+  <programme start="20261108053000 +0000" stop="20261108060000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Multiverse of American Dadness</sub-title>
+    <desc>Hayley searches for a runaway Steve so they can go to a Shaggy concert.</desc>
+    <episode-num system="xmltv_ns">1716</episode-num>
+  </programme>
+  <programme start="20261108060000 +0000" stop="20261108063000 +0000" channel="as-east">
+    <title>President Curtis</title>
+    <sub-title>Hollow</sub-title>
+    <desc>When America faces a national energy crisis, Curtis and his team venture deep into Hollow Earth to find a solution.</desc>
+  </programme>
+  <programme start="20261108063000 +0000" stop="20261108070000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Ricks Days, Seven Nights</sub-title>
+    <desc>You try being Rick all the time, broh!</desc>
+  </programme>
+  <programme start="20261108070000 +0000" stop="20261108084500 +0000" channel="as-east">
+    <title>Movie</title>
+    <sub-title>Watchmen Chapter I</sub-title>
+    <desc>In an alternate world, the murder of a government sponsored superhero draws his outlawed colleagues out of retirement, into a mystery that threatens their lives and the world itself.</desc>
+  </programme>
+  <programme start="20261108084500 +0000" stop="20261108090000 +0000" channel="as-east">
+    <title>PSI Cops!</title>
+    <sub-title>Small Townies</sub-title>
+    <desc>The Psi Cops Duo explores small town living, cars that crash into nothing, and meets the charming locals like Old Bill, and Old Bill, and Old Bill.</desc>
+  </programme>
+  <programme start="20261108090000 +0000" stop="20261108104500 +0000" channel="as-east">
+    <title>Movie</title>
+    <sub-title>Watchmen Chapter I</sub-title>
+    <desc>In an alternate world, the murder of a government sponsored superhero draws his outlawed colleagues out of retirement, into a mystery that threatens their lives and the world itself.</desc>
+  </programme>
+  <programme start="20261108100000 +0000" stop="20261108210000 +0000" channel="as-east">
+    <title>Off Air</title>
+    <sub-title>Off Air</sub-title>
+    <desc>Off Air</desc>
+  </programme>
+  <programme start="20261108210000 +0000" stop="20261108213000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Hank's Bad Hair Day</sub-title>
+    <desc>The government bills Hank $900 for a haircut he gets at the hands of an Army barber. Voices of Mike Judge, Kathy Najimy, Pamela Segall and Brittany Murphy.</desc>
+    <episode-num system="onscreen">4ABE19</episode-num>
+  </programme>
+  <programme start="20261108213000 +0000" stop="20261108220000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Meet the Propaniacs</sub-title>
+    <desc>When Hank runs out of propane during a summer barbecue, Bobby entertains the famished crowd with jokes about propane.</desc>
+    <episode-num system="onscreen">4ABE17</episode-num>
+  </programme>
+  <programme start="20261108220000 +0000" stop="20261108223000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Nancy Boys</sub-title>
+    <desc>Nancy and Dale rekindle the romance in their marriage, leaving Nancy's former lover John Redcorn out in the cold.</desc>
+    <episode-num system="onscreen">4ABE20</episode-num>
+  </programme>
+  <programme start="20261108223000 +0000" stop="20261108230000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>A New Era for the Smith House</sub-title>
+    <desc>Klaus house sits for the Smiths while they are away on vacation; Roger investigates the origin of powerful winds plaguing the Eastern Seaboard.</desc>
+  </programme>
+  <programme start="20261108230000 +0000" stop="20261108233000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Lobsterfest</sub-title>
+    <desc>When a storm cancels Lobsterfest, Bob is happy to serve the would-be attendees; the kids decide to try lobster.</desc>
+    <episode-num system="onscreen">1ASA13</episode-num>
+  </programme>
+  <programme start="20261108233000 +0000" stop="20261109000000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>The Belchies</sub-title>
+    <desc>When the kids go on a treasure hunt in an abandoned taffy factory, Linda and Bob must find them before a scheduled demolition takes place.</desc>
+    <episode-num system="onscreen">2ASA01</episode-num>
+  </programme>
+  <programme start="20261109000000 +0000" stop="20261109003000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>The Cleveland-Loretta Quagmire</sub-title>
+    <desc>When Peter hears screams coming from Cleveland and Loretta's house, he tries to help but discovers Loretta in a compromising position.</desc>
+    <episode-num system="xmltv_ns">408</episode-num>
+  </programme>
+  <programme start="20261109003000 +0000" stop="20261109010000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Petarded</sub-title>
+    <desc>After winning at Trivial Pursuit, Peter claims to be a genius, so Brian asks him to take an IQ test to prove it.</desc>
+    <episode-num system="xmltv_ns">409</episode-num>
+  </programme>
+  <programme start="20261109010000 +0000" stop="20261109013000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Brian the Bachelor</sub-title>
+    <desc>When </desc>
+    <episode-num system="xmltv_ns">410</episode-num>
+  </programme>
+  <programme start="20261109013000 +0000" stop="20261109020000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Hank's Bad Hair Day</sub-title>
+    <desc>The government bills Hank $900 for a haircut he gets at the hands of an Army barber. Voices of Mike Judge, Kathy Najimy, Pamela Segall and Brittany Murphy.</desc>
+    <episode-num system="onscreen">4ABE19</episode-num>
+  </programme>
+  <programme start="20261109020000 +0000" stop="20261109023000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Meet the Propaniacs</sub-title>
+    <desc>When Hank runs out of propane during a summer barbecue, Bobby entertains the famished crowd with jokes about propane.</desc>
+    <episode-num system="onscreen">4ABE17</episode-num>
+  </programme>
+  <programme start="20261109023000 +0000" stop="20261109030000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Nancy Boys</sub-title>
+    <desc>Nancy and Dale rekindle the romance in their marriage, leaving Nancy's former lover John Redcorn out in the cold.</desc>
+    <episode-num system="onscreen">4ABE20</episode-num>
+  </programme>
+  <programme start="20261109030000 +0000" stop="20261109033000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>A New Era for the Smith House</sub-title>
+    <desc>Klaus house sits for the Smiths while they are away on vacation; Roger investigates the origin of powerful winds plaguing the Eastern Seaboard.</desc>
+  </programme>
+  <programme start="20261109033000 +0000" stop="20261109040000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Rick Fu Hustle</sub-title>
+    <desc>You haven't lived till you've chested up at Trader Joe's, broh.</desc>
+  </programme>
+  <programme start="20261109040000 +0000" stop="20261109041500 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>President Hu Forbids It</sub-title>
+    <desc>The Batmobile loses a wheel; a night with Jack Sparrow; Chris Hanson can't catch a predator; Gyro-Robo adds some depth to D&amp;amp;D.</desc>
+    <episode-num system="xmltv_ns">75</episode-num>
+  </programme>
+  <programme start="20261109041500 +0000" stop="20261109043000 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Due to Constraints of Time and Budget</sub-title>
+    <desc>Indiana Jones keeps his eyes shut; the Transformers mourn a fallen hero; a look at what goes on in a Yellow Submarine.</desc>
+    <episode-num system="xmltv_ns">76</episode-num>
+  </programme>
+  <programme start="20261109043000 +0000" stop="20261109050000 +0000" channel="as-east">
+    <title>President Curtis</title>
+    <sub-title>Ghosts</sub-title>
+    <desc>When Banks contracts malware, O'Doyle enters her computer brain to find a fix; Curtis gives the ghost of President Lincoln a gift that empowers him to settle his unfinished business.</desc>
+  </programme>
+  <programme start="20261109050000 +0000" stop="20261109051500 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>I Think We Should Be Buds</sub-title>
+    <desc>Dream journal: My son is a very talented artist but for some reason that's bad for me; the Devil sold me his soul?; he texts a lot.</desc>
+  </programme>
+  <programme start="20261109051500 +0000" stop="20261109053000 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>Oh, Whoa</sub-title>
+    <desc>Insane dream where this assassin is trying to kill me, and I wrote a book.</desc>
+  </programme>
+  <programme start="20261109053000 +0000" stop="20261109060000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Rick Fu Hustle</sub-title>
+    <desc>You haven't lived till you've chested up at Trader Joe's, broh.</desc>
+  </programme>
+  <programme start="20261109060000 +0000" stop="20261109061500 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>President Hu Forbids It</sub-title>
+    <desc>The Batmobile loses a wheel; a night with Jack Sparrow; Chris Hanson can't catch a predator; Gyro-Robo adds some depth to D&amp;amp;D.</desc>
+    <episode-num system="xmltv_ns">75</episode-num>
+  </programme>
+  <programme start="20261109061500 +0000" stop="20261109063000 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Due to Constraints of Time and Budget</sub-title>
+    <desc>Indiana Jones keeps his eyes shut; the Transformers mourn a fallen hero; a look at what goes on in a Yellow Submarine.</desc>
+    <episode-num system="xmltv_ns">76</episode-num>
+  </programme>
+  <programme start="20261109063000 +0000" stop="20261109070000 +0000" channel="as-east">
+    <title>President Curtis</title>
+    <sub-title>Ghosts</sub-title>
+    <desc>When Banks contracts malware, O'Doyle enters her computer brain to find a fix; Curtis gives the ghost of President Lincoln a gift that empowers him to settle his unfinished business.</desc>
+  </programme>
+  <programme start="20261109070000 +0000" stop="20261109071500 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>I Think We Should Be Buds</sub-title>
+    <desc>Dream journal: My son is a very talented artist but for some reason that's bad for me; the Devil sold me his soul?; he texts a lot.</desc>
+  </programme>
+  <programme start="20261109071500 +0000" stop="20261109073000 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>Oh, Whoa</sub-title>
+    <desc>Insane dream where this assassin is trying to kill me, and I wrote a book.</desc>
+  </programme>
+  <programme start="20261109073000 +0000" stop="20261109074500 +0000" channel="as-east">
+    <title>Smiling Friends</title>
+    <sub-title>Le Voyage Incroyable de Monsieur Grenouille</sub-title>
+    <desc>A walking talking frog that changes lives and rewires brains.</desc>
+  </programme>
+  <programme start="20261109074500 +0000" stop="20261109080000 +0000" channel="as-east">
+    <title>Smiling Friends</title>
+    <sub-title>Mole Man</sub-title>
+    <desc>So apparently there's a character called mole man or something like that, and Allan and Glep team up to go on their own quest.</desc>
+  </programme>
+  <programme start="20261109080000 +0000" stop="20261109083000 +0000" channel="as-east">
+    <title>Get Jiro!</title>
+    <sub-title>Secret Sauce</sub-title>
+    <desc>Bob and Roses' rivalry explodes into a damaging war; Cynda targets Jiro in her investigation and revisits her tragic family history in the process.</desc>
+  </programme>
+  <programme start="20261109083000 +0000" stop="20261109090000 +0000" channel="as-east">
+    <title>Ninja Kamui</title>
+    <desc>A mysterious benefactor warns Higan that it's impossible for him to infiltrate AUZA City without any help; Mike and Emma walk away from the accident with light injuries and relaunch their investigation into AUZA and the ninjas.</desc>
+  </programme>
+  <programme start="20261109090000 +0000" stop="20261109093000 +0000" channel="as-east">
+    <title>Common Side Effects</title>
+    <sub-title>Raid</sub-title>
+    <desc>Agents from the FBI and the DEA storm the site, with consequences; the fate of the mushroom is decided.</desc>
+  </programme>
+  <programme start="20261109093000 +0000" stop="20261109100000 +0000" channel="as-east">
+    <title>Genndy Tartakovsky's Primal</title>
+    <sub-title>The Colossaeus</sub-title>
+    <desc>Spear, Fang and Mira's return journey hits a snag when the Colossaeus warship appears in the waters, and they are left at the mercy of the Egyptian queen.</desc>
+  </programme>
+</tv>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="syfy-east">
+    <display-name>Syfy East</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png"/>
+  </channel>
+  <programme start="20261106110000 +0000" stop="20261106113000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Stopover in a Quiet Town</sub-title>
+    <desc>The morning after a wild party, a couple wakes up in a totally unfamiliar and artificial place.</desc>
+    <episode-num system="xmltv_ns">124</episode-num>
+  </programme>
+  <programme start="20261106113000 +0000" stop="20261106120000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>A World of Difference</sub-title>
+    <desc>A businessman inexplicably finds his office has become a set for a movie in which he is a character.</desc>
+    <episode-num system="xmltv_ns">23</episode-num>
+  </programme>
+  <programme start="20261106120000 +0000" stop="20261106130000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>On Thursday We Leave for Home</sub-title>
+    <desc>The leader (James Whitmore) of a colony stranded on an asteroid resists rescue. With James Broderick.</desc>
+    <episode-num system="xmltv_ns">16</episode-num>
+  </programme>
+  <programme start="20261106130000 +0000" stop="20261106133000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Odyssey of Flight 33</sub-title>
+    <desc>A commercial airliner, en route to New York, breaks through the time barrier into the prehistoric past.</desc>
+    <episode-num system="xmltv_ns">54</episode-num>
+  </programme>
+  <programme start="20261106133000 +0000" stop="20261106140000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>A Thing About Machines</sub-title>
+    <desc>A bad-tempered writer is convinced the machines in his home are conspiring to destroy him.</desc>
+    <episode-num system="xmltv_ns">40</episode-num>
+  </programme>
+  <programme start="20261106140000 +0000" stop="20261106143000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>What's in the Box?</sub-title>
+    <desc>A man (William Demarest) sees himself on television, killing his wife (Joan Blondell).</desc>
+    <episode-num system="xmltv_ns">127</episode-num>
+  </programme>
+  <programme start="20261106143000 +0000" stop="20261106163000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Triassic Attack</sub-title>
+    <desc>A Native American man accidentally resurrects three dinosaur fossils, and the giant lizards wreak havoc on a small town.</desc>
+  </programme>
+  <programme start="20261106163000 +0000" stop="20261106193000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Godzilla</sub-title>
+    <desc>Nuclear testing in the South Pacific produces a giant mutated lizard that wreaks havoc upon New York City.</desc>
+  </programme>
+  <programme start="20261106193000 +0000" stop="20261106220000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>The 355</sub-title>
+    <desc>CIA agent Mason </desc>
+  </programme>
+  <programme start="20261106220000 +0000" stop="20261107010000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Godzilla</sub-title>
+    <desc>Nuclear testing in the South Pacific produces a giant mutated lizard that wreaks havoc upon New York City.</desc>
+  </programme>
+  <programme start="20261107010000 +0000" stop="20261107040000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Die Hard</sub-title>
+    <desc>A scrappy New York policeman outwits foreign thugs holding his wife and others in a Los Angeles high-rise.</desc>
+  </programme>
+  <programme start="20261107040000 +0000" stop="20261107060000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Borderlands</sub-title>
+    <desc>Returning to her home planet Pandora, an infamous bounty hunter forms an unexpected alliance with a ragtag team of misfits. Together, they battle alien monsters and dangerous bandits to uncover one of Pandora's most explosive secrets.</desc>
+  </programme>
+  <programme start="20261107060000 +0000" stop="20261107080000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Renfield</sub-title>
+    <desc>Renfield, the tortured aide to his narcissistic boss, Dracula, is forced to procure his master's prey and do his every bidding. However, after centuries of servitude, he's ready to see if there's a life outside the shadow of the Prince of Darkness.</desc>
+  </programme>
+  <programme start="20261107080000 +0000" stop="20261107083000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Come Wander With Me</sub-title>
+    <desc>A popular folk singer persuades a backwoods girl to sing an authentic ballad into his tape recorder and finds the song coming tragically true.</desc>
+    <episode-num system="xmltv_ns">136</episode-num>
+  </programme>
+  <programme start="20261107083000 +0000" stop="20261107090000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Trade-Ins</sub-title>
+    <desc>Unable to afford a personality transplant for both himself and his wife, a pain-wracked old man has his mind placed in a new youthful body at his wife's insistence.</desc>
+    <episode-num system="xmltv_ns">96</episode-num>
+  </programme>
+  <programme start="20261107090000 +0000" stop="20261107093000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Five Characters in Search of an Exit</sub-title>
+    <desc>Five people - a ballet dancer, a major, a clown, a tramp and a bagpipe player - trapped in a featureless enclosure with no idea how they got there attempt to escape.</desc>
+    <episode-num system="xmltv_ns">79</episode-num>
+  </programme>
+  <programme start="20261107093000 +0000" stop="20261107100000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Rip Van Winkle Caper</sub-title>
+    <desc>Four men pull off a perfect gold heist, then plan to hide out until they can safely spend their loot.</desc>
+    <episode-num system="xmltv_ns">60</episode-num>
+  </programme>
+  <programme start="20261107100000 +0000" stop="20261107103000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Brain Center at Whipple's</sub-title>
+    <desc>A heartless industrialist fires his entire factory staff and replaces them with machines; the machines start acting mischievously.</desc>
+    <episode-num system="xmltv_ns">135</episode-num>
+  </programme>
+  <programme start="20261107103000 +0000" stop="20261107110000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>In Praise of Pip</sub-title>
+    <desc>Bookmaker Max Phillips learns that his son is dying in Vietnam and tries to save him. With Jack Klugman.</desc>
+    <episode-num system="xmltv_ns">103</episode-num>
+  </programme>
+  <programme start="20261107110000 +0000" stop="20261107113000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>A Penny for Your Thoughts</sub-title>
+    <desc>Timid bank clerk Victor Pool discovers that a coin that lands on its edge as he pays for a paper leaves him with the power to read minds.</desc>
+    <episode-num system="xmltv_ns">52</episode-num>
+  </programme>
+  <programme start="20261107113000 +0000" stop="20261107120000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>I Shot an Arrow Into the Air</sub-title>
+    <desc>Three astronauts, with little water left, land on what appears to be a deserted asteroid.</desc>
+    <episode-num system="xmltv_ns">15</episode-num>
+  </programme>
+  <programme start="20261107120000 +0000" stop="20261107123000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>One for the Angels</sub-title>
+    <desc>A sidewalk pitchman's deal with Death may cost a young girl her life.</desc>
+    <episode-num system="xmltv_ns">2</episode-num>
+  </programme>
+  <programme start="20261107123000 +0000" stop="20261107130000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Jeopardy Room</sub-title>
+    <desc>An assassin plots a unique death for a defector (Martin Landau).</desc>
+    <episode-num system="xmltv_ns">132</episode-num>
+  </programme>
+  <programme start="20261107130000 +0000" stop="20261107133000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Old Man in the Cave</sub-title>
+    <desc>An old man in a cave offers guidance to survivors of a nuclear-war apocalypse, but their orderly world is shattered by the arrival of four soldiers.</desc>
+    <episode-num system="xmltv_ns">109</episode-num>
+  </programme>
+  <programme start="20261107133000 +0000" stop="20261107140000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Passersby</sub-title>
+    <desc>A crippled Civil War soldier comes to realize that he and the people around him are not walking away from battle. They are dead.</desc>
+    <episode-num system="xmltv_ns">69</episode-num>
+  </programme>
+  <programme start="20261107140000 +0000" stop="20261107143000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Walking Distance</sub-title>
+    <desc>A man's need to escape the pressure of his work takes him back to his childhood.</desc>
+    <episode-num system="xmltv_ns">5</episode-num>
+  </programme>
+  <programme start="20261107143000 +0000" stop="20261107150000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Chaser</sub-title>
+    <desc>A lovesick man finds unexpected results when he buys a potion from a stranger to help woo the woman he desires.</desc>
+    <episode-num system="xmltv_ns">31</episode-num>
+  </programme>
+  <programme start="20261107150000 +0000" stop="20261107170000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>The Forever Purge</sub-title>
+    <desc>All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end.</desc>
+  </programme>
+  <programme start="20261107170000 +0000" stop="20261107190000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Renfield</sub-title>
+    <desc>Renfield, the tortured aide to his narcissistic boss, Dracula, is forced to procure his master's prey and do his every bidding. However, after centuries of servitude, he's ready to see if there's a life outside the shadow of the Prince of Darkness.</desc>
+  </programme>
+  <programme start="20261107190000 +0000" stop="20261107210000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Borderlands</sub-title>
+    <desc>Returning to her home planet Pandora, an infamous bounty hunter forms an unexpected alliance with a ragtag team of misfits. Together, they battle alien monsters and dangerous bandits to uncover one of Pandora's most explosive secrets.</desc>
+  </programme>
+  <programme start="20261107210000 +0000" stop="20261108000000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Die Hard</sub-title>
+    <desc>A scrappy New York policeman outwits foreign thugs holding his wife and others in a Los Angeles high-rise.</desc>
+  </programme>
+  <programme start="20261108000000 +0000" stop="20261108030000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Die Hard 2</sub-title>
+    <desc>The sequel's police hero (Bruce Willis) spots military terrorists while waiting for his wife (Bonnie Bedelia) at a Washington, D.C., airport.</desc>
+  </programme>
+  <programme start="20261108030000 +0000" stop="20261108060000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Die Hard With a Vengeance</sub-title>
+    <desc>Suspended from the police force, John McClane (Bruce Willis) enlists a Harlem shopkeeper (Samuel L. Jackson) to help stop a terrorist bomber (Jeremy Irons).</desc>
+  </programme>
+  <programme start="20261108060000 +0000" stop="20261108080000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>The Forever Purge</sub-title>
+    <desc>All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end.</desc>
+  </programme>
+  <programme start="20261108080000 +0000" stop="20261108083000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Still Valley</sub-title>
+    <desc>Confederate scout Paradine is given a book of magic which will help the Confederacy win the Civil War.</desc>
+    <episode-num system="xmltv_ns">76</episode-num>
+  </programme>
+  <programme start="20261108083000 +0000" stop="20261108090000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Static</sub-title>
+    <desc>An old radio picks up signals from the past that unexpectedly rejuvenate a pair of elderly lovers.</desc>
+    <episode-num system="xmltv_ns">56</episode-num>
+  </programme>
+  <programme start="20261108090000 +0000" stop="20261108093000 +0000" channel="syfy-east">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261108093000 +0000" stop="20261108100000 +0000" channel="syfy-east">
+    <title>Tired of Aging? Super Pill's Secret to Lasting Youth &amp;amp; Vitality!</title>
+    <desc>Tired of feeling old? Discover The Super Pill! 6 elite formulas packed with clinically studied ingredients for revolutionary heart, brain, joint, immune, skin, and eye health. Don't just age-thrive! Unlock your ultimate vitality and well-being today.</desc>
+  </programme>
+  <programme start="20261108100000 +0000" stop="20261108103000 +0000" channel="syfy-east">
+    <title>Bathroom Makeover</title>
+    <desc>Transform your bath affordably in just one day!</desc>
+  </programme>
+  <programme start="20261108103000 +0000" stop="20261108110000 +0000" channel="syfy-east">
+    <title>Looking for a Medicare plan? Tune in now!</title>
+    <desc>The Medicare annual election period ends on December 7th. Watch and learn about Humana Medicare Advantage plans.</desc>
+  </programme>
+  <programme start="20261108110000 +0000" stop="20261108113000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Eye of the Beholder</sub-title>
+    <desc>A woman's natural beauty makes her a freak in a futuristic society.</desc>
+    <episode-num system="xmltv_ns">42</episode-num>
+  </programme>
+  <programme start="20261108113000 +0000" stop="20261108120000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Last Night of a Jockey</sub-title>
+    <desc>A jockey's wish to become a giant in his profession has repercussions he may regret. With Mickey Rooney.</desc>
+    <episode-num system="xmltv_ns">107</episode-num>
+  </programme>
+  <programme start="20261108120000 +0000" stop="20261108123000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>I Sing the Body Electric</sub-title>
+    <desc>A widower rents an android grandmother to take care of his three children.</desc>
+    <episode-num system="xmltv_ns">101</episode-num>
+  </programme>
+  <programme start="20261108123000 +0000" stop="20261108130000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Showdown With Rance McGrew</sub-title>
+    <desc>An insufferable cowboy star comes face to face with the real Jesse James.</desc>
+    <episode-num system="xmltv_ns">85</episode-num>
+  </programme>
+  <programme start="20261108130000 +0000" stop="20261108133000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Trouble With Templeton</sub-title>
+    <desc>A distinguished but aging actor is thrust into the days of his youth.</desc>
+    <episode-num system="xmltv_ns">45</episode-num>
+  </programme>
+  <programme start="20261108133000 +0000" stop="20261108140000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Last Rites of Jeff Myrtlebank</sub-title>
+    <desc>When a young man steps out of his coffin at his own funeral the townsfolk grow to suspect that the devil has assumed the man's body.</desc>
+    <episode-num system="xmltv_ns">89</episode-num>
+  </programme>
+  <programme start="20261108140000 +0000" stop="20261108163000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Halloween</sub-title>
+    <desc>After being committed for 15 years, Michael Myers escapes from the mental institution and immediately returns to Haddonfield to find his baby sister, Laurie.</desc>
+  </programme>
+  <programme start="20261108163000 +0000" stop="20261108183000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Halloween II</sub-title>
+    <desc>Laurie Strode struggles to come to terms with her brother Michael's deadly return to Haddonfield, Illinois; meanwhile, Michael prepares for another reunion with his sister.</desc>
+  </programme>
+  <programme start="20261108183000 +0000" stop="20261108210000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Halloween Kills</sub-title>
+    <desc>The nightmare isn't over as unstoppable killer Michael Myers continues his ritual bloodbath in Haddonfield, Ill. Taking matters into its own hands, an angry mob of vigilantes hunts down Myers to end his reign of terror once and for all.</desc>
+  </programme>
+  <programme start="20261108210000 +0000" stop="20261109000000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Die Hard 2</sub-title>
+    <desc>The sequel's police hero (Bruce Willis) spots military terrorists while waiting for his wife (Bonnie Bedelia) at a Washington, D.C., airport.</desc>
+  </programme>
+  <programme start="20261109000000 +0000" stop="20261109030000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Die Hard With a Vengeance</sub-title>
+    <desc>Suspended from the police force, John McClane (Bruce Willis) enlists a Harlem shopkeeper (Samuel L. Jackson) to help stop a terrorist bomber (Jeremy Irons).</desc>
+  </programme>
+  <programme start="20261109030000 +0000" stop="20261109060000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Live Free or Die Hard</sub-title>
+    <desc>John McClane (Bruce Willis) grapples with a villain who plans to shut down the United States by attacking the country's vulnerable computer infrastructure.</desc>
+  </programme>
+  <programme start="20261109060000 +0000" stop="20261109083000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Halloween</sub-title>
+    <desc>After being committed for 15 years, Michael Myers escapes from the mental institution and immediately returns to Haddonfield to find his baby sister, Laurie.</desc>
+  </programme>
+  <programme start="20261109083000 +0000" stop="20261109090000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Uncle Simon</sub-title>
+    <desc>A wealthy old man makes life difficult for his greedy niece even after he dies.</desc>
+    <episode-num system="xmltv_ns">110</episode-num>
+  </programme>
+  <programme start="20261109090000 +0000" stop="20261109093000 +0000" channel="syfy-east">
+    <title>2026 Silver Eagle is here &amp;amp; it is a once-in-a-lifetime coin!</title>
+    <desc>Join your hosts Kevin Cash &amp;amp; Cory Cady as we discuss the 250th Anniversary of America with the official </desc>
+  </programme>
+  <programme start="20261109093000 +0000" stop="20261109100000 +0000" channel="syfy-east">
+    <title>Bathroom Makeover</title>
+    <desc>Transform your bath affordably in just one day!</desc>
+  </programme>
+  <programme start="20261109100000 +0000" stop="20261109103000 +0000" channel="syfy-east">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261109103000 +0000" stop="20261109110000 +0000" channel="syfy-east">
+    <title>Looking for a Medicare plan? Tune in now!</title>
+    <desc>The Medicare annual election period ends on December 7th. Watch and learn about Humana Medicare Advantage plans.</desc>
+  </programme>
+</tv>

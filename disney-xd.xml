@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="disney-xd">
+    <display-name>Disney Xd</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18279_h15_aa.png"/>
+  </channel>
+  <programme start="20261106110000 +0000" stop="20261106113000 +0000" channel="disney-xd">
+    <title>Phineas and Ferb</title>
+    <sub-title>The Great Indoors; Canderemy</sub-title>
+    <desc>Phineas and Ferb build a huge biodome; Candace pays a visit to Jeremy's house.</desc>
+    <episode-num system="xmltv_ns">302</episode-num>
+  </programme>
+  <programme start="20261106113000 +0000" stop="20261106120000 +0000" channel="disney-xd">
+    <title>Phineas and Ferb</title>
+    <sub-title>The Belly of the Beast; Moon Farm</sub-title>
+    <desc>The boys make a mechanical version of a historical shark; the boys take some cows to the moon.</desc>
+    <episode-num system="xmltv_ns">303</episode-num>
+  </programme>
+  <programme start="20261106120000 +0000" stop="20261106123000 +0000" channel="disney-xd">
+    <title>Phineas and Ferb</title>
+    <sub-title>Vendpocalypse: The Musical</sub-title>
+    <desc>Doof starts the vendpocalypse; Doof saves Norm.</desc>
+  </programme>
+  <programme start="20261106123000 +0000" stop="20261106130000 +0000" channel="disney-xd">
+    <title>Phineas and Ferb</title>
+    <sub-title>Phineas' Birthday Clip-O-Rama!</sub-title>
+    <desc>Ferb puts together a clip show of the gang's favorite moments in celebration of Phineas' birthday.</desc>
+    <episode-num system="xmltv_ns">304</episode-num>
+  </programme>
+  <programme start="20261106130000 +0000" stop="20261106133000 +0000" channel="disney-xd">
+    <title>Phineas and Ferb</title>
+    <sub-title>Ask a Foolish Question; Misperceived Monotreme</sub-title>
+    <desc>Candace discovers that Phineas and Ferb have invented a computer that can answer anything; Candace takes Perry to the Charity Pet Wash with her.</desc>
+    <episode-num system="xmltv_ns">305</episode-num>
+  </programme>
+  <programme start="20261106133000 +0000" stop="20261106140000 +0000" channel="disney-xd">
+    <title>Phineas and Ferb</title>
+    <sub-title>Candace Disconnected; Magic Carpet Ride</sub-title>
+    <desc>The phone the boys invent for Candace sends her back to Easter Island; Dr. Doofenshmirtz's new invention picks Vanessa up from class.</desc>
+    <episode-num system="xmltv_ns">306</episode-num>
+  </programme>
+  <programme start="20261106140000 +0000" stop="20261106143000 +0000" channel="disney-xd">
+    <title>Phineas and Ferb</title>
+    <sub-title>Bad Hair Day; Meatloaf Surprise</sub-title>
+    <desc>Candace gives herself a bad haircut; Doofenshmirtz enters a family meatloaf recipe with a secret ingredient into a competition.</desc>
+    <episode-num system="xmltv_ns">307</episode-num>
+  </programme>
+  <programme start="20261106143000 +0000" stop="20261106150000 +0000" channel="disney-xd">
+    <title>Phineas and Ferb</title>
+    <sub-title>Tri-Stone Area; Doof Dynasty</sub-title>
+    <desc>Phineas and Ferb are cavemen and invent something useful; Dr. Doofenshmirtz tries to remodel his place; Phineas and Ferb must rescue Princess Isabella.</desc>
+    <episode-num system="xmltv_ns">308</episode-num>
+  </programme>
+  <programme start="20261106150000 +0000" stop="20261106153000 +0000" channel="disney-xd">
+    <title>Phineas and Ferb</title>
+    <sub-title>Phineas and Ferb Interrupted; A Real Boy</sub-title>
+    <desc>Candace spends the entire day in the backyard so that she can bust her brothers; Dr. Doofenshmirtz thinks Vanessa overhears him say he would rather have a son to do his evil bidding.</desc>
+    <episode-num system="xmltv_ns">309</episode-num>
+  </programme>
+  <programme start="20261106153000 +0000" stop="20261106160000 +0000" channel="disney-xd">
+    <title>Phineas and Ferb</title>
+    <sub-title>Mommy Can You Hear Me?; Road Trip</sub-title>
+    <desc>Candace injures her ankle and is told to stay in bed; Phineas and Ferb decide to build a truck stop diner on top of the RV.</desc>
+    <episode-num system="xmltv_ns">310</episode-num>
+  </programme>
+  <programme start="20261106160000 +0000" stop="20261106163000 +0000" channel="disney-xd">
+    <title>Phineas and Ferb</title>
+    <sub-title>Skiddley Whiffers; Tour de Ferb</sub-title>
+    <desc>The kids build a giant version of their favorite childhood game; Baljeet confesses that he is part of a long line of bicycle race losers.</desc>
+    <episode-num system="xmltv_ns">311</episode-num>
+  </programme>
+  <programme start="20261106163000 +0000" stop="20261106170000 +0000" channel="disney-xd">
+    <title>Phineas and Ferb</title>
+    <sub-title>My Fair Goalie</sub-title>
+    <desc>Ferb's cousins visit from England and challenge him to a soccer match.</desc>
+    <episode-num system="xmltv_ns">312</episode-num>
+  </programme>
+  <programme start="20261106170000 +0000" stop="20261106173000 +0000" channel="disney-xd">
+    <title>Phineas and Ferb</title>
+    <sub-title>Perry the Actorpus; Bullseye!</sub-title>
+    <desc>Perry wins a contest and becomes the spokesanimal for Totally Tools.</desc>
+    <episode-num system="xmltv_ns">313</episode-num>
+  </programme>
+  <programme start="20261106173000 +0000" stop="20261106180000 +0000" channel="disney-xd">
+    <title>Phineas and Ferb</title>
+    <sub-title>Escape from Phineas Tower; The Remains of the Platypus</sub-title>
+    <desc>The boys have fun with an escape tower until it becomes self-aware.</desc>
+    <episode-num system="xmltv_ns">315</episode-num>
+  </programme>
+  <programme start="20261106180000 +0000" stop="20261106183000 +0000" channel="disney-xd">
+    <title>Dragon Striker</title>
+    <sub-title>Revelations</sub-title>
+    <desc>Key cannot wait to finally show off his new signature move in a heated face-off against The Bards.</desc>
+  </programme>
+  <programme start="20261106183000 +0000" stop="20261106190000 +0000" channel="disney-xd">
+    <title>Bakugan</title>
+    <sub-title>Someone Stop Me!; I Can't Take It, I Can't!</sub-title>
+    <desc>Ventri gets stuck in her Baku-Ball and loses herself in the city; Mia looks for a way to stall the start of her next tournament brawl, while Juno and Dan get Ventri to unroll.</desc>
+  </programme>
+  <programme start="20261106190000 +0000" stop="20261106193000 +0000" channel="disney-xd">
+    <title>Yu-Gi-Oh! GO RUSH!!</title>
+    <sub-title>Eye See All</sub-title>
+    <desc>When Yuhi has to duel a prophet, how can he win against an opponent who can read the future?</desc>
+  </programme>
+  <programme start="20261106193000 +0000" stop="20261106200000 +0000" channel="disney-xd">
+    <title>Pokémon the Series: Indigo League</title>
+    <sub-title>Attack of the Prehistoric Pokémon</sub-title>
+    <desc>According to Ash's rival Gary, fossils from extinct Pokémon have been discovered in the area; Team Rocket joins plots to take all the fossils; Ash decides to join the excavation as a chance to beat Gary!</desc>
+    <episode-num system="xmltv_ns">142</episode-num>
+  </programme>
+  <programme start="20261106200000 +0000" stop="20261106203000 +0000" channel="disney-xd">
+    <title>Beyblade X</title>
+    <sub-title>White Nova</sub-title>
+    <desc>The first and final battle of Team Persona's duel for victory begins! What strategy will Tenka use against Iwao, who boasts a high winning rate? As the battle nears its end with both competitors running out of stamina.</desc>
+  </programme>
+  <programme start="20261106203000 +0000" stop="20261106210000 +0000" channel="disney-xd">
+    <title>Gravity Falls</title>
+    <sub-title>The Legend of the Gobblewonker</sub-title>
+    <desc>When Dipper and Mable hear rumors of a sea monster living in the lake, they want to prove it.</desc>
+    <episode-num system="xmltv_ns">101</episode-num>
+  </programme>
+  <programme start="20261106210000 +0000" stop="20261106213000 +0000" channel="disney-xd">
+    <title>Gravity Falls</title>
+    <sub-title>Headhunters</sub-title>
+    <desc>Dipper and Mabel set out to find out who tampered with Mabel's statue.</desc>
+    <episode-num system="xmltv_ns">102</episode-num>
+  </programme>
+  <programme start="20261106213000 +0000" stop="20261106220000 +0000" channel="disney-xd">
+    <title>Gravity Falls</title>
+    <sub-title>The Inconveniencing</sub-title>
+    <desc>When Dipper tries to impress Wendy by acting older than he really is, he's invited to join a group of teenagers.</desc>
+    <episode-num system="xmltv_ns">103</episode-num>
+  </programme>
+  <programme start="20261106220000 +0000" stop="20261106223000 +0000" channel="disney-xd">
+    <title>Gravity Falls</title>
+    <sub-title>The Hand That Rocks the Mabel</sub-title>
+    <desc>Dipper and Mabel find a new neighbor, a psychic kid named Lil' Gideon.</desc>
+    <episode-num system="xmltv_ns">104</episode-num>
+  </programme>
+  <programme start="20261106223000 +0000" stop="20261106230000 +0000" channel="disney-xd">
+    <title>Gravity Falls</title>
+    <sub-title>Dipper vs. Manliness</sub-title>
+    <desc>Dipper travels into the forest to battle Multi-Bear in a quest to attain manliness.</desc>
+    <episode-num system="xmltv_ns">106</episode-num>
+  </programme>
+  <programme start="20261106230000 +0000" stop="20261106233000 +0000" channel="disney-xd">
+    <title>Gravity Falls</title>
+    <sub-title>Double Dipper</sub-title>
+    <desc>When Stan throws a big weekend party to promote the Mystery Shack, Dipper uses an off-kilter copy machine to make clones of himself so he can impress Wendy.</desc>
+    <episode-num system="xmltv_ns">109</episode-num>
+  </programme>
+  <programme start="20261106233000 +0000" stop="20261107000000 +0000" channel="disney-xd">
+    <title>Gravity Falls</title>
+    <sub-title>Irrational Treasure</sub-title>
+    <desc>When Dipper and Mabel discover that the town founder is a hoax, they set out to expose the cover-up.</desc>
+    <episode-num system="xmltv_ns">108</episode-num>
+  </programme>
+  <programme start="20261107000000 +0000" stop="20261107003000 +0000" channel="disney-xd">
+    <title>Hannah Montana Forever</title>
+    <sub-title>Love That Lets Go</sub-title>
+    <desc>Lilly finally works up the nerve to ride Blue Jeans, and while doing so, a snake bites him, making him ill.</desc>
+    <episode-num system="xmltv_ns">406</episode-num>
+  </programme>
+  <programme start="20261107003000 +0000" stop="20261107010000 +0000" channel="disney-xd">
+    <title>Hannah Montana Forever</title>
+    <sub-title>Hannah's Gonna Get This</sub-title>
+    <desc>Hannah's producer tells her she's got to write a bonus track for her album, but she has writer's block. What she eventually writes is very different from Hannah's normal material.</desc>
+    <episode-num system="xmltv_ns">408</episode-num>
+  </programme>
+  <programme start="20261107010000 +0000" stop="20261107013000 +0000" channel="disney-xd">
+    <title>Hannah Montana Forever</title>
+    <sub-title>Can You See The Real Me</sub-title>
+    <desc>After Miley finally reveals the truth to the world about her other identity as pop superstar Hannah Montana, she's interviewed by Robin Roberts on Good Morning America.</desc>
+    <episode-num system="xmltv_ns">415</episode-num>
+  </programme>
+  <programme start="20261107013000 +0000" stop="20261107020000 +0000" channel="disney-xd">
+    <title>Hannah Montana Forever</title>
+    <sub-title>Kiss It All Goodbye</sub-title>
+    <desc>Miley finds that the critics and parents don't like her after she revealed she was Hannah Montana.</desc>
+    <episode-num system="xmltv_ns">411</episode-num>
+  </programme>
+  <programme start="20261107020000 +0000" stop="20261107023000 +0000" channel="disney-xd">
+    <title>Hannah Montana Forever</title>
+    <sub-title>I Am Mamaw, Hear Me Roar!</sub-title>
+    <desc>When graduation day arrives, Mamaw can't even get a picture; Jackson tells Sienna he wouldn't like her with short hair.</desc>
+    <episode-num system="xmltv_ns">412</episode-num>
+  </programme>
+  <programme start="20261107023000 +0000" stop="20261107030000 +0000" channel="disney-xd">
+    <title>Hannah Montana</title>
+    <sub-title>Lilly, Do You Want to Know a Secret?</sub-title>
+    <desc>Lilly invites Miley to a Hannah Montana concert; Jackson needs money for a date.</desc>
+    <episode-num system="xmltv_ns">101</episode-num>
+  </programme>
+  <programme start="20261107030000 +0000" stop="20261107033000 +0000" channel="disney-xd">
+    <title>Hannah Montana</title>
+    <sub-title>Miley Get Your Gum</sub-title>
+    <desc>Miley tries to squash Oliver's crush on Hannah by exploiting his aversion to gum chewing.</desc>
+    <episode-num system="xmltv_ns">103</episode-num>
+  </programme>
+  <programme start="20261107033000 +0000" stop="20261107040000 +0000" channel="disney-xd">
+    <title>Hannah Montana</title>
+    <sub-title>She's a Super Sneak</sub-title>
+    <desc>Miley and Jackson sneak out of the house to go to the theater and see Robby there on a date.</desc>
+    <episode-num system="xmltv_ns">102</episode-num>
+  </programme>
+  <programme start="20261107040000 +0000" stop="20261107043000 +0000" channel="disney-xd">
+    <title>Hannah Montana</title>
+    <sub-title>I Can't Make You Love Hannah if You Don't</sub-title>
+    <desc>Learning that her new beau, Josh, despises Hannah unsettles Miley; Josh agrees to go a concert if Miley goes with him.</desc>
+    <episode-num system="xmltv_ns">108</episode-num>
+  </programme>
+  <programme start="20261107043000 +0000" stop="20261107050000 +0000" channel="disney-xd">
+    <title>Hannah Montana</title>
+    <sub-title>It's My Party and I'll Lie if I Want To</sub-title>
+    <desc>Miley lies to Lilly about a birthday party for Kelly Clarkson; Rico pulls a prank on Jackson.</desc>
+    <episode-num system="xmltv_ns">107</episode-num>
+  </programme>
+  <programme start="20261107050000 +0000" stop="20261107053000 +0000" channel="disney-xd">
+    <title>Hannah Montana</title>
+    <sub-title>Grandmas Don't Let Your Babies Grow Up to Play Favorites</sub-title>
+    <desc>Hannah performs for the Queen of England; in town for a surprise visit, Miley's grandmother helps Jackson prepare for his big match.</desc>
+    <episode-num system="xmltv_ns">109</episode-num>
+  </programme>
+  <programme start="20261107053000 +0000" stop="20261107060000 +0000" channel="disney-xd">
+    <title>Hannah Montana</title>
+    <sub-title>It's a Mannequin's World</sub-title>
+    <desc>Robby goes astray when picking a gift for Miley, who winds up having to wear a tacky sweater to her birthday party.</desc>
+    <episode-num system="xmltv_ns">110</episode-num>
+  </programme>
+  <programme start="20261107060000 +0000" stop="20261107063000 +0000" channel="disney-xd">
+    <title>Hannah Montana</title>
+    <sub-title>Mascot Love</sub-title>
+    <desc>Lilly decides to be a cheerleader so she can spend more time with Miley.</desc>
+    <episode-num system="xmltv_ns">111</episode-num>
+  </programme>
+  <programme start="20261107063000 +0000" stop="20261107070000 +0000" channel="disney-xd">
+    <title>Hannah Montana</title>
+    <sub-title>Ooo, Ooo, Itchy Woman</sub-title>
+    <desc>Miley, Lilly and Oliver get revenge on Amber and Ashley during a camping trip, but what they do rebounds on Miley in her Hannah Montana identity. Meanwhile, Jackson and Robbie have a mouse problem.</desc>
+    <episode-num system="xmltv_ns">104</episode-num>
+  </programme>
+  <programme start="20261107070000 +0000" stop="20261107073000 +0000" channel="disney-xd">
+    <title>Hannah Montana</title>
+    <sub-title>O Say, Can You Remember the Words?</sub-title>
+    <desc>Oliver is upset when he overhears Miley saying she doesn't want him to help with the drama class performance because of his stage fright. Then she gets nervous and forgets the words to the national anthem.</desc>
+    <episode-num system="xmltv_ns">113</episode-num>
+  </programme>
+  <programme start="20261107073000 +0000" stop="20261107080000 +0000" channel="disney-xd">
+    <title>Hannah Montana</title>
+    <sub-title>Oops! I Meddled Again</sub-title>
+    <desc>Miley and Lilly decide to play matchmaker for Hannah Montana's fan Becca, who fancies Oliver. The couple do get together, but Oliver is not impressed with her snooping.</desc>
+    <episode-num system="xmltv_ns">105</episode-num>
+  </programme>
+  <programme start="20261107080000 +0000" stop="20261107083000 +0000" channel="disney-xd">
+    <title>Hannah Montana</title>
+    <sub-title>On the Road Again</sub-title>
+    <desc>Robbie misses performing himself, now that he is just his daughter Hannah's manager. He agrees to do a five-night stint at an out-of-town club, with disastrous consequences.</desc>
+    <episode-num system="xmltv_ns">112</episode-num>
+  </programme>
+  <programme start="20261107083000 +0000" stop="20261107090000 +0000" channel="disney-xd">
+    <title>Hannah Montana</title>
+    <sub-title>You're So Vain, You Probably Think This Zit Is About You</sub-title>
+    <desc>Lilly's dog eats her contact lenses, and she is forced to wear her old, big, black-framed glasses. Miley tells her not to be vain, but then Miley herself complains when a spot is added to her face on a poster of a skincare ad.</desc>
+    <episode-num system="xmltv_ns">106</episode-num>
+  </programme>
+  <programme start="20261107090000 +0000" stop="20261107093000 +0000" channel="disney-xd">
+    <title>Hannah Montana</title>
+    <sub-title>New Kid in School</sub-title>
+    <desc>A new pupil turns out to be Jake Ryan, who stars in a hit TV show. Most people are thrilled, and he gets lots of attention, which makes Miley jealous.</desc>
+    <episode-num system="xmltv_ns">114</episode-num>
+  </programme>
+  <programme start="20261107093000 +0000" stop="20261107100000 +0000" channel="disney-xd">
+    <title>Hannah Montana</title>
+    <sub-title>More Than a Zombie to Me</sub-title>
+    <desc>Miley declines Jake's invitation to the school dance but later changes her mind and finds out he has asked Lilly.</desc>
+    <episode-num system="xmltv_ns">116</episode-num>
+  </programme>
+  <programme start="20261107100000 +0000" stop="20261107103000 +0000" channel="disney-xd">
+    <title>Hannah Montana</title>
+    <sub-title>Good Golly, Miss Dolly</sub-title>
+    <desc>Miley, Lilly and Miley's godmother, from Tennessee, must retrieve a videotape telling of Miley's feelings for Jake.</desc>
+    <episode-num system="xmltv_ns">118</episode-num>
+  </programme>
+  <programme start="20261107103000 +0000" stop="20261107110000 +0000" channel="disney-xd">
+    <title>Hannah Montana</title>
+    <sub-title>Torn Between Two Hannahs</sub-title>
+    <desc>It's Halloween but the only thing frightening Hannah is her cousin Luann, who is threatening to tell the world that Miley and Hannah are the same person.</desc>
+    <episode-num system="xmltv_ns">126</episode-num>
+  </programme>
+  <programme start="20261107110000 +0000" stop="20261107113000 +0000" channel="disney-xd">
+    <title>Chibiverse</title>
+    <sub-title>Chibivengers; Star Butterfly Effect; Kiff Possible</sub-title>
+    <desc>Dr. Doof traps all the heroes and tries to take over the Chibiverse; Phineas time-travels with Merian to fix a party; Kiff and Barry must save Kim Possible from Lord Hater.</desc>
+  </programme>
+  <programme start="20261107113000 +0000" stop="20261107120000 +0000" channel="disney-xd">
+    <title>Bakugan</title>
+    <sub-title>The Best of the Best; We're All in Trouble</sub-title>
+    <desc>V announces a new Bakugan tournament to determine which clan is the most powerful; Dan sulks about not getting to brawl.</desc>
+  </programme>
+  <programme start="20261107120000 +0000" stop="20261107123000 +0000" channel="disney-xd">
+    <title>Yu-Gi-Oh! GO RUSH!!</title>
+    <sub-title>Rush Rebellion</sub-title>
+    <desc>The Rush Rebels face a duelist who knows them better than they know themselves... Copyko!</desc>
+  </programme>
+  <programme start="20261107123000 +0000" stop="20261107130000 +0000" channel="disney-xd">
+    <title>Beyblade X</title>
+    <sub-title>Tarnished Phoenix</sub-title>
+    <desc>Blaze Fujiwara listens to Karla describe her battle with the Cross family and learns about Zero Cross' theories on destruction and the future.</desc>
+  </programme>
+  <programme start="20261107130000 +0000" stop="20261107133000 +0000" channel="disney-xd">
+    <title>Big City Greens</title>
+    <sub-title>Wise Gals / Big Sweater</sub-title>
+    <desc>Nancy worries she's grown boring, so she takes Gloria out for a night of fun; Nick destroys Smalton's new roadside attraction and is ordered to knit a new big sweater.</desc>
+  </programme>
+  <programme start="20261107133000 +0000" stop="20261107140000 +0000" channel="disney-xd">
+    <title>Dragon Striker</title>
+    <sub-title>The Armorer of Mestras</sub-title>
+    <desc>The Knights spend the day in Mestras getting their armor fixed before their season begins.</desc>
+  </programme>
+  <programme start="20261107140000 +0000" stop="20261107143000 +0000" channel="disney-xd">
+    <title>Chibiverse</title>
+    <sub-title>Dr Doofs Lab; Journey to the Center of the Chibiverse; The Perfect Gift</sub-title>
+    <desc>Dr. Doof showcases his laboratory; Remy becomes trapped underground following a Chibiquake; Luz embarks on a quest to discover the legendary Perfect Gift.</desc>
+  </programme>
+  <programme start="20261107143000 +0000" stop="20261107150000 +0000" channel="disney-xd">
+    <title>Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title>Riginarazione</sub-title>
+    <desc>As her grandparents' 75th birthdays approach, Marinette learns news that will turn hers and her family's lives upside down.</desc>
+  </programme>
+  <programme start="20261107150000 +0000" stop="20261107153000 +0000" channel="disney-xd">
+    <title>Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title>Heartfixer</sub-title>
+    <desc>Seemingly normal students Marinette and Adrien are chosen to save Paris from evil.</desc>
+  </programme>
+  <programme start="20261107153000 +0000" stop="20261107160000 +0000" channel="disney-xd">
+    <title>Phineas and Ferb</title>
+    <sub-title>Great Balls of Water; Where's Pinky?</sub-title>
+    <desc>When Candace thinks Jeremy is bored with their usual hangouts, she sets out to find something unique to do with him; when Pinky goes missing, the boys create a machine that will amplify Buford's senses to those of a dog's.</desc>
+    <episode-num system="xmltv_ns">410</episode-num>
+  </programme>
+  <programme start="20261107160000 +0000" stop="20261107163000 +0000" channel="disney-xd">
+    <title>Phineas and Ferb</title>
+    <sub-title>Thanks But No Thanks; Troy Story</sub-title>
+    <desc>Candace discovers that a neighbor has witnessed all of Phineas and Ferb's summer antics.</desc>
+    <episode-num system="xmltv_ns">413</episode-num>
+  </programme>
+  <programme start="20261107163000 +0000" stop="20261107170000 +0000" channel="disney-xd">
+    <title>Phineas and Ferb</title>
+    <sub-title>Love at First Byte; One Good Turn</sub-title>
+    <desc>Phineas and Ferb's mom needs help; Candace competes.</desc>
+    <episode-num system="xmltv_ns">414</episode-num>
+  </programme>
+  <programme start="20261107170000 +0000" stop="20261107173000 +0000" channel="disney-xd">
+    <title>Chip 'n' Dale Rescue Rangers</title>
+    <sub-title>Last Train to Cashville</sub-title>
+    <desc>A missing toy train leads the Rangers to Fat Cat's plan to rob a bank.</desc>
+    <episode-num system="xmltv_ns">22</episode-num>
+  </programme>
+  <programme start="20261107173000 +0000" stop="20261107180000 +0000" channel="disney-xd">
+    <title>Chip 'n' Dale Rescue Rangers</title>
+    <sub-title>A Case of Stage Blight</sub-title>
+    <desc>The Rangers search the sewer system for an insane alligator.</desc>
+    <episode-num system="xmltv_ns">19</episode-num>
+  </programme>
+  <programme start="20261107180000 +0000" stop="20261107183000 +0000" channel="disney-xd">
+    <title>Chip 'n' Dale Rescue Rangers</title>
+    <sub-title>The Case of the Cola Cult</sub-title>
+    <desc>The Rangers discover a cult of rats that worships a soft drink.</desc>
+    <episode-num system="xmltv_ns">23</episode-num>
+  </programme>
+  <programme start="20261107183000 +0000" stop="20261107190000 +0000" channel="disney-xd">
+    <title>Chip 'n' Dale Rescue Rangers</title>
+    <sub-title>Throw Mummy From the Train</sub-title>
+    <desc>The Rangers search for an archaeologist who stole a mummy's ring.</desc>
+    <episode-num system="xmltv_ns">24</episode-num>
+  </programme>
+  <programme start="20261107190000 +0000" stop="20261107193000 +0000" channel="disney-xd">
+    <title>Chip 'n' Dale Rescue Rangers</title>
+    <sub-title>A Wolf in Cheap Clothing</sub-title>
+    <desc>Nimnul's new invention allows him to change bodies with other animals.</desc>
+    <episode-num system="xmltv_ns">25</episode-num>
+  </programme>
+  <programme start="20261107193000 +0000" stop="20261107200000 +0000" channel="disney-xd">
+    <title>Chip 'n' Dale Rescue Rangers</title>
+    <sub-title>Robocat</sub-title>
+    <desc>The Rangers' mechanical cat becomes deadly when Fat Cat rewrites its program.</desc>
+    <episode-num system="xmltv_ns">27</episode-num>
+  </programme>
+  <programme start="20261107200000 +0000" stop="20261107203000 +0000" channel="disney-xd">
+    <title>Chip 'n' Dale Rescue Rangers</title>
+    <sub-title>Does Pavlov Ring a Bell?</sub-title>
+    <desc>Chip and Dale become jealous when a lab rat takes a liking to Gadget.</desc>
+    <episode-num system="xmltv_ns">28</episode-num>
+  </programme>
+  <programme start="20261107203000 +0000" stop="20261107210000 +0000" channel="disney-xd">
+    <title>Chip 'n' Dale Rescue Rangers</title>
+    <sub-title>Prehysterical Pet</sub-title>
+    <desc>Dale's new pet turns out to be a dinosaur from another planet.</desc>
+    <episode-num system="xmltv_ns">26</episode-num>
+  </programme>
+  <programme start="20261107210000 +0000" stop="20261107213000 +0000" channel="disney-xd">
+    <title>Chip 'n' Dale Rescue Rangers</title>
+    <sub-title>A Creep in the Deep</sub-title>
+    <desc>An advocate for the rights of fish terrorizes land dwellers.</desc>
+    <episode-num system="xmltv_ns">29</episode-num>
+  </programme>
+  <programme start="20261107213000 +0000" stop="20261107220000 +0000" channel="disney-xd">
+    <title>Chip 'n' Dale Rescue Rangers</title>
+    <sub-title>Normie's Science Project</sub-title>
+    <desc>Nimnul's nephew enters one of his uncle's inventions in the science fair.</desc>
+    <episode-num system="xmltv_ns">16</episode-num>
+  </programme>
+  <programme start="20261107220000 +0000" stop="20261107223000 +0000" channel="disney-xd">
+    <title>Chip 'n' Dale Rescue Rangers</title>
+    <sub-title>Seer No Evil</sub-title>
+    <desc>A fortune-teller predicts that Chip will be the victim of a terrible accident.</desc>
+    <episode-num system="xmltv_ns">30</episode-num>
+  </programme>
+  <programme start="20261107223000 +0000" stop="20261107225500 +0000" channel="disney-xd">
+    <title>Chip 'n' Dale Rescue Rangers</title>
+    <sub-title>Chipwrecked Shipmunks</sub-title>
+    <desc>The Rangers encounter pirates while shipwrecked on a deserted island.</desc>
+  </programme>
+  <programme start="20261107225500 +0000" stop="20261108000000 +0000" channel="disney-xd">
+    <title>Miraculous World London: At The Edge Of Time</title>
+    <desc>Chronobug and Bunnyx race against time to uncover who exposed Marinette's secret as Ladybug; faced with a new villain wielding the Butterfly Miraculous, they must thwart disastrous timelines to save her legacy.</desc>
+  </programme>
+  <programme start="20261108000000 +0000" stop="20261108003000 +0000" channel="disney-xd">
+    <title>Kim Possible</title>
+    <sub-title>Ron Millionaire</sub-title>
+    <desc>Royalties make Ron a self-absorbed millionaire.</desc>
+    <episode-num system="xmltv_ns">228</episode-num>
+  </programme>
+  <programme start="20261108003000 +0000" stop="20261108010000 +0000" channel="disney-xd">
+    <title>Kim Possible</title>
+    <sub-title>Triple S</sub-title>
+    <desc>Kim goes undercover as an X-games competitor to pursue a tattooed thief.</desc>
+    <episode-num system="xmltv_ns">227</episode-num>
+  </programme>
+  <programme start="20261108010000 +0000" stop="20261108013000 +0000" channel="disney-xd">
+    <title>Kim Possible</title>
+    <sub-title>Rewriting History</sub-title>
+    <desc>Kim learns of an ancestor's misdeeds and aims to clear the family name.</desc>
+    <episode-num system="xmltv_ns">230</episode-num>
+  </programme>
+  <programme start="20261108013000 +0000" stop="20261108020000 +0000" channel="disney-xd">
+    <title>Kim Possible</title>
+    <sub-title>Showdown at the Crooked D</sub-title>
+    <desc>No one invites Dad to the Crooked D Ranch Research Roundup.</desc>
+    <episode-num system="xmltv_ns">229</episode-num>
+  </programme>
+  <programme start="20261108020000 +0000" stop="20261108023000 +0000" channel="disney-xd">
+    <title>Kim Possible</title>
+    <sub-title>Steal Wheels</sub-title>
+    <desc>Motor Ed and Drakken team up to steal advanced cyber-robotic technology.</desc>
+    <episode-num system="xmltv_ns">301</episode-num>
+  </programme>
+  <programme start="20261108023000 +0000" stop="20261108030000 +0000" channel="disney-xd">
+    <title>Kim Possible</title>
+    <sub-title>Emotion Sickness</sub-title>
+    <desc>Microchips make Kim and Shego emotionally unstable.</desc>
+    <episode-num system="xmltv_ns">302</episode-num>
+  </programme>
+  <programme start="20261108030000 +0000" stop="20261108033000 +0000" channel="disney-xd">
+    <title>Kim Possible</title>
+    <sub-title>Bonding</sub-title>
+    <desc>A strange device makes Kim and Ron stick to people.</desc>
+    <episode-num system="xmltv_ns">303</episode-num>
+  </programme>
+  <programme start="20261108033000 +0000" stop="20261108040000 +0000" channel="disney-xd">
+    <title>Kim Possible</title>
+    <sub-title>Bad Boy</sub-title>
+    <desc>A mishap causes Ron to become evil.</desc>
+    <episode-num system="xmltv_ns">304</episode-num>
+  </programme>
+  <programme start="20261108040000 +0000" stop="20261108043000 +0000" channel="disney-xd">
+    <title>Kim Possible</title>
+    <sub-title>Dimension Twist</sub-title>
+    <desc>Kim and Ron get sucked into the world of cable television.</desc>
+    <episode-num system="xmltv_ns">308</episode-num>
+  </programme>
+  <programme start="20261108043000 +0000" stop="20261108050000 +0000" channel="disney-xd">
+    <title>Kim Possible</title>
+    <sub-title>Overdue; Roachie</sub-title>
+    <desc>Ron must backtrack though recent missions to find a lost library book; Ron displays an unsettling affinity for roaches.</desc>
+    <episode-num system="xmltv_ns">309</episode-num>
+  </programme>
+  <programme start="20261108050000 +0000" stop="20261108053000 +0000" channel="disney-xd">
+    <title>Kim Possible</title>
+    <sub-title>Rappin' Drakken</sub-title>
+    <desc>Drakken decides that in order to properly launch his new mind control shampoo, he needs to get the product mentioned in a rap song.</desc>
+    <episode-num system="xmltv_ns">311</episode-num>
+  </programme>
+  <programme start="20261108053000 +0000" stop="20261108060000 +0000" channel="disney-xd">
+    <title>Kim Possible</title>
+    <sub-title>Team Impossible</sub-title>
+    <desc>Kim has nothing left to do when a rival crime-fighting team gets angry that she cut into its for-hire crime fighting business and tries to put her out of work.</desc>
+    <episode-num system="xmltv_ns">313</episode-num>
+  </programme>
+  <programme start="20261108060000 +0000" stop="20261108063000 +0000" channel="disney-xd">
+    <title>Kim Possible</title>
+    <sub-title>Gorilla Fist</sub-title>
+    <desc>Yori returns to enlist Ron's help in tracking down Sensei, who has mysteriously gone missing; Kim's jealousy gets the better of her, and she can't help but assume Yori is playing Ron when she smothers him with endless praise.</desc>
+  </programme>
+  <programme start="20261108063000 +0000" stop="20261108070000 +0000" channel="disney-xd">
+    <title>Kim Possible</title>
+    <sub-title>And the Mole-rat Will Be CGI ...</sub-title>
+    <desc>A hotshot action film producer named Blamhammer witnesses Kim's and Ron's crime-fighting skills firsthand and decides to base his next movie on them.</desc>
+    <episode-num system="xmltv_ns">310</episode-num>
+  </programme>
+  <programme start="20261108070000 +0000" stop="20261108073000 +0000" channel="disney-xd">
+    <title>Kim Possible</title>
+    <sub-title>Ill-Suited</sub-title>
+    <desc>Ron borrows Kim's super suit to join the football team.</desc>
+    <episode-num system="xmltv_ns">401</episode-num>
+  </programme>
+  <programme start="20261108073000 +0000" stop="20261108080000 +0000" channel="disney-xd">
+    <title>Kim Possible</title>
+    <sub-title>Trading Faces</sub-title>
+    <desc>Kim works with the Tweebs to catch a celebrity.</desc>
+    <episode-num system="xmltv_ns">403</episode-num>
+  </programme>
+  <programme start="20261108080000 +0000" stop="20261108083000 +0000" channel="disney-xd">
+    <title>Kim Possible</title>
+    <sub-title>The Big Job</sub-title>
+    <desc>Ron looks for the perfect job.</desc>
+    <episode-num system="xmltv_ns">404</episode-num>
+  </programme>
+  <programme start="20261108083000 +0000" stop="20261108090000 +0000" channel="disney-xd">
+    <title>Kim Possible</title>
+    <sub-title>The Cupid Effect</sub-title>
+    <desc>Wade devises a love ray to capture Monique's heart.</desc>
+    <episode-num system="xmltv_ns">409</episode-num>
+  </programme>
+  <programme start="20261108090000 +0000" stop="20261108093000 +0000" channel="disney-xd">
+    <title>Kim Possible</title>
+    <sub-title>Car Alarm</sub-title>
+    <desc>Kim wants to buy a car and eventually her father gives her an old car. The twins fix it up just in time to stop Motor Ed and Shego who have stolen an experimental rocket.</desc>
+    <episode-num system="xmltv_ns">402</episode-num>
+  </programme>
+  <programme start="20261108093000 +0000" stop="20261108100000 +0000" channel="disney-xd">
+    <title>Kim Possible</title>
+    <sub-title>Mad Dogs and Aliens</sub-title>
+    <desc>Drakken breaks out of prison with the help of an idolizing alien.</desc>
+    <episode-num system="xmltv_ns">405</episode-num>
+  </programme>
+  <programme start="20261108100000 +0000" stop="20261108103000 +0000" channel="disney-xd">
+    <title>Kim Possible</title>
+    <sub-title>Grande Size Me</sub-title>
+    <desc>Ron's Bueno Nacho diet has a nasty side effect.</desc>
+    <episode-num system="xmltv_ns">407</episode-num>
+  </programme>
+  <programme start="20261108103000 +0000" stop="20261108110000 +0000" channel="disney-xd">
+    <title>Kim Possible</title>
+    <sub-title>Clothes Minded</sub-title>
+    <desc>Kim tries to find alternate clothing when her mission wear is discontinued.</desc>
+    <episode-num system="xmltv_ns">408</episode-num>
+  </programme>
+  <programme start="20261108110000 +0000" stop="20261108113000 +0000" channel="disney-xd">
+    <title>Bakugan</title>
+    <sub-title>That Hit the Spot; Drink the Burn</sub-title>
+    <desc>Juno's injury leaves her unable to brawl in the tournament; Trox is invited by a talent agent to audition for a commercial for his favorite energy drink.</desc>
+  </programme>
+  <programme start="20261108113000 +0000" stop="20261108120000 +0000" channel="disney-xd">
+    <title>Yu-Gi-Oh! GO RUSH!!</title>
+    <sub-title>Road of Regrets</sub-title>
+    <desc>Twins Yuhi and Yuamu Ohdo believe there's alien life beyond the stars, even though their attempts to prove it have only ended in failure; their hard work and dedication are about to pay off when an extraterrestrial finally arrives on Earth!</desc>
+  </programme>
+  <programme start="20261108120000 +0000" stop="20261108123000 +0000" channel="disney-xd">
+    <title>Beyblade X</title>
+    <sub-title>Tarnished Phoenix</sub-title>
+    <desc>Blaze Fujiwara listens to Karla describe her battle with the Cross family and learns about Zero Cross' theories on destruction and the future.</desc>
+  </programme>
+  <programme start="20261108123000 +0000" stop="20261108130000 +0000" channel="disney-xd">
+    <title>Chibiverse</title>
+    <sub-title>Candace's Old Year Resolutions; Snowball BattleRoyale; Love Boat Liars</sub-title>
+    <desc>Candace tries to finish all her New Year's resolutions in one day; chibis battle for hot cocoa in a snowball war; Helen and Scratch pretend to be a couple to board a cruise ship.</desc>
+  </programme>
+  <programme start="20261108130000 +0000" stop="20261108133000 +0000" channel="disney-xd">
+    <title>Pokémon the Series: Indigo League</title>
+    <sub-title>Pokémon Fashion Flash</sub-title>
+    <desc>Brock would like to be Susie's trainee in her Pokémon beauty salon; a new salon opens up on Scissor Street, and is hassling the long-term shop owners.</desc>
+    <episode-num system="xmltv_ns">127</episode-num>
+  </programme>
+  <programme start="20261108133000 +0000" stop="20261108140000 +0000" channel="disney-xd">
+    <title>Dragon Striker</title>
+    <sub-title>Out of Their League</sub-title>
+    <desc>Playing in the Tournament is going to be much harder than The Knights ever imagined.</desc>
+  </programme>
+  <programme start="20261108140000 +0000" stop="20261108143000 +0000" channel="disney-xd">
+    <title>Kiff</title>
+    <sub-title>Next Year's Musical; Troubles Wubbington</sub-title>
+    <desc>Helen struggles to write this year's school musical; Kiff decides to help Chubbles look for a new job.</desc>
+  </programme>
+  <programme start="20261108143000 +0000" stop="20261108150000 +0000" channel="disney-xd">
+    <title>Kiff</title>
+    <sub-title>Uncle Pat in Charge; Fab Fourteen</sub-title>
+    <desc>Uncle Pat takes babysitting Kiff very seriously. Barry is in charge of throwing a Fab Fourteen for his cousin.</desc>
+  </programme>
+  <programme start="20261108150000 +0000" stop="20261108153000 +0000" channel="disney-xd">
+    <title>Kiff</title>
+    <sub-title>So Fluffy; Oh, Brother</sub-title>
+    <desc>Kiff and her friends record the hottest new song in Table Town. Trevor's older brother visits, and Kiff and Barry think he's the coolest.</desc>
+  </programme>
+  <programme start="20261108153000 +0000" stop="20261108160000 +0000" channel="disney-xd">
+    <title>Big City Greens</title>
+    <sub-title>Gloria Green / Daddy Ditty</sub-title>
+    <desc>Gloria tries to move out of the Greens' house, but wonders if she can handle life on her own again; Gramma, Cricket and Tilly force a country music star to write a song for Bill.</desc>
+  </programme>
+  <programme start="20261108160000 +0000" stop="20261108163000 +0000" channel="disney-xd">
+    <title>Big City Greens</title>
+    <sub-title>Fitness Test / The Farmies</sub-title>
+    <desc>Remy excuses himself from the mayoral fitness test and Cricket is turned into a super soldier; Bill competes for the Golden Gourd award while Tilly falls for a Hot Potato.</desc>
+  </programme>
+  <programme start="20261108163000 +0000" stop="20261108170000 +0000" channel="disney-xd">
+    <title>Big City Greens</title>
+    <sub-title>Metal Heads; Potted Meat</sub-title>
+    <desc>Bill buys the kids a metal detector; when Gramma complains that Cricket and Tilly are soft, the kids try to prove they can handle the deprivations of Gramma's childhood.</desc>
+  </programme>
+  <programme start="20261108170000 +0000" stop="20261108173000 +0000" channel="disney-xd">
+    <title>Recess</title>
+    <sub-title>King Gus; Big Brother Chad</sub-title>
+    <desc>King Bob chooses Gus to hold the fort for him while he's away, but the power goes to his head; Vince is Mr Cool, so everyone's shocked when they discover his brother is a nerd.</desc>
+    <episode-num system="onscreen">RE15</episode-num>
+  </programme>
+  <programme start="20261108173000 +0000" stop="20261108180000 +0000" channel="disney-xd">
+    <title>Recess</title>
+    <sub-title>My Fair Gretchen; Speedy We Hardly Knew Ye</sub-title>
+    <desc>Gretchen does well on an IQ test, so the principal wants to send her to a special school; Speedy, the school hamster, dies and the gang arranges a funeral.</desc>
+  </programme>
+  <programme start="20261108180000 +0000" stop="20261108183000 +0000" channel="disney-xd">
+    <title>Recess</title>
+    <sub-title>I Will Kick No More Forever; The Kid Came Back</sub-title>
+    <desc>Vince questions his kickball ability; a strange boy seems to bring bad luck.</desc>
+  </programme>
+  <programme start="20261108183000 +0000" stop="20261108190000 +0000" channel="disney-xd">
+    <title>Recess</title>
+    <sub-title>The Pest; The Legend of Big Kid</sub-title>
+    <desc>Geoffrey annoys Gretchen; savage kindergartners kidnap T.J.</desc>
+  </programme>
+  <programme start="20261108190000 +0000" stop="20261108193000 +0000" channel="disney-xd">
+    <title>Recess</title>
+    <sub-title>Operation Stuart; Pharaoh Bob</sub-title>
+    <desc>Mikey adopts a cat; King Bob wants to be sure he is remembered.</desc>
+    <episode-num system="onscreen">RE24</episode-num>
+  </programme>
+  <programme start="20261108193000 +0000" stop="20261108200000 +0000" channel="disney-xd">
+    <title>Recess</title>
+    <sub-title>The Box; The Trial</sub-title>
+    <desc>Miss Finster devises a new form of punishment; Spinelli is accused of throwing a rock.</desc>
+    <episode-num system="onscreen">RE17</episode-num>
+  </programme>
+  <programme start="20261108200000 +0000" stop="20261108203000 +0000" channel="disney-xd">
+    <title>Recess</title>
+    <sub-title>Teacher's Lounge; Randall's Reform</sub-title>
+    <desc>The kids wonder what it's like in the teachers' lounge; T.J. invites Randall to join the gang.</desc>
+    <episode-num system="onscreen">RE18</episode-num>
+  </programme>
+  <programme start="20261108203000 +0000" stop="20261108210000 +0000" channel="disney-xd">
+    <title>Recess</title>
+    <sub-title>The Great Can Drive; Rainy Days</sub-title>
+    <desc>Friends gather at the playground during school recess.</desc>
+    <episode-num system="onscreen">RE2</episode-num>
+  </programme>
+  <programme start="20261108210000 +0000" stop="20261108213000 +0000" channel="disney-xd">
+    <title>Recess</title>
+    <sub-title>Voice; Kids in the Mist</sub-title>
+    <desc>Mikey has a great singing voice, but he can only sing in the shower; psychologist Dr. Quilty's documentary about the gang suggests banning recess, so the kids decide to fight back.</desc>
+  </programme>
+  <programme start="20261108213000 +0000" stop="20261108220000 +0000" channel="disney-xd">
+    <title>Recess</title>
+    <sub-title>Parent's Night; Swing on Thru to the Other Side</sub-title>
+    <desc>Spinelli's parents have never come to parents' night, and the kids are surprised when they find out why; mysterious Swinger Girl becomes a cult after she disappears.</desc>
+  </programme>
+  <programme start="20261108220000 +0000" stop="20261108223000 +0000" channel="disney-xd">
+    <title>Recess</title>
+    <sub-title>The Break Up; The Hypnotist</sub-title>
+    <desc>An essay subject causes the friends to disagree; the hypnotist, The Amazing Jeffrey, comes to school and hypnotizes the principal, with hilarious results.</desc>
+  </programme>
+  <programme start="20261108223000 +0000" stop="20261108225500 +0000" channel="disney-xd">
+    <title>Recess</title>
+    <sub-title>Mama's Girl; Outcast Ashley</sub-title>
+    <desc>Miss Grotke praises Spinelli, who risks losing her cool when she's friendly in return; Ashley B. is banished from the Ashleys for a fashion mistake, leading her to discover she can make other friends.</desc>
+  </programme>
+  <programme start="20261108225500 +0000" stop="20261109000000 +0000" channel="disney-xd">
+    <title>Miraculous World, Tokyo: Stellar Force</title>
+    <desc>Kagami drags Marinette to Tokyo to help the Stellars defeat a new supervillain, but Marinette soon realizes her friend has another, untold reason for this trip to Japan.</desc>
+  </programme>
+  <programme start="20261109000000 +0000" stop="20261109003000 +0000" channel="disney-xd">
+    <title>The Suite Life on Deck</title>
+    <sub-title>The Suite Life Sets Sail</sub-title>
+    <desc>All aboard for mischief and mayhem as the twins Zack and Cody board the SS Tipton to attend the Seven Seas High School.</desc>
+    <episode-num system="xmltv_ns">101</episode-num>
+  </programme>
+  <programme start="20261109003000 +0000" stop="20261109010000 +0000" channel="disney-xd">
+    <title>The Suite Life on Deck</title>
+    <sub-title>Broke N Yo-Yo</sub-title>
+    <desc>Zack goes broke buying gifts for the girls aboard the ship; Cody enters a yo-yo competition to impress Bailey.</desc>
+    <episode-num system="xmltv_ns">102</episode-num>
+  </programme>
+  <programme start="20261109010000 +0000" stop="20261109013000 +0000" channel="disney-xd">
+    <title>The Suite Life on Deck</title>
+    <sub-title>The Kidney of the Sea</sub-title>
+    <desc>Violet's snobbish mother and rich would-be boyfriend Aaron try to keep Zack away from her by pretending he has stolen her valuable necklace, called The Kidney of the Sea.</desc>
+    <episode-num system="xmltv_ns">103</episode-num>
+  </programme>
+  <programme start="20261109013000 +0000" stop="20261109020000 +0000" channel="disney-xd">
+    <title>The Suite Life on Deck</title>
+    <sub-title>Show &amp;amp; Tell</sub-title>
+    <desc>Zack and Cody sneak out after curfew to see the ship's cabaret show Starlight Follies. They are convinced one of the dancers is their teacher Miss Tutweiler.</desc>
+    <episode-num system="xmltv_ns">104</episode-num>
+  </programme>
+  <programme start="20261109020000 +0000" stop="20261109023000 +0000" channel="disney-xd">
+    <title>The Suite Life on Deck</title>
+    <sub-title>International Dateline</sub-title>
+    <desc>When the ship crosses the International Dateline just as Cody makes his move on Bailey, time is reversed and the day is repeated.</desc>
+    <episode-num system="xmltv_ns">105</episode-num>
+  </programme>
+  <programme start="20261109023000 +0000" stop="20261109030000 +0000" channel="disney-xd">
+    <title>The Suite Life on Deck</title>
+    <sub-title>It's All Greek to Me</sub-title>
+    <desc>When the SS Tipton stops in Greece the twins meet Arwin's cousin Milos. Cody gives Bailey a replica of the amulet that's being exhibited, but discovers it's the real thing.</desc>
+    <episode-num system="xmltv_ns">106</episode-num>
+  </programme>
+  <programme start="20261109030000 +0000" stop="20261109033000 +0000" channel="disney-xd">
+    <title>The Suite Life on Deck</title>
+    <sub-title>Parrot Island</sub-title>
+    <desc>London escapes the Seven Seas High and the ship must stop at Parrot Island to search for her. But her friends may not make it back to the boat in time after they are arrested.</desc>
+    <episode-num system="xmltv_ns">107</episode-num>
+  </programme>
+  <programme start="20261109033000 +0000" stop="20261109040000 +0000" channel="disney-xd">
+    <title>The Suite Life on Deck</title>
+    <sub-title>Sea Monster Mash</sub-title>
+    <desc>Cody and Bailey are working on a science project trying to prove a Pacific Ocean sea monster called Galápagos Gerty exists. London, Zack, and Woody accidentally create a sea monster that takes them hostage.</desc>
+    <episode-num system="xmltv_ns">108</episode-num>
+  </programme>
+  <programme start="20261109040000 +0000" stop="20261109043000 +0000" channel="disney-xd">
+    <title>The Suite Life on Deck</title>
+    <sub-title>Flowers and Chocolate</sub-title>
+    <desc>The gang is visited by old friends when Barbara, Bob and Chelsea board the ship. Zack wants to spend some real guy time with Bob, Cody worries about how he should break up with Barbara, as he is in love with Bailey.</desc>
+    <episode-num system="xmltv_ns">109</episode-num>
+  </programme>
+  <programme start="20261109043000 +0000" stop="20261109050000 +0000" channel="disney-xd">
+    <title>The Suite Life on Deck</title>
+    <sub-title>Boo You</sub-title>
+    <desc>Zack and Cody help security guard Kirby pass his exams, London embarrasses Bailey on her internet show </desc>
+    <episode-num system="xmltv_ns">110</episode-num>
+  </programme>
+  <programme start="20261109050000 +0000" stop="20261109053000 +0000" channel="disney-xd">
+    <title>The Suite Life on Deck</title>
+    <sub-title>seaHarmony</sub-title>
+    <desc>During a matchmaking quiz Zack and London conspire to get Miss Tutwiler and Mosby together thinking it will make their lives easier. Cody sneaks a look at Bailey's paper so he's matched with her, but it doesn't work out.</desc>
+    <episode-num system="xmltv_ns">111</episode-num>
+  </programme>
+  <programme start="20261109053000 +0000" stop="20261109060000 +0000" channel="disney-xd">
+    <title>The Suite Life on Deck</title>
+    <sub-title>Maddie on Deck</sub-title>
+    <desc>The gang is thrilled when Maddie comes aboard and everyone is looking forward to spending time with her. Maddie thinks the days on the ship are going to be like a fairy tale when a prince wants her to be his date.</desc>
+    <episode-num system="xmltv_ns">112</episode-num>
+  </programme>
+  <programme start="20261109060000 +0000" stop="20261109063000 +0000" channel="disney-xd">
+    <title>The Suite Life on Deck</title>
+    <sub-title>When in Rome ...</sub-title>
+    <desc>Excited about visiting Rome, the guys hope to meet some beautiful Italian girls, but London's the one who falls in love with a handsome Italian musician but Bailey worries he is only pretending to like London.</desc>
+    <episode-num system="xmltv_ns">113</episode-num>
+  </programme>
+  <programme start="20261109063000 +0000" stop="20261109070000 +0000" channel="disney-xd">
+    <title>The Suite Life on Deck</title>
+    <sub-title>Shipnotized</sub-title>
+    <desc>Cody's dream is to go to Harvard, so when Zack discovers the Dean of Admissions is on board he hatches a plot to get Cody noticed, London and Bailey go to a hypnotist show where London is hypnotized to believe she is Bailey.</desc>
+    <episode-num system="xmltv_ns">114</episode-num>
+  </programme>
+  <programme start="20261109070000 +0000" stop="20261109073000 +0000" channel="disney-xd">
+    <title>The Suite Life on Deck</title>
+    <sub-title>The Mommy and the Swami</sub-title>
+    <desc>Padma returns to the ship and asks London to help her deceive her mother into believing that she's been at sea school all the time. Meanwhile, Cody drags Zack up to a mountain top to meet his yoga guru.</desc>
+    <episode-num system="xmltv_ns">115</episode-num>
+  </programme>
+  <programme start="20261109073000 +0000" stop="20261109080000 +0000" channel="disney-xd">
+    <title>The Suite Life on Deck</title>
+    <sub-title>Mulch Ado About Nothing</sub-title>
+    <desc>When everyone gets a present from home, Bailey becomes homesick thinking of a festival she misses in her hometown. In order to make her feel better, Cody attempts to re-enact the festival onboard the ship.</desc>
+    <episode-num system="xmltv_ns">116</episode-num>
+  </programme>
+  <programme start="20261109080000 +0000" stop="20261109083000 +0000" channel="disney-xd">
+    <title>The Suite Life on Deck</title>
+    <sub-title>Mom and Dad on Deck</sub-title>
+    <desc>Zach and Cody are excited to be celebrating their birthday with their dad, but an unexpected surprise threatens to spoil their guys' weekend.</desc>
+    <episode-num system="xmltv_ns">117</episode-num>
+  </programme>
+  <programme start="20261109083000 +0000" stop="20261109090000 +0000" channel="disney-xd">
+    <title>The Suite Life on Deck</title>
+    <sub-title>The Wrong Stuff</sub-title>
+    <desc>London stages a competition between Cody and Woody to determine which one of them will accompany her to the Tipton Space Station. Zach takes over the Senior program.</desc>
+    <episode-num system="xmltv_ns">118</episode-num>
+  </programme>
+  <programme start="20261109090000 +0000" stop="20261109093000 +0000" channel="disney-xd">
+    <title>The Suite Life on Deck</title>
+    <sub-title>Splash and Trash</sub-title>
+    <desc>A girl is found floating in the ocean with no memory. Woody becomes worried when suspicious evidence suggests she is a mermaid. Meanwhile, Cody watches how much garbage the passengers throw away and is shocked.</desc>
+    <episode-num system="xmltv_ns">119</episode-num>
+  </programme>
+  <programme start="20261109093000 +0000" stop="20261109100000 +0000" channel="disney-xd">
+    <title>The Suite Life on Deck</title>
+    <sub-title>Double-Crossed</sub-title>
+    <desc>Hannah Montana and the Russo family board the S.S. Tipton. While the teens all get to know each other, London and Justin may be developing a relationship, Alex fakes her identity, Cody tries to get tickets to the Hannah Montana concert.</desc>
+    <episode-num system="xmltv_ns">120</episode-num>
+  </programme>
+  <programme start="20261109100000 +0000" stop="20261109103000 +0000" channel="disney-xd">
+    <title>Big City Greens</title>
+    <sub-title>Truck Stopped; Jingled</sub-title>
+    <desc>Tilly and Cricket wrestle with decision-making at a truck stop between Big City and the country; Tilly rises through the ranks as a Big City jingle writer.</desc>
+    <episode-num system="xmltv_ns">401</episode-num>
+  </programme>
+  <programme start="20261109103000 +0000" stop="20261109110000 +0000" channel="disney-xd">
+    <title>Big City Greens</title>
+    <sub-title>Stand-Up Bill; Green Trial</sub-title>
+    <desc>Bill discovers his favorite comedian, Fred the Farmer, may not be who he claims to be; Tilly defends Cricket at a family trial after he's accused of stealing an entire cake.</desc>
+    <episode-num system="xmltv_ns">402</episode-num>
+  </programme>
+</tv>
