@@ -2,6 +2,7 @@ from channels.tv_passport_channel import tv_passport_channel
 from channels.rewind import RewindChannel
 from channels.aftermath import AftermathChannel
 from channels.retroblast import RetroblastChannel
+from channels.cn_thatssoretro import CNRetroChannel
 from utils.XMLConversion import XMLGenerator
 
 from utils import mergeEPGs
@@ -22,6 +23,7 @@ channels = [
     RewindChannel(XMLGenerator),
     AftermathChannel(XMLGenerator),
     RetroblastChannel(XMLGenerator),
+    CNRetroChannel(XMLGenerator)
 ]
 
 with open('./channels.json', 'r', encoding='utf-8') as file:
