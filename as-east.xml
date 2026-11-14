@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="as-east">
+    <display-name>As East</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s26769_h15_ab.png"/>
+  </channel>
+  <programme start="20261113210000 +0000" stop="20261113213000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Stan Knows Best</sub-title>
+    <desc>When Haley returns from a Green Party rally with her hair dyed green, Stan waits for her to fall asleep and shaves her head with an electronic shaver equipped with a silencer.</desc>
+    <episode-num system="onscreen">1AJN03</episode-num>
+  </programme>
+  <programme start="20261113213000 +0000" stop="20261113220000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Francine's Flashback</sub-title>
+    <desc>When Stan forgets his anniversary, he arranges to have 19 hours of Francine's memory erased, but the CIA temp on duty accidentally erases 19 years.</desc>
+    <episode-num system="onscreen">1AJN05</episode-num>
+  </programme>
+  <programme start="20261113220000 +0000" stop="20261113223000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Brian Goes Back to College</sub-title>
+    <desc>After writing a story for a local magazine, Brian gets a job at The New Yorker.</desc>
+    <episode-num system="xmltv_ns">418</episode-num>
+  </programme>
+  <programme start="20261113223000 +0000" stop="20261113230000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>The Courtship of Stewie's Father</sub-title>
+    <desc>Stewie steps up his efforts to kill Lois, who orders Peter to spend more time with him.</desc>
+    <episode-num system="xmltv_ns">419</episode-num>
+  </programme>
+  <programme start="20261113230000 +0000" stop="20261113233000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>What Makes Bobby Run?</sub-title>
+    <desc>When the time comes to take a beating from the rival team, the school's new mascot, Bobby, turns and runs.</desc>
+    <episode-num system="onscreen">5ABE07</episode-num>
+  </programme>
+  <programme start="20261113233000 +0000" stop="20261114000000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Chasing Bobby</sub-title>
+    <desc>Hank is devastated when he realizes his cherished flatbed truck is on its last legs.</desc>
+    <episode-num system="onscreen">5ABE10</episode-num>
+  </programme>
+  <programme start="20261114000000 +0000" stop="20261114003000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Beefsquatch</sub-title>
+    <desc>Bob appears on the local morning show's cooking segment, but Gene steals the spotlight when he crashes the set in a Sasquatch mask.</desc>
+    <episode-num system="onscreen">2ASA09</episode-num>
+  </programme>
+  <programme start="20261114003000 +0000" stop="20261114010000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Ear-sy Rider</sub-title>
+    <desc>A gang of bikers mourning the loss of their leader hang out at Bob's Burgers; Louise's bunny ears are stolen.</desc>
+    <episode-num system="onscreen">2ASA13</episode-num>
+  </programme>
+  <programme start="20261114010000 +0000" stop="20261114013000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Stan Knows Best</sub-title>
+    <desc>When Haley returns from a Green Party rally with her hair dyed green, Stan waits for her to fall asleep and shaves her head with an electronic shaver equipped with a silencer.</desc>
+    <episode-num system="onscreen">1AJN03</episode-num>
+  </programme>
+  <programme start="20261114013000 +0000" stop="20261114020000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Francine's Flashback</sub-title>
+    <desc>When Stan forgets his anniversary, he arranges to have 19 hours of Francine's memory erased, but the CIA temp on duty accidentally erases 19 years.</desc>
+    <episode-num system="onscreen">1AJN05</episode-num>
+  </programme>
+  <programme start="20261114020000 +0000" stop="20261114023000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Brian Goes Back to College</sub-title>
+    <desc>After writing a story for a local magazine, Brian gets a job at The New Yorker.</desc>
+    <episode-num system="xmltv_ns">418</episode-num>
+  </programme>
+  <programme start="20261114023000 +0000" stop="20261114030000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>The Courtship of Stewie's Father</sub-title>
+    <desc>Stewie steps up his efforts to kill Lois, who orders Peter to spend more time with him.</desc>
+    <episode-num system="xmltv_ns">419</episode-num>
+  </programme>
+  <programme start="20261114030000 +0000" stop="20261114033000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>What Makes Bobby Run?</sub-title>
+    <desc>When the time comes to take a beating from the rival team, the school's new mascot, Bobby, turns and runs.</desc>
+    <episode-num system="onscreen">5ABE07</episode-num>
+  </programme>
+  <programme start="20261114033000 +0000" stop="20261114040000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Chasing Bobby</sub-title>
+    <desc>Hank is devastated when he realizes his cherished flatbed truck is on its last legs.</desc>
+    <episode-num system="onscreen">5ABE10</episode-num>
+  </programme>
+  <programme start="20261114040000 +0000" stop="20261114043000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Rickuiem Mort a Dream</sub-title>
+    <desc>Hold still bro; it'll make you nice bro.</desc>
+  </programme>
+  <programme start="20261114043000 +0000" stop="20261114044500 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Malcolm X: Fully Loaded</sub-title>
+    <desc>Thanksgiving turkey crimes; new take on </desc>
+    <episode-num system="xmltv_ns">85</episode-num>
+  </programme>
+  <programme start="20261114044500 +0000" stop="20261114050000 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Robot Chicken's DP Christmas Special</sub-title>
+    <desc>The very first Christmas; Kevin McCallister's traps do not work as intended; Batman and Robin consider their Christmas jingle; comparing the speed of Santa Claus and Superman.</desc>
+    <episode-num system="xmltv_ns">86</episode-num>
+  </programme>
+  <programme start="20261114050000 +0000" stop="20261114053000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Beefsquatch</sub-title>
+    <desc>Bob appears on the local morning show's cooking segment, but Gene steals the spotlight when he crashes the set in a Sasquatch mask.</desc>
+    <episode-num system="onscreen">2ASA09</episode-num>
+  </programme>
+  <programme start="20261114053000 +0000" stop="20261114060000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Ear-sy Rider</sub-title>
+    <desc>A gang of bikers mourning the loss of their leader hang out at Bob's Burgers; Louise's bunny ears are stolen.</desc>
+    <episode-num system="onscreen">2ASA13</episode-num>
+  </programme>
+  <programme start="20261114060000 +0000" stop="20261114063000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Stan Knows Best</sub-title>
+    <desc>When Haley returns from a Green Party rally with her hair dyed green, Stan waits for her to fall asleep and shaves her head with an electronic shaver equipped with a silencer.</desc>
+    <episode-num system="onscreen">1AJN03</episode-num>
+  </programme>
+  <programme start="20261114063000 +0000" stop="20261114070000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Francine's Flashback</sub-title>
+    <desc>When Stan forgets his anniversary, he arranges to have 19 hours of Francine's memory erased, but the CIA temp on duty accidentally erases 19 years.</desc>
+    <episode-num system="onscreen">1AJN05</episode-num>
+  </programme>
+  <programme start="20261114070000 +0000" stop="20261114073000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Brian Goes Back to College</sub-title>
+    <desc>After writing a story for a local magazine, Brian gets a job at The New Yorker.</desc>
+    <episode-num system="xmltv_ns">418</episode-num>
+  </programme>
+  <programme start="20261114073000 +0000" stop="20261114080000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>The Courtship of Stewie's Father</sub-title>
+    <desc>Stewie steps up his efforts to kill Lois, who orders Peter to spend more time with him.</desc>
+    <episode-num system="xmltv_ns">419</episode-num>
+  </programme>
+  <programme start="20261114080000 +0000" stop="20261114083000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>What Makes Bobby Run?</sub-title>
+    <desc>When the time comes to take a beating from the rival team, the school's new mascot, Bobby, turns and runs.</desc>
+    <episode-num system="onscreen">5ABE07</episode-num>
+  </programme>
+  <programme start="20261114083000 +0000" stop="20261114090000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Chasing Bobby</sub-title>
+    <desc>Hank is devastated when he realizes his cherished flatbed truck is on its last legs.</desc>
+    <episode-num system="onscreen">5ABE10</episode-num>
+  </programme>
+  <programme start="20261114090000 +0000" stop="20261114093000 +0000" channel="as-east">
+    <title>In the Know</title>
+    <sub-title>Very Gross</sub-title>
+    <desc>Lauren's voice might be making listeners nauseous and Fabian is determined to protect them, even if it means canceling the show; Lauren attempts to interview Tegan And Sara and Nicole Byer before he's shut down.</desc>
+  </programme>
+  <programme start="20261114093000 +0000" stop="20261114100000 +0000" channel="as-east">
+    <title>Bob and Margaret</title>
+    <sub-title>Mummy's Boy</sub-title>
+    <desc>Bob's mother is coming all the way from England to visit him.</desc>
+  </programme>
+  <programme start="20261114100000 +0000" stop="20261114210000 +0000" channel="as-east">
+    <title>Off Air</title>
+    <sub-title>Off Air</sub-title>
+    <desc>Off Air</desc>
+  </programme>
+  <programme start="20261114210000 +0000" stop="20261114213000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Yankee Hankee</sub-title>
+    <desc>While searching for his birth certificate, Hank learns the true location of his birthplace and becomes an unwitting pawn in one of Cotton's schemes.</desc>
+    <episode-num system="onscreen">5ABE06</episode-num>
+  </programme>
+  <programme start="20261114213000 +0000" stop="20261114220000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Hank and the Great Glass Elevator</sub-title>
+    <desc>Bill starts a relationship with former Texas governor Ann Richards while celebrating his 40th birthday.</desc>
+    <episode-num system="onscreen">5ABE12</episode-num>
+  </programme>
+  <programme start="20261114220000 +0000" stop="20261114223000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Now Who's the Dummy?</sub-title>
+    <desc>Bobby enjoys his ventriloquist's dummy, until Hank takes a shine to the dummy, Chip, who is a big sports fan.</desc>
+    <episode-num system="onscreen">5ABE14</episode-num>
+  </programme>
+  <programme start="20261114223000 +0000" stop="20261114230000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Roger Codger</sub-title>
+    <desc>When Stan's boss, Bullock (Patrick Stewart), comes over for dinner, he nearly catches the Smiths hiding Roger.</desc>
+    <episode-num system="onscreen">1AJN04</episode-num>
+  </programme>
+  <programme start="20261114230000 +0000" stop="20261114233000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Bob Fires the Kids</sub-title>
+    <desc>Bob fires the kids so they won't have to work during their summer break, but they get so bored they find other work; Bob hires Mickey the bank robber.</desc>
+    <episode-num system="onscreen">2ASA12</episode-num>
+  </programme>
+  <programme start="20261114233000 +0000" stop="20261115000000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Mutiny on the Windbreaker</sub-title>
+    <desc>When Bob brings his family along for a cooking job on a docked cruise ship, the ship departs with them aboard, leaving no one to tend the restaurant.</desc>
+    <episode-num system="onscreen">2ASA08</episode-num>
+  </programme>
+  <programme start="20261115000000 +0000" stop="20261115003000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Fat Guy Strangler</sub-title>
+    <desc>Lois learns she has a brother she has never met (Robert Downey Jr.), so she brings him home from a mental institution to live with her family.</desc>
+    <episode-num system="xmltv_ns">420</episode-num>
+  </programme>
+  <programme start="20261115003000 +0000" stop="20261115010000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>The Father, the Son and the Holy Fonz</sub-title>
+    <desc>When Peter's dad visits the Griffins, he tries to impose his religious beliefs on the family.</desc>
+    <episode-num system="xmltv_ns">422</episode-num>
+  </programme>
+  <programme start="20261115010000 +0000" stop="20261115013000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Brian Sings and Swings</sub-title>
+    <desc>A near-death experience lands Brian in the hospital but infuses him with a new passion for life.</desc>
+    <episode-num system="xmltv_ns">421</episode-num>
+  </programme>
+  <programme start="20261115013000 +0000" stop="20261115020000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Yankee Hankee</sub-title>
+    <desc>While searching for his birth certificate, Hank learns the true location of his birthplace and becomes an unwitting pawn in one of Cotton's schemes.</desc>
+    <episode-num system="onscreen">5ABE06</episode-num>
+  </programme>
+  <programme start="20261115020000 +0000" stop="20261115023000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Hank and the Great Glass Elevator</sub-title>
+    <desc>Bill starts a relationship with former Texas governor Ann Richards while celebrating his 40th birthday.</desc>
+    <episode-num system="onscreen">5ABE12</episode-num>
+  </programme>
+  <programme start="20261115023000 +0000" stop="20261115030000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Now Who's the Dummy?</sub-title>
+    <desc>Bobby enjoys his ventriloquist's dummy, until Hank takes a shine to the dummy, Chip, who is a big sports fan.</desc>
+    <episode-num system="onscreen">5ABE14</episode-num>
+  </programme>
+  <programme start="20261115030000 +0000" stop="20261115044500 +0000" channel="as-east">
+    <title>Movie</title>
+    <sub-title>Watchmen Chapter II</sub-title>
+    <desc>As former heroes grapple with personal ethics, inner demons and a society turned against them, they race against the clock to uncover a plot that can potentially trigger global nuclear war.</desc>
+  </programme>
+  <programme start="20261115044500 +0000" stop="20261115050000 +0000" channel="as-east">
+    <title>PSI Cops!</title>
+    <sub-title>The Djinn</sub-title>
+    <desc>Stone enlists Kydd and Felixx on their most dangerous mission yet: breaking a cute magical monkey out of the evidence room.</desc>
+  </programme>
+  <programme start="20261115050000 +0000" stop="20261115053000 +0000" channel="as-east">
+    <title>Get Jiro!</title>
+    <sub-title>Your Guests Have Arrived</sub-title>
+    <desc>Jiro is forced to cook a meal using a taboo ingredient; Ichigo is summoned to LA; Cynda tries to figure out Jiro's endgame.</desc>
+  </programme>
+  <programme start="20261115053000 +0000" stop="20261115060000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Roger Codger</sub-title>
+    <desc>When Stan's boss, Bullock (Patrick Stewart), comes over for dinner, he nearly catches the Smiths hiding Roger.</desc>
+    <episode-num system="onscreen">1AJN04</episode-num>
+  </programme>
+  <programme start="20261115060000 +0000" stop="20261115063000 +0000" channel="as-east">
+    <title>President Curtis</title>
+    <sub-title>Knox</sub-title>
+    <desc>A robbery at Fort Knox puts Curtis and the FBI on a manhunt for the culprit, forcing O'Doyle to confront figures from his past to get to the bottom of it.</desc>
+  </programme>
+  <programme start="20261115063000 +0000" stop="20261115070000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Salute Your Morts</sub-title>
+    <desc>Morty and Summer go to camp, bro; Beth and Jerry are home alone, bro.</desc>
+  </programme>
+  <programme start="20261115070000 +0000" stop="20261115084500 +0000" channel="as-east">
+    <title>Movie</title>
+    <sub-title>Watchmen Chapter II</sub-title>
+    <desc>As former heroes grapple with personal ethics, inner demons and a society turned against them, they race against the clock to uncover a plot that can potentially trigger global nuclear war.</desc>
+  </programme>
+  <programme start="20261115084500 +0000" stop="20261115090000 +0000" channel="as-east">
+    <title>PSI Cops!</title>
+    <sub-title>The Djinn</sub-title>
+    <desc>Stone enlists Kydd and Felixx on their most dangerous mission yet: breaking a cute magical monkey out of the evidence room.</desc>
+  </programme>
+  <programme start="20261115090000 +0000" stop="20261115104500 +0000" channel="as-east">
+    <title>Movie</title>
+    <sub-title>Watchmen Chapter II</sub-title>
+    <desc>As former heroes grapple with personal ethics, inner demons and a society turned against them, they race against the clock to uncover a plot that can potentially trigger global nuclear war.</desc>
+  </programme>
+  <programme start="20261115100000 +0000" stop="20261115210000 +0000" channel="as-east">
+    <title>Off Air</title>
+    <sub-title>Off Air</sub-title>
+    <desc>Off Air</desc>
+  </programme>
+  <programme start="20261115210000 +0000" stop="20261115213000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Ho Yeah!</sub-title>
+    <desc>When the Hills unknowingly take in a prostitute, Hank tangles with the woman's former pimp, Alabaster Jones.</desc>
+    <episode-num system="onscreen">5ABE15</episode-num>
+  </programme>
+  <programme start="20261115213000 +0000" stop="20261115220000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>The Exterminator</sub-title>
+    <desc>When Dale is forced to give up his extermination job, he discovers a talent for firing employees at his new place of work.</desc>
+    <episode-num system="onscreen">5ABE09</episode-num>
+  </programme>
+  <programme start="20261115220000 +0000" stop="20261115223000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Luanne Virgin 2.0</sub-title>
+    <desc>Luanne embraces a religious ceremony that allows participants to regain their virginity, but in the process, Hank learns that Peggy had sex with another man before they were married.</desc>
+    <episode-num system="onscreen">5ABE16</episode-num>
+  </programme>
+  <programme start="20261115223000 +0000" stop="20261115230000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Homeland Insecurity</sub-title>
+    <desc>Francine throws a block party, but Stan becomes suspicious of some new neighbors; Stan persuades Steve to join a youth group.</desc>
+    <episode-num system="onscreen">1AJN06</episode-num>
+  </programme>
+  <programme start="20261115230000 +0000" stop="20261115233000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>An Indecent Thanksgiving Proposal</sub-title>
+    <desc>Bob wants to make Thanksgiving memorable, but Mr. Fischoeder needs to use Bob and his family to stage a dinner to make his ex jealous.</desc>
+    <episode-num system="onscreen">2ASA19</episode-num>
+  </programme>
+  <programme start="20261115233000 +0000" stop="20261116000000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>The Deepening</sub-title>
+    <desc>When the mechanical shark Mr. Fischoeder bought as a pier attraction starts terrorizing the town, the Belchers work to save the day.</desc>
+    <episode-num system="onscreen">2ASA11</episode-num>
+  </programme>
+  <programme start="20261116000000 +0000" stop="20261116003000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Patriot Games</sub-title>
+    <desc>At his high school reunion, Peter pretends to be a millionaire, but the truth comes out when he meets Tom Brady and loses all self-control.</desc>
+    <episode-num system="xmltv_ns">425</episode-num>
+  </programme>
+  <programme start="20261116003000 +0000" stop="20261116010000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>I Take Thee, Quagmire</sub-title>
+    <desc>When Peter goes on a TV game show and wins a maid for a week, Quagmire is smitten with her and ends up popping the question.</desc>
+    <episode-num system="xmltv_ns">423</episode-num>
+  </programme>
+  <programme start="20261116010000 +0000" stop="20261116013000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Sibling Rivalry</sub-title>
+    <desc>After a pregnancy scare, Peter reluctantly agrees to get a vasectomy.</desc>
+    <episode-num system="xmltv_ns">424</episode-num>
+  </programme>
+  <programme start="20261116013000 +0000" stop="20261116020000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Ho Yeah!</sub-title>
+    <desc>When the Hills unknowingly take in a prostitute, Hank tangles with the woman's former pimp, Alabaster Jones.</desc>
+    <episode-num system="onscreen">5ABE15</episode-num>
+  </programme>
+  <programme start="20261116020000 +0000" stop="20261116023000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>The Exterminator</sub-title>
+    <desc>When Dale is forced to give up his extermination job, he discovers a talent for firing employees at his new place of work.</desc>
+    <episode-num system="onscreen">5ABE09</episode-num>
+  </programme>
+  <programme start="20261116023000 +0000" stop="20261116030000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Luanne Virgin 2.0</sub-title>
+    <desc>Luanne embraces a religious ceremony that allows participants to regain their virginity, but in the process, Hank learns that Peggy had sex with another man before they were married.</desc>
+    <episode-num system="onscreen">5ABE16</episode-num>
+  </programme>
+  <programme start="20261116030000 +0000" stop="20261116033000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Homeland Insecurity</sub-title>
+    <desc>Francine throws a block party, but Stan becomes suspicious of some new neighbors; Stan persuades Steve to join a youth group.</desc>
+    <episode-num system="onscreen">1AJN06</episode-num>
+  </programme>
+  <programme start="20261116033000 +0000" stop="20261116040000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Field of Dreams</sub-title>
+    <desc>Tom Sawyer, broh.</desc>
+  </programme>
+  <programme start="20261116040000 +0000" stop="20261116041500 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Major League of Extraordinary Gentlemen</sub-title>
+    <desc>Creating an ice cream sundae; having spider-sense; the Keebler Elves vs. Cookie Monster.</desc>
+    <episode-num system="xmltv_ns">87</episode-num>
+  </programme>
+  <programme start="20261116041500 +0000" stop="20261116043000 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Schindler's Bucket List</sub-title>
+    <desc>Strawberry Shortcake names Baby Needs-a-Name; a roast for Cobra Commander; finding what happened to Skeeter.</desc>
+    <episode-num system="xmltv_ns">88</episode-num>
+  </programme>
+  <programme start="20261116043000 +0000" stop="20261116050000 +0000" channel="as-east">
+    <title>President Curtis</title>
+    <sub-title>Synths</sub-title>
+    <desc>With Christmas spirit at an all-time low across the country, Curtis attempts to find a fix by deploying a group of synthetic beings, custom-designed to spread cheer.</desc>
+  </programme>
+  <programme start="20261116050000 +0000" stop="20261116051500 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>What Was I Gonna Say?</sub-title>
+    <desc>Do you ever get brain fog?</desc>
+  </programme>
+  <programme start="20261116051500 +0000" stop="20261116053000 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>I Think We Should Be Buds</sub-title>
+    <desc>Dream journal: My son is a very talented artist but for some reason that's bad for me; the Devil sold me his soul; he texts a lot.</desc>
+  </programme>
+  <programme start="20261116053000 +0000" stop="20261116060000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Field of Dreams</sub-title>
+    <desc>Tom Sawyer, broh.</desc>
+  </programme>
+  <programme start="20261116060000 +0000" stop="20261116061500 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Major League of Extraordinary Gentlemen</sub-title>
+    <desc>Creating an ice cream sundae; having spider-sense; the Keebler Elves vs. Cookie Monster.</desc>
+    <episode-num system="xmltv_ns">87</episode-num>
+  </programme>
+  <programme start="20261116061500 +0000" stop="20261116063000 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Schindler's Bucket List</sub-title>
+    <desc>Strawberry Shortcake names Baby Needs-a-Name; a roast for Cobra Commander; finding what happened to Skeeter.</desc>
+    <episode-num system="xmltv_ns">88</episode-num>
+  </programme>
+  <programme start="20261116063000 +0000" stop="20261116070000 +0000" channel="as-east">
+    <title>President Curtis</title>
+    <sub-title>Synths</sub-title>
+    <desc>With Christmas spirit at an all-time low across the country, Curtis attempts to find a fix by deploying a group of synthetic beings, custom-designed to spread cheer.</desc>
+  </programme>
+  <programme start="20261116070000 +0000" stop="20261116071500 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>What Was I Gonna Say?</sub-title>
+    <desc>Do you ever get brain fog?</desc>
+  </programme>
+  <programme start="20261116071500 +0000" stop="20261116073000 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>I Think We Should Be Buds</sub-title>
+    <desc>Dream journal: My son is a very talented artist but for some reason that's bad for me; the Devil sold me his soul; he texts a lot.</desc>
+  </programme>
+  <programme start="20261116073000 +0000" stop="20261116074500 +0000" channel="as-east">
+    <title>Smiling Friends</title>
+    <sub-title>Curse of the Green Halloween Witch</sub-title>
+    <desc>A Halloween witch puts a curse on Smiling Friends office on Halloween.</desc>
+  </programme>
+  <programme start="20261116074500 +0000" stop="20261116080000 +0000" channel="as-east">
+    <title>Smiling Friends</title>
+    <sub-title>Pim and Charlie Save Mother Nature</sub-title>
+    <desc>It's in the frigging title brother, read that...and you'll get an idea of what happens...peace.</desc>
+  </programme>
+  <programme start="20261116080000 +0000" stop="20261116083000 +0000" channel="as-east">
+    <title>Get Jiro!</title>
+    <sub-title>Pressure Cooker</sub-title>
+    <desc>An injured Jiro is relentlessly pursued by Bob's goons; left with no choice, Jiro is forced to prepare a special omakase for Bob's right-hand man.</desc>
+  </programme>
+  <programme start="20261116083000 +0000" stop="20261116090000 +0000" channel="as-east">
+    <title>Ninja Kamui</title>
+    <desc>Mike uses information from Emma to track down Jason, a former AUZA employee; after having his first attempt to infiltrate AUZA City stopped by Zai, Higan learns of an alternate route from the mysterious benefactor.</desc>
+  </programme>
+  <programme start="20261116090000 +0000" stop="20261116093000 +0000" channel="as-east">
+    <title>Common Side Effects</title>
+    <sub-title>Pilot</sub-title>
+    <desc>Marshall Cuso shows up in NYC with a mushroom that can cure any disease or injury; his old classmate, Frances, meets him by chance, but keeps secret that she works for Reutical, a pharmaceutical company.</desc>
+  </programme>
+  <programme start="20261116093000 +0000" stop="20261116100000 +0000" channel="as-east">
+    <title>Genndy Tartakovsky's Primal</title>
+    <sub-title>The Colossaeus, Part II</sub-title>
+    <desc>The tyrannical queen of a formidable warship, the Colossaeus, enslaves Spear and Fang to use as instruments of war.</desc>
+  </programme>
+</tv>

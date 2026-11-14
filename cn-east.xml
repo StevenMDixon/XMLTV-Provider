@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="cn-east">
+    <display-name>Cn East</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s60048_h15_ac.png"/>
+  </channel>
+  <programme start="20261113110000 +0000" stop="20261113111200 +0000" channel="cn-east">
+    <title>Batwheels</title>
+    <sub-title>The Holographic Heist</sub-title>
+    <desc>Miss Kitka sneaks into the Batcave and steals a priceless diamond, leading Bam, Kitty, and Ace on a chase through the training arena's holographic city.</desc>
+  </programme>
+  <programme start="20261113111200 +0000" stop="20261113112800 +0000" channel="cn-east">
+    <title>Bugs Bunny Builders</title>
+    <sub-title>Smash House</sub-title>
+    <desc>The Looney Builders learn that Taz accidentally destroyed his house, so they set out to build him a new one that's smash-proof.</desc>
+  </programme>
+  <programme start="20261113112800 +0000" stop="20261113114000 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>Gymblonski</sub-title>
+    <desc>Rigby's nemesis returns and tries to ruin his chances of passing gym class and graduating.</desc>
+    <episode-num system="xmltv_ns">215</episode-num>
+  </programme>
+  <programme start="20261113114000 +0000" stop="20261113115600 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>Guys Night 2</sub-title>
+    <desc>The guys plan to give Thomas an epic night before he goes into hiding.</desc>
+    <episode-num system="xmltv_ns">216</episode-num>
+  </programme>
+  <programme start="20261113115600 +0000" stop="20261113120000 +0000" channel="cn-east">
+    <title>The Heroic Quest of the Valiant Prince Ivandoe</title>
+    <sub-title>The Prince and the Raspberry Fairy</sub-title>
+    <desc>Whilst escaping from a grizzly bear, Ivandoe and Bert fall into an underground cave where a large Troll-woman in a party dress keeps them captive in order to play with them like dolls.</desc>
+  </programme>
+  <programme start="20261113120000 +0000" stop="20261113121200 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>Gary's Synthesizer</sub-title>
+    <desc>Rigby and Mordecai unplug some cables in an old synthesizer; they travel back to the planet of Synthos to bring Gary back to life.</desc>
+    <episode-num system="xmltv_ns">217</episode-num>
+  </programme>
+  <programme start="20261113121200 +0000" stop="20261113122800 +0000" channel="cn-east">
+    <title>Regular Show</title>
+    <sub-title>California King</sub-title>
+    <desc>After Rigby wins a king-size bed, he gets rid of his trampoline.</desc>
+    <episode-num system="xmltv_ns">219</episode-num>
+  </programme>
+  <programme start="20261113122800 +0000" stop="20261113124000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Name</sub-title>
+    <desc>Gumball discovers his real name is Zach.</desc>
+  </programme>
+  <programme start="20261113124000 +0000" stop="20261113125600 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Extras</sub-title>
+    <desc>There is nothing else for Gumball and Darwin to do, so the secondary characters in the show get their chance to shine.</desc>
+  </programme>
+  <programme start="20261113125600 +0000" stop="20261113130800 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Gripes</sub-title>
+    <desc>The kids complain so much they become charity cases.</desc>
+  </programme>
+  <programme start="20261113130800 +0000" stop="20261113132400 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Vacation</sub-title>
+    <desc>The Wattersons go on vacation and wind up running for their lives.</desc>
+  </programme>
+  <programme start="20261113132400 +0000" stop="20261113133600 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <desc>A hilarious look at what everyday life is really like as a teen superhero when the cape comes off; Robin, Starfire, Raven, Beast Boy and Cyborg deal with the usual issues of adolescence while saving the world.</desc>
+  </programme>
+  <programme start="20261113133600 +0000" stop="20261113135200 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Favorite Animated Show Nominee</sub-title>
+    <desc>Robin finds it suspicious that the Titans are nominated for a certain award every year but never win it; he decides to find out why.</desc>
+  </programme>
+  <programme start="20261113135200 +0000" stop="20261113140400 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Best Mom Ever</sub-title>
+    <desc>It's Mother's Day and the Titans compete to determine which of them is the best mum and deserves all the gifts.</desc>
+  </programme>
+  <programme start="20261113140400 +0000" stop="20261113141600 +0000" channel="cn-east">
+    <title>Clarence</title>
+    <sub-title>Escape From Beyond the Cosmic</sub-title>
+    <desc>Clarence breaks an arcade game that Jeff likes to play, so he must find an alternative.</desc>
+    <episode-num system="xmltv_ns">58</episode-num>
+  </programme>
+  <programme start="20261113141600 +0000" stop="20261113143200 +0000" channel="cn-east">
+    <title>Clarence</title>
+    <sub-title>Ren Faire</sub-title>
+    <desc>Clarence and his pals venture to the Aberdale Renaissance Faire.</desc>
+    <episode-num system="xmltv_ns">56</episode-num>
+  </programme>
+  <programme start="20261113143200 +0000" stop="20261113144000 +0000" channel="cn-east">
+    <title>Grizzy and the Lemmings</title>
+    <sub-title>Tam-Tam Lemming</sub-title>
+    <desc>Grizzy is awakened by four Lemming percussionists performing near the cabin.</desc>
+  </programme>
+  <programme start="20261113144000 +0000" stop="20261113144800 +0000" channel="cn-east">
+    <title>Grizzy and the Lemmings</title>
+    <sub-title>Ice Madness!</sub-title>
+    <desc>In the midst of a heat wave, Grizzy and the Lemmings fight over the fridge.</desc>
+  </programme>
+  <programme start="20261113144800 +0000" stop="20261113150000 +0000" channel="cn-east">
+    <title>Grizzy and the Lemmings</title>
+    <sub-title>In Your Dreams</sub-title>
+    <desc>Grizzy goes all out for his dinner guest, but as he's about to kiss her, a mad car race interrupts him: the Lemmings waking him with a jolt.</desc>
+  </programme>
+  <programme start="20261113150000 +0000" stop="20261113153000 +0000" channel="cn-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>The Fast and the Wormious</sub-title>
+    <desc>The gang heads to Mexico for the Enduro Slam 5000 off-road race.</desc>
+    <episode-num system="xmltv_ns">16</episode-num>
+  </programme>
+  <programme start="20261113153000 +0000" stop="20261113160000 +0000" channel="cn-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>Homeward Hound</sub-title>
+    <desc>Six priceless puppies and Scooby-Doo are kidnapped.</desc>
+    <episode-num system="xmltv_ns">19</episode-num>
+  </programme>
+  <programme start="20261113160000 +0000" stop="20261113163000 +0000" channel="cn-east">
+    <title>The Scooby-Doo Show</title>
+    <sub-title>The Beast Is Awake in the Bottomless Lake</sub-title>
+    <desc>During a trip to a Canadian fishing village, the gang encounters a terrifying lake monster.</desc>
+  </programme>
+  <programme start="20261113163000 +0000" stop="20261113170000 +0000" channel="cn-east">
+    <title>The Scooby-Doo Show</title>
+    <sub-title>The Warlock of Wimbledon</sub-title>
+    <desc>The gang investigate the appearance of a warlock that wants to stop their friend, Jimmy Pelton, from competing in the tennis championships at Wimbledon.</desc>
+  </programme>
+  <programme start="20261113170000 +0000" stop="20261113171000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Broom-Stick Bunny</sub-title>
+    <desc>Bugs goes trick-or-treating as a witch on Halloween, but when he calls at Witch Hazel's house, she treats him as a threat to her claim of being the ugliest witch of all.</desc>
+  </programme>
+  <programme start="20261113171000 +0000" stop="20261113172000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Half-Fare Hare</sub-title>
+    <desc>Bugs looks like dinner to two starving men on the Chattanooga Choo Choo.</desc>
+  </programme>
+  <programme start="20261113172000 +0000" stop="20261113173000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Raw! Raw! Rooster!</sub-title>
+    <desc>Rhode Island Red, Foghorn's rival and college chum, visits his pal and wreaks havoc at the barnyard.</desc>
+  </programme>
+  <programme start="20261113173000 +0000" stop="20261113174000 +0000" channel="cn-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Is There a Doctor in the Mouse?</sub-title>
+    <desc>Jerry brews a mysterious drink that triggers a change in him after he drinks it, making him fast enough to eat the food out of Tom's paw without the cat realizing what is happening to him.</desc>
+  </programme>
+  <programme start="20261113174000 +0000" stop="20261113175000 +0000" channel="cn-east">
+    <title>Tom and Jerry</title>
+    <sub-title>Much Ado About Mousing</sub-title>
+    <desc>Tom makes more attempts to catch Jerry but is thwarted by Spike.</desc>
+  </programme>
+  <programme start="20261113175000 +0000" stop="20261113180000 +0000" channel="cn-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>The Unshrinkable Jerry Mouse</sub-title>
+    <desc>A brown and white kitten is delivered to the house and instantly wins Jerry's heart, but Tom takes an instant disliking to it.</desc>
+  </programme>
+  <programme start="20261113180000 +0000" stop="20261113181500 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>A Stickier Situation</sub-title>
+    <desc>When Sticky Joe tries to clip his pet rat's nails, it leads to a wild adventure.</desc>
+  </programme>
+  <programme start="20261113181500 +0000" stop="20261113183000 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <desc>A hilarious look at what everyday life is really like as a teen superhero when the cape comes off; Robin, Starfire, Raven, Beast Boy and Cyborg deal with the usual issues of adolescence while saving the world.</desc>
+  </programme>
+  <programme start="20261113183000 +0000" stop="20261113184500 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Them Jaws</sub-title>
+    <desc>The Titans spend a day at the beach, but it is ruined by a dangerous sea creature.</desc>
+  </programme>
+  <programme start="20261113184500 +0000" stop="20261113190000 +0000" channel="cn-east">
+    <title>Teen Titans Go!</title>
+    <sub-title>Pool Shark</sub-title>
+    <desc>The Titans motivate King Shark to start playing pool again, but he must learn to listen to his gut.</desc>
+  </programme>
+  <programme start="20261113190000 +0000" stop="20261113191500 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Fraud</sub-title>
+    <desc>Gumball and Darwin discover that Principal Brown's diploma is a fake.</desc>
+  </programme>
+  <programme start="20261113191500 +0000" stop="20261113193000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Void</sub-title>
+    <desc>Gumball and Darwin discover a mysterious void while looking for a missing classmate.</desc>
+  </programme>
+  <programme start="20261113193000 +0000" stop="20261113194500 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Boss</sub-title>
+    <desc>Gumball and Darwin help Rocky get a corporate job, so he can stop being a disappointment to his father, Mr. Robinson.</desc>
+  </programme>
+  <programme start="20261113194500 +0000" stop="20261113200000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Move</sub-title>
+    <desc>Gumball learns that Clayton, a compulsive liar, was telling the truth about an awesome martial arts move.</desc>
+  </programme>
+  <programme start="20261113200000 +0000" stop="20261113201500 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Law</sub-title>
+    <desc>Donut Cop shows Gumball and Darwin that the smallest misdemeanor can lead to a breakdown in law.</desc>
+    <episode-num system="onscreen">46a</episode-num>
+  </programme>
+  <programme start="20261113201500 +0000" stop="20261113203000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Mothers</sub-title>
+    <desc>The children test their mothers to see who will win the title of </desc>
+  </programme>
+  <programme start="20261113203000 +0000" stop="20261113204500 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Password</sub-title>
+    <desc>After learning that Anais is Dad's favorite child, Gumball and Darwin are determined to take the title from her.</desc>
+  </programme>
+  <programme start="20261113204500 +0000" stop="20261113210000 +0000" channel="cn-east">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Allergy</sub-title>
+    <desc>Gumball needs to find a cure for Darwin's allergy before he sneezes Elmore off the map.</desc>
+    <episode-num system="onscreen">46B</episode-num>
+  </programme>
+  <programme start="20261114100000 +0000" stop="20261114103000 +0000" channel="cn-east">
+    <title>Dragon Ball Z Kai</title>
+    <sub-title>Piccolo Reborn! Frieza's Second Transformation!</sub-title>
+    <desc>Piccolo attacks Frieza with the strength of two Namekian warriors.</desc>
+    <episode-num system="xmltv_ns">39</episode-num>
+  </programme>
+  <programme start="20261114103000 +0000" stop="20261114110000 +0000" channel="cn-east">
+    <title>Dragon Ball Z Kai</title>
+    <sub-title>Frieza's Final Transformation! The Ultimate Nightmare Begins!</sub-title>
+    <desc>When Frieza begins his ultimate transformation, Vegeta must suffer a mortal wound to defeat him.</desc>
+    <episode-num system="xmltv_ns">40</episode-num>
+  </programme>
+  <programme start="20261114110000 +0000" stop="20261114113000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Regular Show Presents: Terror Tales of the Park VII Halloween Special</sub-title>
+    <desc>Some new Halloween stories!</desc>
+  </programme>
+  <programme start="20261114113000 +0000" stop="20261114114500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Beginson</sub-title>
+    <desc>Benson remembers being forcefully kicked out of the Big Hair and being taken in as park director by Pops.</desc>
+  </programme>
+  <programme start="20261114114500 +0000" stop="20261114120000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Spice It Up</sub-title>
+    <desc>A good chicken wing party needs a spicy sauce.</desc>
+  </programme>
+  <programme start="20261114120000 +0000" stop="20261114121500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Secret Menu Item</sub-title>
+    <desc>Mordecai and Rigby track down a legendary, top-secret meal. Their simple quest quickly escalates into chaos as they face absurd culinary challenges to order the ultimate secret menu item.</desc>
+  </programme>
+  <programme start="20261114121500 +0000" stop="20261114124500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Regular Show Presents: Terror Tales of the Park VII Halloween Special</sub-title>
+    <desc>Some new Halloween stories!</desc>
+  </programme>
+  <programme start="20261114124500 +0000" stop="20261114130000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Smoke Alarm on the Water</sub-title>
+    <desc>Mordecai and Rigby can't sleep because of the beep.</desc>
+  </programme>
+  <programme start="20261114130000 +0000" stop="20261114131500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Party Horse 4: Third Time's a Charm</sub-title>
+    <desc>The guys call an old friend to get the party started.</desc>
+  </programme>
+  <programme start="20261114131500 +0000" stop="20261114133000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Artist's Block</sub-title>
+    <desc>Mordecai gets freaked out by someone he used to babysit.</desc>
+  </programme>
+  <programme start="20261114133000 +0000" stop="20261114134500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Clean the Living Room</sub-title>
+    <desc>A covert mission must be completed before cleaning the living room.</desc>
+  </programme>
+  <programme start="20261114134500 +0000" stop="20261114140000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>That's Funny</sub-title>
+    <desc>Margaret faces extreme embarrassment after being caught faking her laughter.</desc>
+  </programme>
+  <programme start="20261114140000 +0000" stop="20261114141500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Cool Boss</sub-title>
+    <desc>Benson wants to be a cool boss.</desc>
+  </programme>
+  <programme start="20261114141500 +0000" stop="20261114143000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Blade Games</sub-title>
+    <desc>Benson struggles with his motivational approach; a secret nap spot causes major problems.</desc>
+  </programme>
+  <programme start="20261114143000 +0000" stop="20261114144500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Fix That Tape; Nap Spot</sub-title>
+    <desc>Reboot or continuation of the classic Cartoon Network series.</desc>
+  </programme>
+  <programme start="20261114144500 +0000" stop="20261114150000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Fix That Tape; Coffee Shop Wars</sub-title>
+    <desc>Reboot or continuation of the classic Cartoon Network series.</desc>
+  </programme>
+  <programme start="20261114150000 +0000" stop="20261114151500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Boba or Bo-Bust</sub-title>
+    <desc>Mordecai and Rigby are two best friends who work and live in a local park; they have to unload a load of boba.</desc>
+  </programme>
+  <programme start="20261114151500 +0000" stop="20261114153000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Corpse Flower</sub-title>
+    <desc>Rigby comes up with a plan so that Eileen can watch the corpse flower bloom and Margaret read poetry.</desc>
+  </programme>
+  <programme start="20261114153000 +0000" stop="20261114154500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Beginson</sub-title>
+    <desc>Benson remembers being forcefully kicked out of the Big Hair and being taken in as park director by Pops.</desc>
+  </programme>
+  <programme start="20261114154500 +0000" stop="20261114160000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Good Mitch Spiking</sub-title>
+    <desc>Bully narrates the story of how he wins Starla back by entering an illegal beach volleyball tournament.</desc>
+  </programme>
+  <programme start="20261114160000 +0000" stop="20261114161500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Stilt Walkers</sub-title>
+    <desc>Rigby wants his photo to be taken, seriously.</desc>
+  </programme>
+  <programme start="20261114161500 +0000" stop="20261114163000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Spice It Up</sub-title>
+    <desc>A good chicken wing party needs a spicy sauce.</desc>
+  </programme>
+  <programme start="20261114163000 +0000" stop="20261114164500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Secret Menu Item</sub-title>
+    <desc>Mordecai and Rigby track down a legendary, top-secret meal. Their simple quest quickly escalates into chaos as they face absurd culinary challenges to order the ultimate secret menu item.</desc>
+  </programme>
+  <programme start="20261114164500 +0000" stop="20261114171500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Fix That Tape; Skips' Luau</sub-title>
+    <desc>A broken VHS tape needs to be fixed; Mordecai and Rigby want a burger with a special ingredient.</desc>
+  </programme>
+  <programme start="20261114171500 +0000" stop="20261114173000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Smoke Alarm on the Water</sub-title>
+    <desc>Mordecai and Rigby can't sleep because of the beep.</desc>
+  </programme>
+  <programme start="20261114173000 +0000" stop="20261114174500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Party Horse 4: Third Time's a Charm</sub-title>
+    <desc>The guys call an old friend to get the party started.</desc>
+  </programme>
+  <programme start="20261114174500 +0000" stop="20261114180000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Artist's Block</sub-title>
+    <desc>Mordecai gets freaked out by someone he used to babysit.</desc>
+  </programme>
+  <programme start="20261114180000 +0000" stop="20261114181500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Clean the Living Room</sub-title>
+    <desc>A covert mission must be completed before cleaning the living room.</desc>
+  </programme>
+  <programme start="20261114181500 +0000" stop="20261114183000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>That's Funny</sub-title>
+    <desc>Margaret faces extreme embarrassment after being caught faking her laughter.</desc>
+  </programme>
+  <programme start="20261114183000 +0000" stop="20261114184500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Cool Boss</sub-title>
+    <desc>Benson wants to be a cool boss.</desc>
+  </programme>
+  <programme start="20261114184500 +0000" stop="20261114191500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Regular Show Presents: Terror Tales of the Park VII Halloween Special</sub-title>
+    <desc>Some new Halloween stories!</desc>
+  </programme>
+  <programme start="20261114191500 +0000" stop="20261114193000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Beginson</sub-title>
+    <desc>Benson remembers being forcefully kicked out of the Big Hair and being taken in as park director by Pops.</desc>
+  </programme>
+  <programme start="20261114193000 +0000" stop="20261114194500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Good Mitch Spiking</sub-title>
+    <desc>Bully narrates the story of how he wins Starla back by entering an illegal beach volleyball tournament.</desc>
+  </programme>
+  <programme start="20261114194500 +0000" stop="20261114200000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Stilt Walkers</sub-title>
+    <desc>Rigby wants his photo to be taken, seriously.</desc>
+  </programme>
+  <programme start="20261114200000 +0000" stop="20261114201500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Spice It Up</sub-title>
+    <desc>A good chicken wing party needs a spicy sauce.</desc>
+  </programme>
+  <programme start="20261114201500 +0000" stop="20261114203000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Secret Menu Item</sub-title>
+    <desc>Mordecai and Rigby track down a legendary, top-secret meal. Their simple quest quickly escalates into chaos as they face absurd culinary challenges to order the ultimate secret menu item.</desc>
+  </programme>
+  <programme start="20261114203000 +0000" stop="20261114204500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Smoke Alarm on the Water</sub-title>
+    <desc>Mordecai and Rigby can't sleep because of the beep.</desc>
+  </programme>
+  <programme start="20261114204500 +0000" stop="20261114210000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Party Horse 4: Third Time's a Charm</sub-title>
+    <desc>The guys call an old friend to get the party started.</desc>
+  </programme>
+  <programme start="20261114210000 +0000" stop="20261115100000 +0000" channel="cn-east">
+    <title>Off Air</title>
+    <sub-title>Off Air</sub-title>
+    <desc>Off Air</desc>
+  </programme>
+  <programme start="20261115100000 +0000" stop="20261115103000 +0000" channel="cn-east">
+    <title>Unicorn: Warriors Eternal</title>
+    <sub-title>The Past Within</sub-title>
+    <desc>Emma and Melinda relive moments from the past; Unicorn struggles in the present to contain a creature born out of her magic.</desc>
+  </programme>
+  <programme start="20261115103000 +0000" stop="20261115110000 +0000" channel="cn-east">
+    <title>Unicorn: Warriors Eternal</title>
+    <sub-title>The Mystery of Secrets</sub-title>
+    <desc>Melinda and Edred seek a mechanical genius to fix Copernicus; Seng searches for the solution across the Sea of Time.</desc>
+  </programme>
+  <programme start="20261115110000 +0000" stop="20261115111000 +0000" channel="cn-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Tom-ic Energy</sub-title>
+    <desc>A high-speed, energetic Tom chases Jerry throughout the city; Tom chases Jerry through a bunch of different scenarios, never resting.</desc>
+  </programme>
+  <programme start="20261115111000 +0000" stop="20261115112000 +0000" channel="cn-east">
+    <title>Tom and Jerry</title>
+    <sub-title>The Night Before Christmas</sub-title>
+    <desc>Christmas Eve antics prompt Tom to toss Jerry out in the cold.</desc>
+  </programme>
+  <programme start="20261115112000 +0000" stop="20261115113000 +0000" channel="cn-east">
+    <title>Tom and Jerry</title>
+    <sub-title>The Bowling Alley Cat</sub-title>
+    <desc>Tom chases Jerry into an empty bowling alley.</desc>
+  </programme>
+  <programme start="20261115113000 +0000" stop="20261115114000 +0000" channel="cn-east">
+    <title>Tom and Jerry</title>
+    <sub-title>Fine Feathered Friend</sub-title>
+    <desc>Tom makes a mother hen angry.</desc>
+  </programme>
+  <programme start="20261115114000 +0000" stop="20261115115000 +0000" channel="cn-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Sufferin' Cats</sub-title>
+    <desc>Tom battles a scruffy cat for possession of Jerry.</desc>
+  </programme>
+  <programme start="20261115115000 +0000" stop="20261115120000 +0000" channel="cn-east">
+    <title>Tom &amp;amp; Jerry</title>
+    <sub-title>Baby Puss</sub-title>
+    <desc>Jerry makes fun of Tom after he is dressed as a baby by a little girl.</desc>
+  </programme>
+  <programme start="20261115120000 +0000" stop="20261115121000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Too Hop to Handle</sub-title>
+    <desc>Desiring Sylvester to teach him to catch mice, Sylvester Jr. creates a pipe that summons a kangaroo instead.</desc>
+  </programme>
+  <programme start="20261115121000 +0000" stop="20261115122000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>The Unexpected Pest</sub-title>
+    <desc>Sylvester must catch mice or lose his happy home.</desc>
+  </programme>
+  <programme start="20261115122000 +0000" stop="20261115123000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Box-Office Bunny</sub-title>
+    <desc>After a 100-screen movie theater is built over Bugs Bunny's rabbit hole, he goes to investigate but gets pursued by usher Elmer Fudd for not having a ticket.</desc>
+  </programme>
+  <programme start="20261115123000 +0000" stop="20261115124000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>From Hare to Eternity</sub-title>
+    <desc>Bugs Bunny gets back at Pirate Yosemite Sam for stealing his treasure chest.</desc>
+  </programme>
+  <programme start="20261115124000 +0000" stop="20261115125000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>Stupor Duck</sub-title>
+    <desc>Daffy Duck plays Cluck Trent by day and Stupor Duck by night to fight evil in a Superman parody.</desc>
+  </programme>
+  <programme start="20261115125000 +0000" stop="20261115130000 +0000" channel="cn-east">
+    <title>Looney Tunes</title>
+    <sub-title>The Slap-Hoppy Mouse</sub-title>
+    <desc>Local cat gossip says that Sylvester is no longer a great mouse catcher; to prove them wrong Sylvester takes his son mouse-catching.</desc>
+  </programme>
+  <programme start="20261115130000 +0000" stop="20261115133000 +0000" channel="cn-east">
+    <title>Scooby-Doo, Where Are You!</title>
+    <sub-title>Go Away Ghost Ship</sub-title>
+    <desc>The gang's boat collides with a freighter manned by Redbeard the pirate and a ghost crew.</desc>
+    <episode-num system="xmltv_ns">69014</episode-num>
+  </programme>
+  <programme start="20261115133000 +0000" stop="20261115140000 +0000" channel="cn-east">
+    <title>Scooby-Doo, Where Are You!</title>
+    <sub-title>Spooky Space Kook</sub-title>
+    <desc>The gang finds flying saucers and a spooky skeleton in an abandoned airfield.</desc>
+    <episode-num system="xmltv_ns">69015</episode-num>
+  </programme>
+  <programme start="20261115140000 +0000" stop="20261115143000 +0000" channel="cn-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>The Vampire Strikes Back</sub-title>
+    <desc>The gang visits the hex girls at a Transylvanian castle and run into a real-life vampire.</desc>
+    <episode-num system="xmltv_ns">15</episode-num>
+  </programme>
+  <programme start="20261115143000 +0000" stop="20261115150000 +0000" channel="cn-east">
+    <title>What's New Scooby-Doo?</title>
+    <sub-title>It's All Greek to Scooby</sub-title>
+    <desc>On a trip to Greece to visit ancient ruins, the gang encounters a centaur.</desc>
+    <episode-num system="xmltv_ns">21</episode-num>
+  </programme>
+  <programme start="20261115150000 +0000" stop="20261115153000 +0000" channel="cn-east">
+    <title>Tiny Toons Looniversity</title>
+    <sub-title>Tooned In Space</sub-title>
+    <desc>The toons take Marvin the Martian's class and head to space; Buster tries to cheer up a homesick Babs; Plucky searches for a space outfit.</desc>
+  </programme>
+  <programme start="20261115153000 +0000" stop="20261115154500 +0000" channel="cn-east">
+    <title>Jellystone!</title>
+    <sub-title>Sha-Zogi</sub-title>
+    <desc>Yogi gives Shazzan a break from his genie duties.</desc>
+  </programme>
+  <programme start="20261115154500 +0000" stop="20261115160000 +0000" channel="cn-east">
+    <title>Jellystone!</title>
+    <sub-title>Lil' Honk Honks</sub-title>
+    <desc>Everyone in town excitedly gets into racing each other with tiny cars.</desc>
+  </programme>
+  <programme start="20261115160000 +0000" stop="20261115161000 +0000" channel="cn-east">
+    <title>Grizzy and the Lemmings</title>
+    <sub-title>Lemming Fortune</sub-title>
+    <desc>Grizzy propels the Lemmings out of the log cabin and the critters land on a small traditional house in a bamboo forest where they discover a box full of fortune cookies.</desc>
+  </programme>
+  <programme start="20261115161000 +0000" stop="20261115162000 +0000" channel="cn-east">
+    <title>Grizzy and the Lemmings</title>
+    <sub-title>Tough Medicine</sub-title>
+    <desc>Grizzy steals the Lemmings' box of sesame nougat; upset, the Lemmings go on the hunt for some more, but in vain.</desc>
+  </programme>
+  <programme start="20261115162000 +0000" stop="20261115163000 +0000" channel="cn-east">
+    <title>Grizzy and the Lemmings</title>
+    <sub-title>Tai Chi Lemmings</sub-title>
+    <desc>The Lemmings accidentally stumble upon drawings of Tai Chi movements in a temple; they are eager to learn the moves.</desc>
+  </programme>
+  <programme start="20261115163000 +0000" stop="20261115164500 +0000" channel="cn-east">
+    <title>We Bare Bears</title>
+    <sub-title>More Everyone's Tube</sub-title>
+    <desc>Grizzly, Panda and Ice Bear upload even more videos of themselves and their friends to their online video channel.</desc>
+    <episode-num system="xmltv_ns">84</episode-num>
+  </programme>
+  <programme start="20261115164500 +0000" stop="20261115170000 +0000" channel="cn-east">
+    <title>We Bare Bears</title>
+    <sub-title>Money Man</sub-title>
+    <desc>The Bears help Chloe present her project for a college science contest, but Chloe's rival makes things difficult.</desc>
+    <episode-num system="xmltv_ns">104</episode-num>
+  </programme>
+  <programme start="20261115170000 +0000" stop="20261115171500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Spice It Up</sub-title>
+    <desc>A good chicken wing party needs a spicy sauce.</desc>
+  </programme>
+  <programme start="20261115171500 +0000" stop="20261115173000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Secret Menu Item</sub-title>
+    <desc>Mordecai and Rigby track down a legendary, top-secret meal. Their simple quest quickly escalates into chaos as they face absurd culinary challenges to order the ultimate secret menu item.</desc>
+  </programme>
+  <programme start="20261115173000 +0000" stop="20261115180000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Fix That Tape; Skips' Luau</sub-title>
+    <desc>A broken VHS tape needs to be fixed; Mordecai and Rigby want a burger with a special ingredient.</desc>
+  </programme>
+  <programme start="20261115180000 +0000" stop="20261115181500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Smoke Alarm on the Water</sub-title>
+    <desc>Mordecai and Rigby can't sleep because of the beep.</desc>
+  </programme>
+  <programme start="20261115181500 +0000" stop="20261115183000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Party Horse 4: Third Time's a Charm</sub-title>
+    <desc>The guys call an old friend to get the party started.</desc>
+  </programme>
+  <programme start="20261115183000 +0000" stop="20261115184500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Artist's Block</sub-title>
+    <desc>Mordecai gets freaked out by someone he used to babysit.</desc>
+  </programme>
+  <programme start="20261115184500 +0000" stop="20261115190000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Clean the Living Room</sub-title>
+    <desc>A covert mission must be completed before cleaning the living room.</desc>
+  </programme>
+  <programme start="20261115190000 +0000" stop="20261115191500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>That's Funny</sub-title>
+    <desc>Margaret faces extreme embarrassment after being caught faking her laughter.</desc>
+  </programme>
+  <programme start="20261115191500 +0000" stop="20261115193000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Cool Boss</sub-title>
+    <desc>Benson wants to be a cool boss.</desc>
+  </programme>
+  <programme start="20261115193000 +0000" stop="20261115200000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Regular Show Presents: Terror Tales of the Park VII Halloween Special</sub-title>
+    <desc>Some new Halloween stories!</desc>
+  </programme>
+  <programme start="20261115200000 +0000" stop="20261115201500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Blade Games</sub-title>
+    <desc>Benson struggles with his motivational approach; a secret nap spot causes major problems.</desc>
+  </programme>
+  <programme start="20261115201500 +0000" stop="20261115203000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Fix That Tape; Nap Spot</sub-title>
+    <desc>Reboot or continuation of the classic Cartoon Network series.</desc>
+  </programme>
+  <programme start="20261115203000 +0000" stop="20261115204500 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Fix That Tape; Coffee Shop Wars</sub-title>
+    <desc>Reboot or continuation of the classic Cartoon Network series.</desc>
+  </programme>
+  <programme start="20261115204500 +0000" stop="20261115210000 +0000" channel="cn-east">
+    <title>Regular Show: The Lost Tapes</title>
+    <sub-title>Boba or Bo-Bust</sub-title>
+    <desc>Mordecai and Rigby are two best friends who work and live in a local park; they have to unload a load of boba.</desc>
+  </programme>
+  <programme start="20261115210000 +0000" stop="20261116100000 +0000" channel="cn-east">
+    <title>Off Air</title>
+    <sub-title>Off Air</sub-title>
+    <desc>Off Air</desc>
+  </programme>
+  <programme start="20261116100000 +0000" stop="20261116103000 +0000" channel="cn-east">
+    <title>Home Movies</title>
+    <sub-title>Camp</sub-title>
+    <desc>Brendan, Jason and Melissa attend a performing arts camp to make better movies.</desc>
+    <episode-num system="xmltv_ns">48</episode-num>
+  </programme>
+  <programme start="20261116103000 +0000" stop="20261116110000 +0000" channel="cn-east">
+    <title>Home Movies</title>
+    <sub-title>Bye Bye Greasy</sub-title>
+    <desc>Brendon directs the school play. McGuirk is thrilled about getting to drive a car onstage.</desc>
+    <episode-num system="xmltv_ns">49</episode-num>
+  </programme>
+</tv>

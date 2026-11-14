@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="disney-east">
+    <display-name>Disney East</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10171_h15_ae.png"/>
+  </channel>
+  <programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Chest; Omelette; Pass the Parcel</sub-title>
+    <desc>Dad tries to teach Bluey how to play chess, but Mom thinks she is still too young; Bingo helps Mom make an omelette for Dad's birthday; Lucky's Dad is outraged that modern Pass the Parcel has a present in every layer.</desc>
+  </programme>
+  <programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="disney-east">
+    <title>Pupstruction</title>
+    <sub-title>Pups On the Moon; Too Many Toys</sub-title>
+    <desc>The Pups build a Moon Camp; the Toy Store build.</desc>
+  </programme>
+  <programme start="20261113120000 +0000" stop="20261113123000 +0000" channel="disney-east">
+    <title>Marvel's Spidey and His Amazing Friends</title>
+    <sub-title>It's Raining Pranks; Jeff Bites Back</sub-title>
+    <desc>Spidey, Rocket and Groot save a beautiful day from Green Goblin's prank machine; Team Spidey helps Jeff the Land Shark after he loses a tooth and is captured by Doc Ock.</desc>
+    <episode-num system="xmltv_ns">511</episode-num>
+  </programme>
+  <programme start="20261113123000 +0000" stop="20261113130000 +0000" channel="disney-east">
+    <title>Marvel's Spidey and His Amazing Friends</title>
+    <sub-title>Saving Spider Island; A Ribbiting Rescue</sub-title>
+    <desc>Spidey and Jeff save Spider Island from a pirate Green Goblin and Doc Ock.; Team Spidey swings to the rescue after Miles loses his little pet frog in the big city.</desc>
+    <episode-num system="xmltv_ns">412</episode-num>
+  </programme>
+  <programme start="20261113130000 +0000" stop="20261113133000 +0000" channel="disney-east">
+    <title>Iron Man and His Awesome Friends</title>
+    <sub-title>Absorbing Man and the Super Strong Vibranium; Captain America and Loki's Shield Chase</sub-title>
+    <desc>Absorbing Man absorbs super-strong Vibranium; Loki steals Captain America's shield and makes it giant-sized.</desc>
+  </programme>
+  <programme start="20261113133000 +0000" stop="20261113140000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Housework; Sheepdog; Explorers</sub-title>
+    <desc>Mum and Dad need to finish their housework; Dad, Bluey and Bingo play Sheepdog; Jack pretends to be a sailor on his way home.</desc>
+  </programme>
+  <programme start="20261113140000 +0000" stop="20261113143000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Phones; Pavlova; Rain</sub-title>
+    <desc>Bluey and Bingo play restaurant with Grandad; the kids play Café, so Bingo can eat Pavlova; Bluey tracks mud into the house.</desc>
+  </programme>
+  <programme start="20261113143000 +0000" stop="20261113150000 +0000" channel="disney-east">
+    <title>Sofia the First: Royal Magic</title>
+    <sub-title>Veggie Good Deed; The Lilygnome</sub-title>
+    <desc>Wanting to do a good deed, Amber helps Sofia with the village feast but causes some magical problems instead; Sofia needs Layla's help to tame a mischievous magical flower.</desc>
+  </programme>
+  <programme start="20261113150000 +0000" stop="20261113152500 +0000" channel="disney-east">
+    <title>Mickey Mouse Clubhouse+</title>
+    <sub-title>Minnie's Pet Party</sub-title>
+    <desc>Minnie hosts a pet party at her clubhouse; Daisy accidentally spooks the pets, and they run away; Mickey, Minnie and Daisy need our help to find the pets in time.</desc>
+  </programme>
+  <programme start="20261113152500 +0000" stop="20261113153500 +0000" channel="disney-east">
+    <title>Gracie's Corner</title>
+    <sub-title>Veggie Dances</sub-title>
+    <desc>Sing about vegetables with Gracie and friends.</desc>
+  </programme>
+  <programme start="20261113153500 +0000" stop="20261113160000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Pizza Girls; Tina; Whale Watching</sub-title>
+    <desc>Bluey and Bingo make mud pizzas; Bluey and Bingo's giant, invisible friend, Tina; Bluey promises her customer Bingo the best tour ever.</desc>
+  </programme>
+  <programme start="20261113160000 +0000" stop="20261113163000 +0000" channel="disney-east">
+    <title>SuperKitties</title>
+    <sub-title>Bistro Bungle; Zoomie Ball</sub-title>
+    <desc>Cat Burglar takes the cake; Willa gets the Zoomies.</desc>
+  </programme>
+  <programme start="20261113163000 +0000" stop="20261113170000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Faceytalk; Ragdoll; Fairytale</sub-title>
+    <desc>Bluey and Bingo love to video chat; Dad agrees to buy ice cream; Dad tells a real-life fairy tale.</desc>
+  </programme>
+  <programme start="20261113170000 +0000" stop="20261113173000 +0000" channel="disney-east">
+    <title>Sofia the First: Royal Magic</title>
+    <sub-title>Kidding Around; Puppercorn Ruckus</sub-title>
+    <desc>Sofia turns her mom into a kid; Camila's big project.</desc>
+  </programme>
+  <programme start="20261113173000 +0000" stop="20261113180000 +0000" channel="disney-east">
+    <title>Disney Jr. Ariel - The Little Mermaid</title>
+    <sub-title>Flounder's Boo Boo; The Marvelous Mahi-Mahi Brothers</sub-title>
+    <desc>When Flounder gets a boo boo on his fin, he does everything he can to avoid getting checked; Ariel learns about a traveling group of performers that Triton loved as a child.</desc>
+    <episode-num system="xmltv_ns">206</episode-num>
+  </programme>
+  <programme start="20261113180000 +0000" stop="20261113183000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Dirt; Cricket; Driving</sub-title>
+    <desc>Judo wants to play in the dirt with Bluey and Bingo; during a cricket game, the dads struggle to bowl Rusty out; Bluey and Mum race against the clock to buy milk for a grumpy guest.</desc>
+  </programme>
+  <programme start="20261113183000 +0000" stop="20261113190000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Turtle Boy; Onesies; Tradies</sub-title>
+    <desc>Bingo finds a toy turtle at the playground and wants to take him home; Mom's sister Brandy comes over for a visit; Bluey and Bingo hide under the house and spy on two mysterious tradies working in the backyard.</desc>
+  </programme>
+  <programme start="20261113190000 +0000" stop="20261113193000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Promises; Magic; Mini Bluey</sub-title>
+    <desc>Bluey keeps breaking her promises; Bluey teaches Bingo how to use magic; Bluey teaches Bingo to be more like him.</desc>
+    <episode-num system="xmltv_ns">302</episode-num>
+  </programme>
+  <programme start="20261113193000 +0000" stop="20261113200000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Unicorse; Born Yesterday; Curry Quest</sub-title>
+    <desc>Bluey can't get to sleep, so Mum reads her a story; Dad pretends he was born yesterday; Bingo and Dad brave a magpie protecting its nest.</desc>
+  </programme>
+  <programme start="20261113200000 +0000" stop="20261113203000 +0000" channel="disney-east">
+    <title>Kiff</title>
+    <sub-title>Trash Clumpers; Wiff &amp;amp; Larry</sub-title>
+    <desc>Kiff and Barry pick up trash in the park but can't decide what is trash; Trevor works out his frustrations by writing libelous stories about Kiff and Barry.</desc>
+  </programme>
+  <programme start="20261113203000 +0000" stop="20261113210000 +0000" channel="disney-east">
+    <title>Phineas and Ferb</title>
+    <sub-title>No Slumber Party; The Ballad of Bubba Doof</sub-title>
+    <desc>The kids have a sleepover; Doof's cousin traps Perry.</desc>
+  </programme>
+  <programme start="20261113210000 +0000" stop="20261113213000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Stand-Up Bill; Green Trial</sub-title>
+    <desc>Bill discovers his favorite comedian, Fred the Farmer, may not be who he claims to be; Tilly defends Cricket at a family trial after he's accused of stealing an entire cake.</desc>
+    <episode-num system="xmltv_ns">402</episode-num>
+  </programme>
+  <programme start="20261113213000 +0000" stop="20261113220000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Bad Dad; Junk Junkie</sub-title>
+    <desc>Cricket and Tilly get to know their grandpa; Nancy scrambles to find him a job; to ensure his family's future security, Bill becomes a hoarder.</desc>
+    <episode-num system="xmltv_ns">403</episode-num>
+  </programme>
+  <programme start="20261113220000 +0000" stop="20261113223000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Handshaken; Coffee Mates</sub-title>
+    <desc>After being mocked for his handshake, Cricket trains for a Western-style handshake duel; Gloria combines her work life and social life by hiring her friends as employees.</desc>
+    <episode-num system="xmltv_ns">404</episode-num>
+  </programme>
+  <programme start="20261113223000 +0000" stop="20261113230000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Bob Bilby; Spygame; Takeaway</sub-title>
+    <desc>It's Bingo's turn with Kindy's Bob Bilby puppet; a game goes haywire when Bingo stops playing; five minutes feel like an eternity when waiting.</desc>
+  </programme>
+  <programme start="20261113230000 +0000" stop="20261113233000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Grannies; Yoga Ball; Calypso</sub-title>
+    <desc>Bluey and Bingo call Nana to ask one major question; Bingo finds her big girl bark; teacher Calypso has her hands full in the classroom.</desc>
+  </programme>
+  <programme start="20261113233000 +0000" stop="20261114000000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <desc>The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.</desc>
+  </programme>
+  <programme start="20261114000000 +0000" stop="20261114003000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Internetted; Guiding Gregly</sub-title>
+    <desc>Tilly goes down an internet rabbit hole to figure out what happened to her favorite ice cream treat; Cricket tries to teach Gregly how to make friends.</desc>
+    <episode-num system="xmltv_ns">406</episode-num>
+  </programme>
+  <programme start="20261114003000 +0000" stop="20261114010000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Family Tree; Unguarded</sub-title>
+    <desc>Bill just wants Tilly to come down from a tree; when Remy tells Vasquez that he no longer needs his protection, Vasquez speaks with a therapist.</desc>
+    <episode-num system="xmltv_ns">407</episode-num>
+  </programme>
+  <programme start="20261114010000 +0000" stop="20261114024500 +0000" channel="disney-east">
+    <title>Movie</title>
+    <sub-title>Tangled</sub-title>
+    <desc>Crowned with 70 feet of magical golden hair, Rapunzel strikes a deal with a charming thief to spring her from her prison tower.</desc>
+  </programme>
+  <programme start="20261114024500 +0000" stop="20261114031000 +0000" channel="disney-east">
+    <title>Kiff</title>
+    <sub-title>Lights Out; Dinner at Barry's</sub-title>
+    <desc>Kiff and Barry accidentally cause a town-wide blackout by upsetting a Lighthouse Keeper. Kiff has dinner at the Buns' and has to hide that she hates the food.</desc>
+  </programme>
+  <programme start="20261114031000 +0000" stop="20261114033500 +0000" channel="disney-east">
+    <title>Kiff</title>
+    <sub-title>Taily; Cocina Island</sub-title>
+    <desc>Kiff runs for class president against a surprise candidate, Mr. RiPeppa. The Chatterleys take Barry on their island vacation, but he seems to have a dark secret.</desc>
+  </programme>
+  <programme start="20261114033500 +0000" stop="20261114040000 +0000" channel="disney-east">
+    <title>Kiff</title>
+    <sub-title>Up All Night; Rotten Banana</sub-title>
+    <desc>Kiff and Barry try to stay awake until 4am to see a very special comet. Kiff meets a bad banana.</desc>
+  </programme>
+  <programme start="20261114040000 +0000" stop="20261114043000 +0000" channel="disney-east">
+    <title>Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title>Queen of the Dreadzone</sub-title>
+    <desc>Chloé Bourgeois returns to Paris to film a movie at the school; Sabrina hopes Chloé has changed for the better; Marinette fears the worst; Chrysalis ultimately akumatizes Chloé into Queen of the Dreadzone.</desc>
+  </programme>
+  <programme start="20261114043000 +0000" stop="20261114050000 +0000" channel="disney-east">
+    <title>Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title>Secret Protocol</sub-title>
+    <desc>Marinette plans a surprise for Sabine's birthday, but she is the one caught by surprise when Uncle Wang turns up especially from Shanghai in order to spend the day with the whole family; the joy of seeing her uncle again is short-lived.</desc>
+  </programme>
+  <programme start="20261114050000 +0000" stop="20261114053000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Pen Pals; Study Abroad</sub-title>
+    <desc>Tilly and Andromeda exchange letters that reveal their outlooks on the world; Remy enlists the Greens to help him lie to his parents about his week in the country.</desc>
+    <episode-num system="xmltv_ns">316</episode-num>
+  </programme>
+  <programme start="20261114053000 +0000" stop="20261114060000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Honey Heist; Dog Mayor</sub-title>
+    <desc>The kids plan a heist to steal honey from Bill's beehive; Cricket and Remy run a campaign to get Phoenix, the dog, elected as mayor.</desc>
+    <episode-num system="xmltv_ns">317</episode-num>
+  </programme>
+  <programme start="20261114060000 +0000" stop="20261114063000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Chill Bill; Bunny</sub-title>
+    <desc>Cricket discovers lake life brings out Bill's fun-loving side; when rabbits threaten to destroy Bill's crops, Nancy enlists their country friends to save the harvest.</desc>
+    <episode-num system="xmltv_ns">318</episode-num>
+  </programme>
+  <programme start="20261114063000 +0000" stop="20261114070000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Long Goodbye</sub-title>
+    <desc>When the Greens return Gramma and Remy to Big City, they are determined to delay their goodbyes for as long as possible.</desc>
+    <episode-num system="xmltv_ns">319</episode-num>
+  </programme>
+  <programme start="20261114070000 +0000" stop="20261114073000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Truck Stopped; Jingled</sub-title>
+    <desc>Tilly and Cricket wrestle with decision-making at a truck stop between Big City and the country; Tilly rises through the ranks as a Big City jingle writer.</desc>
+    <episode-num system="xmltv_ns">401</episode-num>
+  </programme>
+  <programme start="20261114073000 +0000" stop="20261114080000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Stand-Up Bill; Green Trial</sub-title>
+    <desc>Bill discovers his favorite comedian, Fred the Farmer, may not be who he claims to be; Tilly defends Cricket at a family trial after he's accused of stealing an entire cake.</desc>
+    <episode-num system="xmltv_ns">402</episode-num>
+  </programme>
+  <programme start="20261114080000 +0000" stop="20261114083000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Bad Dad; Junk Junkie</sub-title>
+    <desc>Cricket and Tilly get to know their grandpa; Nancy scrambles to find him a job; to ensure his family's future security, Bill becomes a hoarder.</desc>
+    <episode-num system="xmltv_ns">403</episode-num>
+  </programme>
+  <programme start="20261114083000 +0000" stop="20261114090000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Handshaken; Coffee Mates</sub-title>
+    <desc>After being mocked for his handshake, Cricket trains for a Western-style handshake duel; Gloria combines her work life and social life by hiring her friends as employees.</desc>
+    <episode-num system="xmltv_ns">404</episode-num>
+  </programme>
+  <programme start="20261114090000 +0000" stop="20261114093000 +0000" channel="disney-east">
+    <title>Kiff</title>
+    <sub-title>Hungee Squirrel; Foreverangees</sub-title>
+    <desc>An unflattering photo of Kiff goes viral; a curse puts friendships to the test; Kiff and Barry's relationship is in trouble.</desc>
+    <episode-num system="xmltv_ns">125</episode-num>
+  </programme>
+  <programme start="20261114093000 +0000" stop="20261114100000 +0000" channel="disney-east">
+    <title>Kiff</title>
+    <sub-title>Snow More Ketchup; Kiff and Barry Go To Prom</sub-title>
+    <desc>Tensions rise when everyone is trapped in the Fox mansion during a snowstorm and ketchup shortage; Kiff, Barry and Trevor crash the high school prom to feed their gossip hunger.</desc>
+    <episode-num system="xmltv_ns">126</episode-num>
+  </programme>
+  <programme start="20261114100000 +0000" stop="20261114103000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Granny Mobile / Space / Cubby</sub-title>
+    <desc>Muffin is playing Grouchy Granny at a garage sale, making Dad push her on an old mobility scooter; Mackenzie, Jack and Rusty are playing astronauts, but Mackenzie keeps going missing; Bluey and Bingo build a very special cubby for their stuffed toy.</desc>
+  </programme>
+  <programme start="20261114103000 +0000" stop="20261114110000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Musical Statues; Stories; Puppets</sub-title>
+    <desc>Mum gets everyone to play musical statues.</desc>
+  </programme>
+  <programme start="20261114110000 +0000" stop="20261114113000 +0000" channel="disney-east">
+    <title>Mickey Mouse Clubhouse+</title>
+    <sub-title>Minnie's Pet Party</sub-title>
+    <desc>Minnie hosts a pet party at her clubhouse; Daisy accidentally spooks the pets, and they run away; Mickey, Minnie and Daisy need our help to find the pets in time.</desc>
+  </programme>
+  <programme start="20261114113000 +0000" stop="20261114120000 +0000" channel="disney-east">
+    <title>Sofia the First: Royal Magic</title>
+    <sub-title>The Enchanted Lake / Tricky Trixie</sub-title>
+    <desc>Zane accidentally loses Layla's treasured notebook in the Charmswell lake; Camila lets a friendly troll borrow her wand, and the troll runs away with it.</desc>
+  </programme>
+  <programme start="20261114120000 +0000" stop="20261114123000 +0000" channel="disney-east">
+    <title>SuperKitties</title>
+    <sub-title>Bistro Bungle; Zoomie Ball</sub-title>
+    <desc>Cat Burglar takes the cake; Willa gets the Zoomies.</desc>
+  </programme>
+  <programme start="20261114123000 +0000" stop="20261114130000 +0000" channel="disney-east">
+    <title>Iron Man and His Awesome Friends</title>
+    <sub-title>Tony and the Rolling Stones; Ironhearts Muddy Adventure</sub-title>
+    <desc>Tony tries to move a boulder blocking the trail; Riri wants to play paper boats, but Swarm has drained the creek to ruin the park.</desc>
+  </programme>
+  <programme start="20261114130000 +0000" stop="20261114133000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Perked Up; Chicken Coup</sub-title>
+    <desc>Doug Perkins tells Gloria about his adventures with the Greens; Cogburn enters the wilderness in his quest for power.</desc>
+  </programme>
+  <programme start="20261114133000 +0000" stop="20261114140000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Wise Gals / Big Sweater</sub-title>
+    <desc>Nancy worries she's grown boring, so she takes Gloria out for a night of fun; Nick destroys Smalton's new roadside attraction and is ordered to knit a new big sweater.</desc>
+  </programme>
+  <programme start="20261114140000 +0000" stop="20261114143000 +0000" channel="disney-east">
+    <title>Phineas and Ferb</title>
+    <sub-title>The Aurora Perry-Alis; Lord of the Firesides</sub-title>
+    <desc>The Flynn-Fletchers take a cruise; Doof steals shrunken goods; Isabella struggles to lead the Fireside Girls on her own, while Doof renews his evil business license.</desc>
+  </programme>
+  <programme start="20261114143000 +0000" stop="20261114150000 +0000" channel="disney-east">
+    <title>Phineas and Ferb</title>
+    <sub-title>The Candace Suit; Agent T (for Teen)</sub-title>
+    <desc>Candace puts Mom in a Candace costume in hopes that she'll finally see the boys' invention; Stacy takes on an agent role with OWCA to rescue Perry from some evil scientists.</desc>
+  </programme>
+  <programme start="20261114150000 +0000" stop="20261114163500 +0000" channel="disney-east">
+    <title>Movie</title>
+    <sub-title>The Lion King</sub-title>
+    <desc>After the death of his royal father, a young lion returns to battle his scheming uncle for the jungle throne.</desc>
+  </programme>
+  <programme start="20261114163500 +0000" stop="20261114181500 +0000" channel="disney-east">
+    <title>Movie</title>
+    <sub-title>Brave</sub-title>
+    <desc>A courageous Scottish princess (Kelly Macdonald) must figure out how to undo a beastly curse after an eccentric witch (Julie Walters) grants her an ill-fated wish.</desc>
+  </programme>
+  <programme start="20261114181500 +0000" stop="20261114184000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Hammerbarn; Feather Wand; Dance Mode</sub-title>
+    <desc>The Heelers take a trip to Hammerbarn; Bingo has an idea for a new game; Dad eats Bingo's last chip.</desc>
+  </programme>
+  <programme start="20261114184000 +0000" stop="20261114190500 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Squash; Charades; Bingo</sub-title>
+    <desc>Bluey and Bingo help Uncle Stripe and Bandit play squash and spend the day with Nana; Bingo has to learn to play alone.</desc>
+  </programme>
+  <programme start="20261114190500 +0000" stop="20261114193000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Sleepytime; Daddy Dropoff; Favorite Thing</sub-title>
+    <desc>The Heelers take turns remembering their favorite thing from the day; it's Dad's turn to give the kids breakfast and drop them off at school; Bingo promises to wake up in her own bed.</desc>
+  </programme>
+  <programme start="20261114193000 +0000" stop="20261114200000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Rug Island; Hairdressers; Sticky Gecko</sub-title>
+    <desc>Dad washes up on the beach of a desert island; hairdressers Bluey and Bingo discover that their customer has nits; Bluey and Bingo wait for a rubber gecko to fall from the ceiling.</desc>
+  </programme>
+  <programme start="20261114200000 +0000" stop="20261114203000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Flat Pack; Queens; Train</sub-title>
+    <desc>Bluey and Bingo construct a mini-civilization; Mum is crowned Queen with the girls as her butlers; Bluey and Bingo commute on the Dad-Train.</desc>
+  </programme>
+  <programme start="20261114203000 +0000" stop="20261114210000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Army; Fancy Restaurant; Stumpfest</sub-title>
+    <desc>Jack and Rusty play Army at school; the girls set up a fancy restaurant for Mum and Dad; Bluey, Bingo and Muffin strike a deal with the dads.</desc>
+  </programme>
+  <programme start="20261114210000 +0000" stop="20261114213000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Boss Life; Papaganda</sub-title>
+    <desc>Bill forces his family to embrace a live, laugh, love philosophy; Gloria tries to maintain her café's perfect rating.</desc>
+    <episode-num system="xmltv_ns">302</episode-num>
+  </programme>
+  <programme start="20261114213000 +0000" stop="20261114220000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Little Buddy; Zen Garden</sub-title>
+    <desc>Cricket mentors a wild child; Tilly develops a cult following; Nancy tries to prove herself on the farm; Bill struggles to relax at a fancy spa with Gramma.</desc>
+    <episode-num system="xmltv_ns">303</episode-num>
+  </programme>
+  <programme start="20261114220000 +0000" stop="20261114223000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>No Service; Takened</sub-title>
+    <desc>Cricket is halted at a convenience store due to its no shoes, no service policy; when Remy throws Vasquez a surprise party, Bill's secret-keeping is put to the test.</desc>
+    <episode-num system="xmltv_ns">304</episode-num>
+  </programme>
+  <programme start="20261114223000 +0000" stop="20261114230000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Green Greens; Truce Bomb</sub-title>
+    <desc>Tilly and Bill set off on an epic journey to recycle a fluorescent light bulb at an e-waste center; Tilly tries to solve a long-standing feud between Gramma and Mr. Grigorian.</desc>
+    <episode-num system="xmltv_ns">305</episode-num>
+  </programme>
+  <programme start="20261114230000 +0000" stop="20261114233000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Trivia Night; Big Trouble</sub-title>
+    <desc>Cricket wants to prove to his family that he is not dumb during trivia night at the café; Tilly gets punished for the first time and decides to break bad.</desc>
+    <episode-num system="xmltv_ns">306</episode-num>
+  </programme>
+  <programme start="20261114233000 +0000" stop="20261114235500 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Perked Up; Chicken Coup</sub-title>
+    <desc>Doug Perkins tells Gloria about his adventures with the Greens; Cogburn enters the wilderness in his quest for power.</desc>
+  </programme>
+  <programme start="20261114235500 +0000" stop="20261115000000 +0000" channel="disney-east">
+    <title>Locker Diaries: Coven Academy</title>
+    <sub-title>The Binding</sub-title>
+    <desc>After discovering a spell has taken her powers and her memories, Briar must discover how to reverse the magical binding before it becomes permanent.</desc>
+  </programme>
+  <programme start="20261115000000 +0000" stop="20261115014000 +0000" channel="disney-east">
+    <title>Movie</title>
+    <sub-title>Inside Out 2</sub-title>
+    <desc>Joy, Sadness, Anger, Fear and Disgust have been running a successful operation by all accounts. However, when Anxiety shows up, they aren't sure how to feel.</desc>
+  </programme>
+  <programme start="20261115014000 +0000" stop="20261115020500 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Cricket's Kapowie!; Car Trouble</sub-title>
+    <desc>Cricket earns a role in Big Coffee's new TV commercial but loses his confidence; Bill gets more than he bargained for when he trades in his pickup for a cutting-edge electric car.</desc>
+    <episode-num system="xmltv_ns">201</episode-num>
+  </programme>
+  <programme start="20261115020500 +0000" stop="20261115023000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Urban Legend; Wishing Well</sub-title>
+    <desc>When Bill learns that Gramma has been purposely creating a bad reputation around town, he throws a barbecue to befriend the neighbors; Cricket's scheme to cash in on a wishing well snares Tilly, leaving Cricket with a dilemma.</desc>
+    <episode-num system="xmltv_ns">202</episode-num>
+  </programme>
+  <programme start="20261115023000 +0000" stop="20261115030000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Elevator Action; Bad Influencer</sub-title>
+    <desc>Gloria gets stuck on an elevator with the Greens; Remy falls under the sway of an internet influencer.</desc>
+    <episode-num system="xmltv_ns">204</episode-num>
+  </programme>
+  <programme start="20261115030000 +0000" stop="20261115033000 +0000" channel="disney-east">
+    <title>Phineas and Ferb</title>
+    <sub-title>The Nightmare-Inator; Doof in Retrograde</sub-title>
+    <desc>Doof's dream-project-inator misfires and projects people's dreams for all to see; Doof becomes the center of his own solar system while Irving tries to impress Phineas and Ferb.</desc>
+  </programme>
+  <programme start="20261115033000 +0000" stop="20261115040000 +0000" channel="disney-east">
+    <title>Phineas and Ferb</title>
+    <sub-title>Bend It Like Doof; Dooflicated</sub-title>
+    <desc>OWCA and LOVEMUFFIN face off in a soccer match while the boys help Buford with his aim; people around Danville turn evil after being hit by Doof's latest inator.</desc>
+  </programme>
+  <programme start="20261115040000 +0000" stop="20261115043000 +0000" channel="disney-east">
+    <title>Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title>Nemesis</sub-title>
+    <desc>While Marinette sees Alya get increasingly closer to uncovering her secrets, Ladybug comes up with a plan to flush the new holder of the Butterfly Miraculous out.</desc>
+  </programme>
+  <programme start="20261115043000 +0000" stop="20261115050000 +0000" channel="disney-east">
+    <title>Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title>The Illustrhater</sub-title>
+    <desc>Ladybug and her team face a villain full of imagination.</desc>
+  </programme>
+  <programme start="20261115050000 +0000" stop="20261115053000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Iced; Chipped Off</sub-title>
+    <desc>Gramma butts heads with Nick when he crashes her special family hockey outing; Chip Whistler recounts what happened to him since </desc>
+    <episode-num system="xmltv_ns">405</episode-num>
+  </programme>
+  <programme start="20261115053000 +0000" stop="20261115060000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Internetted; Guiding Gregly</sub-title>
+    <desc>Tilly goes down an internet rabbit hole to figure out what happened to her favorite ice cream treat; Cricket tries to teach Gregly how to make friends.</desc>
+    <episode-num system="xmltv_ns">406</episode-num>
+  </programme>
+  <programme start="20261115060000 +0000" stop="20261115063000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Family Tree; Unguarded</sub-title>
+    <desc>Bill just wants Tilly to come down from a tree; when Remy tells Vasquez that he no longer needs his protection, Vasquez speaks with a therapist.</desc>
+    <episode-num system="xmltv_ns">407</episode-num>
+  </programme>
+  <programme start="20261115063000 +0000" stop="20261115070000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Concrete Jungle; Starter Pack</sub-title>
+    <desc>A nature documentary portrays Big City as a wild ecosystem; avid collector Remy struggles to cope after Cricket finds the rarest of all trading cards.</desc>
+  </programme>
+  <programme start="20261115070000 +0000" stop="20261115073000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Dollar Sense; True Cawing</sub-title>
+    <desc>To prove to his parents that he is money-wise, Remy starts his own business; feeling neglected by his family, Bill befriends a murder of crows.</desc>
+    <episode-num system="xmltv_ns">409</episode-num>
+  </programme>
+  <programme start="20261115073000 +0000" stop="20261115080000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Fortune Feller; No Escape</sub-title>
+    <desc>Cricket tries to avoid a fortune-teller's ominous prediction that he will get a stinky slap; in an inescapable escape room, Cricket must decide between family and freedom.</desc>
+  </programme>
+  <programme start="20261115080000 +0000" stop="20261115083000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Dream Tree; Blue Greens</sub-title>
+    <desc>Bill and Cricket follow clues from Cricket's dream to search the woods for the perfect Christmas tree; Tilly catches ennui, so Cricket tries to cheer her up.</desc>
+  </programme>
+  <programme start="20261115083000 +0000" stop="20261115090000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Dog Proof; Cricket Control</sub-title>
+    <desc>Cricket is caught eating dog food by Gloria and must stop her from revealing his secret shame; Bill installs a parenting device to monitor and discipline Cricket for him.</desc>
+  </programme>
+  <programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="disney-east">
+    <title>Kiff</title>
+    <sub-title>Kiff Is Good at Sports; Mushroommates</sub-title>
+    <desc>Kiff discovers a hidden talent and finds out she is good at sports; unwelcome intruders overtake the Chatterley's backyard.</desc>
+    <episode-num system="xmltv_ns">127</episode-num>
+  </programme>
+  <programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="disney-east">
+    <title>Kiff</title>
+    <sub-title>Principal Helen; Dial B for Butt</sub-title>
+    <desc>Kiff and Barry intervene when Helen fills in for Principal Secretary; Kiff and her mom receive an ominous butt dial.</desc>
+    <episode-num system="xmltv_ns">128</episode-num>
+  </programme>
+  <programme start="20261115100000 +0000" stop="20261115103000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Exercise; Stickbird; Relax</sub-title>
+    <desc>The slice-of-life adventures of an Australian Blue Heeler Cattle Dog puppy.</desc>
+  </programme>
+  <programme start="20261115103000 +0000" stop="20261115110000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Show and Tell; Wild Girls; The Decider</sub-title>
+    <desc>Bluey wants to know why Dad's always bossing her around; Coco wants to play Wild Girls with Indy, but Chloe wants her to play another game; Lucky's Dad, Lucky and Chucky have come over to the Heelers' house to watch a rugby final together.</desc>
+  </programme>
+  <programme start="20261115110000 +0000" stop="20261115113000 +0000" channel="disney-east">
+    <title>Mickey Mouse Clubhouse+</title>
+    <sub-title>Minnie Mouse Clubhouse</sub-title>
+    <desc>When the Clubhouse is busy, Minnie can't use the kitchen or Anywhere Areas; Mickey surprises her with her own pink Clubhouse, thanks to Von Drake's invention.</desc>
+  </programme>
+  <programme start="20261115113000 +0000" stop="20261115120000 +0000" channel="disney-east">
+    <title>Sofia the First: Royal Magic</title>
+    <sub-title>When Clover Met Pepper / A Wand-erful Day</sub-title>
+    <desc>Clover meets Pepper when he visits Sofia's castle, and Clover worries Sofia has a new best pet friend. James accidentally breaks Sofia's wand and replaces it with a trick wand.</desc>
+  </programme>
+  <programme start="20261115120000 +0000" stop="20261115123000 +0000" channel="disney-east">
+    <title>SuperKitties</title>
+    <sub-title>Friendsgiving Feast</sub-title>
+    <desc>When the Glamsters steal treats and decorations around Kittydale, the SuperKitties and Willa race to save everyone's Friendsgiving traditions, with help from Eddie's Uncle Tony!</desc>
+  </programme>
+  <programme start="20261115123000 +0000" stop="20261115130500 +0000" channel="disney-east">
+    <title>Marvel's Spidey and His Amazing Friends</title>
+    <sub-title>A Helping Handful; Adventures Down the Drain</sub-title>
+    <desc>When Herbie gets bonked and forgets who he is, he accidentally helps Rhino with his villainous ideas; Spidey and Lizard get shrunk down by Lizard's potion and lost in the sewers.</desc>
+  </programme>
+  <programme start="20261115130500 +0000" stop="20261115133000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Fitness Test / The Farmies</sub-title>
+    <desc>Remy excuses himself from the mayoral fitness test and Cricket is turned into a super soldier; Bill competes for the Golden Gourd award while Tilly falls for a Hot Potato.</desc>
+  </programme>
+  <programme start="20261115133000 +0000" stop="20261115140000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Metal Heads; Potted Meat</sub-title>
+    <desc>Bill buys the kids a metal detector; when Gramma complains that Cricket and Tilly are soft, the kids try to prove they can handle the deprivations of Gramma's childhood.</desc>
+  </programme>
+  <programme start="20261115140000 +0000" stop="20261115143000 +0000" channel="disney-east">
+    <title>Phineas and Ferb</title>
+    <sub-title>The Haberdasher; Out of Character</sub-title>
+    <desc>Doof becomes a Mothman; the boys make a movie set.</desc>
+  </programme>
+  <programme start="20261115143000 +0000" stop="20261115150000 +0000" channel="disney-east">
+    <title>Phineas and Ferb</title>
+    <sub-title>The Chronicles of Meap: Meap Me in St. Louis</sub-title>
+    <desc>Meap enlists Candace and the kids to help bust his nemesis, Mitch, before he can steal a long-lost treasure hidden somewhere on Earth.</desc>
+  </programme>
+  <programme start="20261115150000 +0000" stop="20261115163500 +0000" channel="disney-east">
+    <title>Movie</title>
+    <sub-title>Tarzan</sub-title>
+    <desc>A man raised by apes in the African jungle encounters a professor, his daughter and a suspicious hunter.</desc>
+  </programme>
+  <programme start="20261115163500 +0000" stop="20261115182500 +0000" channel="disney-east">
+    <title>Movie</title>
+    <sub-title>Zootopia</sub-title>
+    <desc>Rookie police rabbit Judy Hopps works with a wily fox to solve a mysterious case in the mammal metropolis of Zootopia.</desc>
+  </programme>
+  <programme start="20261115182500 +0000" stop="20261115185000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>The Show; Tickle Crabs; Escape</sub-title>
+    <desc>Bingo and Bluey put on a Mother's Day show; The kids play Tickle Crabs with Dad; Bluey and Bingo get dropped off at Nana's.</desc>
+  </programme>
+  <programme start="20261115185000 +0000" stop="20261115191500 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Bus; Mum School; Piggyback</sub-title>
+    <desc>The Heelers play a game of Bus; Mum and Bluey play Mum School, where Mum teaches Bluey how to corral her rowdy kids; Bingo decides she's too tired to walk and needs a piggyback.</desc>
+  </programme>
+  <programme start="20261115191500 +0000" stop="20261115194000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>See Saw; Movies; Grandad</sub-title>
+    <desc>Dad plants himself on one end of the seesaw; it is Bluey's first trip to the cinema; Bluey and Bingo go on an adventure with Grandad.</desc>
+  </programme>
+  <programme start="20261115194000 +0000" stop="20261115200500 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Library; Swim School; Bin Night</sub-title>
+    <desc>Muffin plays the game of library her way; Mum, Dad and Bingo must pass swim school; Bluey, Bingo and Dad always take out the bins.</desc>
+  </programme>
+  <programme start="20261115200500 +0000" stop="20261115203000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Ice Cream / Bad Mood / Double Babysitter</sub-title>
+    <desc>Bluey and Bingo want a lick of each other's ice cream; Bingo is playing Bad Mood with Dad; two babysitters turn up to look after Bluey and Bingo.</desc>
+  </programme>
+  <programme start="20261115203000 +0000" stop="20261115210000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>The Quiet Game / Postman / Cafe</sub-title>
+    <desc>Bluey and Bingo play The Quiet Game; when Mum and Dad have a disagreement, Bluey makes Dad write a love letter to Mum; in the park, Bluey meets a new playmate, Winnie.</desc>
+  </programme>
+  <programme start="20261115210000 +0000" stop="20261115213000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Listen Up!; Big Picture</sub-title>
+    <desc>Cricket loses his hearing and keeps it a secret from Bill; the Greens go to a hipster drive-in movie, where Gloria proves her life is fun by taking the perfect SnapAGram photo.</desc>
+    <episode-num system="xmltv_ns">308</episode-num>
+  </programme>
+  <programme start="20261115213000 +0000" stop="20261115220000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Rembo; Dirt Jar</sub-title>
+    <desc>Remy determines to become a martial arts warrior after freezing in the face of danger; Cricket's missing dirt jar prompts the story of when the Greens left their country farm.</desc>
+    <episode-num system="xmltv_ns">309</episode-num>
+  </programme>
+  <programme start="20261115220000 +0000" stop="20261115223000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Country Side; Junk Mountain</sub-title>
+    <desc>While Cricket shows Remy the fun of country life, Tilly seeks new sleeping arrangements; Cricket tries to win back his old country friend, Hector.</desc>
+    <episode-num system="xmltv_ns">311</episode-num>
+  </programme>
+  <programme start="20261115223000 +0000" stop="20261115230000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Farmer Remy; Homeward Hound</sub-title>
+    <desc>Remy attempts to find his country grit while Cricket takes tractor-driving lessons; Phoenix journeys back to Big City to retrieve Saxon while Gramma and Gloria go to a club.</desc>
+    <episode-num system="xmltv_ns">312</episode-num>
+  </programme>
+  <programme start="20261115230000 +0000" stop="20261115233000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Pie Hard; Rat Tail</sub-title>
+    <desc>Brooke Dillman guest stars as diner owner Patti; Nancy tries to get Cricket to cut his new rat tail without admitting that she hates it.</desc>
+    <episode-num system="xmltv_ns">313</episode-num>
+  </programme>
+  <programme start="20261115233000 +0000" stop="20261116000000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <desc>The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.</desc>
+  </programme>
+  <programme start="20261116000000 +0000" stop="20261116014000 +0000" channel="disney-east">
+    <title>Movie</title>
+    <sub-title>Toy Story 2</sub-title>
+    <desc>When a toy collector kidnaps Woody, Buzz Lightyear and the other toys band together to bring him home.</desc>
+  </programme>
+  <programme start="20261116014000 +0000" stop="20261116020500 +0000" channel="disney-east">
+    <title>Phineas and Ferb</title>
+    <sub-title>Space Adventure; Droogenfest</sub-title>
+    <desc>While Buford is sick, Baljeet makes him watch an episode of his favorite show, </desc>
+  </programme>
+  <programme start="20261116020500 +0000" stop="20261116023000 +0000" channel="disney-east">
+    <title>Phineas and Ferb</title>
+    <sub-title>Doofercise; Croquet Y-8</sub-title>
+    <desc>Doof gathers energy from people exercising while the kids pilot a boat that surfs concrete; Candace and Jeremy make a Perry documentary as the kids play an extreme game of croquet.</desc>
+  </programme>
+  <programme start="20261116023000 +0000" stop="20261116030000 +0000" channel="disney-east">
+    <title>Phineas and Ferb</title>
+    <sub-title>Dinner Reservations; Bread Bowl Hot Tub</sub-title>
+    <desc>Vanessa and Monty bring their warring fathers, Doof and Monogram, to a </desc>
+  </programme>
+  <programme start="20261116030000 +0000" stop="20261116033000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Fitness Test / The Farmies</sub-title>
+    <desc>Remy excuses himself from the mayoral fitness test and Cricket is turned into a super soldier; Bill competes for the Golden Gourd award while Tilly falls for a Hot Potato.</desc>
+  </programme>
+  <programme start="20261116033000 +0000" stop="20261116040000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Metal Heads; Potted Meat</sub-title>
+    <desc>Bill buys the kids a metal detector; when Gramma complains that Cricket and Tilly are soft, the kids try to prove they can handle the deprivations of Gramma's childhood.</desc>
+  </programme>
+  <programme start="20261116040000 +0000" stop="20261116043000 +0000" channel="disney-east">
+    <title>Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title>Sublimation</sub-title>
+    <desc>Adrien makes a new friend whom Marinette is determined to befriend too; but Marinette has no clue how to become friends with someone who doesn't need to be helped.</desc>
+  </programme>
+  <programme start="20261116043000 +0000" stop="20261116050000 +0000" channel="disney-east">
+    <title>Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title>Daddycop</sub-title>
+    <desc>To celebrate her hundredth kiss with Adrien, Marinette has planned a romantic evening - forgetting that she'd already planned a movie night with her girlfriends at the same time!</desc>
+  </programme>
+  <programme start="20261116050000 +0000" stop="20261116053000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Squash; Charades; Bingo</sub-title>
+    <desc>Bluey and Bingo help Uncle Stripe and Bandit play squash and spend the day with Nana; Bingo has to learn to play alone.</desc>
+  </programme>
+  <programme start="20261116053000 +0000" stop="20261116060000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Sleepytime; Daddy Dropoff; Favorite Thing</sub-title>
+    <desc>The Heelers take turns remembering their favorite thing from the day; it's Dad's turn to give the kids breakfast and drop them off at school; Bingo promises to wake up in her own bed.</desc>
+  </programme>
+  <programme start="20261116060000 +0000" stop="20261116063000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Hullabaloo'd; Jaded</sub-title>
+    <desc>Bill receives a surprise; Jade's boss suspends her from work.</desc>
+  </programme>
+  <programme start="20261116063000 +0000" stop="20261116070000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>April Fool; Good Grief</sub-title>
+    <desc>Cricket tries to come up with the perfect prank to play on his girlfriend on April Fool's Day; Bill goes to extremes to prevent Tilly from experiencing grief.</desc>
+  </programme>
+  <programme start="20261116070000 +0000" stop="20261116073000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Evil Family; Greens Underground</sub-title>
+    <desc>Chip Whistler attempts to create an evil family, so he takes down the Greens; the Greens move to the suburbs and live under new identities to hide from Chip.</desc>
+  </programme>
+  <programme start="20261116073000 +0000" stop="20261116080000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Freebie Frenzy; TP'd</sub-title>
+    <desc>The Greens cause trouble during free sample day at the Farmers Market; Cricket and Nancy toilet paper all of Smalton in a quest for pranking glory.</desc>
+  </programme>
+  <programme start="20261116080000 +0000" stop="20261116083000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Chocolate Santa; Meadow Mania</sub-title>
+    <desc>In summer, Cricket impulsively eats Bill's chocolate Santa and must replace it; when Gramma's serene country retreat is disrupted by an outdoor festival, she resolves to stop it.</desc>
+  </programme>
+  <programme start="20261116083000 +0000" stop="20261116090000 +0000" channel="disney-east">
+    <title>Big City Greens</title>
+    <sub-title>Split Decision; Skipped Over</sub-title>
+    <desc>Cricket gets dumped by his girlfriend, so he tries to change to win her back; Bill becomes hyper-competitive when Cricket starts to be better at things than him.</desc>
+  </programme>
+  <programme start="20261116090000 +0000" stop="20261116093000 +0000" channel="disney-east">
+    <title>Kiff</title>
+    <sub-title>Fun Uncle Pat; Kiff Escape!</sub-title>
+    <desc>Kiff's favorite uncle visits; Kiff and the crew solve an escape room.</desc>
+    <episode-num system="xmltv_ns">129</episode-num>
+  </programme>
+  <programme start="20261116093000 +0000" stop="20261116100000 +0000" channel="disney-east">
+    <title>Kiff</title>
+    <sub-title>Beach Day; Sun's Out Buns Out</sub-title>
+    <desc>Barry and the Chatterleys go to the beach; Barry learns to swim.</desc>
+    <episode-num system="xmltv_ns">130</episode-num>
+  </programme>
+  <programme start="20261116100000 +0000" stop="20261116103000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>TV Shop; Dragon; Slide</sub-title>
+    <desc>At the pharmacy, Bluey and Bingo have fun playing with the CCTV screens.</desc>
+  </programme>
+  <programme start="20261116103000 +0000" stop="20261116110000 +0000" channel="disney-east">
+    <title>Bluey</title>
+    <sub-title>Ghost Basket; Escape; Surprise</sub-title>
+    <desc>Dad pretends to sell the Grannies' house to Mum; Mum and Dad drop the girls off at Nana's so they can have some time to themselves; Bluey and Bingo want Dad to play two different games.</desc>
+  </programme>
+</tv>
