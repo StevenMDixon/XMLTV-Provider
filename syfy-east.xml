@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="syfy-east">
+    <display-name>Syfy East</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png"/>
+  </channel>
+  <programme start="20261120110000 +0000" stop="20261120113000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Bewitchin' Pool</sub-title>
+    <desc>Two unloved children escape from their squabbling parents to a world that offers them a chance of happiness with a strange, kindly woman.</desc>
+    <episode-num system="xmltv_ns">138</episode-num>
+  </programme>
+  <programme start="20261120113000 +0000" stop="20261120123000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Parallel</sub-title>
+    <desc>An astronaut (Steve Forrest) arrives in a world much like his own -- except for a few small differences. With Frank Aletter.</desc>
+    <episode-num system="xmltv_ns">11</episode-num>
+  </programme>
+  <programme start="20261120123000 +0000" stop="20261120133000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Thirty-Fathom Grave</sub-title>
+    <desc>An American destroyer picks up signals from a submarine that sank 20 years earlier. With Simon Oakland, Bill Bixby.</desc>
+    <episode-num system="xmltv_ns">2</episode-num>
+  </programme>
+  <programme start="20261120133000 +0000" stop="20261120140000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Lonely</sub-title>
+    <desc>Convicted of murder, a man is sent to a deserted asteroid in space to serve a 50-year prison sentence.</desc>
+    <episode-num system="xmltv_ns">7</episode-num>
+  </programme>
+  <programme start="20261120140000 +0000" stop="20261120150000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Miniature</sub-title>
+    <desc>A shy man becomes obsessed with a tiny doll that's inanimate to everyone but him. With Robert Duvall.</desc>
+    <episode-num system="onscreen">1088-03</episode-num>
+  </programme>
+  <programme start="20261120150000 +0000" stop="20261120170000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Firestarter</sub-title>
+    <desc>A couple hide their daughter, Charlie, from a shadowy agency that wants to harness her gift for turning fire into a weapon. When a mysterious operative finally finds the family, he tries to seize Charlie once and for all -- but she has other plans.</desc>
+  </programme>
+  <programme start="20261120170000 +0000" stop="20261120193000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Freaky</sub-title>
+    <desc>When a serial killer's mystical dagger causes him to magically switch bodies with a 17-year-old girl, the frightened teen learns she has just 24 hours to get her identity back before she looks like a middle-aged maniac forever.</desc>
+  </programme>
+  <programme start="20261120193000 +0000" stop="20261120220000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Old</sub-title>
+    <desc>A vacationing family discovers that the secluded beach where they're relaxing for a few hours is somehow causing them to age rapidly, reducing their entire lives into a single day.</desc>
+  </programme>
+  <programme start="20261120220000 +0000" stop="20261121003000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>The Outfit</sub-title>
+    <desc>Leonard is an English tailor who makes suits on London's Savile Row. He must outsmart a group of criminals to survive a fateful night.</desc>
+  </programme>
+  <programme start="20261121003000 +0000" stop="20261121023000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Firestarter</sub-title>
+    <desc>A couple hide their daughter, Charlie, from a shadowy agency that wants to harness her gift for turning fire into a weapon. When a mysterious operative finally finds the family, he tries to seize Charlie once and for all -- but she has other plans.</desc>
+  </programme>
+  <programme start="20261121023000 +0000" stop="20261121050000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Never Let Go</sub-title>
+    <desc>When an unspeakable evil takes over the world, the only protection for a mother and her twin sons is their house and strong bond. Needing to stay connected at all times, they tether themselves with ropes, clinging to one another and never letting go.</desc>
+  </programme>
+  <programme start="20261121050000 +0000" stop="20261121073000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>The Outfit</sub-title>
+    <desc>Leonard is an English tailor who makes suits on London's Savile Row. He must outsmart a group of criminals to survive a fateful night.</desc>
+  </programme>
+  <programme start="20261121073000 +0000" stop="20261121080000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Trouble With Templeton</sub-title>
+    <desc>A distinguished but aging actor is thrust into the days of his youth.</desc>
+    <episode-num system="xmltv_ns">45</episode-num>
+  </programme>
+  <programme start="20261121080000 +0000" stop="20261121083000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Eye of the Beholder</sub-title>
+    <desc>A woman's natural beauty makes her a freak in a futuristic society.</desc>
+    <episode-num system="xmltv_ns">42</episode-num>
+  </programme>
+  <programme start="20261121083000 +0000" stop="20261121090000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Number Twelve Looks Just Like You</sub-title>
+    <desc>An ugly duckling can be stunning in a world of beautiful people.</desc>
+    <episode-num system="xmltv_ns">118</episode-num>
+  </programme>
+  <programme start="20261121090000 +0000" stop="20261121093000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Long Distance Call</sub-title>
+    <desc>A young boy keeps in touch with his dead grandmother via the toy telephone she once gave him.</desc>
+    <episode-num system="xmltv_ns">58</episode-num>
+  </programme>
+  <programme start="20261121093000 +0000" stop="20261121100000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Young Man's Fancy</sub-title>
+    <desc>Newlywed Alex Walker returns to his home and yearns for the days of his childhood.</desc>
+    <episode-num system="xmltv_ns">100</episode-num>
+  </programme>
+  <programme start="20261121100000 +0000" stop="20261121103000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Midnight Sun</sub-title>
+    <desc>The Earth falls out of its orbit and starts moving toward the sun.</desc>
+    <episode-num system="xmltv_ns">75</episode-num>
+  </programme>
+  <programme start="20261121103000 +0000" stop="20261121110000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Hitchhiker</sub-title>
+    <desc>Driving cross-country, a girl keeps seeing the same hitchhiker on the road ahead, beckoning her toward a fatal accident.</desc>
+    <episode-num system="xmltv_ns">16</episode-num>
+  </programme>
+  <programme start="20261121110000 +0000" stop="20261121113000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Shelter</sub-title>
+    <desc>A group of neighbors turns into a hostile mob when they try to invade one family's bomb shelter, believing a UFO attack is imminent.</desc>
+    <episode-num system="xmltv_ns">68</episode-num>
+  </programme>
+  <programme start="20261121113000 +0000" stop="20261121120000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Mighty Casey</sub-title>
+    <desc>The manager of a baseball team on a losing streak hires a robot pitcher called Casey.</desc>
+    <episode-num system="xmltv_ns">35</episode-num>
+  </programme>
+  <programme start="20261121120000 +0000" stop="20261121123000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Big Tall Wish</sub-title>
+    <desc>A 10-year-old boy tells a prizefighter that he will make a wish for him to win his comeback fight.</desc>
+    <episode-num system="xmltv_ns">27</episode-num>
+  </programme>
+  <programme start="20261121123000 +0000" stop="20261121130000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Queen of the Nile</sub-title>
+    <desc>The everlasting youth of a movie star arouses the curiosity of a magazine writer.</desc>
+    <episode-num system="xmltv_ns">126</episode-num>
+  </programme>
+  <programme start="20261121130000 +0000" stop="20261121133000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Sixteen-Millimeter Shrine</sub-title>
+    <desc>A forgotten star of the '30s uses her old movies to re-create the spirit of her heyday.</desc>
+    <episode-num system="xmltv_ns">4</episode-num>
+  </programme>
+  <programme start="20261121133000 +0000" stop="20261121140000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>A Short Drink From a Certain Fountain</sub-title>
+    <desc>When a man takes a youth serum, the potion goes beyond its intended effect, and he regresses to infancy.</desc>
+    <episode-num system="onscreen">1088-01</episode-num>
+  </programme>
+  <programme start="20261121140000 +0000" stop="20261121143000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Ninety Years Without Slumbering</sub-title>
+    <desc>A retired watchmaker (Ed Wynn) fears that when his grandfather's clock stops ticking, his own life will end.</desc>
+    <episode-num system="xmltv_ns">115</episode-num>
+  </programme>
+  <programme start="20261121143000 +0000" stop="20261121170000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Freaky</sub-title>
+    <desc>When a serial killer's mystical dagger causes him to magically switch bodies with a 17-year-old girl, the frightened teen learns she has just 24 hours to get her identity back before she looks like a middle-aged maniac forever.</desc>
+  </programme>
+  <programme start="20261121170000 +0000" stop="20261121193000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Old</sub-title>
+    <desc>A vacationing family discovers that the secluded beach where they're relaxing for a few hours is somehow causing them to age rapidly, reducing their entire lives into a single day.</desc>
+  </programme>
+  <programme start="20261121193000 +0000" stop="20261121220000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Never Let Go</sub-title>
+    <desc>When an unspeakable evil takes over the world, the only protection for a mother and her twin sons is their house and strong bond. Needing to stay connected at all times, they tether themselves with ropes, clinging to one another and never letting go.</desc>
+  </programme>
+  <programme start="20261121220000 +0000" stop="20261122003000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>The Last Voyage of the Demeter</sub-title>
+    <desc>The crew of the merchant ship Demeter sets sail from Carpathia to London to deliver a cargo of 50 unmarked wooden crates. However, they soon discover they're not alone as Dracula's unholy presence turns the trip into a nightmarish fight for survival.</desc>
+  </programme>
+  <programme start="20261122003000 +0000" stop="20261122023000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Beetlejuice</sub-title>
+    <desc>A couple returns from the dead to find that they are back in their beloved home, as ghosts. They are horrified when the house is sold to a pretentious couple.</desc>
+  </programme>
+  <programme start="20261122023000 +0000" stop="20261122050000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Five Nights at Freddy's</sub-title>
+    <desc>A troubled security guard begins working at Freddy Fazbear's Pizzeria. While spending his first night on the job, he realizes the late shift at Freddy's won't be so easy to make it through.</desc>
+  </programme>
+  <programme start="20261122050000 +0000" stop="20261122070000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Beetlejuice</sub-title>
+    <desc>A couple returns from the dead to find that they are back in their beloved home, as ghosts. They are horrified when the house is sold to a pretentious couple.</desc>
+  </programme>
+  <programme start="20261122070000 +0000" stop="20261122073000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>In Praise of Pip</sub-title>
+    <desc>Bookmaker Max Phillips learns that his son is dying in Vietnam and tries to save him. With Jack Klugman.</desc>
+    <episode-num system="xmltv_ns">103</episode-num>
+  </programme>
+  <programme start="20261122073000 +0000" stop="20261122080000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Caesar and Me</sub-title>
+    <desc>A down-at-the heels ventriloquist is the victim of both his gangster-like dummy and a strangely evil little girl.</desc>
+    <episode-num system="xmltv_ns">131</episode-num>
+  </programme>
+  <programme start="20261122080000 +0000" stop="20261122083000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Once Upon a Time</sub-title>
+    <desc>A janitor mischievously puts on a helmet which really is a time machine.</desc>
+    <episode-num system="xmltv_ns">78</episode-num>
+  </programme>
+  <programme start="20261122083000 +0000" stop="20261122090000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Night Call</sub-title>
+    <desc>Elva Keene, confined to her bed and wheelchair, is driven to distraction by mysterious telephone calls on a dead line.</desc>
+    <episode-num system="xmltv_ns">111</episode-num>
+  </programme>
+  <programme start="20261122090000 +0000" stop="20261122093000 +0000" channel="syfy-east">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261122093000 +0000" stop="20261122100000 +0000" channel="syfy-east">
+    <title>Tired of Aging? Super Pill's Secret to Lasting Youth &amp;amp; Vitality!</title>
+    <desc>Tired of feeling old? Discover The Super Pill! 6 elite formulas packed with clinically studied ingredients for revolutionary heart, brain, joint, immune, skin, and eye health. Don't just age-thrive! Unlock your ultimate vitality and well-being today.</desc>
+  </programme>
+  <programme start="20261122100000 +0000" stop="20261122103000 +0000" channel="syfy-east">
+    <title>Bathroom Makeover</title>
+    <desc>Transform your bath affordably in just one day!</desc>
+  </programme>
+  <programme start="20261122103000 +0000" stop="20261122110000 +0000" channel="syfy-east">
+    <title>Looking for a Medicare plan? Tune in now!</title>
+    <desc>The Medicare annual election period ends on December 7th. Watch and learn about Humana Medicare Advantage plans.</desc>
+  </programme>
+  <programme start="20261122110000 +0000" stop="20261122113000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Execution</sub-title>
+    <desc>In the 1880s, outlaw Joe Caswell's body disappears from the hangman's noose.</desc>
+    <episode-num system="xmltv_ns">26</episode-num>
+  </programme>
+  <programme start="20261122113000 +0000" stop="20261122120000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Two</sub-title>
+    <desc>A man (Charles Bronson) and a woman (Elizabeth Montgomery) -- the sole survivors of a devastating global war -- meet in the shambles of a city destroyed six years prior.</desc>
+    <episode-num system="xmltv_ns">66</episode-num>
+  </programme>
+  <programme start="20261122120000 +0000" stop="20261122123000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Little Girl Lost</sub-title>
+    <desc>A couple is awakened in the middle of the night by the cries of their six-year-old daughter who has fallen through a mysterious door into another dimension.</desc>
+    <episode-num system="xmltv_ns">91</episode-num>
+  </programme>
+  <programme start="20261122123000 +0000" stop="20261122130000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Lateness of the Hour</sub-title>
+    <desc>Jana rebels from the monotonous life she and her parents are living.</desc>
+    <episode-num system="xmltv_ns">44</episode-num>
+  </programme>
+  <programme start="20261122130000 +0000" stop="20261122133000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>It's a Good Life</sub-title>
+    <desc>A six-year-old boy holds a town in terror with his powers to change or destroy anyone or anything at will.</desc>
+    <episode-num system="xmltv_ns">73</episode-num>
+  </programme>
+  <programme start="20261122133000 +0000" stop="20261122160000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Polite Society</sub-title>
+    <desc>A martial artist-in-training believes she must save her older sister from her impending marriage. After enlisting the help of her friends, she tries to pull off the most ambitious of all wedding heists in the name of independence and sisterhood.</desc>
+  </programme>
+  <programme start="20261122160000 +0000" stop="20261122183000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>The Last Voyage of the Demeter</sub-title>
+    <desc>The crew of the merchant ship Demeter sets sail from Carpathia to London to deliver a cargo of 50 unmarked wooden crates. However, they soon discover they're not alone as Dracula's unholy presence turns the trip into a nightmarish fight for survival.</desc>
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122203000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Night Swim</sub-title>
+    <desc>Forced into early retirement, a former baseball player moves into a new house with his wife and two children. Soon, a dark secret from the home's past unleashes a malevolent force that drags the family into the depths of inescapable terror.</desc>
+  </programme>
+  <programme start="20261122203000 +0000" stop="20261122230000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>The Exorcist: Believer</sub-title>
+    <desc>When his daughter, Angela, and her friend, Katherine, show signs of demonic possession, it unleashes a chain of events that forces single father Victor Fielding to confront the nadir of evil.</desc>
+  </programme>
+  <programme start="20261122230000 +0000" stop="20261123013000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Five Nights at Freddy's</sub-title>
+    <desc>A troubled security guard begins working at Freddy Fazbear's Pizzeria. While spending his first night on the job, he realizes the late shift at Freddy's won't be so easy to make it through.</desc>
+  </programme>
+  <programme start="20261123013000 +0000" stop="20261123040000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Alien: Romulus</sub-title>
+    <desc>Space colonizers come face to face with the most terrifying life-form in the universe while scavenging the deep ends of a derelict space station.</desc>
+  </programme>
+  <programme start="20261123040000 +0000" stop="20261123063000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>The Exorcist: Believer</sub-title>
+    <desc>When his daughter, Angela, and her friend, Katherine, show signs of demonic possession, it unleashes a chain of events that forces single father Victor Fielding to confront the nadir of evil.</desc>
+  </programme>
+  <programme start="20261123063000 +0000" stop="20261123090000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Polite Society</sub-title>
+    <desc>A martial artist-in-training believes she must save her older sister from her impending marriage. After enlisting the help of her friends, she tries to pull off the most ambitious of all wedding heists in the name of independence and sisterhood.</desc>
+  </programme>
+  <programme start="20261123090000 +0000" stop="20261123093000 +0000" channel="syfy-east">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261123093000 +0000" stop="20261123100000 +0000" channel="syfy-east">
+    <title>Inogen Portable Oxygen - No More Tanks!</title>
+    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
+  </programme>
+  <programme start="20261123100000 +0000" stop="20261123103000 +0000" channel="syfy-east">
+    <title>Tired of Aging? Super Pill's Secret to Lasting Youth &amp;amp; Vitality!</title>
+    <desc>Tired of feeling old? Discover The Super Pill! 6 elite formulas packed with clinically studied ingredients for revolutionary heart, brain, joint, immune, skin, and eye health. Don't just age-thrive! Unlock your ultimate vitality and well-being today.</desc>
+  </programme>
+  <programme start="20261123103000 +0000" stop="20261123110000 +0000" channel="syfy-east">
+    <title>Looking for a Medicare plan? Tune in now!</title>
+    <desc>The Medicare annual election period ends on December 7th. Watch and learn about Humana Medicare Advantage plans.</desc>
+  </programme>
+</tv>

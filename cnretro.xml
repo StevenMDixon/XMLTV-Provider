@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="cnretro">
+    <display-name>CN Retro</display-name>
+    <icon src="https://cartooncartoons.thatsoretro.com/logo"/>
+  </channel>
+  <programme start="20261121060000 +0000" stop="20261121063000 +0000" channel="cnretro">
+    <title>Pokémon</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121063000 +0000" stop="20261121070000 +0000" channel="cnretro">
+    <title>Yu-Gi-Oh!</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121070000 +0000" stop="20261121073000 +0000" channel="cnretro">
+    <title>Dragon Ball Z</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121073000 +0000" stop="20261121080000 +0000" channel="cnretro">
+    <title>G Gundam</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121080000 +0000" stop="20261121083000 +0000" channel="cnretro">
+    <title>Transformers ('01)</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121083000 +0000" stop="20261121090000 +0000" channel="cnretro">
+    <title>Sailor Moon</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121090000 +0000" stop="20261121093000 +0000" channel="cnretro">
+    <title>ToonHeads</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121093000 +0000" stop="20261121100000 +0000" channel="cnretro">
+    <title>Looney Tunes</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121100000 +0000" stop="20261121103000 +0000" channel="cnretro">
+    <title>Tom and Jerry</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121103000 +0000" stop="20261121110000 +0000" channel="cnretro">
+    <title>The Flintstones</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121110000 +0000" stop="20261121113000 +0000" channel="cnretro">
+    <title>The Jetsons</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121113000 +0000" stop="20261121120000 +0000" channel="cnretro">
+    <title>The Smurfs</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121120000 +0000" stop="20261121123000 +0000" channel="cnretro">
+    <title>Baby Looney Tunes</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121123000 +0000" stop="20261121130000 +0000" channel="cnretro">
+    <title>Hamtaro</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121130000 +0000" stop="20261121133000 +0000" channel="cnretro">
+    <title>Sylvester &amp;amp; Tweety Mysteries</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121133000 +0000" stop="20261121140000 +0000" channel="cnretro">
+    <title>Krypto the Superdog</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121140000 +0000" stop="20261121143000 +0000" channel="cnretro">
+    <title>Freakazoid!</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121143000 +0000" stop="20261121150000 +0000" channel="cnretro">
+    <title>Animaniacs</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121150000 +0000" stop="20261121153000 +0000" channel="cnretro">
+    <title>Pinky and the Brain &amp;amp; Elmyra</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121153000 +0000" stop="20261121160000 +0000" channel="cnretro">
+    <title>Johnny Test</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121160000 +0000" stop="20261121163000 +0000" channel="cnretro">
+    <title>Ozzy &amp;amp; Drix</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121163000 +0000" stop="20261121170000 +0000" channel="cnretro">
+    <title>¡Mucha Lucha!</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121170000 +0000" stop="20261121173000 +0000" channel="cnretro">
+    <title>Jackie Chan Adventures</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121173000 +0000" stop="20261121180000 +0000" channel="cnretro">
+    <title>The Batman</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121180000 +0000" stop="20261121183000 +0000" channel="cnretro">
+    <title>The Secret Saturdays</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121183000 +0000" stop="20261121190000 +0000" channel="cnretro">
+    <title>Robotboy</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121190000 +0000" stop="20261121193000 +0000" channel="cnretro">
+    <title>Duck Dodgers</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121193000 +0000" stop="20261121200000 +0000" channel="cnretro">
+    <title>Hi Hi Puffy AmiYumi</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121200000 +0000" stop="20261121203000 +0000" channel="cnretro">
+    <title>Atomic Betty</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121203000 +0000" stop="20261121210000 +0000" channel="cnretro">
+    <title>The Life and Times of Juniper Lee</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121210000 +0000" stop="20261121213000 +0000" channel="cnretro">
+    <title>Code Lyoko</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121213000 +0000" stop="20261121220000 +0000" channel="cnretro">
+    <title>Megas XLR</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121220000 +0000" stop="20261121223000 +0000" channel="cnretro">
+    <title>Ben 10</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121223000 +0000" stop="20261121230000 +0000" channel="cnretro">
+    <title>Xiaolin Showdown</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121230000 +0000" stop="20261121233000 +0000" channel="cnretro">
+    <title>Static Shock</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261121233000 +0000" stop="20261122000000 +0000" channel="cnretro">
+    <title>Totally Spies!</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122000000 +0000" stop="20261122003000 +0000" channel="cnretro">
+    <title>Teenage Mutant Ninja Turtles 2K3</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122003000 +0000" stop="20261122010000 +0000" channel="cnretro">
+    <title>Teen Titans</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122010000 +0000" stop="20261122013000 +0000" channel="cnretro">
+    <title>Cartoon Theatre</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122013000 +0000" stop="20261122020000 +0000" channel="cnretro">
+    <title>Cartoon Theatre</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122020000 +0000" stop="20261122023000 +0000" channel="cnretro">
+    <title>Grim Adventures of Billy &amp;amp; Mandy</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122023000 +0000" stop="20261122030000 +0000" channel="cnretro">
+    <title>Foster's Home for Imaginary Friends</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122030000 +0000" stop="20261122033000 +0000" channel="cnretro">
+    <title>Camp Lazlo</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122033000 +0000" stop="20261122040000 +0000" channel="cnretro">
+    <title>My Gym Partner's a Monkey</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122040000 +0000" stop="20261122043000 +0000" channel="cnretro">
+    <title>Class of 3000</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122043000 +0000" stop="20261122050000 +0000" channel="cnretro">
+    <title>Chowder</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122050000 +0000" stop="20261122053000 +0000" channel="cnretro">
+    <title>Marvelous Misadvs of Flapjack</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122053000 +0000" stop="20261122055945 +0000" channel="cnretro">
+    <title>Scooby-Doo! Mystery Inc.</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122060000 +0000" stop="20261122063000 +0000" channel="cnretro">
+    <title>Dragon Ball GT</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122063000 +0000" stop="20261122070000 +0000" channel="cnretro">
+    <title>Naruto</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122070000 +0000" stop="20261122073000 +0000" channel="cnretro">
+    <title>Fullmetal Alchemist Brotherhood</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122073000 +0000" stop="20261122080000 +0000" channel="cnretro">
+    <title>Bleach</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122080000 +0000" stop="20261122083000 +0000" channel="cnretro">
+    <title>Black Lagoon</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122083000 +0000" stop="20261122090000 +0000" channel="cnretro">
+    <title>Ghost in the Shell</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122090000 +0000" stop="20261122093000 +0000" channel="cnretro">
+    <title>Mobile Suit Gundam series</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122093000 +0000" stop="20261122100000 +0000" channel="cnretro">
+    <title>Cowboy Bebop</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122100000 +0000" stop="20261122103000 +0000" channel="cnretro">
+    <title>Inuyasha</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122103000 +0000" stop="20261122110000 +0000" channel="cnretro">
+    <title>One Piece</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122110000 +0000" stop="20261122113000 +0000" channel="cnretro">
+    <title>Attack on Titan</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122113000 +0000" stop="20261122120000 +0000" channel="cnretro">
+    <title>Astro Boy (2003)</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122120000 +0000" stop="20261122123000 +0000" channel="cnretro">
+    <title>What a Cartoon!</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122123000 +0000" stop="20261122130000 +0000" channel="cnretro">
+    <title>Josie and the Pussycats</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122130000 +0000" stop="20261122133000 +0000" channel="cnretro">
+    <title>Space Ghost</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122133000 +0000" stop="20261122140000 +0000" channel="cnretro">
+    <title>Birdman and the Galaxy Trio</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122140000 +0000" stop="20261122143000 +0000" channel="cnretro">
+    <title>Super Friends</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122143000 +0000" stop="20261122150000 +0000" channel="cnretro">
+    <title>G.I. Joe: Real American Hero ('83)</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122150000 +0000" stop="20261122153000 +0000" channel="cnretro">
+    <title>The Tex Avery Show</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122153000 +0000" stop="20261122160000 +0000" channel="cnretro">
+    <title>ToonHeads</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122160000 +0000" stop="20261122163000 +0000" channel="cnretro">
+    <title>Robotboy</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122163000 +0000" stop="20261122170000 +0000" channel="cnretro">
+    <title>Duck Dodgers</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122170000 +0000" stop="20261122173000 +0000" channel="cnretro">
+    <title>Atomic Betty</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122173000 +0000" stop="20261122180000 +0000" channel="cnretro">
+    <title>The Life and Times of Juniper Lee</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122180000 +0000" stop="20261122183000 +0000" channel="cnretro">
+    <title>Hi Hi Puffy AmiYumi</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122190000 +0000" channel="cnretro">
+    <title>Class of 3000</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122190000 +0000" stop="20261122193000 +0000" channel="cnretro">
+    <title>Marvelous Misadvs of Flapjack</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122193000 +0000" stop="20261122200000 +0000" channel="cnretro">
+    <title>Chowder</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122200000 +0000" stop="20261122203000 +0000" channel="cnretro">
+    <title>Camp Lazlo</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122203000 +0000" stop="20261122210000 +0000" channel="cnretro">
+    <title>My Gym Partner's a Monkey</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122210000 +0000" stop="20261122213000 +0000" channel="cnretro">
+    <title>Code Lyoko</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122213000 +0000" stop="20261122220000 +0000" channel="cnretro">
+    <title>Megas XLR</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122220000 +0000" stop="20261122223000 +0000" channel="cnretro">
+    <title>Ben 10</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122223000 +0000" stop="20261122230000 +0000" channel="cnretro">
+    <title>Xiaolin Showdown</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122230000 +0000" stop="20261122233000 +0000" channel="cnretro">
+    <title>Totally Spies!</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261122233000 +0000" stop="20261123000000 +0000" channel="cnretro">
+    <title>Teenage Mutant Ninja Turtles 2K3</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123000000 +0000" stop="20261123003000 +0000" channel="cnretro">
+    <title>Static Shock</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123003000 +0000" stop="20261123010000 +0000" channel="cnretro">
+    <title>Teen Titans</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123010000 +0000" stop="20261123013000 +0000" channel="cnretro">
+    <title>Foster's Home for Imaginary Friends</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123013000 +0000" stop="20261123020000 +0000" channel="cnretro">
+    <title>Grim Adventures of Billy &amp;amp; Mandy</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123020000 +0000" stop="20261123023000 +0000" channel="cnretro">
+    <title>Scooby-Doo! Mystery Incorporated</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123023000 +0000" stop="20261123030000 +0000" channel="cnretro">
+    <title>Sym-Bionic Titan</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123030000 +0000" stop="20261123033000 +0000" channel="cnretro">
+    <title>ThunderCats (2011)</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123033000 +0000" stop="20261123040000 +0000" channel="cnretro">
+    <title>Young Justice</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123040000 +0000" stop="20261123043000 +0000" channel="cnretro">
+    <title>The Boondocks</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123043000 +0000" stop="20261123050000 +0000" channel="cnretro">
+    <title>Black Dynamite</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123050000 +0000" stop="20261123053000 +0000" channel="cnretro">
+    <title>Family Guy</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123053000 +0000" stop="20261123055945 +0000" channel="cnretro">
+    <title>Futurama</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123060000 +0000" stop="20261123063000 +0000" channel="cnretro">
+    <title>Robot Chicken</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123063000 +0000" stop="20261123070000 +0000" channel="cnretro">
+    <title>Aqua Teen Hunger Force</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123070000 +0000" stop="20261123073000 +0000" channel="cnretro">
+    <title>The Venture Bros.</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123073000 +0000" stop="20261123080000 +0000" channel="cnretro">
+    <title>Squidbillies</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123080000 +0000" stop="20261123083000 +0000" channel="cnretro">
+    <title>Metalocalypse</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123083000 +0000" stop="20261123090000 +0000" channel="cnretro">
+    <title>Mike Tyson Mysteries</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123090000 +0000" stop="20261123093000 +0000" channel="cnretro">
+    <title>Black Jesus</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123093000 +0000" stop="20261123100000 +0000" channel="cnretro">
+    <title>Moral Orel</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123100000 +0000" stop="20261123103000 +0000" channel="cnretro">
+    <title>Cartoon Planet</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123103000 +0000" stop="20261123110000 +0000" channel="cnretro">
+    <title>The Brak Show</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123110000 +0000" stop="20261123113000 +0000" channel="cnretro">
+    <title>NTSF:SD:SUV::</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123113000 +0000" stop="20261123120000 +0000" channel="cnretro">
+    <title>Childrens Hospital</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123120000 +0000" stop="20261123123000 +0000" channel="cnretro">
+    <title>Yogi Bear</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123123000 +0000" stop="20261123130000 +0000" channel="cnretro">
+    <title>Sealab 2020</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123130000 +0000" stop="20261123133000 +0000" channel="cnretro">
+    <title>Captain Planet</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123133000 +0000" stop="20261123140000 +0000" channel="cnretro">
+    <title>Real Advs of Jonny Quest</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123140000 +0000" stop="20261123143000 +0000" channel="cnretro">
+    <title>SWAT Kats</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123143000 +0000" stop="20261123150000 +0000" channel="cnretro">
+    <title>ThunderCats (1985)</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123150000 +0000" stop="20261123153000 +0000" channel="cnretro">
+    <title>A Pup Named Scooby-Doo</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123153000 +0000" stop="20261123160000 +0000" channel="cnretro">
+    <title>The Smurfs</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123160000 +0000" stop="20261123163000 +0000" channel="cnretro">
+    <title>The Jetsons</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123163000 +0000" stop="20261123170000 +0000" channel="cnretro">
+    <title>The Flintstones</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123170000 +0000" stop="20261123173000 +0000" channel="cnretro">
+    <title>Scooby-Doo Where Are You?</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123173000 +0000" stop="20261123180000 +0000" channel="cnretro">
+    <title>Scooby-Doo Where Are You?</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123180000 +0000" stop="20261123183000 +0000" channel="cnretro">
+    <title>Tom and Jerry</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123183000 +0000" stop="20261123190000 +0000" channel="cnretro">
+    <title>Tom and Jerry</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123190000 +0000" stop="20261123193000 +0000" channel="cnretro">
+    <title>Looney Tunes</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123193000 +0000" stop="20261123200000 +0000" channel="cnretro">
+    <title>Looney Tunes</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123200000 +0000" stop="20261123203000 +0000" channel="cnretro">
+    <title>Cow and Chicken</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123203000 +0000" stop="20261123210000 +0000" channel="cnretro">
+    <title>I Am Weasel</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123210000 +0000" stop="20261123213000 +0000" channel="cnretro">
+    <title>Ronin Warriors</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123213000 +0000" stop="20261123220000 +0000" channel="cnretro">
+    <title>Sailor Moon</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123220000 +0000" stop="20261123223000 +0000" channel="cnretro">
+    <title>DragonBall</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123223000 +0000" stop="20261123230000 +0000" channel="cnretro">
+    <title>DragonBall Z</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123230000 +0000" stop="20261123233000 +0000" channel="cnretro">
+    <title>Pokémon</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261123233000 +0000" stop="20261124000000 +0000" channel="cnretro">
+    <title>Yu-Gi-Oh!</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261124000000 +0000" stop="20261124003000 +0000" channel="cnretro">
+    <title>Johnny Bravo</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261124003000 +0000" stop="20261124010000 +0000" channel="cnretro">
+    <title>Dexter's Laboratory</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261124010000 +0000" stop="20261124013000 +0000" channel="cnretro">
+    <title>Codename: Kids Next Door</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261124013000 +0000" stop="20261124020000 +0000" channel="cnretro">
+    <title>Courage the Cowardly Dog</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261124020000 +0000" stop="20261124023000 +0000" channel="cnretro">
+    <title>What's New, Scooby-Doo?</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261124023000 +0000" stop="20261124030000 +0000" channel="cnretro">
+    <title>Ed, Edd n Eddy</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261124030000 +0000" stop="20261124033000 +0000" channel="cnretro">
+    <title>The Powerpuff Girls</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261124033000 +0000" stop="20261124040000 +0000" channel="cnretro">
+    <title>Samurai Jack</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261124040000 +0000" stop="20261124043000 +0000" channel="cnretro">
+    <title>Superman: Animated Series</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261124043000 +0000" stop="20261124050000 +0000" channel="cnretro">
+    <title>Batman: The Animated Series</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261124050000 +0000" stop="20261124053000 +0000" channel="cnretro">
+    <title>Justice League/Unlimited</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20261124053000 +0000" stop="20261124055945 +0000" channel="cnretro">
+    <title>X-Men: Evolution</title>
+    <desc>No description available.</desc>
+  </programme>
+</tv>

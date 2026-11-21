@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="as-east">
+    <display-name>As East</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s26769_h15_ab.png"/>
+  </channel>
+  <programme start="20261120210000 +0000" stop="20261120213000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Not Particularly Desperate Housewife</sub-title>
+    <desc>As Stan continues to dominate the household, Francine finds herself idolizing a group of women who seem to have it all.</desc>
+    <episode-num system="onscreen">1AJN16</episode-num>
+  </programme>
+  <programme start="20261120213000 +0000" stop="20261120220000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Rough Trade</sub-title>
+    <desc>A fight after a particularly tough day leads Stan and Roger to get a taste of life in each other's shoes, but the swap quickly gets out of hand.</desc>
+    <episode-num system="onscreen">1AJN17</episode-num>
+  </programme>
+  <programme start="20261120220000 +0000" stop="20261120223000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Stewie Loves Lois</sub-title>
+    <desc>Lois gets sick of Stewie's newfound affection; Peter has a prostate exam.</desc>
+    <episode-num system="onscreen">4ACX32</episode-num>
+  </programme>
+  <programme start="20261120223000 +0000" stop="20261120230000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Mother Tucker</sub-title>
+    <desc>Peter's mom announces that she is getting a divorce; Peter finds a father figure in anchorman Tom Tucker; Brian gets his own radio show.</desc>
+    <episode-num system="onscreen">4ACX31</episode-num>
+  </programme>
+  <programme start="20261120230000 +0000" stop="20261120233000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>The Father, the Son and J.C.</sub-title>
+    <desc>A judge assigns Buck to community service with Habitat for Humanity; Peggy and Dee Dee plan a Christmas dinner at the Habitat house.</desc>
+    <episode-num system="onscreen">6ABE04</episode-num>
+  </programme>
+  <programme start="20261120233000 +0000" stop="20261121000000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Father of the Bribe</sub-title>
+    <desc>Bobby and Connie pretend to break up to throw off her parents, so the two can spend more time together.</desc>
+    <episode-num system="onscreen">6ABE06</episode-num>
+  </programme>
+  <programme start="20261121000000 +0000" stop="20261121003000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Topsy</sub-title>
+    <desc>Louise tries to take down her teacher by recreating a Thomas Edison experiment involving electrocuting an elephant.</desc>
+    <episode-num system="onscreen">3ASA03</episode-num>
+  </programme>
+  <programme start="20261121003000 +0000" stop="20261121010000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Two for Tina</sub-title>
+    <desc>When Tina starts dating Josh, a ballet dancer, Jimmy Jr. becomes jealous and the two guys wind up in a dance-off for her heart.</desc>
+    <episode-num system="onscreen">3ASA04</episode-num>
+  </programme>
+  <programme start="20261121010000 +0000" stop="20261121013000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Not Particularly Desperate Housewife</sub-title>
+    <desc>As Stan continues to dominate the household, Francine finds herself idolizing a group of women who seem to have it all.</desc>
+    <episode-num system="onscreen">1AJN16</episode-num>
+  </programme>
+  <programme start="20261121013000 +0000" stop="20261121020000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Rough Trade</sub-title>
+    <desc>A fight after a particularly tough day leads Stan and Roger to get a taste of life in each other's shoes, but the swap quickly gets out of hand.</desc>
+    <episode-num system="onscreen">1AJN17</episode-num>
+  </programme>
+  <programme start="20261121020000 +0000" stop="20261121023000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Stewie Loves Lois</sub-title>
+    <desc>Lois gets sick of Stewie's newfound affection; Peter has a prostate exam.</desc>
+    <episode-num system="onscreen">4ACX32</episode-num>
+  </programme>
+  <programme start="20261121023000 +0000" stop="20261121030000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Mother Tucker</sub-title>
+    <desc>Peter's mom announces that she is getting a divorce; Peter finds a father figure in anchorman Tom Tucker; Brian gets his own radio show.</desc>
+    <episode-num system="onscreen">4ACX31</episode-num>
+  </programme>
+  <programme start="20261121030000 +0000" stop="20261121033000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>The Father, the Son and J.C.</sub-title>
+    <desc>A judge assigns Buck to community service with Habitat for Humanity; Peggy and Dee Dee plan a Christmas dinner at the Habitat house.</desc>
+    <episode-num system="onscreen">6ABE04</episode-num>
+  </programme>
+  <programme start="20261121033000 +0000" stop="20261121040000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Father of the Bribe</sub-title>
+    <desc>Bobby and Connie pretend to break up to throw off her parents, so the two can spend more time together.</desc>
+    <episode-num system="onscreen">6ABE06</episode-num>
+  </programme>
+  <programme start="20261121040000 +0000" stop="20261121043000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Meeseeks and Destroy</sub-title>
+    <desc>Rick provides the family with a solution to their problems, freeing him up to go on an adventure led by Morty. Sounds good, better record this one, broh!</desc>
+    <episode-num system="xmltv_ns">5</episode-num>
+  </programme>
+  <programme start="20261121043000 +0000" stop="20261121044500 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>The Curious Case of the Box</sub-title>
+    <desc>Dora the Explorer climbs Mount Everest; God gets busted.</desc>
+    <episode-num system="xmltv_ns">97</episode-num>
+  </programme>
+  <programme start="20261121044500 +0000" stop="20261121050000 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>The Godfather of the Bride II</sub-title>
+    <desc>The Robot Chicken Nerd wants to hang out with Michael Knight.</desc>
+    <episode-num system="xmltv_ns">98</episode-num>
+  </programme>
+  <programme start="20261121050000 +0000" stop="20261121053000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Topsy</sub-title>
+    <desc>Louise tries to take down her teacher by recreating a Thomas Edison experiment involving electrocuting an elephant.</desc>
+    <episode-num system="onscreen">3ASA03</episode-num>
+  </programme>
+  <programme start="20261121053000 +0000" stop="20261121060000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Two for Tina</sub-title>
+    <desc>When Tina starts dating Josh, a ballet dancer, Jimmy Jr. becomes jealous and the two guys wind up in a dance-off for her heart.</desc>
+    <episode-num system="onscreen">3ASA04</episode-num>
+  </programme>
+  <programme start="20261121060000 +0000" stop="20261121063000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Not Particularly Desperate Housewife</sub-title>
+    <desc>As Stan continues to dominate the household, Francine finds herself idolizing a group of women who seem to have it all.</desc>
+    <episode-num system="onscreen">1AJN16</episode-num>
+  </programme>
+  <programme start="20261121063000 +0000" stop="20261121070000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Rough Trade</sub-title>
+    <desc>A fight after a particularly tough day leads Stan and Roger to get a taste of life in each other's shoes, but the swap quickly gets out of hand.</desc>
+    <episode-num system="onscreen">1AJN17</episode-num>
+  </programme>
+  <programme start="20261121070000 +0000" stop="20261121073000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Stewie Loves Lois</sub-title>
+    <desc>Lois gets sick of Stewie's newfound affection; Peter has a prostate exam.</desc>
+    <episode-num system="onscreen">4ACX32</episode-num>
+  </programme>
+  <programme start="20261121073000 +0000" stop="20261121080000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Mother Tucker</sub-title>
+    <desc>Peter's mom announces that she is getting a divorce; Peter finds a father figure in anchorman Tom Tucker; Brian gets his own radio show.</desc>
+    <episode-num system="onscreen">4ACX31</episode-num>
+  </programme>
+  <programme start="20261121080000 +0000" stop="20261121083000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>The Father, the Son and J.C.</sub-title>
+    <desc>A judge assigns Buck to community service with Habitat for Humanity; Peggy and Dee Dee plan a Christmas dinner at the Habitat house.</desc>
+    <episode-num system="onscreen">6ABE04</episode-num>
+  </programme>
+  <programme start="20261121083000 +0000" stop="20261121090000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Father of the Bribe</sub-title>
+    <desc>Bobby and Connie pretend to break up to throw off her parents, so the two can spend more time together.</desc>
+    <episode-num system="onscreen">6ABE06</episode-num>
+  </programme>
+  <programme start="20261121090000 +0000" stop="20261121093000 +0000" channel="as-east">
+    <title>In the Know</title>
+    <sub-title>Portrait of a Safety Rep on Fire</sub-title>
+    <desc>Fabian and Carl compete for the role of office safety rep; Lauren attempts to interview Roxane Gay and Mike Tyson while distracted by a personal medical issue; Barb has an extraordinary afternoon in an office chair warehouse.</desc>
+  </programme>
+  <programme start="20261121093000 +0000" stop="20261121100000 +0000" channel="as-east">
+    <title>Bob and Margaret</title>
+    <sub-title>Shopping</sub-title>
+    <desc>Bob and Margaret exhaust themselves at the Supersave Shopatropolis.</desc>
+  </programme>
+  <programme start="20261121100000 +0000" stop="20261121210000 +0000" channel="as-east">
+    <title>Off Air</title>
+    <sub-title>Off Air</sub-title>
+    <desc>Off Air</desc>
+  </programme>
+  <programme start="20261121210000 +0000" stop="20261121213000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Torch Song Hillogy</sub-title>
+    <desc>Hank and Bobby are both nominated to carry the Olympic torch through Arlen; in the end Hank is chosen.</desc>
+    <episode-num system="onscreen">6ABE12</episode-num>
+  </programme>
+  <programme start="20261121213000 +0000" stop="20261121220000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Joust Like a Woman</sub-title>
+    <desc>Hank tries to win the Renaissance Faire propane account by getting Peggy to work there; when Peggy is sentenced to the stocks for protesting the treatment of female employees, Hank must defend his wife's honor.</desc>
+    <episode-num system="onscreen">6ABE03</episode-num>
+  </programme>
+  <programme start="20261121220000 +0000" stop="20261121223000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Bluegrass Is Always Greener</sub-title>
+    <desc>Hank discovers that Connie has a talent for bluegrass music and arranges a trip to Branson to enter her in a fiddle contest.</desc>
+    <episode-num system="onscreen">6ABE14</episode-num>
+  </programme>
+  <programme start="20261121223000 +0000" stop="20261121230000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Finances With Wolves</sub-title>
+    <desc>After receiving a hefty bonus at work, Stan buys extravagant gadgets, while Francine pleads for her dream kiosk.</desc>
+    <episode-num system="onscreen">1AJN18</episode-num>
+  </programme>
+  <programme start="20261121230000 +0000" stop="20261121233000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>It Snakes a Village</sub-title>
+    <desc>When the Belchers visit Linda's parents in Florida, they find that the senior home where they live is full of swingers; Tina, Gene and Louise search for a legendary snake.</desc>
+    <episode-num system="onscreen">3ASA05</episode-num>
+  </programme>
+  <programme start="20261121233000 +0000" stop="20261122000000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Family Fracas</sub-title>
+    <desc>Car trouble causes the Belchers to cancel their night out; the family hits a winning streak while competing on a TV game show.</desc>
+    <episode-num system="onscreen">3ASA06</episode-num>
+  </programme>
+  <programme start="20261122000000 +0000" stop="20261122003000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Hell Comes to Quahog</sub-title>
+    <desc>Brian and Stewie try to save the town when corporate giant Superstore puts all the local shops out of business.</desc>
+    <episode-num system="onscreen">4ACX33</episode-num>
+  </programme>
+  <programme start="20261122003000 +0000" stop="20261122010000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Saving Private Brian</sub-title>
+    <desc>Brian and Stewie find themselves in boot camp; Chris and his rock band have a hit with their single, </desc>
+    <episode-num system="onscreen">4ACX34</episode-num>
+  </programme>
+  <programme start="20261122010000 +0000" stop="20261122013000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Whistle While Your Wife Works</sub-title>
+    <desc>When Peter's boss (Carrie Fisher) tells him he needs to pick up the pace, Lois goes to the brewery to help him.</desc>
+    <episode-num system="onscreen">4ACX35</episode-num>
+  </programme>
+  <programme start="20261122013000 +0000" stop="20261122020000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Torch Song Hillogy</sub-title>
+    <desc>Hank and Bobby are both nominated to carry the Olympic torch through Arlen; in the end Hank is chosen.</desc>
+    <episode-num system="onscreen">6ABE12</episode-num>
+  </programme>
+  <programme start="20261122020000 +0000" stop="20261122023000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Joust Like a Woman</sub-title>
+    <desc>Hank tries to win the Renaissance Faire propane account by getting Peggy to work there; when Peggy is sentenced to the stocks for protesting the treatment of female employees, Hank must defend his wife's honor.</desc>
+    <episode-num system="onscreen">6ABE03</episode-num>
+  </programme>
+  <programme start="20261122023000 +0000" stop="20261122030000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Bluegrass Is Always Greener</sub-title>
+    <desc>Hank discovers that Connie has a talent for bluegrass music and arranges a trip to Branson to enter her in a fiddle contest.</desc>
+    <episode-num system="onscreen">6ABE14</episode-num>
+  </programme>
+  <programme start="20261122030000 +0000" stop="20261122044500 +0000" channel="as-east">
+    <title>Movie</title>
+    <sub-title>Aqua Teen Forever: Plantasm</sub-title>
+    <desc>Everyone's favorite rascals Frylock, Master Shake, Meatwad and Carl fight the corporate overlord Amazon, led by tech mogul Neil and his trusty scientist sidekick, Elmer.</desc>
+  </programme>
+  <programme start="20261122044500 +0000" stop="20261122050000 +0000" channel="as-east">
+    <title>PSI Cops!</title>
+    <sub-title>Kyddnapped</sub-title>
+    <desc>To help Chief Beef prove that aliens are real, Kydd and Felixx attempt to get themselves abducted; with the help of Bitsie, they post an ad online, believing that the aliens will not be able to refuse the offer.</desc>
+  </programme>
+  <programme start="20261122050000 +0000" stop="20261122053000 +0000" channel="as-east">
+    <title>Get Jiro!</title>
+    <sub-title>Our Specials This Evening</sub-title>
+    <desc>Jiro and his newfound allies formulate a plan to take down Rose, and Jiro confronts his brother one final time.</desc>
+  </programme>
+  <programme start="20261122053000 +0000" stop="20261122060000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Finances With Wolves</sub-title>
+    <desc>After receiving a hefty bonus at work, Stan buys extravagant gadgets, while Francine pleads for her dream kiosk.</desc>
+    <episode-num system="onscreen">1AJN18</episode-num>
+  </programme>
+  <programme start="20261122060000 +0000" stop="20261122063000 +0000" channel="as-east">
+    <title>President Curtis</title>
+    <sub-title>Timber</sub-title>
+    <desc>When a murderous American legend resurfaces, Curtis once again rises to the challenge -- but doing so proves to be the ultimate test of his public image.</desc>
+  </programme>
+  <programme start="20261122063000 +0000" stop="20261122070000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Rick Potion No. 9</sub-title>
+    <desc>A potion designed to make Morty attractive to one girl goes viral and infects all of Earth, so Rick has to clean up the mess by creating another mess.</desc>
+    <episode-num system="xmltv_ns">6</episode-num>
+  </programme>
+  <programme start="20261122070000 +0000" stop="20261122084500 +0000" channel="as-east">
+    <title>Movie</title>
+    <sub-title>Aqua Teen Forever: Plantasm</sub-title>
+    <desc>Everyone's favorite rascals Frylock, Master Shake, Meatwad and Carl fight the corporate overlord Amazon, led by tech mogul Neil and his trusty scientist sidekick, Elmer.</desc>
+  </programme>
+  <programme start="20261122084500 +0000" stop="20261122090000 +0000" channel="as-east">
+    <title>PSI Cops!</title>
+    <sub-title>Kyddnapped</sub-title>
+    <desc>To help Chief Beef prove that aliens are real, Kydd and Felixx attempt to get themselves abducted; with the help of Bitsie, they post an ad online, believing that the aliens will not be able to refuse the offer.</desc>
+  </programme>
+  <programme start="20261122090000 +0000" stop="20261122104500 +0000" channel="as-east">
+    <title>Movie</title>
+    <sub-title>Aqua Teen Forever: Plantasm</sub-title>
+    <desc>Everyone's favorite rascals Frylock, Master Shake, Meatwad and Carl fight the corporate overlord Amazon, led by tech mogul Neil and his trusty scientist sidekick, Elmer.</desc>
+  </programme>
+  <programme start="20261122100000 +0000" stop="20261122210000 +0000" channel="as-east">
+    <title>Off Air</title>
+    <sub-title>Off Air</sub-title>
+    <desc>Off Air</desc>
+  </programme>
+  <programme start="20261122210000 +0000" stop="20261122213000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>The Substitute Spanish Prisoner</sub-title>
+    <desc>After Peggy is conned into buying an expensive at-home Ph.D.course, she comes up with a plan to scam the scammers.</desc>
+    <episode-num system="onscreen">5ABE21</episode-num>
+  </programme>
+  <programme start="20261122213000 +0000" stop="20261122220000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Unfortunate Son</sub-title>
+    <desc>When Cotton's WWII veteran's group, the VFW, is threatened with bankruptcy, Hank suggests the group invite Vietnam vets to become members.</desc>
+    <episode-num system="onscreen">5ABE20</episode-num>
+  </programme>
+  <programme start="20261122220000 +0000" stop="20261122223000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Are You There God? It's Me, Margaret Hill</sub-title>
+    <desc>Desperate for a teaching job, Peggy impersonates a nun to land a position at a parochial school, but having to teach a religion class might expose her.</desc>
+    <episode-num system="onscreen">6ABE07</episode-num>
+  </programme>
+  <programme start="20261122223000 +0000" stop="20261122230000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>It's Good to Be the Queen</sub-title>
+    <desc>Stan looks forward to dancing with Francine at her high-school reunion, only to learn her title of Homecoming Queen was a mistake.</desc>
+    <episode-num system="onscreen">1AJN19</episode-num>
+  </programme>
+  <programme start="20261122230000 +0000" stop="20261122233000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>The Kids Run the Restaurant</sub-title>
+    <desc>When Bob cuts his finger and Linda has to take him to the hospital, the kids turn the basement of the restaurant into a makeshift casino.</desc>
+    <episode-num system="onscreen">3ASA07</episode-num>
+  </programme>
+  <programme start="20261122233000 +0000" stop="20261123000000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Boyz 4 Now</sub-title>
+    <desc>When Louise and Tina go to a Boyz 4 Now concert, Louise develops a crush on one of the singers; Gene enters a table-setting competition.</desc>
+    <episode-num system="onscreen">3ASA08</episode-num>
+  </programme>
+  <programme start="20261123000000 +0000" stop="20261123003000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Prick Up Your Ears</sub-title>
+    <desc>Lois volunteers to teach a sex-ed class at the high school when she learns that Chris has some incorrect information on the subject.</desc>
+    <episode-num system="onscreen">5ACX01</episode-num>
+  </programme>
+  <programme start="20261123003000 +0000" stop="20261123010000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Barely Legal</sub-title>
+    <desc>Meg cannot find a date for the junior prom, so Brian goes with her.</desc>
+    <episode-num system="onscreen">5ACX03</episode-num>
+  </programme>
+  <programme start="20261123010000 +0000" stop="20261123013000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Road to Rupert</sub-title>
+    <desc>Brian accidentally sells Stewie's beloved teddy bear, Rupert; Meg must drive Peter around after he loses his license.</desc>
+    <episode-num system="onscreen">5ACX04</episode-num>
+  </programme>
+  <programme start="20261123013000 +0000" stop="20261123020000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>The Substitute Spanish Prisoner</sub-title>
+    <desc>After Peggy is conned into buying an expensive at-home Ph.D.course, she comes up with a plan to scam the scammers.</desc>
+    <episode-num system="onscreen">5ABE21</episode-num>
+  </programme>
+  <programme start="20261123020000 +0000" stop="20261123023000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Unfortunate Son</sub-title>
+    <desc>When Cotton's WWII veteran's group, the VFW, is threatened with bankruptcy, Hank suggests the group invite Vietnam vets to become members.</desc>
+    <episode-num system="onscreen">5ABE20</episode-num>
+  </programme>
+  <programme start="20261123023000 +0000" stop="20261123030000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Are You There God? It's Me, Margaret Hill</sub-title>
+    <desc>Desperate for a teaching job, Peggy impersonates a nun to land a position at a parochial school, but having to teach a religion class might expose her.</desc>
+    <episode-num system="onscreen">6ABE07</episode-num>
+  </programme>
+  <programme start="20261123030000 +0000" stop="20261123033000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>It's Good to Be the Queen</sub-title>
+    <desc>Stan looks forward to dancing with Francine at her high-school reunion, only to learn her title of Homecoming Queen was a mistake.</desc>
+    <episode-num system="onscreen">1AJN19</episode-num>
+  </programme>
+  <programme start="20261123033000 +0000" stop="20261123040000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Raising Gazorpazorp</sub-title>
+    <desc>Morty convinces Rick to buy him a sexy robot. Guess what tho? Trouble happens, dog.</desc>
+    <episode-num system="xmltv_ns">7</episode-num>
+  </programme>
+  <programme start="20261123040000 +0000" stop="20261123041500 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Fool's Goldfinger</sub-title>
+    <desc>Harry from 'Harry and the Hendersons' gets his own reality show.</desc>
+    <episode-num system="xmltv_ns">99</episode-num>
+  </programme>
+  <programme start="20261123041500 +0000" stop="20261123043000 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Fight Club Paradise</sub-title>
+    <desc>Yogi Bear clashes with the Power Rangers in a battle; </desc>
+    <episode-num system="xmltv_ns">100</episode-num>
+  </programme>
+  <programme start="20261123043000 +0000" stop="20261123050000 +0000" channel="as-east">
+    <title>President Curtis</title>
+    <sub-title>Pilot</sub-title>
+    <desc>As Curtis goes head-to-head with the CIA over a secret tape, he's forced to confront secrets of his own.</desc>
+  </programme>
+  <programme start="20261123050000 +0000" stop="20261123051500 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>Wow, I Hope That Doesn't Happen to Me</sub-title>
+    <desc>More bad dreams; I'm the bathroom hand dryer; somebody call the police, these idiots are freaking out.</desc>
+  </programme>
+  <programme start="20261123051500 +0000" stop="20261123053000 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>What Was I Gonna Say?</sub-title>
+    <desc>Do you ever get brain fog?</desc>
+  </programme>
+  <programme start="20261123053000 +0000" stop="20261123060000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Raising Gazorpazorp</sub-title>
+    <desc>Morty convinces Rick to buy him a sexy robot. Guess what tho? Trouble happens, dog.</desc>
+    <episode-num system="xmltv_ns">7</episode-num>
+  </programme>
+  <programme start="20261123060000 +0000" stop="20261123061500 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Fool's Goldfinger</sub-title>
+    <desc>Harry from 'Harry and the Hendersons' gets his own reality show.</desc>
+    <episode-num system="xmltv_ns">99</episode-num>
+  </programme>
+  <programme start="20261123061500 +0000" stop="20261123063000 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Fight Club Paradise</sub-title>
+    <desc>Yogi Bear clashes with the Power Rangers in a battle; </desc>
+    <episode-num system="xmltv_ns">100</episode-num>
+  </programme>
+  <programme start="20261123063000 +0000" stop="20261123070000 +0000" channel="as-east">
+    <title>President Curtis</title>
+    <sub-title>Pilot</sub-title>
+    <desc>As Curtis goes head-to-head with the CIA over a secret tape, he's forced to confront secrets of his own.</desc>
+  </programme>
+  <programme start="20261123070000 +0000" stop="20261123071500 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>Wow, I Hope That Doesn't Happen to Me</sub-title>
+    <desc>More bad dreams; I'm the bathroom hand dryer; somebody call the police, these idiots are freaking out.</desc>
+  </programme>
+  <programme start="20261123071500 +0000" stop="20261123073000 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>What Was I Gonna Say?</sub-title>
+    <desc>Do you ever get brain fog?</desc>
+  </programme>
+  <programme start="20261123073000 +0000" stop="20261123074500 +0000" channel="as-east">
+    <title>Smiling Friends</title>
+    <sub-title>Squim Returns</sub-title>
+    <desc>After buying a magic mirror, Pim meets Squim; Charlie starts digging deep and gets into some really bad internet stuff.</desc>
+  </programme>
+  <programme start="20261123074500 +0000" stop="20261123080000 +0000" channel="as-east">
+    <title>Smiling Friends</title>
+    <sub-title>Shmaloogles</sub-title>
+    <desc>Pim, Charlie, and Flint discover a new realm full of wacky characters; although, something happens, and Pim now has his own adventure.</desc>
+  </programme>
+  <programme start="20261123080000 +0000" stop="20261123083000 +0000" channel="as-east">
+    <title>Get Jiro!</title>
+    <sub-title>Tokyo Story</sub-title>
+    <desc>A flashback episode explores Jiro's origins in Tokyo, where he is torn between two conflicting worlds.</desc>
+  </programme>
+  <programme start="20261123083000 +0000" stop="20261123090000 +0000" channel="as-east">
+    <title>Ninja Kamui</title>
+    <desc>Aska rescues Higan from certain doom and her true identity is unveiled. Meanwhile, Mike learns that he is now wanted by his own agency, the FBI.</desc>
+  </programme>
+  <programme start="20261123090000 +0000" stop="20261123093000 +0000" channel="as-east">
+    <title>Common Side Effects</title>
+    <sub-title>Lakeshore Limited</sub-title>
+    <desc>Marshall is on the run, trying to flee New York; Frances confides to her boss, Rick, about the mushroom; Rick sends her to Marshall's farm to get more, but the situation gets out of hand.</desc>
+  </programme>
+  <programme start="20261123093000 +0000" stop="20261123100000 +0000" channel="as-east">
+    <title>Genndy Tartakovsky's Primal</title>
+    <sub-title>The Colossaeus, Part III</sub-title>
+    <desc>Spear, Fang and Mira lead a daring escape from the Colossaeus, and the queen is bent on their destruction.</desc>
+  </programme>
+</tv>

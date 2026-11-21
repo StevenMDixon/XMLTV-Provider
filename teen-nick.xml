@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="teen-nick">
+    <display-name>Teen Nick</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59036_h15_ac.png"/>
+  </channel>
+  <programme start="20261120110000 +0000" stop="20261120112600 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Out of Step; Too Cool for School</sub-title>
+    <desc>Clyde and Nana Gayle are in stiff competition when they make the finals of a Grandmother/Grandson Dance Contest; Lincoln and friends need to get school back to normal when Principal Ramirez implements new fishy rules.</desc>
+    <episode-num system="xmltv_ns">709</episode-num>
+  </programme>
+  <programme start="20261120112600 +0000" stop="20261120115300 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>The Hurt Lockers; Love Stinks</sub-title>
+    <desc>When a sinkhole opens up at school, Lincoln and his classmates are forced to share lockers; when Lana brings home a skunk to rehabilitate, Lola grows attached when she finds the skunk has finer tastes.</desc>
+    <episode-num system="xmltv_ns">626</episode-num>
+  </programme>
+  <programme start="20261120115300 +0000" stop="20261120122000 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Funny Business; Snow Bored</sub-title>
+    <desc>Lincoln begins to hog the spotlight when he becomes Luan's clown assistant; the Loud children have fun on a snow day.</desc>
+    <episode-num system="xmltv_ns">124</episode-num>
+  </programme>
+  <programme start="20261120122000 +0000" stop="20261120124700 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Toads and Tiaras; Two Boys and a Baby</sub-title>
+    <desc>When Lola gets sick and is unable to compete in a pageant, Lincoln coaches Lana to take her place; thinking it will be easy, Lincoln and Clyde decide to take on the task of baby-sitting Lily.</desc>
+    <episode-num system="xmltv_ns">114</episode-num>
+  </programme>
+  <programme start="20261120124700 +0000" stop="20261120131300 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Store Wars With the Casagrandes; Lucha Fever With the Casagrandes</sub-title>
+    <desc>When a fancy grocery store opens on the block, Bobby rallies the family to do everything they can to compete; Ronnie Anne fakes being sick to watch a Lucha Libre match, which proves to be more difficult than anticipated.</desc>
+    <episode-num system="xmltv_ns">405</episode-num>
+  </programme>
+  <programme start="20261120131300 +0000" stop="20261120134000 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Bummer Camp; Sleepstakes</sub-title>
+    <desc>When Gramps struggles to run Camp Mastodon, the kids come to his rescue; the Loud kids help Lana get over her fear of sleepovers.</desc>
+    <episode-num system="xmltv_ns">610</episode-num>
+  </programme>
+  <programme start="20261120134000 +0000" stop="20261120140600 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Cover Girls; Save the Date</sub-title>
+    <desc>Lincoln has his hands full when all 10 of his sisters ask him to cover for them on the same day; Bobby and Lori go on a double date with Lincoln and Bobby's little sister, Ronnie Anne.</desc>
+    <episode-num system="xmltv_ns">115</episode-num>
+  </programme>
+  <programme start="20261120140600 +0000" stop="20261120143200 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Left in the Dark; Get the Message</sub-title>
+    <desc>Lincoln must beat each of his sisters to the couch in order to watch the finale of his favorite show; Lincoln leaves a scathing voicemail on Lori's phone, and quickly realizes that he must erase it before she hears it.</desc>
+    <episode-num system="xmltv_ns">101</episode-num>
+  </programme>
+  <programme start="20261120143200 +0000" stop="20261120145900 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Along Came a Sister; Chore and Peace</sub-title>
+    <desc>Lincoln must care for the class tarantula; Lincoln decides to go on strike until someone will swap chores.</desc>
+    <episode-num system="xmltv_ns">112</episode-num>
+  </programme>
+  <programme start="20261120145900 +0000" stop="20261120152500 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Driving Miss Hazy; No Guts, No Glori</sub-title>
+    <desc>Finally tired of doing favors for Lori to get rides, Lincoln decides to help Leni pass her driver's test; Lincoln and nine of his sisters work as a team to thwart the tyranny they face with Lori as their babysitter.</desc>
+    <episode-num system="xmltv_ns">103</episode-num>
+  </programme>
+  <programme start="20261120152500 +0000" stop="20261120155200 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Linc or Swim; Changing the Baby</sub-title>
+    <desc>All ten of Lincoln's sisters want to use the new kiddie pool he has purchased, but it is not large enough for all of them; after noticing that none of his sisters share his interests, Lincoln tries to mold Lily into his mini-me.</desc>
+    <episode-num system="xmltv_ns">108</episode-num>
+  </programme>
+  <programme start="20261120155200 +0000" stop="20261120161900 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Toddler Invasion</sub-title>
+    <desc>When the Toddler takes control of the Man Cave, Charlotte and Jasper have to find a way to sneak in and free Kid Danger and Captain Man.</desc>
+    <episode-num system="xmltv_ns">416</episode-num>
+  </programme>
+  <programme start="20261120161900 +0000" stop="20261120164600 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Budget Cuts</sub-title>
+    <desc>When the Vice Mayor cuts Captain Man and Kid Danger's budget to build a high-speed railway in Swellview, the duo must figure out creative ways to save money.</desc>
+    <episode-num system="xmltv_ns">410</episode-num>
+  </programme>
+  <programme start="20261120164600 +0000" stop="20261120171200 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Flabber Gassed</sub-title>
+    <desc>After acting too confident before a fight, Kid Danger and Captain Man are sprayed with Flabber Gas making them powerless to defeat a new villain in Swellview; Schwoz puts the heroes in Exo-Suits which Charlotte and Jasper control.</desc>
+    <episode-num system="xmltv_ns">501</episode-num>
+  </programme>
+  <programme start="20261120171200 +0000" stop="20261120173800 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Rubber Duck</sub-title>
+    <desc>When Ray accidentally destroys Henry's dad's prized remote control car, they throw a manicure/pedicure party to raise money to fix it.</desc>
+    <episode-num system="xmltv_ns">409</episode-num>
+  </programme>
+  <programme start="20261120173800 +0000" stop="20261120180400 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Captain Man-kini</sub-title>
+    <desc>When a new internet celebrity causes havoc in Swellview, Captain Man has to swap bodies with Frankini to infiltrate his secret lair.</desc>
+    <episode-num system="xmltv_ns">420</episode-num>
+  </programme>
+  <programme start="20261120180400 +0000" stop="20261120183000 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Double-O Danger</sub-title>
+    <desc>Kid Danger and Captain Man attempt to capture mob boss Rob Moss by infiltrating his daughter's Sweet 16 birthday party.</desc>
+    <episode-num system="xmltv_ns">519</episode-num>
+  </programme>
+  <programme start="20261120183000 +0000" stop="20261120185600 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Dream Busters</sub-title>
+    <desc>A villain's dream beam traps Henry in a dream state from which only Charlotte can rescue him.</desc>
+    <episode-num system="xmltv_ns">120</episode-num>
+  </programme>
+  <programme start="20261120185600 +0000" stop="20261120192200 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Dodging Danger</sub-title>
+    <desc>After Henry uses his new power to compete in a Dodge-A-Leen tournament, Ray, Schwoz and Charlotte go undercover to teach Henry a lesson.</desc>
+    <episode-num system="xmltv_ns">311</episode-num>
+  </programme>
+  <programme start="20261120192200 +0000" stop="20261120194900 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Kid Grounded</sub-title>
+    <desc>Henry is grounded after he is caught sneaking out at night; while Piper drives Henry crazy at home, Charlotte steps into the sidekick role.</desc>
+    <episode-num system="xmltv_ns">121</episode-num>
+  </programme>
+  <programme start="20261120194900 +0000" stop="20261120201500 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Substitute Teacher</sub-title>
+    <desc>When a suspicious new student arrives at school, Charlotte and Henry believe he's up to something; Captain Man comes in disguised as a substitute teacher to find out more.</desc>
+    <episode-num system="xmltv_ns">106</episode-num>
+  </programme>
+  <programme start="20261120201500 +0000" stop="20261120204200 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>I Dream of Danger</sub-title>
+    <desc>When Charlotte has a dream where she nearly kisses Kid Danger, she actively tries to avoid Henry for fear of the dream coming true.</desc>
+    <episode-num system="xmltv_ns">516</episode-num>
+  </programme>
+  <programme start="20261120204200 +0000" stop="20261120210800 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Henry &amp;amp; the Woodpeckers</sub-title>
+    <desc>When Piper's basketball coach quits, Henry becomes the coach of Piper's team; Henry is challenged by the League Board and its unorthodox rules.</desc>
+    <episode-num system="xmltv_ns">204</episode-num>
+  </programme>
+  <programme start="20261120210800 +0000" stop="20261120213400 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Too Much Game</sub-title>
+    <desc>Henry believes that he is replaced on the basketball team by an older boy; Captain Man must overcome old grudges to get help from a friend.</desc>
+    <episode-num system="xmltv_ns">110</episode-num>
+  </programme>
+  <programme start="20261120213400 +0000" stop="20261120220100 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>The Bucket Trap</sub-title>
+    <desc>Henry and Charlotte want to tell Jasper that Henry is really Kid Danger, so they decide to give him a test secret to prove that he is ready.</desc>
+    <episode-num system="xmltv_ns">123</episode-num>
+  </programme>
+  <programme start="20261120220100 +0000" stop="20261120222800 +0000" channel="teen-nick">
+    <title>The Thundermans</title>
+    <sub-title>Call of Lunch Duty</sub-title>
+    <desc>Phoebe discovers that Max is the person behind the latest rebellious pranks at school, and refuses to reveal his secret to the principal.</desc>
+    <episode-num system="xmltv_ns">223</episode-num>
+  </programme>
+  <programme start="20261120222800 +0000" stop="20261120225400 +0000" channel="teen-nick">
+    <title>The Thundermans</title>
+    <sub-title>Weekend Guest</sub-title>
+    <desc>Phoebe volunteers to take home the class's Venus flytrap for the weekend; Max performs an experiment on a plant, causing it to grow continuously.</desc>
+    <episode-num system="xmltv_ns">106</episode-num>
+  </programme>
+  <programme start="20261120225400 +0000" stop="20261120232100 +0000" channel="teen-nick">
+    <title>The Thundermans</title>
+    <sub-title>Orange Is the New Max</sub-title>
+    <desc>Phoebe worries that Max will revert to his evil ways after he is asked to give a </desc>
+    <episode-num system="xmltv_ns">411</episode-num>
+  </programme>
+  <programme start="20261120232100 +0000" stop="20261120234800 +0000" channel="teen-nick">
+    <title>The Thundermans</title>
+    <sub-title>Stealing Home</sub-title>
+    <desc>Hank and Phoebe think their house has been robbed when they return home and discover the furniture is missing.</desc>
+    <episode-num system="xmltv_ns">324</episode-num>
+  </programme>
+  <programme start="20261120234800 +0000" stop="20261121001500 +0000" channel="teen-nick">
+    <title>The Thundermans</title>
+    <sub-title>The Thundreth</sub-title>
+    <desc>Phoebe and Max are determined to make their 100th save their best and most memorable one yet, but by ignoring a series of small saves they overlook a supervillain plotting revenge on Hank and Barb.</desc>
+    <episode-num system="xmltv_ns">429</episode-num>
+  </programme>
+  <programme start="20261121001500 +0000" stop="20261121004200 +0000" channel="teen-nick">
+    <title>The Thundermans</title>
+    <sub-title>Looperheroes</sub-title>
+    <desc>The Z-Force gives Max and Phoebe a superhero day off, but when they relive the day over and over again, they must find a way to break the loop.</desc>
+    <episode-num system="xmltv_ns">422</episode-num>
+  </programme>
+  <programme start="20261121004200 +0000" stop="20261121010900 +0000" channel="teen-nick">
+    <title>The Thundermans</title>
+    <sub-title>The Neverfriending Story</sub-title>
+    <desc>When Phoebe and Max's friends begin spending time with each other, the twins worry that they will be stuck together all the time.</desc>
+    <episode-num system="xmltv_ns">211</episode-num>
+  </programme>
+  <programme start="20261121010900 +0000" stop="20261121013600 +0000" channel="teen-nick">
+    <title>The Thundermans: Undercover</title>
+    <sub-title>From Dust Till Dawn</sub-title>
+    <desc>Chloe struggles with her leadership skills; when a villain attacks her school field trip, Max and Phoebe have to put Chloe in charge while they try to take down the villain and defuse his dangerous astronomical weapon.</desc>
+  </programme>
+  <programme start="20261121013600 +0000" stop="20261121020300 +0000" channel="teen-nick">
+    <title>The Thundermans: Undercover</title>
+    <sub-title>The Parent Zap</sub-title>
+    <desc>After Phoebe and Max let Chloe's friends watch a horror movie and eat candy, Jinx and Booch's parents want to meet Chloe's; with Hank and Barb away, Max and Phoebe transform into them to help Chloe; it goes well until the real Hank and Barb show up.</desc>
+  </programme>
+  <programme start="20261121020300 +0000" stop="20261121023000 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Stall Monitor; A Pimple Plan</sub-title>
+    <desc>Worried that his teacher has bad things to say about him, Lincoln tries to delay his parent-teacher conference; Luan wakes up with a pimple on the day of her first date with Benny, so she turns to the siblings for help.</desc>
+    <episode-num system="xmltv_ns">412</episode-num>
+  </programme>
+  <programme start="20261121023000 +0000" stop="20261121025700 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Diss the Cook; For Sale by Loner</sub-title>
+    <desc>Lincoln is convinced the middle school lunch lady is holding a grudge against him and his older sisters; Mr. Grouse attempts to find some peace and quiet after moving away from the Louds.</desc>
+    <episode-num system="xmltv_ns">523</episode-num>
+  </programme>
+  <programme start="20261121025700 +0000" stop="20261121032400 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Camped!</sub-title>
+    <desc>When Dad discovers that his childhood camp is closing, he decides to take the family for one final visit; they soon uncover a map that could lead to a treasure big enough to save the camp and prove the existence of an old camp legend.</desc>
+    <episode-num system="xmltv_ns">518</episode-num>
+  </programme>
+  <programme start="20261121032400 +0000" stop="20261121035100 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Snow Escape; Snow News Day</sub-title>
+    <desc>To make it to school, the Louds must survive a monstrous Lynn when the weatherman declares it a Packing Day; when there are signs of a yeti in Royal Woods, the Action News Team sets out to prove its existence.</desc>
+    <episode-num system="xmltv_ns">623</episode-num>
+  </programme>
+  <programme start="20261121035100 +0000" stop="20261121041800 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>The Butterfly Effect; The Green House</sub-title>
+    <desc>Lincoln spills one of Lisa's experiments, setting off a chain reaction throughout the house; Lincoln tries to encourage the family to stop using so much electricity.</desc>
+    <episode-num system="xmltv_ns">111</episode-num>
+  </programme>
+  <programme start="20261121041800 +0000" stop="20261121044500 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Hurl, Interrupted; Diamonds Are for Never</sub-title>
+    <desc>Lynn tries to stall her friends from riding the new coaster at Dairyland, before they find out her secret; after Lola and Mr. Grouse find a precious gem, the two struggle to decide who gets to watch over it.</desc>
+    <episode-num system="xmltv_ns">513</episode-num>
+  </programme>
+  <programme start="20261121044500 +0000" stop="20261121051200 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Fashion No Show; Doom Service</sub-title>
+    <desc>Leni and Carlota's working styles clash when they are both interning for a famous fashion designer, Mariella Moss; the Louds book a stay at an all-inclusive resort, only to find the vacation is not what they imagined.</desc>
+    <episode-num system="xmltv_ns">625</episode-num>
+  </programme>
+  <programme start="20261121051200 +0000" stop="20261121053900 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Runaway McBride; High Crimes</sub-title>
+    <desc>Howard and Harold tear their home apart after Clyde starts spending more time with the gang and less time at home; Sunset Canyon is falling apart and Lincoln and Clyde are determined to find out why.</desc>
+    <episode-num system="xmltv_ns">525</episode-num>
+  </programme>
+  <programme start="20261121053900 +0000" stop="20261121060600 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>How the Best Was Won; Animal House</sub-title>
+    <desc>A competition creates a rift; Lana struggles to find homes for the exotic pets at the Royal Woods Animal Shelter before they're moved out.</desc>
+    <episode-num system="xmltv_ns">520</episode-num>
+  </programme>
+  <programme start="20261121060600 +0000" stop="20261121063300 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Ruthless People; What Wood Lincoln Do?</sub-title>
+    <desc>When termites infest the house, half the family stays with Pop Pop and the others stay with Aunt Ruth; Lincoln has to complete a woodworking assignment, but has a history of failure on the topic.</desc>
+    <episode-num system="xmltv_ns">313</episode-num>
+  </programme>
+  <programme start="20261121063300 +0000" stop="20261121070000 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Can't Hardly Wait; A Mutt Above</sub-title>
+    <desc>Lori takes a job as a waitress at Dad's restaurant, but it turns out that serving is harder than she anticipated; spurred on by a classmate's mocking about Charles, Lana decides to train him to compete in a local dog show.</desc>
+    <episode-num system="xmltv_ns">408</episode-num>
+  </programme>
+  <programme start="20261121070000 +0000" stop="20261121072400 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Absent Minded; Be Stella My Heart</sub-title>
+    <desc>Clyde discovers he didn't earn junior administrator job, but can't give up the perks that come along with it; when the new girl starts hanging around Lincoln and his friends, they begin to suspect she likes one of them.</desc>
+    <episode-num system="xmltv_ns">315</episode-num>
+  </programme>
+  <programme start="20261121072400 +0000" stop="20261121074800 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Ghosted!</sub-title>
+    <desc>Lori banishes a ghost she believes is haunting her, but when Fairway's golf team starts to struggle, she realizes she needs to bring it back to turn the team's luck around.</desc>
+    <episode-num system="xmltv_ns">505</episode-num>
+  </programme>
+  <programme start="20261121074800 +0000" stop="20261121081200 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Face the Music With the Casagrandes; Pranks for the Memories With the Casagrandes</sub-title>
+    <desc>When Ronnie Anne discovers that each family member will perform at Hector's birthday, she turns to Sid for help; Ronnie Anne's attempts to bond with her cool older cousin Carlota lead to a prank war against the boy cousins.</desc>
+    <episode-num system="xmltv_ns">404</episode-num>
+  </programme>
+  <programme start="20261121081200 +0000" stop="20261121083600 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>City Slickers; Fool Me Twice</sub-title>
+    <desc>Lori and Lincoln visit the city, where Lori struggles to be a city girl; Lincoln finds that Ronnie Anne has changed; the family uses stunt doubles in its plan to avoid Luan's April Fool's Day pranking.</desc>
+    <episode-num system="xmltv_ns">305</episode-num>
+  </programme>
+  <programme start="20261121083600 +0000" stop="20261121090000 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Road Trip: Screen Queen; Road Trip: Hide and Sneak</sub-title>
+    <desc>When the Louds' road trip takes them to Hollywood, Lola is determined to become a star and land a leading role; to help Mom make the deadline for her column, the Louds have to avoid the Casagrandes when they visit Great Lakes City.</desc>
+    <episode-num system="xmltv_ns">708</episode-num>
+  </programme>
+  <programme start="20261121090000 +0000" stop="20261121092400 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Present Danger; Stressed for the Part</sub-title>
+    <desc>Dressed as David Steele, Lincoln is on the hunt for his stolen birthday present before it's destroyed; after landing a role in a Dairyland production, Luan must hide this news from Mrs. Bernardo, whom she beat out.</desc>
+    <episode-num system="xmltv_ns">601</episode-num>
+  </programme>
+  <programme start="20261121092400 +0000" stop="20261121094800 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Selfie Improvement; No Place Like Homeschool</sub-title>
+    <desc>When Carol Pingrey's photograph gets more </desc>
+    <episode-num system="xmltv_ns">304</episode-num>
+  </programme>
+  <programme start="20261121094800 +0000" stop="20261121101200 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Fool's Paradise; Job Insecurity</sub-title>
+    <desc>The Loud family believe that they are safe from pranks on April Fool's Day because prankster Luan is away at camp; when the children discover that their father is not at his old job anymore, they begin to worry it might be their fault.</desc>
+    <episode-num system="xmltv_ns">216</episode-num>
+  </programme>
+  <programme start="20261121101200 +0000" stop="20261121103600 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>The Taunting Hour; Musical Chairs</sub-title>
+    <desc>Lincoln convinces his teacher, Mr. Bolhofner, to join the Doo-Dads to get a better seat in class; after Lincoln tries to help Lynn get over a heckler at her soccer game, the Louds realize they all have critics.</desc>
+  </programme>
+  <programme start="20261121103600 +0000" stop="20261121110000 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Flip This Flip; Haunted House Call</sub-title>
+    <desc>The Loud kids help Flip clean up his image to impress his middle school crush; when the Mortician's Club can't afford tickets to Casket Con, they decide to start a business to raise money.</desc>
+    <episode-num system="xmltv_ns">603</episode-num>
+  </programme>
+  <programme start="20261121110000 +0000" stop="20261121112600 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Grub Snub; She's All Bat</sub-title>
+    <desc>When Leni and her friends start hanging out at Gus', Lincoln and the gang start a turf war for control; Lucy gets jealous of Lola's newfound attention after she joins the Mortician's Club.</desc>
+    <episode-num system="xmltv_ns">516</episode-num>
+  </programme>
+  <programme start="20261121112600 +0000" stop="20261121115300 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>House of Lies; Game Boys</sub-title>
+    <desc>After witnessing an excess of lying in the family, Lisa invents lie-detecting glasses to try and curb the fibs; Lincoln asks to borrow Clyde's new gaming system, but Clyde struggles to trust that it's safe with him.</desc>
+    <episode-num system="xmltv_ns">318</episode-num>
+  </programme>
+  <programme start="20261121115300 +0000" stop="20261121122000 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Sister Act; House Flip</sub-title>
+    <desc>To get out of doing things they don't like, Lana and Lola secretly switch places and pretend to be the other; after causing Flip to get hurt, the kids sneak him into the attic to care for him without Mom and Dad knowing.</desc>
+    <episode-num system="xmltv_ns">419</episode-num>
+  </programme>
+  <programme start="20261121122000 +0000" stop="20261121124700 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Tails of Woe; The Last Loud on Earth</sub-title>
+    <desc>When Stella's music box disappears at school, the gang immediately suspects a student urban legend known as the Rat Beast; after a night of zombie movies, Clyde and Lincoln find an empty Loud house and assume it's a zombie apocalypse.</desc>
+    <episode-num system="xmltv_ns">411</episode-num>
+  </programme>
+  <programme start="20261121124700 +0000" stop="20261121131300 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Jeers for Fears; Tea Tale Heart</sub-title>
+    <desc>After agreeing to go to the Royal Woods House of Terror, Lincoln and Clyde have to toughen up and face their fears; Lola discovers that Lucy has an old, fragile doll and decides she must borrow it.</desc>
+    <episode-num system="xmltv_ns">320</episode-num>
+  </programme>
+  <programme start="20261121131300 +0000" stop="20261121134000 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Home of the Fave; Hero Today, Gone Tomorrow</sub-title>
+    <desc>After a pun-filled trip to the grocery store with Luan and Lola, Dad worries Lola thinks he plays favorites; when Lynn's friend Margo is celebrated for a one-in-a-million soccer goal, Lynn tries to be supportive.</desc>
+    <episode-num system="xmltv_ns">323</episode-num>
+  </programme>
+  <programme start="20261121134000 +0000" stop="20261121140600 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>The Price of Admission; One Flu Over the Loud House</sub-title>
+    <desc>Lincoln is unable to sleep after watching a scary movie, so he stays awake all night; when a common cold spreads through the Loud house, Lincoln believes his sisters have turned into zombies.</desc>
+    <episode-num system="xmltv_ns">125</episode-num>
+  </programme>
+  <programme start="20261121140600 +0000" stop="20261121143200 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Fright Bite; The Loudly Bones</sub-title>
+    <desc>When a vampire moves into Royal Woods, Lucy must convince him to turn the Mortician's Club into vampires. Sunset Canyon is falling apart and Lincoln and Clyde are determined to find out why.</desc>
+    <episode-num system="xmltv_ns">524</episode-num>
+  </programme>
+  <programme start="20261121143200 +0000" stop="20261121145900 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>April Fools Rules; Cereal Offender</sub-title>
+    <desc>Luna pranks the entire household every year on April Fools' Day, but this year Lincoln has a plan to avoid her pranks; the Loud children make a trip to the supermarket to do the grocery shopping for their mother, but Lincoln has other plans.</desc>
+    <episode-num system="xmltv_ns">118</episode-num>
+  </programme>
+  <programme start="20261121145900 +0000" stop="20261121152500 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Hand-Me-Downer; Sleuth or Consequences</sub-title>
+    <desc>After Lincoln gets a pink hand-me-down bike from Lori, he borrows Lynn's cool BMX bike without telling her; when someone clogs the toilet, Lincoln investigates to find the culprit.</desc>
+    <episode-num system="xmltv_ns">110</episode-num>
+  </programme>
+  <programme start="20261121152500 +0000" stop="20261121155200 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Zach Attack; Flying Solo</sub-title>
+    <desc>Zach and Rusty fake an alien landing, which sends the whole town on a hunt for little green men; Clyde thinks he's guaranteed the Glee Club solo, until Lincoln accidentally auditions and lands the part.</desc>
+    <episode-num system="xmltv_ns">512</episode-num>
+  </programme>
+  <programme start="20261121155200 +0000" stop="20261121161900 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Spoiler Alert</sub-title>
+    <desc>Henry and Ray must deal with an annoying new villain called the Spoiler; Piper tries to join a popular Captain Man fan club.</desc>
+    <episode-num system="xmltv_ns">113</episode-num>
+  </programme>
+  <programme start="20261121161900 +0000" stop="20261121164600 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Ox Pox</sub-title>
+    <desc>When Piper gets a mysterious illness, Captain Man must travel back in time to the 1700s to find the only cure.</desc>
+    <episode-num system="xmltv_ns">218</episode-num>
+  </programme>
+  <programme start="20261121164600 +0000" stop="20261121171200 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Charlotte Gets Ghosted</sub-title>
+    <desc>Schwoz invents a vacuum to help Henry clean his house, but it accidentally sucks Charlotte inside; when Henry's family hears Charlotte and thinks the vacuum is haunted, Ray must distract them while Henry finds a way to get her out.</desc>
+    <episode-num system="xmltv_ns">515</episode-num>
+  </programme>
+  <programme start="20261121171200 +0000" stop="20261121173800 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Let's Make a Steal</sub-title>
+    <desc>In an attempt to investigate a string of robberies, Captain Man gets Henry a spot on his favorite game show.</desc>
+    <episode-num system="xmltv_ns">114</episode-num>
+  </programme>
+  <programme start="20261121173800 +0000" stop="20261121180400 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Mo' Danger, Mo' Problems</sub-title>
+    <desc>As Henry tries to adjust to his new role as Kid Danger, he struggles to balance his schedule between crime-fighting, school and family.</desc>
+    <episode-num system="xmltv_ns">103</episode-num>
+  </programme>
+  <programme start="20261121180400 +0000" stop="20261121183000 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Visible Brad</sub-title>
+    <desc>Captain Man and Kid Danger need a little bit of magic and some help from an old friend in order to catch a thief.</desc>
+    <episode-num system="xmltv_ns">527</episode-num>
+  </programme>
+  <programme start="20261121183000 +0000" stop="20261121185600 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>The Space Rock</sub-title>
+    <desc>Trouble follows Henry to his home when a rock from outer space turns out to be an egg with an alien creature inside it.</desc>
+    <episode-num system="xmltv_ns">108</episode-num>
+  </programme>
+  <programme start="20261121185600 +0000" stop="20261121192200 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>The Rock Box Dump</sub-title>
+    <desc>When a report comes out that declares Kid Danger's superpower an illness, Kid Danger has to convince Swellview that it is a huge misunderstanding.</desc>
+    <episode-num system="xmltv_ns">406</episode-num>
+  </programme>
+  <programme start="20261121192200 +0000" stop="20261121194900 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Spelling Bee Hard</sub-title>
+    <desc>Dr. Minyak challenges Captain Man to a spelling bee.</desc>
+    <episode-num system="xmltv_ns">419</episode-num>
+  </programme>
+  <programme start="20261121194900 +0000" stop="20261121201500 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Holey Moley</sub-title>
+    <desc>The gang thinks it has found the perfect tunnels to access all of Swellview, until it is confronted by the tunnels' original inhabitants.</desc>
+    <episode-num system="xmltv_ns">517</episode-num>
+  </programme>
+  <programme start="20261121201500 +0000" stop="20261121204200 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>JAM Session</sub-title>
+    <desc>When Ray hears that Piper is going to Junior Anger Management to work on her anger issues, he makes a wager with Henry that he can make her lose her temper before the night ends.</desc>
+    <episode-num system="xmltv_ns">309</episode-num>
+  </programme>
+  <programme start="20261121204200 +0000" stop="20261121210800 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Rumblr</sub-title>
+    <desc>Sick of fighting the same old villains, Captain Man makes a profile on a matchmaking app for heroes and villains; Kid Danger agrees to do the same, and two of them set up a double-fight to square off with some new villains.</desc>
+    <episode-num system="xmltv_ns">533</episode-num>
+  </programme>
+  <programme start="20261121210800 +0000" stop="20261121213400 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Sick &amp;amp; Wired</sub-title>
+    <desc>Thinking that Henry is not telling the truth about being sick, Ray plants cameras and microphones in Henry's house to catch him in a lie.</desc>
+    <episode-num system="xmltv_ns">404</episode-num>
+  </programme>
+  <programme start="20261121213400 +0000" stop="20261121220100 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Grave Danger</sub-title>
+    <desc>When Ray starts behaving strangely, Henry and Charlotte investigate and are surprised to discover the cause of his behavior.</desc>
+    <episode-num system="xmltv_ns">217</episode-num>
+  </programme>
+  <programme start="20261121220100 +0000" stop="20261121222800 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>The Secret Gets Out</sub-title>
+    <desc>Henry's life as Kid Danger is threatened when Charlotte grows suspicious about the secrets he has been keeping.</desc>
+    <episode-num system="xmltv_ns">104</episode-num>
+  </programme>
+  <programme start="20261121222800 +0000" stop="20261121225400 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Henry the Man-Beast</sub-title>
+    <desc>Henry is exposed to a strange device in the Man Cave which causes problems for him while he is on a date.</desc>
+    <episode-num system="xmltv_ns">111</episode-num>
+  </programme>
+  <programme start="20261121225400 +0000" stop="20261121232100 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Broken Armed and Dangerous</sub-title>
+    <desc>When Kid Danger publicly breaks his arm, Henry and the gang have to find a way to keep his secret safe.</desc>
+    <episode-num system="xmltv_ns">510</episode-num>
+  </programme>
+  <programme start="20261121232100 +0000" stop="20261121234800 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Birthday Girl Down</sub-title>
+    <desc>Henry is not invited to a birthday party because he is accused of throwing the birthday girl from a roof; Captain Man agrees to help Henry clear his name.</desc>
+    <episode-num system="xmltv_ns">109</episode-num>
+  </programme>
+  <programme start="20261121234800 +0000" stop="20261122001400 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Theranos Boot</sub-title>
+    <desc>Henry and the other kids destroy Ray's prized movie prop, The Theranos Boot; to replace it, Henry and Jasper travel to an alternate universe Man Cave using Bill Evil's interdimensional transporter and steal their Theranos Boot before Ray finds out.</desc>
+    <episode-num system="xmltv_ns">532</episode-num>
+  </programme>
+  <programme start="20261122001400 +0000" stop="20261122001500 +0000" channel="teen-nick">
+    <title>To Be Announced</title>
+    <desc>Programming to be announced.</desc>
+  </programme>
+  <programme start="20261122001500 +0000" stop="20261122004200 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Captain Jerk</sub-title>
+    <desc>Captain Man tries to boost his image by holding a contest where three winners get a tour of his secret lair.</desc>
+    <episode-num system="xmltv_ns">122</episode-num>
+  </programme>
+  <programme start="20261122004200 +0000" stop="20261122010900 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Swellview's Got Talent</sub-title>
+    <desc>After discovering contestants on Swellview's Got Talent are losing consciousness, Captain Man and Kid Danger enlist the help of Charlotte and Schwoz in order to find out what is causing the mischief.</desc>
+    <episode-num system="xmltv_ns">316</episode-num>
+  </programme>
+  <programme start="20261122010900 +0000" stop="20261122013600 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Saturday Night Lies</sub-title>
+    <desc>When Ray runs into an ex-girlfriend, he tries to impress her by pretending that Henry, Charlotte and Jasper are his children.</desc>
+    <episode-num system="xmltv_ns">414</episode-num>
+  </programme>
+  <programme start="20261122013600 +0000" stop="20261122020300 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Meet Cute Crush</sub-title>
+    <desc>Henry and Ray try to help Piper get to know a new boy she likes from school.</desc>
+    <episode-num system="xmltv_ns">418</episode-num>
+  </programme>
+  <programme start="20261122020300 +0000" stop="20261122023000 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Time Trap!</sub-title>
+    <desc>When the kids break Mom and Dad's priceless vase, they decide the only thing to do is go back in time to their wedding day and prevent them from ever receiving it.</desc>
+    <episode-num system="xmltv_ns">612</episode-num>
+  </programme>
+  <programme start="20261122023000 +0000" stop="20261122025700 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Save Royal Woods!</sub-title>
+    <desc>When Royal Woods is in danger of being flooded to make room for a sixth Great Lake, the town comes together to prove that they're worth saving.</desc>
+    <episode-num system="xmltv_ns">604</episode-num>
+  </programme>
+  <programme start="20261122025700 +0000" stop="20261122032400 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Good Sports; Geri-Antics</sub-title>
+    <desc>Lynn finds an unexpected TV sports-watching buddy in the family's next-door neighbor, Mr. Grouse; when Lisa realizes that Pop Pop won't be around forever, she turns to science to ensure his longevity.</desc>
+    <episode-num system="xmltv_ns">414</episode-num>
+  </programme>
+  <programme start="20261122032400 +0000" stop="20261122035100 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Snow Way Out; Snow Way Down</sub-title>
+    <desc>Lana convinces the children to go to the Burpin' Burger to meet her racecar driving hero despite the heavy snowfall; when Lincoln goes on vacation with Clyde, he realizes how overprotective Clyde's parents are.</desc>
+    <episode-num system="xmltv_ns">226</episode-num>
+  </programme>
+  <programme start="20261122035100 +0000" stop="20261122041800 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Washed Up; Recipe for Disaster</sub-title>
+    <desc>The Louds rent a boat for a relaxing day trip on the lake, but the family ends up marooned on a desert island; Lincoln and Clyde, as Ace and Jack, investigate when they discover a frozen food company is using Dad's recipes.</desc>
+    <episode-num system="xmltv_ns">406</episode-num>
+  </programme>
+  <programme start="20261122041800 +0000" stop="20261122044500 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Road Trip: From Brad to Worse; Road Trip: Doll Day Afternoon</sub-title>
+    <desc>When the Louds run into Mom's old camp crush turned celebrity at a State Fair, Dad tries to one-up him to impress Rita; Mr. Coconuts is missing and Luan rallies the Louds to track him down along Route 66.</desc>
+    <episode-num system="xmltv_ns">707</episode-num>
+  </programme>
+  <programme start="20261122044500 +0000" stop="20261122051200 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>A Star Is Scorned; Senior Moment</sub-title>
+    <desc>Lola realizes that double the cuteness could help her break into show business, so she teams up with Lily; Lori vows to make up for lost time in her senior year.</desc>
+    <episode-num system="xmltv_ns">422</episode-num>
+  </programme>
+  <programme start="20261122051200 +0000" stop="20261122053900 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Space Jammed; Crown and Dirty</sub-title>
+    <desc>Annoyed by Leni's intrusive babysitting, Lisa accidentally blasts herself and Todd into space; Lola tries to whip Mom into tip-top pageant condition for a mother-daughter pageant.</desc>
+    <episode-num system="xmltv_ns">618</episode-num>
+  </programme>
+  <programme start="20261122053900 +0000" stop="20261122060600 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Don't You Fore-get About Me; Tough Cookies</sub-title>
+    <desc>Hit by the realization that her big sister will be going off to college soon, Leni tries to thwart Lori's plans; Lincoln and Clyde start their own cookie-making business, but realize it's a lot more work than they realized.</desc>
+    <episode-num system="xmltv_ns">420</episode-num>
+  </programme>
+  <programme start="20261122060600 +0000" stop="20261122063300 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Project Loud House; In Tents Debate</sub-title>
+    <desc>Lincoln has to get his sisters out the door so he can be on time for school; Lincoln holds the deciding vote for the family vacation.</desc>
+    <episode-num system="xmltv_ns">105</episode-num>
+  </programme>
+  <programme start="20261122063300 +0000" stop="20261122070000 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Crashed Course; Puns and Buns</sub-title>
+    <desc>The Loud siblings intervene when they think Lori is failing out of Fairway U; Benny struggles to rein in Luan and her practical jokes when she becomes his coworker at the Burpin' Burger.</desc>
+    <episode-num system="xmltv_ns">613</episode-num>
+  </programme>
+  <programme start="20261122070000 +0000" stop="20261122072400 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Blinded by Science; Band Together</sub-title>
+    <desc>Lisa searches for the next big scientific breakthrough; Luna decides whether to play in a band with her friends or play with professionals.</desc>
+    <episode-num system="xmltv_ns">506</episode-num>
+  </programme>
+  <programme start="20261122072400 +0000" stop="20261122074800 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Nonna Your Business/Alpining Away</sub-title>
+    <desc>The Louds journey to Naples, Italy to taste the world's best pizza, made by a secretive and legendary chef; When Lynn crushes on a boy in the Swiss Alps, Lori and Leni become her crush-coaches to help her talk to him.</desc>
+    <episode-num system="xmltv_ns">806</episode-num>
+  </programme>
+  <programme start="20261122074800 +0000" stop="20261122081200 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>For Bros About to Rock; It's a Loud, Loud, Loud, Loud House</sub-title>
+    <desc>Lincoln is going to his first rock concert, and Luna is determined to make it the greatest experience ever; when Lincoln finds a letter in the attic, he begins to believe there is money hidden somewhere in the house.</desc>
+    <episode-num system="xmltv_ns">113</episode-num>
+  </programme>
+  <programme start="20261122081200 +0000" stop="20261122083600 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Silence of the Luans; Undercover Mom</sub-title>
+    <desc>Luan is locked in a cell in the basement; Mom goes undercover as a student at the high school and becomes best friends with Leni, Luna and Luan.</desc>
+    <episode-num system="xmltv_ns">510</episode-num>
+  </programme>
+  <programme start="20261122083600 +0000" stop="20261122090000 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>The Mad Scientist; Missed Connection</sub-title>
+    <desc>Lisa gets invited to work at an institute and get away from her crazy family; Lori and Bobby worry that long-distance dating is causing them to lose their connection.</desc>
+    <episode-num system="xmltv_ns">309</episode-num>
+  </programme>
+  <programme start="20261122090000 +0000" stop="20261122092400 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Cow Pie Kid; Saved by the Spell</sub-title>
+    <desc>Lynn pushes Liam to his limits when he becomes the star pitcher for the middle school baseball team; Lincoln's friends try to stop him from performing a magic act at the middle school talent show.</desc>
+    <episode-num system="xmltv_ns">507</episode-num>
+  </programme>
+  <programme start="20261122092400 +0000" stop="20261122094800 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Deep Cuts; Game Off</sub-title>
+    <desc>When Luna discovers that the high school music club will be axed due to budget cuts, she leads a protest; desperate to play Lincoln's trash-themed video game, Lana conspires to distract her brother away from the console.</desc>
+    <episode-num system="xmltv_ns">416</episode-num>
+  </programme>
+  <programme start="20261122094800 +0000" stop="20261122101200 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Back Out There; Spell It Out</sub-title>
+    <desc>Clyde, worried that Lincoln is hung up on Ronnie Anne, tries to cure his post-breakup blues; tired of her siblings walking all over her, Lucy turns to a spell book to teach her siblings a lesson.</desc>
+    <episode-num system="xmltv_ns">215</episode-num>
+  </programme>
+  <programme start="20261122101200 +0000" stop="20261122103600 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Legends; Mall of Duty</sub-title>
+    <desc>Dad and Lincoln get on </desc>
+    <episode-num system="xmltv_ns">222</episode-num>
+  </programme>
+  <programme start="20261122103600 +0000" stop="20261122110000 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Candy Crushed; Master of Delusion</sub-title>
+    <desc>Lola struggles to dampen her sweet tooth when mom challenges her to go an entire week without added sugar; Lincoln strives to impress the Amazing Brailster when he's chosen to be his assistant at the Illusion Château.</desc>
+    <episode-num system="xmltv_ns">703</episode-num>
+  </programme>
+  <programme start="20261122110000 +0000" stop="20261122112600 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Air TnP</sub-title>
+    <desc>After the Game Shakers sign up for a restroom-sharing app, one of their customers sabotages their new game with a virus, and the children have to figure out a way to undo the damage.</desc>
+    <episode-num system="xmltv_ns">212</episode-num>
+  </programme>
+  <programme start="20261122112600 +0000" stop="20261122115300 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Dancing Kids, Flying Pig</sub-title>
+    <desc>In order to finish their new dance game on time, the Game Shakers have to wear a motion capture suit and dance their way through the next 48 hours.</desc>
+    <episode-num system="xmltv_ns">213</episode-num>
+  </programme>
+  <programme start="20261122115300 +0000" stop="20261122122000 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>War and Peach</sub-title>
+    <desc>In an attempt to get to know each other better and increase productivity, Kenzie organizes a team building retreat.</desc>
+    <episode-num system="xmltv_ns">214</episode-num>
+  </programme>
+  <programme start="20261122122000 +0000" stop="20261122124700 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Wing Suits &amp;amp; Rocket Boots</sub-title>
+    <desc>The Game Shakers set Hudson up with an account to help promote their games, but things quickly get out of hand when Hudson puts on Dub's rocket boots for fun.</desc>
+    <episode-num system="xmltv_ns">215</episode-num>
+  </programme>
+  <programme start="20261122124700 +0000" stop="20261122131300 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>The Trip Trap</sub-title>
+    <desc>Babe and Kenzie are suspicious of Trip's new fame-hungry girlfriend and are determined to find out if she's using him to get closer to Double G.</desc>
+    <episode-num system="xmltv_ns">216</episode-num>
+  </programme>
+  <programme start="20261122131300 +0000" stop="20261122134000 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Spy Games</sub-title>
+    <desc>After Kenzie installs security cameras, Babe and Trip try to teach her a lesson about spying on people.</desc>
+    <episode-num system="xmltv_ns">217</episode-num>
+  </programme>
+  <programme start="20261122134000 +0000" stop="20261122140600 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>The Switch</sub-title>
+    <desc>When Dub and the Game Shakers swap Bunny for Hudson, the Game Shakers quickly regret it and have to figure out how to get Hudson back.</desc>
+    <episode-num system="xmltv_ns">218</episode-num>
+  </programme>
+  <programme start="20261122140600 +0000" stop="20261122143200 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Lumples</sub-title>
+    <desc>A toy company hires Game Shakers to make a game based on a toy that they are not allowed to see.</desc>
+    <episode-num system="xmltv_ns">301</episode-num>
+  </programme>
+  <programme start="20261122143200 +0000" stop="20261122145900 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Subway Girl</sub-title>
+    <desc>When a video of Babe dancing to Dub's new music video goes viral, Dub challenges Babe to a dance battle to prove he is the better dancer.</desc>
+    <episode-num system="xmltv_ns">302</episode-num>
+  </programme>
+  <programme start="20261122145900 +0000" stop="20261122152500 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Snackpot!</sub-title>
+    <desc>Hudson and Trip open a vending machine that dispenses snacks at random on the subway; Dub quickly becomes obsessed with the device.</desc>
+    <episode-num system="xmltv_ns">303</episode-num>
+  </programme>
+  <programme start="20261122152500 +0000" stop="20261122155200 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Babe &amp;amp; the Boys</sub-title>
+    <desc>Kenzie's dating app causes huge problems for Babe.</desc>
+    <episode-num system="xmltv_ns">304</episode-num>
+  </programme>
+  <programme start="20261122155200 +0000" stop="20261122161900 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Super Ugly Head</sub-title>
+    <desc>Kenzie is torn whether to tell on Dub after she sees him tear down his own statue.</desc>
+    <episode-num system="xmltv_ns">305</episode-num>
+  </programme>
+  <programme start="20261122161900 +0000" stop="20261122164600 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Escape From Utah!</sub-title>
+    <desc>The girls go to Utah to rescue Trip after Dub sends him to Captive Meadows, a center for boys with bad behavior.</desc>
+    <episode-num system="xmltv_ns">306</episode-num>
+  </programme>
+  <programme start="20261122164600 +0000" stop="20261122171200 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Hot Bananas</sub-title>
+    <desc>Trip becomes depressed after losing a big video game battle to a 7-year-old.</desc>
+    <episode-num system="xmltv_ns">307</episode-num>
+  </programme>
+  <programme start="20261122171200 +0000" stop="20261122173800 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Babe Loves Danger</sub-title>
+    <desc>Babe tries to plan the perfect date when she learns that Henry Hart is coming to New York to visit her.</desc>
+    <episode-num system="xmltv_ns">308</episode-num>
+  </programme>
+  <programme start="20261122173800 +0000" stop="20261122180400 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Flavor City</sub-title>
+    <desc>Dub gets tickets to a VIP performance of </desc>
+    <episode-num system="xmltv_ns">309</episode-num>
+  </programme>
+  <programme start="20261122180400 +0000" stop="20261122183000 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Snoop Therapy</sub-title>
+    <desc>The Game Shakers haven't been getting along; Dub recommends they see his therapist Snoop Dogg.</desc>
+    <episode-num system="xmltv_ns">310</episode-num>
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122185600 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Wet Willy's Wild Water Park</sub-title>
+    <desc>The Game Shakers go to Wet Willy's Wild Water Park on its last day to try and break the speed record on the extremely dangerous water slide, the Big Ripper.</desc>
+    <episode-num system="xmltv_ns">311</episode-num>
+  </programme>
+  <programme start="20261122185600 +0000" stop="20261122192200 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Demolition Dollhouse</sub-title>
+    <desc>Babe and Kenzie try to locate a cute boy who waved to Kenzie on the subway; Hudson and Trip become obsessed with a model dollhouse.</desc>
+    <episode-num system="xmltv_ns">312</episode-num>
+  </programme>
+  <programme start="20261122192200 +0000" stop="20261122194900 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Hungry Hungry Hypno</sub-title>
+    <desc>Kenzie is hypnotized into being very, very hungry after the Game Shakers take her to see a hypnotist for her birthday.</desc>
+    <episode-num system="xmltv_ns">313</episode-num>
+  </programme>
+  <programme start="20261122194900 +0000" stop="20261122201500 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Breaking Bad News</sub-title>
+    <desc>The Game Shakers have to figure out how to break the news to Dub that they broke his expensive new television.</desc>
+    <episode-num system="xmltv_ns">314</episode-num>
+  </programme>
+  <programme start="20261122201500 +0000" stop="20261122204200 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Bug Tussle</sub-title>
+    <desc>After Dub goes to Vegas and leaves Trip behind, the Game Shakers take Trip to Dub's awesome apartment to show him a good time.</desc>
+    <episode-num system="xmltv_ns">315</episode-num>
+  </programme>
+  <programme start="20261122204200 +0000" stop="20261122210800 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Boy Band Cat Nose</sub-title>
+    <desc>Dub recommends Kenzie see an eccentric pet plastic surgeon in order to fix her cat's loud nose holes; Trip tries to get Hudson into a boy band.</desc>
+    <episode-num system="xmltv_ns">316</episode-num>
+  </programme>
+  <programme start="20261122210800 +0000" stop="20261122213400 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>He's Back</sub-title>
+    <desc>Babe has to make a choice when multiple guys from her past want to date her; Trip and Hudson have to buy a famous watch for Dub.</desc>
+    <episode-num system="xmltv_ns">317</episode-num>
+  </programme>
+  <programme start="20261122213400 +0000" stop="20261122220100 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Why Tonya</sub-title>
+    <desc>The Game Shakers are approached by a fan who demands that they make changes to one of their games.</desc>
+    <episode-num system="xmltv_ns">318</episode-num>
+  </programme>
+  <programme start="20261122220100 +0000" stop="20261122222800 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Tiny Pickles</sub-title>
+    <desc>Babe and Kenzie's new game is ready, but Dub promises the world another game based on a crazy dream he had.</desc>
+    <episode-num system="xmltv_ns">103</episode-num>
+  </programme>
+  <programme start="20261122222800 +0000" stop="20261122225400 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Lost Jacket, Falling Pigeons</sub-title>
+    <desc>Babe buys herself a fancy new jacket after Dub gives the girls bonuses for Sky Whale's success; a flock of pigeons takes up residence in Game Shakers.</desc>
+    <episode-num system="xmltv_ns">104</episode-num>
+  </programme>
+  <programme start="20261122225400 +0000" stop="20261122232100 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Dirty Blob</sub-title>
+    <desc>After Trip accidentally destroys a copy of the Game Shakers' latest game, the gang must sneak into Dub's recording studio to retrieve the last remaining copy.</desc>
+    <episode-num system="xmltv_ns">105</episode-num>
+  </programme>
+  <programme start="20261122232100 +0000" stop="20261122234800 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>MeGo the Freakish Robot</sub-title>
+    <desc>A company asks the Game Shakers to build a game based on a robot they created; the robot becomes depressed and malfunctions.</desc>
+    <episode-num system="xmltv_ns">106</episode-num>
+  </programme>
+  <programme start="20261122234800 +0000" stop="20261123001500 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Trip Steals the Jet</sub-title>
+    <desc>Feeling pressure to fit in with Trip's rich friends, Babe convinces Trip to borrow Dub's jet for the night.</desc>
+    <episode-num system="xmltv_ns">107</episode-num>
+  </programme>
+  <programme start="20261123001500 +0000" stop="20261123004200 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>You Bet Your Bunny</sub-title>
+    <desc>The Game Shakers host a tournament to promote a new Sky Whale update; Double G bets Bunny, thinking Babe will beat one of her classmates.</desc>
+    <episode-num system="xmltv_ns">110</episode-num>
+  </programme>
+  <programme start="20261123004200 +0000" stop="20261123010900 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Party Crashers</sub-title>
+    <desc>Babe and Kenzie's plans to hang with Mason are ruined when Bunny and Ruthless crash a birthday party; Dub uses Hudson to make Trip jealous when Trip chooses work over hanging out with him.</desc>
+    <episode-num system="xmltv_ns">112</episode-num>
+  </programme>
+  <programme start="20261123010900 +0000" stop="20261123013600 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Nasty Goats</sub-title>
+    <desc>When the gang discovers that a hacker has put their new game on an illegal website, they track him down in Alaska.</desc>
+    <episode-num system="xmltv_ns">114</episode-num>
+  </programme>
+  <programme start="20261123013600 +0000" stop="20261123020300 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>A Job for Jimbo</sub-title>
+    <desc>The Game Shakers work to finish creating a new ocean pollution game; Dub hopes to score a duet with a famous singer, so he makes the company hire her step-grandson.</desc>
+    <episode-num system="xmltv_ns">115</episode-num>
+  </programme>
+  <programme start="20261123020300 +0000" stop="20261123023000 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>The Girl Power Awards</sub-title>
+    <desc>When Babe and Kenzie are nominated for a Girl Power Award, Kenzie quickly realizes that the award show is a scam.</desc>
+    <episode-num system="xmltv_ns">116</episode-num>
+  </programme>
+  <programme start="20261123023000 +0000" stop="20261123025700 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>The Diss Track</sub-title>
+    <desc>When a rival rapper releases a track about Double G, the Game Shakers convince him to release a response track.</desc>
+    <episode-num system="xmltv_ns">117</episode-num>
+  </programme>
+  <programme start="20261123025700 +0000" stop="20261123032400 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Shark Explosion</sub-title>
+    <desc>Triple G's mother invites the Game Shakers on her yacht to see some fireworks, but she and Double G have both booked the yacht for the same time.</desc>
+    <episode-num system="xmltv_ns">118</episode-num>
+  </programme>
+  <programme start="20261123032400 +0000" stop="20261123035100 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Babe's Fake Disease</sub-title>
+    <desc>Kenzie invites an uninterested Babe to her coding club; Babe swoons when she meets a member of Kenzie's coding club; an aging app predicts that Trip will go bald.</desc>
+    <episode-num system="xmltv_ns">119</episode-num>
+  </programme>
+  <programme start="20261123035100 +0000" stop="20261123041800 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>The Very Old Finger</sub-title>
+    <desc>While visiting a mummy exhibit, Hudson accidentally snaps off a mummy's finger and Babe leads a quest to glue it back on without getting caught.</desc>
+    <episode-num system="xmltv_ns">120</episode-num>
+  </programme>
+  <programme start="20261123041800 +0000" stop="20261123044500 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Buck the Magic Rat</sub-title>
+    <desc>When Kenzie saves a rat in the subway, the gang starts to believe that the rat is bringing them good luck.</desc>
+    <episode-num system="xmltv_ns">121</episode-num>
+  </programme>
+  <programme start="20261123044500 +0000" stop="20261123051200 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Byte Club</sub-title>
+    <desc>When Trip's sponsorship deal turns out to be a nightmare, Dub and the gang must help Trip tarnish his reputation and lose his contract.</desc>
+    <episode-num system="xmltv_ns">122</episode-num>
+  </programme>
+  <programme start="20261123051200 +0000" stop="20261123053900 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Secret Level</sub-title>
+    <desc>Hudson releases false information about a secret level in a Game Shakers' game; Babe goes on a date with Mason Kendal.</desc>
+    <episode-num system="xmltv_ns">123</episode-num>
+  </programme>
+  <programme start="20261123053900 +0000" stop="20261123060600 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Babe's Bench</sub-title>
+    <desc>Babe spends the entire Game Shakers advertising budget on a high-tech bus bench, only to find out the bench is a magnet for weirdos.</desc>
+    <episode-num system="xmltv_ns">201</episode-num>
+  </programme>
+  <programme start="20261123060600 +0000" stop="20261123063300 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Bunger Games</sub-title>
+    <desc>When pop star Kayla Batch hires the Game Shakers to make a lifestyle game, she invites Babe to join her elite squad while Kenzie is left on the outs.</desc>
+    <episode-num system="xmltv_ns">202</episode-num>
+  </programme>
+  <programme start="20261123063300 +0000" stop="20261123070000 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Wedding Shower of Doom</sub-title>
+    <desc>When Dub's brother shows up at Game Shakers and invites everyone except Dub to his wedding, the children convince him to bring his brother into the fold, promising to make Dub behave himself at the event.</desc>
+    <episode-num system="xmltv_ns">203</episode-num>
+  </programme>
+  <programme start="20261123070000 +0000" stop="20261123072400 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Armed &amp;amp; Coded</sub-title>
+    <desc>Babe convinces Kenzie to teach Mason Kendal coding, but then gets jealous when Kenzie starts spending more and more time with him.</desc>
+    <episode-num system="xmltv_ns">204</episode-num>
+  </programme>
+  <programme start="20261123072400 +0000" stop="20261123074800 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>The Mason Experience</sub-title>
+    <desc>Babe is upset to learn that Mason Kendal is moving, so Kenzie designs her a virtual reality version of Mason.</desc>
+    <episode-num system="xmltv_ns">205</episode-num>
+  </programme>
+  <programme start="20261123074800 +0000" stop="20261123081200 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Llama Llama Spit Spit</sub-title>
+    <desc>After the Game Shakers get kicked out of Fooders to make room for a guest who has his photo on the wall, Babe becomes determined to get their own photo up using any means necessary.</desc>
+    <episode-num system="xmltv_ns">206</episode-num>
+  </programme>
+  <programme start="20261123081200 +0000" stop="20261123083600 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Baby Hater</sub-title>
+    <desc>The Game Shakers step up to help Dub get over his fear of babies when it threatens his recently announced bid for mayor.</desc>
+    <episode-num system="xmltv_ns">207</episode-num>
+  </programme>
+  <programme start="20261123083600 +0000" stop="20261123090000 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Bear Butt Laser Runner</sub-title>
+    <desc>After learning that the exact same game idea they are about to pitch to a client was already released by another company, the Game Shakers have 20 minutes to think up a new game.</desc>
+    <episode-num system="xmltv_ns">208</episode-num>
+  </programme>
+  <programme start="20261123090000 +0000" stop="20261123092400 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>The One With the Coffee Shop</sub-title>
+    <desc>After being snubbed in an online story about Game Shakers and a fight with Babe, Kenzie takes a job as a coffee shop waitress.</desc>
+    <episode-num system="xmltv_ns">209</episode-num>
+  </programme>
+  <programme start="20261123092400 +0000" stop="20261123094800 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Babe Gets Crushed</sub-title>
+    <desc>After Trip solicits romantic advice from Babe for an alleged friend named Chuck, she begins to suspect that Trip has a crush on her, and tries her hardest to avoid an awkward work situation.</desc>
+    <episode-num system="xmltv_ns">210</episode-num>
+  </programme>
+  <programme start="20261123094800 +0000" stop="20261123101200 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Game Shippers</sub-title>
+    <desc>To settle a dispute over whether Freddie liked Carly or Sam from </desc>
+    <episode-num system="xmltv_ns">211</episode-num>
+  </programme>
+  <programme start="20261123101200 +0000" stop="20261123103600 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Air TnP</sub-title>
+    <desc>After the Game Shakers sign up for a restroom-sharing app, one of their customers sabotages their new game with a virus, and the children have to figure out a way to undo the damage.</desc>
+    <episode-num system="xmltv_ns">212</episode-num>
+  </programme>
+  <programme start="20261123103600 +0000" stop="20261123110000 +0000" channel="teen-nick">
+    <title>Game Shakers</title>
+    <sub-title>Dancing Kids, Flying Pig</sub-title>
+    <desc>In order to finish their new dance game on time, the Game Shakers have to wear a motion capture suit and dance their way through the next 48 hours.</desc>
+    <episode-num system="xmltv_ns">213</episode-num>
+  </programme>
+</tv>

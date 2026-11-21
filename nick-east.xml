@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="nick-east">
+    <display-name>Nick East</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11006_h15_ab.png"/>
+  </channel>
+  <programme start="20261120110000 +0000" stop="20261120113000 +0000" channel="nick-east">
+    <title>The Neighborhood</title>
+    <sub-title>Welcome to the Knockout</sub-title>
+    <desc>As Dave nears his 40th birthday, Calvin offers to coach his friend for an amateur boxing tournament; sparks fly when Marty meets a new woman at the gym.</desc>
+    <episode-num system="xmltv_ns">411</episode-num>
+  </programme>
+  <programme start="20261120113000 +0000" stop="20261120120000 +0000" channel="nick-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Porous Pockets; Choir Boys</sub-title>
+    <desc>SpongeBob gains a lot of new friends when he becomes wealthy; Squidward tries to avoid SpongeBob while on his way to an audition for the Bikini Bottom Men's Chorus.</desc>
+    <episode-num system="xmltv_ns">112</episode-num>
+  </programme>
+  <programme start="20261120120000 +0000" stop="20261120123000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Stop a Topiary Tal; Pups Save a Hum-Ball</sub-title>
+    <desc>Mr. Park has a Chickaletta topiary, but when Digi and Tal try to help, things get worse; Humdinger creates havoc with a moose and geyser as he tours Yellowbone Park in his rolling Hum-Ball.</desc>
+  </programme>
+  <programme start="20261120123000 +0000" stop="20261120130000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Ultimate Rescue: Pups Save the Pupmobiles</sub-title>
+    <desc>When Sid Swashbuckle and his pirate pooch, Arrby, swipe the pups' prestigious award, Ryder and the pups set out to recover it.</desc>
+    <episode-num system="xmltv_ns">712</episode-num>
+  </programme>
+  <programme start="20261120130000 +0000" stop="20261120133000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save the Orienteers; Pups Save Teatime</sub-title>
+    <desc>Things go wrong for Mr. Porter and Winnie Winnington at the orienteering relay in Yellowbone National Park; Mayor Goodway invites her friend Helga Humdinger and her rival Mayor Humdinger to City Hall for afternoon tea.</desc>
+  </programme>
+  <programme start="20261120133000 +0000" stop="20261120140000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Rocket Roller Skater; Pups Save Ryder's Surprise</sub-title>
+    <desc>A mix-up delivery leads to Ms. Marjorie and Danny speeding out of control in Adventure Bay; the Pups must rescue them; Ryder's present ends up in the jungle; Carlos is trapped in a jungle gym.</desc>
+    <episode-num system="xmltv_ns">714</episode-num>
+  </programme>
+  <programme start="20261120140000 +0000" stop="20261120143000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save the Whale Pod; Ultimate Rescue: Pups Stop the Junk-Monster</sub-title>
+    <desc>When Francois accidentally crashes his diving bell, the PAW Patrol must rescue him; when Wingnut's junk pile and Oscar go missing at the same time, Chase and team are called in to solve the mystery.</desc>
+    <episode-num system="xmltv_ns">725</episode-num>
+  </programme>
+  <programme start="20261120143000 +0000" stop="20261120150000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save the Chicken Conductor; Pups Save the Digi Tal Stylists</sub-title>
+    <desc>Chickaletta is left driving the train after an enormous chicken floaty launches Engineer Ed out the window; when Katie needs to close the Pet Parlor early, Digi and Tal volunteer to keep the shop open.</desc>
+  </programme>
+  <programme start="20261120150000 +0000" stop="20261120153000 +0000" channel="nick-east">
+    <title>Rubble &amp;amp; Crew</title>
+    <sub-title>The Crew Demolishes A Soap Factory; The Crew Musically Demolishes A Building</sub-title>
+    <desc>When the pups find kittens inside an old building, they think fast to bring the cats to safety before tearing the building down! / Motor's big drum performance in the symphony is almost ruined when the pups need to do loud demolition next door.</desc>
+  </programme>
+  <programme start="20261120153000 +0000" stop="20261120160000 +0000" channel="nick-east">
+    <title>Mr. Crocodile</title>
+    <sub-title>Lost Ball / Clean Up Croc</sub-title>
+    <desc>Mr. Crocodile and his best friend Daisy cheerfully navigate life with boundless enthusiasm and comical misunderstandings due to his instinctive crocodile logic.</desc>
+  </programme>
+  <programme start="20261120160000 +0000" stop="20261120170000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>A Zuma Pirate Adventure</sub-title>
+    <desc>Having made a big blunder in a recent rescue, Zuma trades in his usual chill attitude and becomes a super serious pup; his new persona gets tested when an actual pirate arrives, bent on hidden treasure and willing to destroy things to get it!</desc>
+  </programme>
+  <programme start="20261120170000 +0000" stop="20261120173000 +0000" channel="nick-east">
+    <title>Rubble &amp;amp; Crew</title>
+    <sub-title>The Crew Demolishes A Soap Factory; The Crew Musically Demolishes A Building</sub-title>
+    <desc>When the pups find kittens inside an old building, they think fast to bring the cats to safety before tearing the building down! / Motor's big drum performance in the symphony is almost ruined when the pups need to do loud demolition next door.</desc>
+  </programme>
+  <programme start="20261120173000 +0000" stop="20261120180000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save the Dinosaur Pirates</sub-title>
+    <desc>The Paw Patrol have to rescue Sid Swashbuckle when he recruits dinos to be his crew, which has some unexpected consequences.</desc>
+  </programme>
+  <programme start="20261120180000 +0000" stop="20261120183000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Solve a Snap-N-Wrap Problem; Pups Save Helga and the Dingers</sub-title>
+    <desc>Before Chickaletta's play date with Baby Yukiko, Mayor Goodway baby-proofs the playground, wrapping everything in rubbery Snap-N-Wrap and gets stuck; Mayor Humdinger loses his voice.</desc>
+  </programme>
+  <programme start="20261120183000 +0000" stop="20261120190000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save the Mountain Surfers; Pups Save Humdinger's Home Away From Home</sub-title>
+    <desc>A mighty wind sweeps Zuma and Harrigan off the beach and blows them all the way up to Jake's Mountain; Humdinger's driving lands him and his trailer at the top of a tall spire.</desc>
+    <episode-num system="xmltv_ns">1007</episode-num>
+  </programme>
+  <programme start="20261120190000 +0000" stop="20261120193000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Skye's Road Trip Rescue</sub-title>
+    <desc>Skye, Liberty and Everest take off on a road trip to Yellowstone National Park and need to use their mini-rescue rides to save a bunch of baby animals.</desc>
+  </programme>
+  <programme start="20261120193000 +0000" stop="20261120200000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Mighty Pups Stop the Mighty Queen; Mighty Pups Stop the Hiccups</sub-title>
+    <desc>The Mighty Pups must stop Sweetie from using her new powers to take over Adventure Bay; Mighty Nano gets the hiccups, so it's up to Liberty and the Mighty Pups to find a cure.</desc>
+    <episode-num system="xmltv_ns">1017</episode-num>
+  </programme>
+  <programme start="20261120200000 +0000" stop="20261120220000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>Captain Underpants: The First Epic Movie</sub-title>
+    <desc>Two overly imaginative pranksters accidentally hypnotize their principal into thinking that he's a ridiculously enthusiastic, incredibly dimwitted superhero named Captain Underpants.</desc>
+  </programme>
+  <programme start="20261120220000 +0000" stop="20261120223000 +0000" channel="nick-east">
+    <title>The Boss Baby: Back in Business</title>
+    <sub-title>Yellow 100</sub-title>
+    <desc>As the newly named CEO, the Boss Baby sets a goal for baby love to hit 100%, and everyone works overtime to please him.</desc>
+  </programme>
+  <programme start="20261120223000 +0000" stop="20261120230000 +0000" channel="nick-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Upturn's Brunch; Free With Every Meal</sub-title>
+    <desc>Lady Upturn is invited to learn the true meaning of friendship by joining the Gal Pals; in a ruse to distract SpongeBob from guarding the secret formula, the Chum Bucket begins offering collectible jellyfish toys.</desc>
+  </programme>
+  <programme start="20261120230000 +0000" stop="20261120233000 +0000" channel="nick-east">
+    <title>The Patrick Star Show</title>
+    <sub-title>GAME OVER, PATRICK/THIS OLD COFFEE POT</sub-title>
+    <desc>When Patrick gets stuck inside a video game, Squidina must guide him out to survive. Patrick does Cecil's chores around the house while hosting a home renovation show in the process.</desc>
+  </programme>
+  <programme start="20261120233000 +0000" stop="20261121000000 +0000" channel="nick-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Yoga Yahoos; Sounds Like Trouble</sub-title>
+    <desc>SpongeBob and Patrick crash Squidward's yoga class; Patrick accidentally swaps voice boxes with an intimidating mobster.</desc>
+  </programme>
+  <programme start="20261121000000 +0000" stop="20261121020000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>Shrek</sub-title>
+    <desc>In order to save his home, an ogre along with a donkey makes a deal with a mean lord to rescue a beautiful princess.</desc>
+  </programme>
+  <programme start="20261121020000 +0000" stop="20261121023000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One Where Ross Finds Out</sub-title>
+    <desc>A drunken Rachel leaves a phone message for Ross that may change their relationship; Chandler regrets asking Monica to help him lose weight.</desc>
+    <episode-num system="onscreen">31/457307</episode-num>
+  </programme>
+  <programme start="20261121023000 +0000" stop="20261121030000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the List</sub-title>
+    <desc>Rachel sees Ross' list comparing her pros and cons to Julie's (Lauren Tom).</desc>
+    <episode-num system="onscreen">32/457308</episode-num>
+  </programme>
+  <programme start="20261121030000 +0000" stop="20261121033000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With Phoebe's Dad</sub-title>
+    <desc>Phoebe, hoping for a Christmas family reunion, travels to upstate New York in search of her biological father.</desc>
+    <episode-num system="onscreen">33/457309</episode-num>
+  </programme>
+  <programme start="20261121033000 +0000" stop="20261121040000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With Russ</sub-title>
+    <desc>After deciding to give up acting, Joey is offered a role in a soap opera; Rachel dates a guy named Russ, who is amazingly similar to Ross.</desc>
+    <episode-num system="onscreen">34/457311</episode-num>
+  </programme>
+  <programme start="20261121040000 +0000" stop="20261121043000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Brain Bowl Incubation</sub-title>
+    <desc>Sheldon is determined to convince Amy they should procreate; Koothrappali is reluctant to tell the gang what the new woman he's dating does for a living.</desc>
+    <episode-num system="xmltv_ns">215</episode-num>
+  </programme>
+  <programme start="20261121043000 +0000" stop="20261121050000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Geology Elevation</sub-title>
+    <desc>Sheldon gets jealous when a co-worker wins an award; Wolowitz finds an old remote control Stephen Hawking action figure that he made.</desc>
+    <episode-num system="xmltv_ns">216</episode-num>
+  </programme>
+  <programme start="20261121050000 +0000" stop="20261121053000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Property Division Collision</sub-title>
+    <desc>Sheldon and Leonard disagree about how to divide their shared belongings; Koothrappali and Stuart fight to be the most helpful to Bernadette during her final weeks of pregnancy.</desc>
+    <episode-num system="xmltv_ns">217</episode-num>
+  </programme>
+  <programme start="20261121053000 +0000" stop="20261121060000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Birthday Synchronicity</sub-title>
+    <desc>While Howard and Bernadette welcome their new baby into the world, Amy celebrates her own birthday with Sheldon.</desc>
+    <episode-num system="xmltv_ns">218</episode-num>
+  </programme>
+  <programme start="20261121060000 +0000" stop="20261121063000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Romance Recalibration</sub-title>
+    <desc>Penny thinks Leonard is taking her for granted and decides to go on a spa weekend with Amy; Wolowitz and Koothrappali try to fix a squeaky floorboard in the baby's room.</desc>
+    <episode-num system="xmltv_ns">220</episode-num>
+  </programme>
+  <programme start="20261121063000 +0000" stop="20261121070000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Lesbian Wedding</sub-title>
+    <desc>Ross helps put Carol and Susan's wedding plans back on track; Rachel's mother announces shocking new plans.</desc>
+    <episode-num system="onscreen">35/457312</episode-num>
+  </programme>
+  <programme start="20261121070000 +0000" stop="20261121073000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One After the Super Bowl</sub-title>
+    <desc>Joey starts dating a fan (Brooke Shields) who is gorgeous, but soon discovers that she's also crazy; Ross is reminded how much he misses his pet monkey and travels to the San Diego Zoo to find out what has happened to him.</desc>
+    <episode-num system="onscreen">36/457313</episode-num>
+  </programme>
+  <programme start="20261121073000 +0000" stop="20261121080000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One After the Super Bowl</sub-title>
+    <desc>Ross (David Schwimmer) catches up with Marcel on the set of a movie starring Jean-Claude Van Damme; Chandler gets a date with a girl he liked in fourth grade.</desc>
+    <episode-num system="onscreen">37/457314</episode-num>
+  </programme>
+  <programme start="20261121080000 +0000" stop="20261121083000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Prom Video</sub-title>
+    <desc>Monica's parents drop off some childhood keepsakes including her prom video.</desc>
+    <episode-num system="onscreen">38/457310</episode-num>
+  </programme>
+  <programme start="20261121083000 +0000" stop="20261121090000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One Where Ross and Rachel ... You Know</sub-title>
+    <desc>Ross and Rachel finally sleep together; Monica becomes infatuated with one of her parents' friends for whom she caters a party.</desc>
+    <episode-num system="onscreen">39/457315</episode-num>
+  </programme>
+  <programme start="20261121090000 +0000" stop="20261121093000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One Where Joey Moves Out</sub-title>
+    <desc>Monica's parents find out about her middle-aged boyfriend; Chandler and Joey argue, and it could mean the end of their living arrangement.</desc>
+    <episode-num system="onscreen">40/457316</episode-num>
+  </programme>
+  <programme start="20261121093000 +0000" stop="20261121100000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One Where Eddie Moves In</sub-title>
+    <desc>Joey wants to move back in with Chandler, but there's a new problem; Phoebe tapes a rock video; Ross upsets Monica.</desc>
+    <episode-num system="onscreen">41/457317</episode-num>
+  </programme>
+  <programme start="20261121100000 +0000" stop="20261121103000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One Where Dr. Ramoray Dies</sub-title>
+    <desc>Monica and Richard experience the same romantic problems as Rachel and Ross; Joey's ill-advised comments to a fan magazine threaten his acting career.</desc>
+    <episode-num system="onscreen">42/457318</episode-num>
+  </programme>
+  <programme start="20261121103000 +0000" stop="20261121110000 +0000" channel="nick-east">
+    <title>The Neighborhood</title>
+    <sub-title>Welcome to the Big One</sub-title>
+    <desc>The Butlers and Johnsons are rattled in different ways after an earthquake strikes; Dave goes to extremes trying to prepare his family for the next earthquake.</desc>
+    <episode-num system="xmltv_ns">412</episode-num>
+  </programme>
+  <programme start="20261121110000 +0000" stop="20261121113000 +0000" channel="nick-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Fry Cook and the Elves; It's About Mime</sub-title>
+    <desc>SpongeBob can't shake a group of elves who want to repay him for a good deed; a mime begins following (and imitating) SpongeBob, much to his annoyance.</desc>
+  </programme>
+  <programme start="20261121113000 +0000" stop="20261121120000 +0000" channel="nick-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Lady in the Lighthouse; Bitter Groans and Gardens</sub-title>
+    <desc>Squidward must figure out whodunit after a mysterious stranger vandalizes Mrs. Puff's Boating School; Squidward enters a gardening competition but struggles to keep up with SpongeBob's naturally green thumb.</desc>
+  </programme>
+  <programme start="20261121120000 +0000" stop="20261121130000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Rocky's Cat-astrophe</sub-title>
+    <desc>When one of Humdinger's schemes goes awry, a Junkyard Kitten's home is destroyed and Rocky bites off more than he can chew when he invites the kitten to stay at the Lookout overnight.</desc>
+    <episode-num system="xmltv_ns">977</episode-num>
+  </programme>
+  <programme start="20261121130000 +0000" stop="20261121133000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Splashy Bottom; Pups Save a Daring Tour Guide</sub-title>
+    <desc>The Pups are on the case when mechanical issues occur at the new water park, Splashy Bottom; the Pups have to save ancient relics when hijinks ensue at Danny's new job at the Museum.</desc>
+  </programme>
+  <programme start="20261121133000 +0000" stop="20261121140000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save the Dino Chicken</sub-title>
+    <desc>The PAW Patrol team and Mayor Goodway travel to Dino Island for a tour led by Rex; during the visit, the group discovers that Timmy the Tyrannosaurus rex fears Mayor Goodway's pet chicken, Chickaletta.</desc>
+  </programme>
+  <programme start="20261121140000 +0000" stop="20261121143000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Stop the Garboni; Pups Save the Porcupine</sub-title>
+    <desc>Farmer Al's new machine, the Garboni, goes haywire, and it's up to Ryder and the Paw Patrol to stop it before it gives them the slip; the Paw Patrol have to catch a trouble-making sleepy porcupine and bring it back to the woods.</desc>
+  </programme>
+  <programme start="20261121143000 +0000" stop="20261121150000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save a Dino Digi and Tal; Pups Save a Dino Daredevil</sub-title>
+    <desc>Digi and Tal are visiting Dino Island to help Rex with dinosaur safety; when they take safety too far, they accidentally put the island at risk; when Daring Danny X's dino-stunt goes awry, he winds up with a grouchy Spinosaurus.</desc>
+  </programme>
+  <programme start="20261121150000 +0000" stop="20261121153000 +0000" channel="nick-east">
+    <title>The Boss Baby: Back in Business</title>
+    <sub-title>Yellow 100</sub-title>
+    <desc>As the newly named CEO, the Boss Baby sets a goal for baby love to hit 100%, and everyone works overtime to please him.</desc>
+  </programme>
+  <programme start="20261121153000 +0000" stop="20261121160000 +0000" channel="nick-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Upturn's Brunch; Free With Every Meal</sub-title>
+    <desc>Lady Upturn is invited to learn the true meaning of friendship by joining the Gal Pals; in a ruse to distract SpongeBob from guarding the secret formula, the Chum Bucket begins offering collectible jellyfish toys.</desc>
+  </programme>
+  <programme start="20261121160000 +0000" stop="20261121163000 +0000" channel="nick-east">
+    <title>The Patrick Star Show</title>
+    <sub-title>GAME OVER, PATRICK/THIS OLD COFFEE POT</sub-title>
+    <desc>When Patrick gets stuck inside a video game, Squidina must guide him out to survive. Patrick does Cecil's chores around the house while hosting a home renovation show in the process.</desc>
+  </programme>
+  <programme start="20261121163000 +0000" stop="20261121170000 +0000" channel="nick-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Yoga Yahoos; Sounds Like Trouble</sub-title>
+    <desc>SpongeBob and Patrick crash Squidward's yoga class; Patrick accidentally swaps voice boxes with an intimidating mobster.</desc>
+  </programme>
+  <programme start="20261121170000 +0000" stop="20261121173000 +0000" channel="nick-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Backyard Bickering; A Hair Grows on Patrick</sub-title>
+    <desc>A wrestling ring settles disputes; Patrick battles a stubborn hair.</desc>
+  </programme>
+  <programme start="20261121173000 +0000" stop="20261121180000 +0000" channel="nick-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Rock Bottom Games; Clicking With a Clique</sub-title>
+    <desc>SpongeBob and Patrick compete for a spot in Bubble Bass' nerd clique; Bikini Bottomites and Rock Bottomites battle it out in a series of silly sports.</desc>
+  </programme>
+  <programme start="20261121180000 +0000" stop="20261121200000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>Shrek</sub-title>
+    <desc>In order to save his home, an ogre along with a donkey makes a deal with a mean lord to rescue a beautiful princess.</desc>
+  </programme>
+  <programme start="20261121200000 +0000" stop="20261121220000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>The Boss Baby</sub-title>
+    <desc>A wildly imaginative 7-year-old discovers that his new brother, Boss Baby, is actually a spy on a secret mission, and only he can help thwart a dastardly plot that involves an epic battle between puppies and babies.</desc>
+  </programme>
+  <programme start="20261121220000 +0000" stop="20261122000000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>Hotel Transylvania 3: Summer Vacation</sub-title>
+    <desc>While embarking on a luxury cruise with his monstrous pack, Dracula finds himself unexpectedly captivated by a mysterious and dangerous woman, leading to unforeseen complications.</desc>
+  </programme>
+  <programme start="20261122000000 +0000" stop="20261122020000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>The Secret Life of Pets</sub-title>
+    <desc>A domesticated terrier (Louis C.K.) and his unruly canine pal (Eric Stonestreet) encounter a rebellious bunny (Kevin Hart) and his gang of abandoned pets.</desc>
+  </programme>
+  <programme start="20261122020000 +0000" stop="20261122023000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One Where Eddie Won't Go</sub-title>
+    <desc>Chandler wants his annoying new roommate (Adam Goldberg) to move out; Joey is facing some exorbitant bills; the girls learn from a book about personal empowerment.</desc>
+    <episode-num system="onscreen">43/457319</episode-num>
+  </programme>
+  <programme start="20261122023000 +0000" stop="20261122030000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One Where Old Yeller Dies</sub-title>
+    <desc>Monica's boyfriend proves to be the life of the party when he attends a basketball game with Chandler and Joey.</desc>
+    <episode-num system="onscreen">44/457320</episode-num>
+  </programme>
+  <programme start="20261122030000 +0000" stop="20261122033000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Bullies</sub-title>
+    <desc>Two bullies (Peter DeLuise, Nicky Katt) banish Ross and Chandler from Central Perk; Monica plays the stock market.</desc>
+    <episode-num system="onscreen">45/457321</episode-num>
+  </programme>
+  <programme start="20261122033000 +0000" stop="20261122040000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With Two Parties</sub-title>
+    <desc>Rachel's separated parents (Marlo Thomas, Ron Leibman) unexpectedly attend her surprise birthday party.</desc>
+    <episode-num system="onscreen">46/457322</episode-num>
+  </programme>
+  <programme start="20261122040000 +0000" stop="20261122043000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Emotion Detection Automation</sub-title>
+    <desc>Sheldon tests an MIT invention after hearing it can help him read people's emotions; Leonard finds out Penny's brother is coming to town; Raj asks his ex-girlfriends to give him dating advice.</desc>
+    <episode-num system="xmltv_ns">221</episode-num>
+  </programme>
+  <programme start="20261122043000 +0000" stop="20261122050000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Locomotion Reverberation</sub-title>
+    <desc>Leonard and Wolowitz try to distract Sheldon when he slows the progress of their guidance system; Raj and Stuart look after baby Halley while Penny and Amy take Bernadette for a night out.</desc>
+    <episode-num system="xmltv_ns">222</episode-num>
+  </programme>
+  <programme start="20261122050000 +0000" stop="20261122053000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Allowance Evaporation</sub-title>
+    <desc>Sheldon and Amy have their first fight since moving in together; Koothrappali is shocked at the realities of financial independence when he stops receiving support from his father.</desc>
+    <episode-num system="xmltv_ns">223</episode-num>
+  </programme>
+  <programme start="20261122053000 +0000" stop="20261122060000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Comic-Con Conundrum</sub-title>
+    <desc>Cut off from his father's fortune, Koothrappali appoints Sheldon to help him get out of debt; Penny considers joining Leonard at Comic-Con.</desc>
+    <episode-num system="xmltv_ns">224</episode-num>
+  </programme>
+  <programme start="20261122060000 +0000" stop="20261122063000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Escape Hatch Identification</sub-title>
+    <desc>Leonard and Penny offer Sheldon's old room to Raj after he moves out of his apartment.</desc>
+    <episode-num system="xmltv_ns">225</episode-num>
+  </programme>
+  <programme start="20261122063000 +0000" stop="20261122070000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Chicken Pox</sub-title>
+    <desc>Phoebe's romantic meeting with an old friend (Charlie Sheen) is stalled by a case of the chickenpox; Ben celebrates his first birthday; Monica frets about her relationship with Richard (Tom Selleck).</desc>
+    <episode-num system="onscreen">47/457324</episode-num>
+  </programme>
+  <programme start="20261122070000 +0000" stop="20261122073000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With Barry and Mindy's Wedding</sub-title>
+    <desc>Rachel is a bridesmaid at her ex-fiancé's wedding; she has flashbacks of her own failed wedding day; Monica and Richard's relationship is jeopardized when the subject of children is discussed.</desc>
+    <episode-num system="onscreen">48/457323</episode-num>
+  </programme>
+  <programme start="20261122073000 +0000" stop="20261122080000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Princess Leia Fantasy</sub-title>
+    <desc>Monica is distraught after her break-up with Richard; Chandler and Janice begin seeing each other again; Ross tells Rachel and Chandler about his </desc>
+    <episode-num system="onscreen">49/465251</episode-num>
+  </programme>
+  <programme start="20261122080000 +0000" stop="20261122083000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One Where No One's Ready</sub-title>
+    <desc>In a race against the clock, Ross tries to get the gang dressed and ready for a black-tie benefit at the museum.</desc>
+    <episode-num system="onscreen">50/465252</episode-num>
+  </programme>
+  <programme start="20261122083000 +0000" stop="20261122090000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Jam</sub-title>
+    <desc>Phoebe dates a man who thinks he's stalking her twin sister, Ursula; Ross and Rachel give Chandler </desc>
+    <episode-num system="onscreen">51/465253</episode-num>
+  </programme>
+  <programme start="20261122090000 +0000" stop="20261122093000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Metaphorical Tunnel</sub-title>
+    <desc>Chandler tries to get over his fear of commitment; Phoebe poses as Joey's agent after she forgets to tell him about an audition.</desc>
+    <episode-num system="onscreen">52/465254</episode-num>
+  </programme>
+  <programme start="20261122093000 +0000" stop="20261122100000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With Frank Jr.</sub-title>
+    <desc>Phoebe tries to bond with her half brother, Frank Jr., by offering to buy a massage; Ross spots Isabella Rossellini; Joey tries to build an entertainment center.</desc>
+    <episode-num system="onscreen">53/465255</episode-num>
+  </programme>
+  <programme start="20261122100000 +0000" stop="20261122103000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Flashback</sub-title>
+    <desc>When Janice asks the gang if any of them have ever slept together, the friends flash back to three years earlier.</desc>
+    <episode-num system="onscreen">54/465256</episode-num>
+  </programme>
+  <programme start="20261122103000 +0000" stop="20261122110000 +0000" channel="nick-east">
+    <title>The Neighborhood</title>
+    <sub-title>Welcome to the Stakeout</sub-title>
+    <desc>When there's a break-in at Calvin's business, he teams up with Dave for a stakeout to catch the culprit in the act; Gemma is uncharacteristically reluctant to share her new hobby with Tina.</desc>
+    <episode-num system="xmltv_ns">413</episode-num>
+  </programme>
+  <programme start="20261122110000 +0000" stop="20261122113000 +0000" channel="nick-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Home Away From Home; SpongeBob SpareParts</sub-title>
+    <desc>The houses on Conch Street come alive and go on an adventure to save Patrick's rock; Sandy upgrades SpongeBob with robotic parts after he injures his patty flipping arm.</desc>
+  </programme>
+  <programme start="20261122113000 +0000" stop="20261122120000 +0000" channel="nick-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Plankton's Squeeze Play; How the West Was Dumb</sub-title>
+    <desc>To get closer to the secret formula, Plankton swaps bodies with Squidward and must learn to adapt to his new lanky form; Sandy teaches SpongeBob cowboy skills while they pan for bubbles, unaware that Krabs trails them in the hunt.</desc>
+  </programme>
+  <programme start="20261122120000 +0000" stop="20261122123000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups and the Ace of the Skies; Pups Save the Babysitter</sub-title>
+    <desc>Farmer Al has a new ice resurfacing machine, but when it goes haywire, it's up to Ryder and the Paw Patrol to help; when the Turbots accidentally bring a porcupine to Adventure Bay, the prickly critter gets loose and causes trouble.</desc>
+  </programme>
+  <programme start="20261122123000 +0000" stop="20261122130000 +0000" channel="nick-east">
+    <title>PAW Patrol</title>
+    <sub-title>Pups Save the Farm Festival; Pups and the Bubble Bath Bay!</sub-title>
+    <desc>At the Farm Fair, a mysterious critter chews up everything in sight, and the pups must save the day; Rocky dreams a sudsy accident turns Adventure Bay into a giant bubble bath, putting everyone at risk!</desc>
+  </programme>
+  <programme start="20261122130000 +0000" stop="20261122133000 +0000" channel="nick-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Night School Knuckleheads; Painfully Employed</sub-title>
+    <desc>At night school, SpongeBob and Patrick dive into a series of classes on wildly different subjects; Plankton hires Bubble Bass at the Chum Bucket and realizes he can utilize him to get his hands on a Krabby Patty.</desc>
+  </programme>
+  <programme start="20261122133000 +0000" stop="20261122140000 +0000" channel="nick-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>My Tighty Whiteys; What Ever Happened to Baby Prunes?</sub-title>
+    <desc>SpongeBob goes on a search after his favorite pair of underwear goes missing; Baby Prunes shares the story of her days as a child star to explain why she despises chocolate.</desc>
+  </programme>
+  <programme start="20261122140000 +0000" stop="20261122160000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>Dr. Seuss' the Lorax</sub-title>
+    <desc>To find the one thing that will win him the girl of his dreams, a boy delves into the story of a grumpy forest creature who fights to protect his world.</desc>
+  </programme>
+  <programme start="20261122160000 +0000" stop="20261122180000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>The Secret Life of Pets</sub-title>
+    <desc>A domesticated terrier (Louis C.K.) and his unruly canine pal (Eric Stonestreet) encounter a rebellious bunny (Kevin Hart) and his gang of abandoned pets.</desc>
+  </programme>
+  <programme start="20261122180000 +0000" stop="20261122200000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>The Boss Baby</sub-title>
+    <desc>A wildly imaginative 7-year-old discovers that his new brother, Boss Baby, is actually a spy on a secret mission, and only he can help thwart a dastardly plot that involves an epic battle between puppies and babies.</desc>
+  </programme>
+  <programme start="20261122200000 +0000" stop="20261122220000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>Hotel Transylvania 3: Summer Vacation</sub-title>
+    <desc>While embarking on a luxury cruise with his monstrous pack, Dracula finds himself unexpectedly captivated by a mysterious and dangerous woman, leading to unforeseen complications.</desc>
+  </programme>
+  <programme start="20261122220000 +0000" stop="20261123000000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>Dr. Seuss' the Lorax</sub-title>
+    <desc>To find the one thing that will win him the girl of his dreams, a boy delves into the story of a grumpy forest creature who fights to protect his world.</desc>
+  </programme>
+  <programme start="20261123000000 +0000" stop="20261123020000 +0000" channel="nick-east">
+    <title>Movie</title>
+    <sub-title>The Secret Life of Pets 2</sub-title>
+    <desc>Explore the emotional lives of pets and the deep bond between them and the families that love them as Max, Gidget, Snowball and the rest of the gang take on new adventures and push themselves to find the courage to become their own heroes.</desc>
+  </programme>
+  <programme start="20261123020000 +0000" stop="20261123023000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Race Car Bed</sub-title>
+    <desc>Joey sees Janice kissing her husband, whom she is divorcing while she dates Chandler; Rachel's father clashes with Ross.</desc>
+    <episode-num system="onscreen">55/465257</episode-num>
+  </programme>
+  <programme start="20261123023000 +0000" stop="20261123030000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Giant Poking Device</sub-title>
+    <desc>Chandler is devastated after Joey tells him he saw Janice kissing her ex-husband; Monica accidentally bumps Ben's head into a post when she and Rachel babysit; Phoebe is paranoid if she goes to dentist someone she knows will die.</desc>
+    <episode-num system="onscreen">56/465258</episode-num>
+  </programme>
+  <programme start="20261123030000 +0000" stop="20261123033000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Football</sub-title>
+    <desc>Emotions become the feast of the day when the gang plays a game of touch football on Thanksgiving; the turkey is left stewing when the losing team calls for a rematch.</desc>
+    <episode-num system="onscreen">57/465259</episode-num>
+  </programme>
+  <programme start="20261123033000 +0000" stop="20261123040000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One Where Rachel Quits</sub-title>
+    <desc>Rachel wonders if she'll ever get another job after she quits Central Perk; Joey's new job selling Christmas trees upsets Phoebe; Ross accidentally breaks a little girl's leg.</desc>
+    <episode-num system="onscreen">58/465260</episode-num>
+  </programme>
+  <programme start="20261123040000 +0000" stop="20261123043000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Collaboration Fluctuation</sub-title>
+    <desc>Leonard, Penny and Raj settle into their new living arrangement; Sheldon expresses interest in Amy's work.</desc>
+    <episode-num system="xmltv_ns">226</episode-num>
+  </programme>
+  <programme start="20261123043000 +0000" stop="20261123050000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Recollection Dissipation</sub-title>
+    <desc>Sheldon pushes himself to the limit when he collaborates on projects with Leonard and Wolowitz as well as Amy on the same day; Bernadette nears the end of her maternity leave and must return to work.</desc>
+    <episode-num system="xmltv_ns">227</episode-num>
+  </programme>
+  <programme start="20261123050000 +0000" stop="20261123053000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Separation Agitation</sub-title>
+    <desc>Howard and Bernadette struggle to leave Halley in day care; Bert introduces the gang to his new girlfriend, Rebecca.</desc>
+    <episode-num system="xmltv_ns">228</episode-num>
+  </programme>
+  <programme start="20261123053000 +0000" stop="20261123060000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Cognition Regeneration</sub-title>
+    <desc>Leonard is less than thrilled when Penny considers accepting a job offer from Zack, her ex-boyfriend.</desc>
+    <episode-num system="xmltv_ns">229</episode-num>
+  </programme>
+  <programme start="20261123060000 +0000" stop="20261123063000 +0000" channel="nick-east">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Gyroscopic Collapse</sub-title>
+    <desc>After celebrating the completion of the top-secret Air Force project, Leonard, Sheldon and Wolowitz get an unwelcome surprise; Amy receives an offer for a summer position as a visiting researcher.</desc>
+    <episode-num system="xmltv_ns">230</episode-num>
+  </programme>
+  <programme start="20261123063000 +0000" stop="20261123070000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One Where Chandler Can't Remember Which Sister</sub-title>
+    <desc>Ross is suspicious about Rachel's possible job offer from a good-looking stranger (Steven Eckholdt); Chandler can't remember which of Joey's many sisters he kissed at a party.</desc>
+    <episode-num system="onscreen">59/465261</episode-num>
+  </programme>
+  <programme start="20261123070000 +0000" stop="20261123073000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With All the Jealousy</sub-title>
+    <desc>Ross becomes jealous when he hears Rachel's new co-worker (Steven Eckholdt) whispering sweet nothings to her.</desc>
+    <episode-num system="onscreen">60/465262</episode-num>
+  </programme>
+  <programme start="20261123073000 +0000" stop="20261123080000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One Where Monica and Richard Are Just Friends</sub-title>
+    <desc>Running into Richard at the video store tests Monica's willpower; Joey agrees to read </desc>
+    <episode-num system="onscreen">61/465265</episode-num>
+  </programme>
+  <programme start="20261123080000 +0000" stop="20261123083000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With Phoebe's Ex-Partner</sub-title>
+    <desc>Phoebe's ex-singing partner wants to make Phoebe's signature song, </desc>
+    <episode-num system="onscreen">62/465266</episode-num>
+  </programme>
+  <programme start="20261123083000 +0000" stop="20261123090000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One Where Ross and Rachel Take a Break</sub-title>
+    <desc>Phoebe can't communicate with her new boyfriend, a UN diplomat who doesn't speak English; Ross seeks solace at a party after a bitter fight with Rachel.</desc>
+    <episode-num system="onscreen">63/465263</episode-num>
+  </programme>
+  <programme start="20261123090000 +0000" stop="20261123093000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Morning After</sub-title>
+    <desc>A remorseful Ross tries to prevent Rachel from learning his disturbing secret; Monica, Phoebe, Chandler and Joey spend a night eavesdropping.</desc>
+    <episode-num system="onscreen">64/465264</episode-num>
+  </programme>
+  <programme start="20261123093000 +0000" stop="20261123100000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Hypnosis Tape</sub-title>
+    <desc>Phoebe's brother wants to marry a woman twice his age; Monica gets a huge tip from an admirer.</desc>
+    <episode-num system="xmltv_ns">66</episode-num>
+  </programme>
+  <programme start="20261123100000 +0000" stop="20261123103000 +0000" channel="nick-east">
+    <title>Friends</title>
+    <sub-title>The One With the Dollhouse</sub-title>
+    <desc>Monica's aunt dies and leaves her an antique dollhouse that she doesn't want Phoebe to play with; Rachel regrets making a date for Chandler and her boss, Joanna; Joey's interest in Kate intensifies.</desc>
+    <episode-num system="onscreen">68/465270</episode-num>
+  </programme>
+  <programme start="20261123103000 +0000" stop="20261123110000 +0000" channel="nick-east">
+    <title>The Neighborhood</title>
+    <sub-title>Welcome to the Man Code</sub-title>
+    <desc>When Calvin discovers his friend Lorenzo is harboring a secret, he struggles with whether to share the information with Tina; Dave becomes concerned about Gemma's growing closeness to a coach at her school.</desc>
+    <episode-num system="xmltv_ns">414</episode-num>
+  </programme>
+</tv>
