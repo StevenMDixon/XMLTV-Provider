@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="as-east">
+    <display-name>As East</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s26769_h15_ab.png"/>
+  </channel>
+  <programme start="20261127210000 +0000" stop="20261127213000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Dungeons &amp;amp; Wagons</sub-title>
+    <desc>Stan gets involved in drag racing to spice up his marriage; Hayley breaks up with Jeff, who joins Steve's online gaming world.</desc>
+    <episode-num system="onscreen">2AJN08</episode-num>
+  </programme>
+  <programme start="20261127213000 +0000" stop="20261127220000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Iced, Iced Babies</sub-title>
+    <desc>Steve's new relationship with his girlfriend gives Francine empty-nest syndrome; Roger tries to enroll in college with Haley.</desc>
+    <episode-num system="onscreen">2AJN09</episode-num>
+  </programme>
+  <programme start="20261127220000 +0000" stop="20261127223000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Meet the Quagmires</sub-title>
+    <desc>Death allows Peter to go back in time for one night so he can see his past behaviors.</desc>
+    <episode-num system="xmltv_ns">513</episode-num>
+  </programme>
+  <programme start="20261127223000 +0000" stop="20261127230000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Blue Harvest</sub-title>
+    <desc>When the power goes out, Peter decides to tell his family the story of </desc>
+    <episode-num system="onscreen">5ACX16</episode-num>
+  </programme>
+  <programme start="20261127230000 +0000" stop="20261127233000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Returning Japanese</sub-title>
+    <desc>Hank, Peggy and Bobby accompany Cotton when he goes to Japan to apologize to the families of soldiers he had killed during World War II.</desc>
+    <episode-num system="onscreen">6ABE20</episode-num>
+  </programme>
+  <programme start="20261127233000 +0000" stop="20261128000000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Returning Japanese</sub-title>
+    <desc>Hank, Peggy and Bobby accompany Cotton when he goes to Japan to apologize to the families of soldiers he had killed during World War II.</desc>
+    <episode-num system="onscreen">6ABE21</episode-num>
+  </programme>
+  <programme start="20261128000000 +0000" stop="20261128003000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Bob and Deliver</sub-title>
+    <desc>Bob becomes a substitute home economics teacher at Tina's school and creates a restaurant in the classroom.</desc>
+    <episode-num system="onscreen">3ASA18</episode-num>
+  </programme>
+  <programme start="20261128003000 +0000" stop="20261128010000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Slumber Party</sub-title>
+    <desc>Linda plans a surprise slumber party for Louise, much to her dismay; Louise tries to make the girls go home; Linda becomes infatuated some raccoons that are getting into the restaurant's dumpster.</desc>
+    <episode-num system="onscreen">3ASA21</episode-num>
+  </programme>
+  <programme start="20261128010000 +0000" stop="20261128013000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Dungeons &amp;amp; Wagons</sub-title>
+    <desc>Stan gets involved in drag racing to spice up his marriage; Hayley breaks up with Jeff, who joins Steve's online gaming world.</desc>
+    <episode-num system="onscreen">2AJN08</episode-num>
+  </programme>
+  <programme start="20261128013000 +0000" stop="20261128020000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Iced, Iced Babies</sub-title>
+    <desc>Steve's new relationship with his girlfriend gives Francine empty-nest syndrome; Roger tries to enroll in college with Haley.</desc>
+    <episode-num system="onscreen">2AJN09</episode-num>
+  </programme>
+  <programme start="20261128020000 +0000" stop="20261128023000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Meet the Quagmires</sub-title>
+    <desc>Death allows Peter to go back in time for one night so he can see his past behaviors.</desc>
+    <episode-num system="xmltv_ns">513</episode-num>
+  </programme>
+  <programme start="20261128023000 +0000" stop="20261128030000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Blue Harvest</sub-title>
+    <desc>When the power goes out, Peter decides to tell his family the story of </desc>
+    <episode-num system="onscreen">5ACX16</episode-num>
+  </programme>
+  <programme start="20261128030000 +0000" stop="20261128033000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Returning Japanese</sub-title>
+    <desc>Hank, Peggy and Bobby accompany Cotton when he goes to Japan to apologize to the families of soldiers he had killed during World War II.</desc>
+    <episode-num system="onscreen">6ABE20</episode-num>
+  </programme>
+  <programme start="20261128033000 +0000" stop="20261128040000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Returning Japanese</sub-title>
+    <desc>Hank, Peggy and Bobby accompany Cotton when he goes to Japan to apologize to the families of soldiers he had killed during World War II.</desc>
+    <episode-num system="onscreen">6ABE21</episode-num>
+  </programme>
+  <programme start="20261128040000 +0000" stop="20261128043000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>A Rickle in Time</sub-title>
+    <desc>Rick don goofed this time and mussed up the whole time frame broh! Beth and Jerry get romantic!</desc>
+    <episode-num system="xmltv_ns">201</episode-num>
+  </programme>
+  <programme start="20261128043000 +0000" stop="20261128044500 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Choked on Multi-Colored Scarves</sub-title>
+    <desc>A TV theme song that never ends.</desc>
+  </programme>
+  <programme start="20261128044500 +0000" stop="20261128050000 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Collateral Damage in Gang Turf War</sub-title>
+    <desc>E.T. takes over an emergency room.</desc>
+  </programme>
+  <programme start="20261128050000 +0000" stop="20261128053000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Bob and Deliver</sub-title>
+    <desc>Bob becomes a substitute home economics teacher at Tina's school and creates a restaurant in the classroom.</desc>
+    <episode-num system="onscreen">3ASA18</episode-num>
+  </programme>
+  <programme start="20261128053000 +0000" stop="20261128060000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Slumber Party</sub-title>
+    <desc>Linda plans a surprise slumber party for Louise, much to her dismay; Louise tries to make the girls go home; Linda becomes infatuated some raccoons that are getting into the restaurant's dumpster.</desc>
+    <episode-num system="onscreen">3ASA21</episode-num>
+  </programme>
+  <programme start="20261128060000 +0000" stop="20261128063000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Dungeons &amp;amp; Wagons</sub-title>
+    <desc>Stan gets involved in drag racing to spice up his marriage; Hayley breaks up with Jeff, who joins Steve's online gaming world.</desc>
+    <episode-num system="onscreen">2AJN08</episode-num>
+  </programme>
+  <programme start="20261128063000 +0000" stop="20261128070000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Iced, Iced Babies</sub-title>
+    <desc>Steve's new relationship with his girlfriend gives Francine empty-nest syndrome; Roger tries to enroll in college with Haley.</desc>
+    <episode-num system="onscreen">2AJN09</episode-num>
+  </programme>
+  <programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Meet the Quagmires</sub-title>
+    <desc>Death allows Peter to go back in time for one night so he can see his past behaviors.</desc>
+    <episode-num system="xmltv_ns">513</episode-num>
+  </programme>
+  <programme start="20261128073000 +0000" stop="20261128080000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Blue Harvest</sub-title>
+    <desc>When the power goes out, Peter decides to tell his family the story of </desc>
+    <episode-num system="onscreen">5ACX16</episode-num>
+  </programme>
+  <programme start="20261128080000 +0000" stop="20261128083000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Returning Japanese</sub-title>
+    <desc>Hank, Peggy and Bobby accompany Cotton when he goes to Japan to apologize to the families of soldiers he had killed during World War II.</desc>
+    <episode-num system="onscreen">6ABE20</episode-num>
+  </programme>
+  <programme start="20261128083000 +0000" stop="20261128090000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Returning Japanese</sub-title>
+    <desc>Hank, Peggy and Bobby accompany Cotton when he goes to Japan to apologize to the families of soldiers he had killed during World War II.</desc>
+    <episode-num system="onscreen">6ABE21</episode-num>
+  </programme>
+  <programme start="20261128090000 +0000" stop="20261128093000 +0000" channel="as-east">
+    <title>In the Know</title>
+    <sub-title>Yogurt Week</sub-title>
+    <desc>Lauren believes his body is racist and insists on hosting a live panel to end racism and maybe win a Peabody; Fabian forms an unexpected connection with MMA superstar Jorge Masvidal.</desc>
+  </programme>
+  <programme start="20261128093000 +0000" stop="20261128100000 +0000" channel="as-east">
+    <title>Bob and Margaret</title>
+    <sub-title>Party Politics</sub-title>
+    <desc>Margaret runs into a distant friend who asks her to host a lingerie party.</desc>
+  </programme>
+  <programme start="20261128100000 +0000" stop="20261128210000 +0000" channel="as-east">
+    <title>Off Air</title>
+    <sub-title>Off Air</sub-title>
+    <desc>Off Air</desc>
+  </programme>
+  <programme start="20261128210000 +0000" stop="20261128213000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Get Your Freak Off</sub-title>
+    <desc>Hank is appalled when he sees Bobby and his new friend (Eliza Dushku) imitating a boy band's suggestive dance moves.</desc>
+    <episode-num system="onscreen">7ABE01</episode-num>
+  </programme>
+  <programme start="20261128213000 +0000" stop="20261128220000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>The Fat and the Furious</sub-title>
+    <desc>Bill wolfs down a huge quantity of food at a record-breaking pace. Jeff Garlin, Kid Rock and Pamela Anderson guest star.</desc>
+    <episode-num system="onscreen">7ABE03</episode-num>
+  </programme>
+  <programme start="20261128220000 +0000" stop="20261128223000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Bad Girls, Bad Girls, Watcha Gonna Do</sub-title>
+    <desc>Connie's cousin (Lucy Liu) builds a crystal methamphetamine laboratory, and Peggy unknowingly enters it in the science fair.</desc>
+    <episode-num system="onscreen">6ABE19</episode-num>
+  </programme>
+  <programme start="20261128223000 +0000" stop="20261128230000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Of Ice and Men</sub-title>
+    <desc>Francine supports Stan's long-suppressed love of competitive figure skating until he ditches her for a new partner.</desc>
+    <episode-num system="onscreen">2AJN10</episode-num>
+  </programme>
+  <programme start="20261128230000 +0000" stop="20261128233000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Presto-Tina-O</sub-title>
+    <desc>In order to get closer to Jimmy Jr., Tina becomes a magician's assistant; Bob becomes the victim of a curse.</desc>
+    <episode-num system="onscreen">3ASA20</episode-num>
+  </programme>
+  <programme start="20261128233000 +0000" stop="20261129000000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Easy Commercial, Easy Gommercial</sub-title>
+    <desc>The Belchers hire a documentary filmmaker and a former football star to help them film a commercial.</desc>
+    <episode-num system="onscreen">3ASA19</episode-num>
+  </programme>
+  <programme start="20261129000000 +0000" stop="20261129003000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Blue Harvest</sub-title>
+    <desc>When the power goes out, Peter decides to tell his family the story of </desc>
+    <episode-num system="onscreen">5ACX22</episode-num>
+  </programme>
+  <programme start="20261129003000 +0000" stop="20261129010000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Movin' Out (Brian's Song)</sub-title>
+    <desc>Brian, Jillian and Stewie move into an apartment; Meg and Chris get jobs at a convenience store.</desc>
+    <episode-num system="onscreen">5ACX14</episode-num>
+  </programme>
+  <programme start="20261129010000 +0000" stop="20261129013000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Believe It or Not, Joe's Walking on Air</sub-title>
+    <desc>Joe wants to get a leg transplant after Bonnie tells him she is tired of being married to a disabled person; Peter and the guys decide to teach Joe a lesson.</desc>
+    <episode-num system="onscreen">5ACX15</episode-num>
+  </programme>
+  <programme start="20261129013000 +0000" stop="20261129020000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Get Your Freak Off</sub-title>
+    <desc>Hank is appalled when he sees Bobby and his new friend (Eliza Dushku) imitating a boy band's suggestive dance moves.</desc>
+    <episode-num system="onscreen">7ABE01</episode-num>
+  </programme>
+  <programme start="20261129020000 +0000" stop="20261129023000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>The Fat and the Furious</sub-title>
+    <desc>Bill wolfs down a huge quantity of food at a record-breaking pace. Jeff Garlin, Kid Rock and Pamela Anderson guest star.</desc>
+    <episode-num system="onscreen">7ABE03</episode-num>
+  </programme>
+  <programme start="20261129023000 +0000" stop="20261129030000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Bad Girls, Bad Girls, Watcha Gonna Do</sub-title>
+    <desc>Connie's cousin (Lucy Liu) builds a crystal methamphetamine laboratory, and Peggy unknowingly enters it in the science fair.</desc>
+    <episode-num system="onscreen">6ABE19</episode-num>
+  </programme>
+  <programme start="20261129030000 +0000" stop="20261129044500 +0000" channel="as-east">
+    <title>Movie</title>
+    <sub-title>Justice League X Rwby: Super Heroes and Huntsmen: Part Two</sub-title>
+    <desc>The Justice League emerge in their own world to discover that Grimm have overtaken Earth.</desc>
+  </programme>
+  <programme start="20261129044500 +0000" stop="20261129050000 +0000" channel="as-east">
+    <title>PSI Cops!</title>
+    <sub-title>Alien Autopsy</sub-title>
+    <desc>Kydd and Felixx kill an alien and bring it back to Psi Cops HQ for Shirl to dissect; then they realize that it may have just been a regular old man.</desc>
+  </programme>
+  <programme start="20261129050000 +0000" stop="20261129053000 +0000" channel="as-east">
+    <title>Get Jiro!</title>
+    <sub-title>Gochisousama</sub-title>
+    <desc>Jiro and Ichigo confront each other and the childhood trauma that led them on this path of vengeance.</desc>
+  </programme>
+  <programme start="20261129053000 +0000" stop="20261129060000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Of Ice and Men</sub-title>
+    <desc>Francine supports Stan's long-suppressed love of competitive figure skating until he ditches her for a new partner.</desc>
+    <episode-num system="onscreen">2AJN10</episode-num>
+  </programme>
+  <programme start="20261129060000 +0000" stop="20261129063000 +0000" channel="as-east">
+    <title>President Curtis</title>
+    <sub-title>Triangle</sub-title>
+    <desc>After a dead Loch Ness monster washes ashore, Curtis, Banks and O'Doyle investigate a secret monster prison in the Bermuda Triangle.</desc>
+  </programme>
+  <programme start="20261129063000 +0000" stop="20261129070000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Mortynight Run</sub-title>
+    <desc>Morty don tries to save a life in this one broh! Get strapped in broh!</desc>
+    <episode-num system="xmltv_ns">202</episode-num>
+  </programme>
+  <programme start="20261129070000 +0000" stop="20261129084500 +0000" channel="as-east">
+    <title>Movie</title>
+    <sub-title>Justice League X Rwby: Super Heroes and Huntsmen: Part Two</sub-title>
+    <desc>The Justice League emerge in their own world to discover that Grimm have overtaken Earth.</desc>
+  </programme>
+  <programme start="20261129084500 +0000" stop="20261129090000 +0000" channel="as-east">
+    <title>PSI Cops!</title>
+    <sub-title>Alien Autopsy</sub-title>
+    <desc>Kydd and Felixx kill an alien and bring it back to Psi Cops HQ for Shirl to dissect; then they realize that it may have just been a regular old man.</desc>
+  </programme>
+  <programme start="20261129090000 +0000" stop="20261129104500 +0000" channel="as-east">
+    <title>Movie</title>
+    <sub-title>Justice League X Rwby: Super Heroes and Huntsmen: Part Two</sub-title>
+    <desc>The Justice League emerge in their own world to discover that Grimm have overtaken Earth.</desc>
+  </programme>
+  <programme start="20261129100000 +0000" stop="20261129210000 +0000" channel="as-east">
+    <title>Off Air</title>
+    <sub-title>Off Air</sub-title>
+    <desc>Off Air</desc>
+  </programme>
+  <programme start="20261129210000 +0000" stop="20261129213000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Dances With Dogs</sub-title>
+    <desc>Hank scolds Bobby for teaching the arthritic family dog how to dance. Scott Hamilton provides a guest voice.</desc>
+    <episode-num system="onscreen">7ABE02</episode-num>
+  </programme>
+  <programme start="20261129213000 +0000" stop="20261129220000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>The Son Also Roses</sub-title>
+    <desc>Hank becomes a thorn in Bobby's side when he tries to support his son's decision to cultivate roses. Michael Clarke Duncan and Betty White guest star.</desc>
+    <episode-num system="onscreen">6ABE22</episode-num>
+  </programme>
+  <programme start="20261129220000 +0000" stop="20261129223000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Texas Skillsaw Massacre</sub-title>
+    <desc>Hank falls through the kitchen floor and discovers the underground escape tunnel Dale has been building.</desc>
+    <episode-num system="onscreen">6ABE18</episode-num>
+  </programme>
+  <programme start="20261129223000 +0000" stop="20261129230000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Lincoln Lover</sub-title>
+    <desc>Stan has his heart set on speaking at the Republican National Convention, but the only group willing to sponsor him is the local chapter of Gay Republicans.</desc>
+    <episode-num system="onscreen">2AJN11</episode-num>
+  </programme>
+  <programme start="20261129230000 +0000" stop="20261129233000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>The Frond Files</sub-title>
+    <desc>Bob and Linda learn that their kids' essays about their fantasy versions of the school are considered offensive and too creative.</desc>
+    <episode-num system="onscreen">4ASA04</episode-num>
+  </programme>
+  <programme start="20261129233000 +0000" stop="20261130000000 +0000" channel="as-east">
+    <title>Bob's Burgers</title>
+    <sub-title>Mazel-Tina</sub-title>
+    <desc>Tina isn't invited to a classmate's bat mitzvah but ends up at the event anyway when her family is hired to cater.</desc>
+    <episode-num system="onscreen">4ASA03</episode-num>
+  </programme>
+  <programme start="20261130000000 +0000" stop="20261130003000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>100th Episode Special</sub-title>
+    <desc>The funniest moments, satirical spoofs and musical numbers from the show's first 100 episodes.</desc>
+    <episode-num system="xmltv_ns">816</episode-num>
+  </programme>
+  <programme start="20261130003000 +0000" stop="20261130010000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Stewie Kills Lois</sub-title>
+    <desc>When Stewie vows to carry out a diabolical plan against Lois, Brian challenges him to go ahead with it.</desc>
+    <episode-num system="onscreen">5ACX17</episode-num>
+  </programme>
+  <programme start="20261130010000 +0000" stop="20261130013000 +0000" channel="as-east">
+    <title>Family Guy</title>
+    <sub-title>Lois Kills Stewie</sub-title>
+    <desc>Joe leads a manhunt around Quahog for Stewie, who auditions for the </desc>
+    <episode-num system="onscreen">5ACX18</episode-num>
+  </programme>
+  <programme start="20261130013000 +0000" stop="20261130020000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Dances With Dogs</sub-title>
+    <desc>Hank scolds Bobby for teaching the arthritic family dog how to dance. Scott Hamilton provides a guest voice.</desc>
+    <episode-num system="onscreen">7ABE02</episode-num>
+  </programme>
+  <programme start="20261130020000 +0000" stop="20261130023000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>The Son Also Roses</sub-title>
+    <desc>Hank becomes a thorn in Bobby's side when he tries to support his son's decision to cultivate roses. Michael Clarke Duncan and Betty White guest star.</desc>
+    <episode-num system="onscreen">6ABE22</episode-num>
+  </programme>
+  <programme start="20261130023000 +0000" stop="20261130030000 +0000" channel="as-east">
+    <title>King of the Hill</title>
+    <sub-title>Texas Skillsaw Massacre</sub-title>
+    <desc>Hank falls through the kitchen floor and discovers the underground escape tunnel Dale has been building.</desc>
+    <episode-num system="onscreen">6ABE18</episode-num>
+  </programme>
+  <programme start="20261130030000 +0000" stop="20261130033000 +0000" channel="as-east">
+    <title>American Dad!</title>
+    <sub-title>Lincoln Lover</sub-title>
+    <desc>Stan has his heart set on speaking at the Republican National Convention, but the only group willing to sponsor him is the local chapter of Gay Republicans.</desc>
+    <episode-num system="onscreen">2AJN11</episode-num>
+  </programme>
+  <programme start="20261130033000 +0000" stop="20261130040000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Auto Erotic Assimilation</sub-title>
+    <desc>Rick gets straight emotional in this one bro. Beth and Jerry going ham on each other bro.</desc>
+    <episode-num system="xmltv_ns">203</episode-num>
+  </programme>
+  <programme start="20261130040000 +0000" stop="20261130041500 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Butchered in Burbank</sub-title>
+    <desc>How to bring Monopoly to the silver screen; Dracula hosts a dinner party; The Little Mermaid travels up the Hudson River to New York.</desc>
+  </programme>
+  <programme start="20261130041500 +0000" stop="20261130043000 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Papercut to Aorta</sub-title>
+    <desc>Rocky and Bullwinkle in Of Moose and Men; Badtz-Maru has a bad day.</desc>
+  </programme>
+  <programme start="20261130043000 +0000" stop="20261130050000 +0000" channel="as-east">
+    <title>President Curtis</title>
+    <sub-title>Ex</sub-title>
+    <desc>Curtis gets an invite to his ex-wife's inauguration gala, while Banks and O'Doyle are forced to undergo a job evaluation at a fully-immersive offsite facility.</desc>
+  </programme>
+  <programme start="20261130050000 +0000" stop="20261130051500 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>Death</sub-title>
+    <desc>We work right next to the Tiny Desk Concerts; what a perk!</desc>
+  </programme>
+  <programme start="20261130051500 +0000" stop="20261130053000 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>Wow, I Hope That Doesn't Happen to Me</sub-title>
+    <desc>More bad dreams; I'm the bathroom hand dryer; somebody call the police, these idiots are freaking out.</desc>
+  </programme>
+  <programme start="20261130053000 +0000" stop="20261130060000 +0000" channel="as-east">
+    <title>Rick and Morty</title>
+    <sub-title>Auto Erotic Assimilation</sub-title>
+    <desc>Rick gets straight emotional in this one bro. Beth and Jerry going ham on each other bro.</desc>
+    <episode-num system="xmltv_ns">203</episode-num>
+  </programme>
+  <programme start="20261130060000 +0000" stop="20261130061500 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Butchered in Burbank</sub-title>
+    <desc>How to bring Monopoly to the silver screen; Dracula hosts a dinner party; The Little Mermaid travels up the Hudson River to New York.</desc>
+  </programme>
+  <programme start="20261130061500 +0000" stop="20261130063000 +0000" channel="as-east">
+    <title>Robot Chicken</title>
+    <sub-title>Papercut to Aorta</sub-title>
+    <desc>Rocky and Bullwinkle in Of Moose and Men; Badtz-Maru has a bad day.</desc>
+  </programme>
+  <programme start="20261130063000 +0000" stop="20261130070000 +0000" channel="as-east">
+    <title>President Curtis</title>
+    <sub-title>Ex</sub-title>
+    <desc>Curtis gets an invite to his ex-wife's inauguration gala, while Banks and O'Doyle are forced to undergo a job evaluation at a fully-immersive offsite facility.</desc>
+  </programme>
+  <programme start="20261130070000 +0000" stop="20261130071500 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>Death</sub-title>
+    <desc>We work right next to the Tiny Desk Concerts; what a perk!</desc>
+  </programme>
+  <programme start="20261130071500 +0000" stop="20261130073000 +0000" channel="as-east">
+    <title>The Terrors of Jordan Mendoza</title>
+    <sub-title>Wow, I Hope That Doesn't Happen to Me</sub-title>
+    <desc>More bad dreams; I'm the bathroom hand dryer; somebody call the police, these idiots are freaking out.</desc>
+  </programme>
+  <programme start="20261130073000 +0000" stop="20261130074500 +0000" channel="as-east">
+    <title>Smiling Friends</title>
+    <sub-title>The Glep Ep</sub-title>
+    <desc>We learn about Glep, the green character who sits on the bean bag and spits on the ground and stuff like that.</desc>
+  </programme>
+  <programme start="20261130074500 +0000" stop="20261130080000 +0000" channel="as-east">
+    <title>Smiling Friends</title>
+    <sub-title>Friend-Bot</sub-title>
+    <desc>The Smiling Friends befriend a robot.</desc>
+  </programme>
+  <programme start="20261130080000 +0000" stop="20261130083000 +0000" channel="as-east">
+    <title>Get Jiro!</title>
+    <sub-title>Cage Free</sub-title>
+    <desc>An unexpected ally visits Jiro in Butcher's Block Penitentiary and helps him mount an escape attempt.</desc>
+  </programme>
+  <programme start="20261130083000 +0000" stop="20261130090000 +0000" channel="as-east">
+    <title>Ninja Kamui</title>
+    <desc>Higan and Lil engage in combat; Higan achieves complete synchronization with his Gusoku Gear </desc>
+  </programme>
+  <programme start="20261130090000 +0000" stop="20261130093000 +0000" channel="as-east">
+    <title>Common Side Effects</title>
+    <sub-title>Hildy</sub-title>
+    <desc>Marshall seeks advice from his old mentor Hildy; Copano and Harrington are drawn further into the mystery of the mushrooms obtained at the raid; Frances goes to Geneva with her boyfriend Nick and Rick but can't resist the call of the mushroom.</desc>
+  </programme>
+  <programme start="20261130093000 +0000" stop="20261130100000 +0000" channel="as-east">
+    <title>Genndy Tartakovsky's Primal</title>
+    <sub-title>Echoes of Eternity</sub-title>
+    <desc>An old vengeance returns to wreak havoc.</desc>
+  </programme>
+</tv>

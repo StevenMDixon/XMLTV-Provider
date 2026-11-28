@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="nicktoons-east">
+    <display-name>Nicktoons East</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s82654_h15_ac.png"/>
+  </channel>
+  <programme start="20261127110000 +0000" stop="20261127112600 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Hello Bikini Bottom!</sub-title>
+    <desc>Mr. Krabs decides to manage SpongeBob and Squidward's world tour.</desc>
+    <episode-num system="xmltv_ns">178</episode-num>
+  </programme>
+  <programme start="20261127112600 +0000" stop="20261127115200 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Squidness Protection; Dome Alone</sub-title>
+    <desc>Squidward's new life is threatened; stuck in her dome, Sandy suspects Plankton's up to no good and gets Patrick to investigate.</desc>
+    <episode-num system="xmltv_ns">312</episode-num>
+  </programme>
+  <programme start="20261127115200 +0000" stop="20261127121800 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Survival of the Idiots; Dumped</sub-title>
+    <desc>SpongeBob and Patrick sneak into the Treedome; Gary follows Patrick around, and SpongeBob becomes jealous.</desc>
+    <episode-num system="xmltv_ns">029</episode-num>
+  </programme>
+  <programme start="20261127121800 +0000" stop="20261127124400 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>A Life in a Day; Sun Bleached</sub-title>
+    <desc>Patrick wants to become more of a daredevil like Larry the Lobster; SpongeBob and Patrick decide to get tan so that they can attend a big party.</desc>
+    <episode-num system="xmltv_ns">106</episode-num>
+  </programme>
+  <programme start="20261127124400 +0000" stop="20261127131000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Clash of Triton</sub-title>
+    <desc>SpongeBob and his friends prepare for King Neptune's birthday party at the Krusty Krab.</desc>
+    <episode-num system="xmltv_ns">126</episode-num>
+  </programme>
+  <programme start="20261127131000 +0000" stop="20261127133600 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Making Waves; Captain Quasar: The Next Generation</sub-title>
+    <desc>Mr. Krabs and Plankton must learn to get along after ending up shipwrecked on an island; SpongeBob and Squidina try to start their very own Captain Quasar fan club after being kicked out of Bubble Bass's.</desc>
+  </programme>
+  <programme start="20261127133600 +0000" stop="20261127140200 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Thing; Hocus Pocus</sub-title>
+    <desc>A bicycling accident leaves Squidward coated in mud and leaves; SpongeBob tries to impress Squidward with his new magic kit.</desc>
+    <episode-num system="xmltv_ns">076</episode-num>
+  </programme>
+  <programme start="20261127140200 +0000" stop="20261127142800 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Abandon Twits; Wallhalla</sub-title>
+    <desc>The Krusty Crew builds a boat for its penny-pinching captain; SpongeBob discovers a crazed castaway living in his walls.</desc>
+    <episode-num system="xmltv_ns">280</episode-num>
+  </programme>
+  <programme start="20261127142800 +0000" stop="20261127145400 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Cuddle E. Hugs; Pat the Horse</sub-title>
+    <desc>SpongeBob's new friend is a giant, fluffy hamster that no one else can see; Patrick wants to be a horse.</desc>
+    <episode-num system="xmltv_ns">225</episode-num>
+  </programme>
+  <programme start="20261127145400 +0000" stop="20261127152000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Extreme Spots; Squirrel Record</sub-title>
+    <desc>SpongeBob and Patrick try to join an extreme sports team; Sandy finds a book of world records and proceeds to try to break them all.</desc>
+    <episode-num system="xmltv_ns">179</episode-num>
+  </programme>
+  <programme start="20261127152000 +0000" stop="20261127154600 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Tentacle Vision; I Heart Dancing</sub-title>
+    <desc>Squidward gets his own public access television show; Squidward becomes jealous of SpongeBob and tries to sabotage his dance audition.</desc>
+    <episode-num system="xmltv_ns">127</episode-num>
+  </programme>
+  <programme start="20261127154600 +0000" stop="20261127161200 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Giant Squidward; No Nose Knows</sub-title>
+    <desc>Squidward turns into a giant after he is sprayed with plant growth spray; Patrick decides that he wants a nose.</desc>
+    <episode-num system="xmltv_ns">107</episode-num>
+  </programme>
+  <programme start="20261127161200 +0000" stop="20261127163800 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>No Free Rides; I'm Your Biggest Fanatic</sub-title>
+    <desc>SpongeBob fails his driving test again; SpongeBob and Patrick go to a jellyfishing convention.</desc>
+    <episode-num system="xmltv_ns">030</episode-num>
+  </programme>
+  <programme start="20261127163800 +0000" stop="20261127170400 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Wary Gary; Pinned</sub-title>
+    <desc>SpongeBob must go to extreme lengths when Gary refuses to go to the vet; SpongeBob gets stuck while working out.</desc>
+  </programme>
+  <programme start="20261127170400 +0000" stop="20261127173000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Salty Sponge; Karen for Spot</sub-title>
+    <desc>SpongeBob works the grill at the toughest joint in town; Karen looks after Spot while Plankton goes out of town.</desc>
+    <episode-num system="xmltv_ns">281</episode-num>
+  </programme>
+  <programme start="20261127173000 +0000" stop="20261127175600 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Growth Spout; Stuck in the Wringer</sub-title>
+    <desc>Pearl's growing appetite leads Mr. Krabs to sneak into his friends' houses to find some free food; SpongeBob gets stuck in his wringer after showering.</desc>
+    <episode-num system="xmltv_ns">128</episode-num>
+  </programme>
+  <programme start="20261127175600 +0000" stop="20261127182200 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Chatterbox Gary; Don't Feed the Clowns</sub-title>
+    <desc>Gary has a pet translation collar, and he's talking up a storm; when a small clown gets left behind by the circus, SpongeBob takes the hapless harlequin under his wing.</desc>
+    <episode-num system="xmltv_ns">226</episode-num>
+  </programme>
+  <programme start="20261127182200 +0000" stop="20261127184800 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Driven to Tears; Rule of Dumb</sub-title>
+    <desc>Patrick gets his license and wins a car; a document reveals that Patrick is next in line to become a king.</desc>
+    <episode-num system="xmltv_ns">077</episode-num>
+  </programme>
+  <programme start="20261127184800 +0000" stop="20261127191400 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Patty Caper; Plankton's Regular</sub-title>
+    <desc>SpongeBob is in charge of delivering the secret Krabby Patty ingredient safely to the Krusty Krab; Plankton has a customer who eats at the Chum Bucket every day.</desc>
+    <episode-num system="xmltv_ns">108</episode-num>
+  </programme>
+  <programme start="20261127191400 +0000" stop="20261127194000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Patrick-Man!; Gary's New Toy</sub-title>
+    <desc>Patrick becomes a superhero and plans to clean up Bikini Bottom; SpongeBob must take drastic measures when Gary becomes obsessed with his new red ball.</desc>
+    <episode-num system="xmltv_ns">180</episode-num>
+  </programme>
+  <programme start="20261127194000 +0000" stop="20261127200700 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Arbor Day Disarray; Ain't That the Tooth</sub-title>
+    <desc>Sandy gives her friends special saltwater trees, but they need more attention than she expected; SpongeBob and Patrick mistake a burglar for the tooth fairy.</desc>
+    <episode-num system="xmltv_ns">282</episode-num>
+  </programme>
+  <programme start="20261127200700 +0000" stop="20261127203300 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Someone's in the Kitchen With Sandy; The Inside Job</sub-title>
+    <desc>Plankton steals Sandy's pelt to impersonate her; Plankton tries to launch himself into Mr. Krabs' head and misses his target.</desc>
+    <episode-num system="xmltv_ns">129</episode-num>
+  </programme>
+  <programme start="20261127203300 +0000" stop="20261127205900 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Mermaid Man and Barnacle Boy III; Squirrel Jokes</sub-title>
+    <desc>SpongeBob house-sits for Mermaid Man and Barnacle Boy; SpongeBob is a comedy sensation when he tells mean jokes.</desc>
+    <episode-num system="xmltv_ns">031</episode-num>
+  </programme>
+  <programme start="20261127205900 +0000" stop="20261127212500 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Jeffy T's Prankwell Emporium; A Taste of Plankton</sub-title>
+    <desc>Squidward's prankster dad visits and brings all sorts of gags with him, much to Squidward's annoyance; Plankton tries to get a taste of the secret formula by attaching himself to SpongeBob's tongue.</desc>
+  </programme>
+  <programme start="20261127212500 +0000" stop="20261127215100 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Drive Happy; Old Man Patrick</sub-title>
+    <desc>SpongeBob can't drive, but he learns one does not need a license to operate a self-driving car; Patrick thinks he is an old man, so SpongeBob tries to remind him how much fun being a child can be.</desc>
+    <episode-num system="xmltv_ns">227</episode-num>
+  </programme>
+  <programme start="20261127215100 +0000" stop="20261127221700 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Boating Buddies; The Krabby Kronicle</sub-title>
+    <desc>Squidward gets caught speeding and is sent to boating school; Mr. Krabs launches a tabloid newspaper.</desc>
+    <episode-num system="xmltv_ns">109</episode-num>
+  </programme>
+  <programme start="20261127221700 +0000" stop="20261127224300 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Born to Be Wild; Best Frenemies</sub-title>
+    <desc>SpongeBob must protect the town from a ferocious biker gang; Mr. Krabs and Plankton work together to infiltrate a new smoothie shop.</desc>
+    <episode-num system="xmltv_ns">078</episode-num>
+  </programme>
+  <programme start="20261127224300 +0000" stop="20261127231000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Ma and Pa's Big Hurrah; Yellow Pavement</sub-title>
+    <desc>When SpongeBob's parents come to visit, their thirst for thrills comes as a big surprise; an educational driving film.</desc>
+    <episode-num system="xmltv_ns">283</episode-num>
+  </programme>
+  <programme start="20261127231000 +0000" stop="20261127233600 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Greasy Buffoons; Model Sponge</sub-title>
+    <desc>Mr. Krabs and Plankton woo customers with greasy entrées; SpongeBob tries to be a model in a kitchen sponge commercial.</desc>
+    <episode-num system="xmltv_ns">130</episode-num>
+  </programme>
+  <programme start="20261127233600 +0000" stop="20261128000200 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Pressure; The Smoking Peanut</sub-title>
+    <desc>Sandy and SpongeBob compete doing underwater sports; SpongeBob and Patrick visit the zoo.</desc>
+    <episode-num system="xmltv_ns">032</episode-num>
+  </programme>
+  <programme start="20261128000200 +0000" stop="20261128002900 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Bizarro Bottom; Squidward's Tough Break</sub-title>
+    <desc>SpongeBob falls asleep on the bus and ends up in a town full of Bikini Bottom doppelgängers; after Squidward loses his memory, he adopts a new tough guy persona.</desc>
+  </programme>
+  <programme start="20261128002900 +0000" stop="20261128005500 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>License to Milkshake; Squid Baby</sub-title>
+    <desc>SpongeBob is forced to go back to the milkshake academy when he learns that his milkshake license has expired; SpongeBob and Patrick must take care of Squidward when he reverts to being a baby.</desc>
+    <episode-num system="xmltv_ns">181</episode-num>
+  </programme>
+  <programme start="20261128005500 +0000" stop="20261128012100 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Fun-Sized Friends; Grandmum's the Word</sub-title>
+    <desc>SpongeBob and Patrick exchange tiny living versions of themselves; Plankton tells his grandma that he owns the Krusty Krab, but must keep the lie going when she comes to visit.</desc>
+    <episode-num system="xmltv_ns">228</episode-num>
+  </programme>
+  <programme start="20261128012100 +0000" stop="20261128014700 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Pink Purloiner; Squid Wood</sub-title>
+    <desc>SpongeBob suspects Patrick of stealing his jellyfishing net; SpongeBob builds a ventriloquist dummy modeled after Squidward.</desc>
+    <episode-num system="xmltv_ns">079</episode-num>
+  </programme>
+  <programme start="20261128014700 +0000" stop="20261128021300 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Slumber Party; Grooming Gary</sub-title>
+    <desc>Mr. Krabs interferes with Pearl's slumber party preparations; SpongeBob decides to give Gary a makeover before entering him in a pet show.</desc>
+    <episode-num system="xmltv_ns">110</episode-num>
+  </programme>
+  <programme start="20261128021300 +0000" stop="20261128024000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Keep Bikini Bottom Beautiful; A Pal for Gary</sub-title>
+    <desc>Squidward cleans up Bikini Bottom with SpongeBob's help; SpongeBob gets Gary a pet.</desc>
+    <episode-num system="xmltv_ns">131</episode-num>
+  </programme>
+  <programme start="20261128024000 +0000" stop="20261128030600 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Flower Pot; SpongeBob on Parade</sub-title>
+    <desc>The Chum Bucket is replaced by a flower shop with a charming new owner; the Krusty Krab enters a float in the annual Bikini Bottom Parade.</desc>
+    <episode-num system="xmltv_ns">284</episode-num>
+  </programme>
+  <programme start="20261128030600 +0000" stop="20261128033200 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Shanghaied; Gary Takes a Bath</sub-title>
+    <desc>The Flying Dutchman enslaves SpongeBob and Pat onboard his ghost ship; Gary doesn't want to take a bath.</desc>
+    <episode-num system="xmltv_ns">033</episode-num>
+  </programme>
+  <programme start="20261128033200 +0000" stop="20261128035800 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Smartificial Intelligence; Firehouse Bob</sub-title>
+    <desc>Perch Perkins fights for his job after he's fired and replaced by a robot anchorman; SpongeBob, Patrick and Squidward feel the heat when they become volunteer firefighters.</desc>
+  </programme>
+  <programme start="20261128035800 +0000" stop="20261128042400 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Little Yellow Book/Bumper to Bumper</sub-title>
+    <desc>Squidward finds SpongeBob's diary, and starts reading it out loud in the Krusty Krab; SpongeBob fails his driving test, forcing Mrs Puff to think outside the box and off the road.</desc>
+    <episode-num system="xmltv_ns">182</episode-num>
+  </programme>
+  <programme start="20261128042400 +0000" stop="20261128045000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Doodle Dimension; Moving Bubble Bass</sub-title>
+    <desc>SpongeBob and Patrick become trapped in an alternate dimension where anything they draw comes to life; SpongeBob and Patrick help Bubble Bass move out of his mother's basement.</desc>
+    <episode-num system="xmltv_ns">229</episode-num>
+  </programme>
+  <programme start="20261128045000 +0000" stop="20261128051600 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>SpongeBob SquarePants vs. The Big One</sub-title>
+    <desc>SpongeBob, Patrick and Squidward are swept away to a remote tropical island by a giant wave.</desc>
+    <episode-num system="xmltv_ns">111</episode-num>
+  </programme>
+  <programme start="20261128051600 +0000" stop="20261128054200 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Best Day Ever; The Gift of Gum</sub-title>
+    <desc>SpongeBob sacrifices his perfect day to help his friends; Patrick gives SpongeBob his most-prized possession.</desc>
+    <episode-num system="xmltv_ns">080</episode-num>
+  </programme>
+  <programme start="20261128054200 +0000" stop="20261128060800 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Curse of the WereDoodle; Gorilla Suit Day</sub-title>
+    <desc>DoodleBob bites SpongeBob, transforming him into a WereDoodle; SpongeBob dresses up for Gorilla Suit Day and is mistaken for a real gorilla.</desc>
+  </programme>
+  <programme start="20261128060800 +0000" stop="20261128063400 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Yours, Mine and Mine; Kracked Krabs</sub-title>
+    <desc>SpongeBob and Patrick must learn to share a toy; SpongeBob and Mr. Krabs go to the Cheapest Crab Convention.</desc>
+    <episode-num system="xmltv_ns">132</episode-num>
+  </programme>
+  <programme start="20261128063400 +0000" stop="20261128070000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Delivery to Monster Island; Ride Patrick Ride</sub-title>
+    <desc>SpongeBob and Plankton must work together to survive an island of deadly monsters; SpongeBob teaches Patrick how to ride a bike.</desc>
+    <episode-num system="xmltv_ns">285</episode-num>
+  </programme>
+  <programme start="20261128070000 +0000" stop="20261128072500 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Welcome to the Chum Bucket; Frankendoodle</sub-title>
+    <desc>SpongeBob goes to work at the Chum Bucket; SpongeBob creates SpongeDoodle, who plays pranks on everyone, forcing SpongeBob to erase him.</desc>
+    <episode-num system="xmltv_ns">034</episode-num>
+  </programme>
+  <programme start="20261128072500 +0000" stop="20261128075000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Pablum Plankton; MuseBob ModelPants</sub-title>
+    <desc>Plankton wins the cutest baby contest and becomes the face of a baby food brand; when Squidward's one-off portrait of SpongeBob takes the art world by storm, he has no choice but to produce more.</desc>
+  </programme>
+  <programme start="20261128075000 +0000" stop="20261128081500 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>High Sea Diving; Bottle Burglars</sub-title>
+    <desc>SpongeBob wants to be the first sponge to dive all the way up to the surface of the ocean; when SpongeBob and Squidward accidentally let Plankton steal the secret formula, it is up to them to steal it back.</desc>
+    <episode-num system="xmltv_ns">230</episode-num>
+  </programme>
+  <programme start="20261128081500 +0000" stop="20261128083000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Eek, an Urchin!; Squid's Defense</sub-title>
+    <desc>SpongeBob finds a sea urchin living in the Krusty Krab; Squidward convinces SpongeBob and Sandy to teach him karate.</desc>
+    <episode-num system="xmltv_ns">183</episode-num>
+  </programme>
+  <programme start="20261128083000 +0000" stop="20261128085500 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Porous Pockets; Choir Boys</sub-title>
+    <desc>SpongeBob gains a lot of new friends when he becomes wealthy; Squidward tries to avoid SpongeBob while on his way to an audition for the Bikini Bottom Men's Chorus.</desc>
+    <episode-num system="xmltv_ns">112</episode-num>
+  </programme>
+  <programme start="20261128085500 +0000" stop="20261128092000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Friend or Foe</sub-title>
+    <desc>Mr. Krabs reveals that he and Plankton have not always been bitter enemies.</desc>
+    <episode-num system="xmltv_ns">081</episode-num>
+  </programme>
+  <programme start="20261128092000 +0000" stop="20261128094500 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Exchange Student Driver; The Kreepy Krab</sub-title>
+    <desc>Mrs. Puff sends SpongeBob far away to a driving school in Klopnod; Slappy brings his macabre sensibilities to the Krusty Krab when he's hired there as a server.</desc>
+  </programme>
+  <programme start="20261128094500 +0000" stop="20261128101000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Curse of Bikini Bottom; Squidward in Clarinetland</sub-title>
+    <desc>SpongeBob and Patrick are cursed when they anger the Flying Dutchman; Squidward and SpongeBob must share a locker.</desc>
+    <episode-num system="xmltv_ns">133</episode-num>
+  </programme>
+  <programme start="20261128101000 +0000" stop="20261128103500 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Hot Crossed Nuts; Sir Urchin and Snail Fail</sub-title>
+    <desc>Sandy's homemade snack becomes a big hit at the Krusty Krab; SpongeBob and Patrick's favorite comedy duo has a falling out on live television.</desc>
+    <episode-num system="xmltv_ns">286</episode-num>
+  </programme>
+  <programme start="20261128103500 +0000" stop="20261128110000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>My Leg!; Ink Lemonade</sub-title>
+    <desc>Once Fred's leg heals up, SpongeBob is determined to keep it out of harm's way; Patrick's lemonade stand is unsuccessful until he gets a secret ingredient from Squidward.</desc>
+    <episode-num system="xmltv_ns">231</episode-num>
+  </programme>
+  <programme start="20261128110000 +0000" stop="20261128112600 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Pigskin Pearl</sub-title>
+    <desc>Pearl becomes a star player after joining her high school football team.</desc>
+    <episode-num system="xmltv_ns">330</episode-num>
+  </programme>
+  <programme start="20261128112600 +0000" stop="20261128115200 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Kiss of the Nematode; Brainless Bawn</sub-title>
+    <desc>When SpongeBob unknowingly breaks a witch's curse, its victim insists on being cursed again; Larry begins to emulate Patrick when he finds out about his secret super strength.</desc>
+  </programme>
+  <programme start="20261128115200 +0000" stop="20261128121800 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Lady in the Lighthouse; Bitter Groans and Gardens</sub-title>
+    <desc>Squidward must figure out whodunit after a mysterious stranger vandalizes Mrs. Puff's Boating School; Squidward enters a gardening competition but struggles to keep up with SpongeBob's naturally green thumb.</desc>
+  </programme>
+  <programme start="20261128121800 +0000" stop="20261128124400 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Patchy the Pirate Presents the SpongeBob SquarePants Christmas Special</sub-title>
+    <desc>When Santa doesn't show up on Christmas morning, everyone in Bikini Bottom blames SpongeBob for getting their hopes up.</desc>
+    <episode-num system="xmltv_ns">028</episode-num>
+  </programme>
+  <programme start="20261128124400 +0000" stop="20261128131000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Night School Knuckleheads; Painfully Employed</sub-title>
+    <desc>At night school, SpongeBob and Patrick dive into a series of classes on wildly different subjects; Plankton hires Bubble Bass at the Chum Bucket and realizes he can utilize him to get his hands on a Krabby Patty.</desc>
+  </programme>
+  <programme start="20261128131000 +0000" stop="20261128133600 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Rock Bottom Games; Clicking With a Clique</sub-title>
+    <desc>SpongeBob and Patrick compete for a spot in Bubble Bass' nerd clique; Bikini Bottomites and Rock Bottomites battle it out in a series of silly sports.</desc>
+  </programme>
+  <programme start="20261128133600 +0000" stop="20261128140200 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Karate Pals</sub-title>
+    <desc>The friends become unstoppable after Sandy teaches them karate; before long, the entire town learns the martial art and joins the action.</desc>
+  </programme>
+  <programme start="20261128140200 +0000" stop="20261128142800 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Fry Cook and the Elves; It's About Mime</sub-title>
+    <desc>SpongeBob can't shake a group of elves who want to repay him for a good deed; a mime begins following (and imitating) SpongeBob, much to his annoyance.</desc>
+  </programme>
+  <programme start="20261128142800 +0000" stop="20261128145400 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Frozen Face Off</sub-title>
+    <desc>Everyone in Bikini Bottom competes in a worm-sled race to the South Pole.</desc>
+    <episode-num system="xmltv_ns">156</episode-num>
+  </programme>
+  <programme start="20261128145400 +0000" stop="20261128152000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Secret Box; Band Geeks</sub-title>
+    <desc>Not knowing the contents of Pat's secret box drives SpongeBob crazy; Squidward lies to an old rival about having a band.</desc>
+    <episode-num system="xmltv_ns">035</episode-num>
+  </programme>
+  <programme start="20261128152000 +0000" stop="20261128154600 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Jailbreak!; Evil Spatula</sub-title>
+    <desc>While in prison, Plankton teams up with his fellow inmates to break out of jail and steal the secret Krabby Patty formula; SpongeBob replaces his broken spatula with one from Plankton.</desc>
+    <episode-num system="xmltv_ns">184</episode-num>
+  </programme>
+  <programme start="20261128154600 +0000" stop="20261128161200 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Laundro-Madness; Hog Huntin</sub-title>
+    <desc>Squidward spends a day at the laundromat with his fellow Bikini Bottomites; SpongeBob and Patrick must track down Old Man Jenkins' prized worm hog.</desc>
+  </programme>
+  <programme start="20261128161200 +0000" stop="20261128163800 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>SpongeBob's Last Stand</sub-title>
+    <desc>SpongeBob and Patrick protest the construction of a highway that would destroy Jellyfish Fields.</desc>
+    <episode-num system="xmltv_ns">134</episode-num>
+  </programme>
+  <programme start="20261128163800 +0000" stop="20261128170400 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Friendiversary; Mandatory Music</sub-title>
+    <desc>SpongeBob celebrates the anniversary of his friendship with Squidward, but Squidward doesn't; Squidward's lack of talent lands him in a court ordered music class.</desc>
+    <episode-num system="xmltv_ns">287</episode-num>
+  </programme>
+  <programme start="20261128170400 +0000" stop="20261128173000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Sandy's Country Christmas</sub-title>
+    <desc>When one of Sandy's experiments goes awry, the Cheeks family team up to save Christmas in Bikini Bottom.</desc>
+  </programme>
+  <programme start="20261128173000 +0000" stop="20261128175600 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Who's Afraid of Mr. Snippers?; A Fish Called Sandy</sub-title>
+    <desc>Squidward and Plankton come together to make their very own stage play where SpongeBob is cast as the villain; Sandy decides to give herself gills so she can truly experience Bikini Bottom.</desc>
+  </programme>
+  <programme start="20261128175600 +0000" stop="20261128182200 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Mustard O' Mine; Shopping List</sub-title>
+    <desc>When the Krusty Krab runs out of mustard, Mr. Krabs sends SpongeBob, Patrick and Squidward to dig up some more; SpongeBob and Sandy have to collect Krabby Patty ingredients, but Plankton follows their every step.</desc>
+    <episode-num system="xmltv_ns">232</episode-num>
+  </programme>
+  <programme start="20261128182200 +0000" stop="20261128184800 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Laundro-Madness; Hog Huntin</sub-title>
+    <desc>Squidward spends a day at the laundromat with his fellow Bikini Bottomites; SpongeBob and Patrick must track down Old Man Jenkins' prized worm hog.</desc>
+  </programme>
+  <programme start="20261128184800 +0000" stop="20261128191400 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Goons on the Moon</sub-title>
+    <desc>Sandy leads the scouts through space for scientific exploration, where SpongeBob finds life exists in the form of a Krabby Patty, Sandy studies the moon's gravitational effect on nuts, and Squidward goes to the dark side.</desc>
+    <episode-num system="xmltv_ns">237</episode-num>
+  </programme>
+  <programme start="20261128191400 +0000" stop="20261128194000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Dear Vikings; Ditchin'</sub-title>
+    <desc>SpongeBob wants to learn about Vikings; SpongeBob leaves boating school to go to a book signing.</desc>
+    <episode-num system="xmltv_ns">114</episode-num>
+  </programme>
+  <programme start="20261128194000 +0000" stop="20261128200700 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Procrastination; I'm With Stupid</sub-title>
+    <desc>SpongeBob attempts to write an 800-word essay before morning; Patrick tries to impress his parents on Starfish Day.</desc>
+    <episode-num system="xmltv_ns">037</episode-num>
+  </programme>
+  <programme start="20261128200700 +0000" stop="20261128203300 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>SpongeBob TrashPants; Krusty Kafeteria</sub-title>
+    <desc>SpongeBob decides to clean up Bikini Bottom; the Krusty Crew take on cafeteria duty at Pearl's school.</desc>
+    <episode-num system="xmltv_ns">326</episode-num>
+  </programme>
+  <programme start="20261128203300 +0000" stop="20261128205900 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>SpongeBob vs. the Goo</sub-title>
+    <desc>A giant purple ball of goo rises from the deep and threatens to release its toxic, gooey wrath all over the city.</desc>
+    <episode-num system="xmltv_ns">185</episode-num>
+  </programme>
+  <programme start="20261128205900 +0000" stop="20261128212500 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Whale Watching; Krusty Kleaners</sub-title>
+    <desc>Mr. Krabs hires Squidward to babysit Pearl for the night, but she just wants to sneak out to a cool teen party; after spilling a milkshake during a delivery, SpongeBob vows to return and clean the entire building.</desc>
+    <episode-num system="xmltv_ns">233</episode-num>
+  </programme>
+  <programme start="20261128212500 +0000" stop="20261128215100 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Rise and Shine &amp;amp; Waiting; Fungus Among Us</sub-title>
+    <desc>SpongeBob sends away for a free toy; SpongeBob comes down with a case of contagious sea fungus.</desc>
+    <episode-num system="xmltv_ns">083</episode-num>
+  </programme>
+  <programme start="20261128215100 +0000" stop="20261128221700 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>SpongeBob's Road to Christmas</sub-title>
+    <desc>SpongeBob and his pals journey to the North Pole to give Santa a present.</desc>
+    <episode-num system="xmltv_ns">272</episode-num>
+  </programme>
+  <programme start="20261128221700 +0000" stop="20261128224300 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Grandpappy the Pirate; Cephalopod Lodge</sub-title>
+    <desc>Mr. Krabs must pretend that he is a pirate when his grandfather comes to visit; SpongeBob discovers that Squidward is a member of a secret society and decides that he wants to join.</desc>
+    <episode-num system="xmltv_ns">115</episode-num>
+  </programme>
+  <programme start="20261128224300 +0000" stop="20261128231000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>A Day Without Tears; Summer Job</sub-title>
+    <desc>Squidward bets that SpongeBob can not go one day without crying; Mrs. Puff must work at the Krusty Krab over her summer break.</desc>
+    <episode-num system="xmltv_ns">136</episode-num>
+  </programme>
+  <programme start="20261128231000 +0000" stop="20261128233600 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Heart of Garbage; Near-Mint Plankton</sub-title>
+    <desc>SpongeBob and Patrick must search for Squidward after the inside of his home turns into a vast garbage jungle; in his latest secret formula scheme, Plankton disguises himself as a collectible figurine and winds up trapped in.</desc>
+    <episode-num system="xmltv_ns">328</episode-num>
+  </programme>
+  <programme start="20261128233600 +0000" stop="20261129000200 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Pardon My Wand; Stupor-stition</sub-title>
+    <desc>SpongeBob obtains a magician's wand and accidentally causes magical mayhem wherever he goes; on Friday the 13th, Mr. Krabs' extreme superstitions become a disruption for everyone around him.</desc>
+    <episode-num system="xmltv_ns">329</episode-num>
+  </programme>
+  <programme start="20261129002900 +0000" stop="20261129005500 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>It's a SpongeBob Christmas!</sub-title>
+    <desc>SpongeBob inadvertently helps Plankton get all the citizens of Bikini Bottom on Santa's naughty list.</desc>
+    <episode-num system="xmltv_ns">175</episode-num>
+  </programme>
+  <programme start="20261129005500 +0000" stop="20261129012100 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Safe Deposit Krabs; Plankton's Pet</sub-title>
+    <desc>SpongeBob and Patrick must save Mr. Krabs when he gets trapped in the bank; Plankton gets a pet to cheer himself up after failing to steal the Krabby Patty recipe.</desc>
+    <episode-num system="xmltv_ns">186</episode-num>
+  </programme>
+  <programme start="20261129012100 +0000" stop="20261129014700 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Survival of the Idiots; Dumped</sub-title>
+    <desc>SpongeBob and Patrick sneak into the Treedome; Gary follows Patrick around, and SpongeBob becomes jealous.</desc>
+    <episode-num system="xmltv_ns">029</episode-num>
+  </programme>
+  <programme start="20261129014700 +0000" stop="20261129021300 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Spy Buddies; Boat Smarts; Good Ol' Whathisname</sub-title>
+    <desc>Mr. Krabs sends SpongeBob and Patrick to spy on Plankton; Squidward and SpongeBob make an instructional video on boating techniques; Mr. Krabs holds a contest.</desc>
+    <episode-num system="xmltv_ns">084</episode-num>
+  </programme>
+  <programme start="20261129021300 +0000" stop="20261129024000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Squid's Visit; To SquarePants or Not to SquarePants</sub-title>
+    <desc>SpongeBob tries to find a way to get Squidward to visit him at his home; SpongeBob must search for a new pair of pants after his square pants shrink in the dryer.</desc>
+    <episode-num system="xmltv_ns">116</episode-num>
+  </programme>
+  <programme start="20261129024000 +0000" stop="20261129030600 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>One Coarse Meal; Gary in Love</sub-title>
+    <desc>Mr. Krabs discovers that Plankton is afraid of whales; Gary falls in love with a snail named Mary.</desc>
+    <episode-num system="xmltv_ns">137</episode-num>
+  </programme>
+  <programme start="20261129030600 +0000" stop="20261129033200 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Making Waves; Captain Quasar: The Next Generation</sub-title>
+    <desc>Mr. Krabs and Plankton must learn to get along after ending up shipwrecked on an island; SpongeBob and Squidina try to start their very own Captain Quasar fan club after being kicked out of Bubble Bass's.</desc>
+  </programme>
+  <programme start="20261129033200 +0000" stop="20261129035800 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Growth Spout; Stuck in the Wringer</sub-title>
+    <desc>Pearl's growing appetite leads Mr. Krabs to sneak into his friends' houses to find some free food; SpongeBob gets stuck in his wringer after showering.</desc>
+    <episode-num system="xmltv_ns">128</episode-num>
+  </programme>
+  <programme start="20261129035800 +0000" stop="20261129042400 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Pigskin Pearl</sub-title>
+    <desc>Pearl becomes a star player after joining her high school football team.</desc>
+    <episode-num system="xmltv_ns">330</episode-num>
+  </programme>
+  <programme start="20261129042400 +0000" stop="20261129045000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Plankton's Old Chum; Stormy Weather</sub-title>
+    <desc>The place where Plankton usually dumps his rotten chum is too full, so he tricks SpongeBob into hiding it around the city; SpongeBob befriends a small storm cloud but has to protect it from a crazed weatherman.</desc>
+    <episode-num system="xmltv_ns">246</episode-num>
+  </programme>
+  <programme start="20261129045000 +0000" stop="20261129051600 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Kenny the Cat; Yeti Krabs</sub-title>
+    <desc>SpongeBob is desperate to meet his newest hero, Kenny the Cat; Mr. Krabs tries to scare Squidward into working harder.</desc>
+    <episode-num system="xmltv_ns">188</episode-num>
+  </programme>
+  <programme start="20261129051600 +0000" stop="20261129054200 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Spatula of the Heavens; Gary's Playhouse</sub-title>
+    <desc>SpongeBob embarks on an epic journey to have his beloved spatula reforged by the legendary Guru Greasetrap; SpongeBob builds a snail-house outside for Gary to play in while he is at work.</desc>
+    <episode-num system="xmltv_ns">290</episode-num>
+  </programme>
+  <programme start="20261129054200 +0000" stop="20261129060800 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>New Digs; Krabs a la Mode</sub-title>
+    <desc>After arriving one minute late for work, SpongeBob decides to move into the Krusty Krab so that he will never be late again; when Plankton secretly turns down the thermostat at the Krusty Krab the entire restaurant freezes over.</desc>
+    <episode-num system="xmltv_ns">085</episode-num>
+  </programme>
+  <programme start="20261129060800 +0000" stop="20261129063400 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Shuffle-Boarding; Professor Squidward</sub-title>
+    <desc>SpongeBob and Patrick dress up as Mermaid Man and Barnacle Boy to attend a shuffleboard tournament in their place; Squidward is mistaken for his rival Squilliam and is invited to teach a class at a prestigious music school.</desc>
+    <episode-num system="xmltv_ns">117</episode-num>
+  </programme>
+  <programme start="20261129063400 +0000" stop="20261129070000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Patchy the Pirate Presents the SpongeBob SquarePants Christmas Special</sub-title>
+    <desc>When Santa doesn't show up on Christmas morning, everyone in Bikini Bottom blames SpongeBob for getting their hopes up.</desc>
+    <episode-num system="xmltv_ns">028</episode-num>
+  </programme>
+  <programme start="20261129070000 +0000" stop="20261129072500 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Green Tentacle; Happy Krabby Birthday</sub-title>
+    <desc>Sandy seeks Squidward's help to heal her sick tree, but his alternative gardening methods give her a headache; SpongeBob and Squidward search for the perfect birthday present for Mr. Krabs.</desc>
+  </programme>
+  <programme start="20261129072500 +0000" stop="20261129075000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Bizarro Bottom; Squidward's Tough Break</sub-title>
+    <desc>SpongeBob falls asleep on the bus and ends up in a town full of Bikini Bottom doppelgängers; after Squidward loses his memory, he adopts a new tough guy persona.</desc>
+  </programme>
+  <programme start="20261129075000 +0000" stop="20261129081500 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Sandy, SpongeBob, and the Worm; Squid on Strike</sub-title>
+    <desc>Squidward gets SpongeBob fired; Sandy and SpongeBob encounter a ferocious worm.</desc>
+    <episode-num system="xmltv_ns">040</episode-num>
+  </programme>
+  <programme start="20261129081500 +0000" stop="20261129083000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Call the Cops; Surf N' Turf</sub-title>
+    <desc>Plankton goes to jail, but the secret formula is taken as evidence, so SpongeBob and Mr. Krabs plot to get it back; Sandy struggles to build a ship-in-a-bottle before a big contest, so SpongeBob calls in a little extra help.</desc>
+    <episode-num system="xmltv_ns">236</episode-num>
+  </programme>
+  <programme start="20261129083000 +0000" stop="20261129085500 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>SpongeBob, You're Fired!</sub-title>
+    <desc>Mr. Krabs fires SpongeBob to save money; SpongeBob tries to get back to work.</desc>
+    <episode-num system="xmltv_ns">189</episode-num>
+  </programme>
+  <programme start="20261129085500 +0000" stop="20261129092000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Snowball Effect; One Krab's Trash</sub-title>
+    <desc>SpongeBob and Patrick throw snowballs at Squidward; Mr. Krabs has a garage sale.</desc>
+    <episode-num system="xmltv_ns">046</episode-num>
+  </programme>
+  <programme start="20261129092000 +0000" stop="20261129094500 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Roller Cowards; Bucket Sweet Bucket</sub-title>
+    <desc>SpongeBob and Patrick fear the new roller coaster at Bikini Bottom's amusement park; Plankton tricks SpongeBob, Patrick and Squidward into fixing up the Chum Bucket.</desc>
+    <episode-num system="xmltv_ns">086</episode-num>
+  </programme>
+  <programme start="20261129094500 +0000" stop="20261129101000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Pets or Pests; Komputer Overload</sub-title>
+    <desc>SpongeBob adopts a stray worm who gives birth to worm babies overnight; Plankton tries to replace Karen with some new computer inventions.</desc>
+    <episode-num system="xmltv_ns">118</episode-num>
+  </programme>
+  <programme start="20261129101000 +0000" stop="20261129103500 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Gramma's Secret Recipe; The Cent of Money</sub-title>
+    <desc>Plankton disguises himself as SpongeBob's grandmother; Mr. Krabs uses Gary to find spare change.</desc>
+    <episode-num system="xmltv_ns">139</episode-num>
+  </programme>
+  <programme start="20261129103500 +0000" stop="20261129110000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Karate Pals</sub-title>
+    <desc>The friends become unstoppable after Sandy teaches them karate; before long, the entire town learns the martial art and joins the action.</desc>
+  </programme>
+  <programme start="20261129110000 +0000" stop="20261129112600 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Snowball Effect; One Krab's Trash</sub-title>
+    <desc>SpongeBob and Patrick throw snowballs at Squidward; Mr. Krabs has a garage sale.</desc>
+    <episode-num system="xmltv_ns">046</episode-num>
+  </programme>
+  <programme start="20261129112600 +0000" stop="20261129115200 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Goons on the Moon</sub-title>
+    <desc>Sandy leads the scouts through space for scientific exploration, where SpongeBob finds life exists in the form of a Krabby Patty, Sandy studies the moon's gravitational effect on nuts, and Squidward goes to the dark side.</desc>
+    <episode-num system="xmltv_ns">237</episode-num>
+  </programme>
+  <programme start="20261129115200 +0000" stop="20261129121800 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Tutor Sauce; Lost in Bikini Bottom</sub-title>
+    <desc>When SpongeBob fails his driver's test again, Mr. Krabs decides to teach him how to drive; SpongeBob gets lost while trying to take a shortcut to work.</desc>
+    <episode-num system="xmltv_ns">190</episode-num>
+  </programme>
+  <programme start="20261129121800 +0000" stop="20261129124400 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Curse of the WereDoodle; Gorilla Suit Day</sub-title>
+    <desc>DoodleBob bites SpongeBob, transforming him into a WereDoodle; SpongeBob dresses up for Gorilla Suit Day and is mistaken for a real gorilla.</desc>
+  </programme>
+  <programme start="20261129124400 +0000" stop="20261129131000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>To Love a Patty; Breath of a Fresh Squidward</sub-title>
+    <desc>SpongeBob has trouble letting go of a perfect Krabby Patty; Squidward's personality changes when his security fence electrocutes him.</desc>
+    <episode-num system="xmltv_ns">087</episode-num>
+  </programme>
+  <programme start="20261129131000 +0000" stop="20261129133600 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Growth Spout; Stuck in the Wringer</sub-title>
+    <desc>Pearl's growing appetite leads Mr. Krabs to sneak into his friends' houses to find some free food; SpongeBob gets stuck in his wringer after showering.</desc>
+    <episode-num system="xmltv_ns">128</episode-num>
+  </programme>
+  <programme start="20261129133600 +0000" stop="20261129140200 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Nerds; The SquarePants Method</sub-title>
+    <desc>When Squidward sets out to prove that anyone can write a comic book, his work garners an obsessed fan base; an actor shadows SpongeBob in preparation for his next big movie, but his dedication to the role becomes a headache for SpongeBob.</desc>
+  </programme>
+  <programme start="20261129140200 +0000" stop="20261129142800 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Gullible Pants; Overbooked</sub-title>
+    <desc>SpongeBob is determined to do a great job when he is left in charge of the Krusty Krab for a few minutes; SpongeBob is determined to do everything on his schedule for the day.</desc>
+    <episode-num system="xmltv_ns">119</episode-num>
+  </programme>
+  <programme start="20261129142800 +0000" stop="20261129145400 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Appointment TV; Karen's Virus</sub-title>
+    <desc>The long-lost episode of </desc>
+    <episode-num system="xmltv_ns">238</episode-num>
+  </programme>
+  <programme start="20261129145400 +0000" stop="20261129152000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>It's a SpongeBob Christmas!</sub-title>
+    <desc>SpongeBob inadvertently helps Plankton get all the citizens of Bikini Bottom on Santa's naughty list.</desc>
+    <episode-num system="xmltv_ns">175</episode-num>
+  </programme>
+  <programme start="20261129152000 +0000" stop="20261129154600 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Nerds; The SquarePants Method</sub-title>
+    <desc>When Squidward sets out to prove that anyone can write a comic book, his work garners an obsessed fan base; an actor shadows SpongeBob in preparation for his next big movie, but his dedication to the role becomes a headache for SpongeBob.</desc>
+  </programme>
+  <programme start="20261129154600 +0000" stop="20261129161200 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Squid Plus One; The Executive Treatment</sub-title>
+    <desc>Squidward receives an invitation to a gallery opening and scrambles to find a friend to take with him; while trying to order a special sandwich, Patrick gets swept up in the fast-paced world of business.</desc>
+    <episode-num system="xmltv_ns">191</episode-num>
+  </programme>
+  <programme start="20261129161200 +0000" stop="20261129163800 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Kiss of the Nematode; Brainless Bawn</sub-title>
+    <desc>When SpongeBob unknowingly breaks a witch's curse, its victim insists on being cursed again; Larry begins to emulate Patrick when he finds out about his secret super strength.</desc>
+  </programme>
+  <programme start="20261129163800 +0000" stop="20261129170400 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Money Talks; SpongeBob vs. the Patty Gadget; Slimy Dancing</sub-title>
+    <desc>Mr. Krabs makes a wish that he could talk to money; SpongeBob competes against a patty-making machine; Squidward trains SpongeBob for a dance contest.</desc>
+    <episode-num system="xmltv_ns">088</episode-num>
+  </programme>
+  <programme start="20261129170400 +0000" stop="20261129173000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Big Top Flop; Sandy, Help Us!</sub-title>
+    <desc>When the circus comes to town and steals his customers away, Mr. Krabs tries to sabotage the show; Sandy spends the day solving everyone's issues, only to return home to her own monster of a problem.</desc>
+    <episode-num system="xmltv_ns">293</episode-num>
+  </programme>
+  <programme start="20261129173000 +0000" stop="20261129175600 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Getaway; Lost and Found</sub-title>
+    <desc>When SpongeBob mistakes an escaped convict for his driving instructor, it is the new teacher who learns a lesson; Mr. Krabs sends SpongeBob in search of a missing toy, and SpongeBob finds himself lost in the lost-and-found.</desc>
+    <episode-num system="xmltv_ns">213</episode-num>
+  </programme>
+  <programme start="20261129175600 +0000" stop="20261129182200 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>SpongeBob's Road to Christmas</sub-title>
+    <desc>SpongeBob and his pals journey to the North Pole to give Santa a present.</desc>
+    <episode-num system="xmltv_ns">272</episode-num>
+  </programme>
+  <programme start="20261129182200 +0000" stop="20261129184800 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Bully; Just One Bite</sub-title>
+    <desc>SpongeBob discovers that Squidward has never actually tried a Krabby patty; a bully threatens SpongeBob.</desc>
+    <episode-num system="xmltv_ns">043</episode-num>
+  </programme>
+  <programme start="20261129184800 +0000" stop="20261129191400 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>No Hat for Pat; Toy Store of Doom</sub-title>
+    <desc>Mr. Krabs offers Patrick a job holding a sign at the Krusty Krab; SpongeBob and Patrick are accidentally locked in a toy store after it closes.</desc>
+    <episode-num system="xmltv_ns">120</episode-num>
+  </programme>
+  <programme start="20261129191400 +0000" stop="20261129194000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Company Picnic; Pull Up a Barrel</sub-title>
+    <desc>Mr. Krabs throws a company picnic to boost morale, but Plankton hosts his own picnic on the same day; Mr. Krabs tells SpongeBob tales from his old navy days.</desc>
+    <episode-num system="xmltv_ns">192</episode-num>
+  </programme>
+  <programme start="20261129194000 +0000" stop="20261129200700 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Exchange Student Driver; The Kreepy Krab</sub-title>
+    <desc>Mrs. Puff sends SpongeBob far away to a driving school in Klopnod; Slappy brings his macabre sensibilities to the Krusty Krab when he's hired there as a server.</desc>
+  </programme>
+  <programme start="20261129200700 +0000" stop="20261129203300 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Single-Celled Defense; Buff for Puff</sub-title>
+    <desc>Plankton takes self-defense lessons from Sandy; Mr. Krabs hits the gym after a beach challenge from Larry.</desc>
+    <episode-num system="xmltv_ns">294</episode-num>
+  </programme>
+  <programme start="20261129203300 +0000" stop="20261129205900 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Patchy the Pirate Presents the SpongeBob SquarePants Christmas Special</sub-title>
+    <desc>When Santa doesn't show up on Christmas morning, everyone in Bikini Bottom blames SpongeBob for getting their hopes up.</desc>
+    <episode-num system="xmltv_ns">028</episode-num>
+  </programme>
+  <programme start="20261129205900 +0000" stop="20261129212500 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Squirrel Jelly; The String</sub-title>
+    <desc>SpongeBob and Patrick have their peaceful day of jelly fishing disturbed by Sandy's competitive nature; SpongeBob pulls from Squidward's shirt a loose string that never seems to end.</desc>
+    <episode-num system="xmltv_ns">241</episode-num>
+  </programme>
+  <programme start="20261129212500 +0000" stop="20261129215100 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Great Patty Caper</sub-title>
+    <desc>When the key to the vault holding the Krabby Patty recipe is lost, SpongeBob must locate it before the recipe is lost forever.</desc>
+    <episode-num system="xmltv_ns">143</episode-num>
+  </programme>
+  <programme start="20261129215100 +0000" stop="20261129221700 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Chum Bucket Supreme; Single Cell Anniversary</sub-title>
+    <desc>Plankton hires Patrick to create advertising slogans for the Chum Bucket; SpongeBob helps Plankton find the perfect anniversary gift for Karen.</desc>
+    <episode-num system="xmltv_ns">122</episode-num>
+  </programme>
+  <programme start="20261129221700 +0000" stop="20261129224300 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Nasty Patty; The Idiot Box</sub-title>
+    <desc>Mr. Krabs and SpongeBob hide the health inspector's body; SpongeBob and Patrick throw out their new TV and keep the box.</desc>
+    <episode-num system="xmltv_ns">044</episode-num>
+  </programme>
+  <programme start="20261129224300 +0000" stop="20261129231000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Home Away From Home; SpongeBob SpareParts</sub-title>
+    <desc>The houses on Conch Street come alive and go on an adventure to save Patrick's rock; Sandy upgrades SpongeBob with robotic parts after he injures his patty flipping arm.</desc>
+  </programme>
+  <programme start="20261129231000 +0000" stop="20261129233600 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Frozen Face Off</sub-title>
+    <desc>Everyone in Bikini Bottom competes in a worm-sled race to the South Pole.</desc>
+    <episode-num system="xmltv_ns">156</episode-num>
+  </programme>
+  <programme start="20261129233600 +0000" stop="20261130000200 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Laundro-Madness; Hog Huntin</sub-title>
+    <desc>Squidward spends a day at the laundromat with his fellow Bikini Bottomites; SpongeBob and Patrick must track down Old Man Jenkins' prized worm hog.</desc>
+  </programme>
+  <programme start="20261130000200 +0000" stop="20261130002900 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>It's a SpongeBob Christmas!</sub-title>
+    <desc>SpongeBob inadvertently helps Plankton get all the citizens of Bikini Bottom on Santa's naughty list.</desc>
+    <episode-num system="xmltv_ns">175</episode-num>
+  </programme>
+  <programme start="20261130002900 +0000" stop="20261130005500 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Goons on the Moon</sub-title>
+    <desc>Sandy leads the scouts through space for scientific exploration, where SpongeBob finds life exists in the form of a Krabby Patty, Sandy studies the moon's gravitational effect on nuts, and Squidward goes to the dark side.</desc>
+    <episode-num system="xmltv_ns">237</episode-num>
+  </programme>
+  <programme start="20261130005500 +0000" stop="20261130012100 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>We Heart Hoops; SpongeChovy</sub-title>
+    <desc>SpongeBob and Patrick discover a surprising link to their favorite Kelpbed Kid; chaos ensues as everyone in Bikini Bottom starts meeping.</desc>
+    <episode-num system="xmltv_ns">295</episode-num>
+  </programme>
+  <programme start="20261130012100 +0000" stop="20261130014700 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Frozen Face Off</sub-title>
+    <desc>Everyone in Bikini Bottom competes in a worm-sled race to the South Pole.</desc>
+    <episode-num system="xmltv_ns">156</episode-num>
+  </programme>
+  <programme start="20261130014700 +0000" stop="20261130021300 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Pineapple Fever; Chum Caverns</sub-title>
+    <desc>Squidward is stuck indoors with SpongeBob and Patrick during a storm; Plankton creates an underground restaurant that threatens to put the Krusty Krab out of business.</desc>
+    <episode-num system="xmltv_ns">125</episode-num>
+  </programme>
+  <programme start="20261130021300 +0000" stop="20261130024000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Lady in the Lighthouse; Bitter Groans and Gardens</sub-title>
+    <desc>Squidward must figure out whodunit after a mysterious stranger vandalizes Mrs. Puff's Boating School; Squidward enters a gardening competition but struggles to keep up with SpongeBob's naturally green thumb.</desc>
+  </programme>
+  <programme start="20261130024000 +0000" stop="20261130030600 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Snowball Effect; One Krab's Trash</sub-title>
+    <desc>SpongeBob and Patrick throw snowballs at Squidward; Mr. Krabs has a garage sale.</desc>
+    <episode-num system="xmltv_ns">046</episode-num>
+  </programme>
+  <programme start="20261130030600 +0000" stop="20261130033200 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Nitwitting; The Ballad of Filthy Muck</sub-title>
+    <desc>Patrick inducts SpongeBob into his prestigious society of dullards and doofuses; Patrick takes his grime to a new extreme, playing around in so much trash that he becomes unrecognizable.</desc>
+    <episode-num system="xmltv_ns">243</episode-num>
+  </programme>
+  <programme start="20261130033200 +0000" stop="20261130035800 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Patrick! the Game; The Sewers of Bikini Bottom</sub-title>
+    <desc>Patrick invents a new board game and invites SpongeBob, Sandy and Squidward to play it with him; after accidentally flushing Mr. Krabs' safe, SpongeBob and Squidward must go into the sewers to find it.</desc>
+    <episode-num system="xmltv_ns">194</episode-num>
+  </programme>
+  <programme start="20261130035800 +0000" stop="20261130042400 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Buried in Time; Enchanted Tiki Dreams</sub-title>
+    <desc>SpongeBob, Patrick and Squidward are locked in a time capsule; SpongeBob and Patrick build a dream world for Squidward.</desc>
+    <episode-num system="xmltv_ns">145</episode-num>
+  </programme>
+  <programme start="20261130042400 +0000" stop="20261130045000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Clash of Triton</sub-title>
+    <desc>SpongeBob and his friends prepare for King Neptune's birthday party at the Krusty Krab.</desc>
+    <episode-num system="xmltv_ns">126</episode-num>
+  </programme>
+  <programme start="20261130045000 +0000" stop="20261130051600 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Goo Goo Gas; Le Big Switch</sub-title>
+    <desc>Plankton creates a gas that turns everyone at the Krusty Krab into babies; SpongeBob trades places with a French chef from a fancy restaurant.</desc>
+    <episode-num system="xmltv_ns">091</episode-num>
+  </programme>
+  <programme start="20261130051600 +0000" stop="20261130054200 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Growth Spout; Stuck in the Wringer</sub-title>
+    <desc>Pearl's growing appetite leads Mr. Krabs to sneak into his friends' houses to find some free food; SpongeBob gets stuck in his wringer after showering.</desc>
+    <episode-num system="xmltv_ns">128</episode-num>
+  </programme>
+  <programme start="20261130054200 +0000" stop="20261130060800 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>SpongeBob LongPants; Larry's Gym</sub-title>
+    <desc>When SpongeBob gets a pair of long pants, they change his life in unexpected ways; when Larry the Lobster opens a new gym in Bikini Bottom, SpongeBob becomes his best customer.</desc>
+    <episode-num system="xmltv_ns">195</episode-num>
+  </programme>
+  <programme start="20261130060800 +0000" stop="20261130063400 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Tentacle Vision; I Heart Dancing</sub-title>
+    <desc>Squidward gets his own public access television show; Squidward becomes jealous of SpongeBob and tries to sabotage his dance audition.</desc>
+    <episode-num system="xmltv_ns">127</episode-num>
+  </programme>
+  <programme start="20261130063400 +0000" stop="20261130070000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>As Seen on TV; Can You Spare a Dime</sub-title>
+    <desc>Stardom goes to SpongeBob's head after he appears in Krabs' low-budget commercial; Squidward becomes impoverished.</desc>
+    <episode-num system="xmltv_ns">047</episode-num>
+  </programme>
+  <programme start="20261130070000 +0000" stop="20261130072500 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Krusty Slammer; Pineapple RV</sub-title>
+    <desc>Mr. Krabs turns the Krusty Krab into a jailhouse after Plankton breaks the law; SpongeBob and Patrick turn the pineapple into a mobile home to take Squidward on the road trip he deserves.</desc>
+    <episode-num system="xmltv_ns">244</episode-num>
+  </programme>
+  <programme start="20261130072500 +0000" stop="20261130075000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>SpongeBob TrashPants; Krusty Kafeteria</sub-title>
+    <desc>SpongeBob decides to clean up Bikini Bottom; the Krusty Crew take on cafeteria duty at Pearl's school.</desc>
+    <episode-num system="xmltv_ns">326</episode-num>
+  </programme>
+  <programme start="20261130075000 +0000" stop="20261130081500 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Survival of the Idiots; Dumped</sub-title>
+    <desc>SpongeBob and Patrick sneak into the Treedome; Gary follows Patrick around, and SpongeBob becomes jealous.</desc>
+    <episode-num system="xmltv_ns">029</episode-num>
+  </programme>
+  <programme start="20261130081500 +0000" stop="20261130083000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Blood Is Thicker Than Grease; Don't Make Me Laugh</sub-title>
+    <desc>Plankton's family open their own restaurant directly next to the Chum Bucket; SpongeBob suddenly finds everything funny, much to everyone's annoyance.</desc>
+    <episode-num system="xmltv_ns">297</episode-num>
+  </programme>
+  <programme start="20261130083000 +0000" stop="20261130085500 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Picture Day; Pat No Pay; Blackjack</sub-title>
+    <desc>SpongeBob tries to stay clean for picture day at school; Mr. Krabs puts Patrick to work at the Krusty Krab; SpongeBob's parents are missing.</desc>
+    <episode-num system="xmltv_ns">093</episode-num>
+  </programme>
+  <programme start="20261130085500 +0000" stop="20261130092000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>The Fishbowl; Married to Money</sub-title>
+    <desc>When Sandy tries to study SpongeBob and Patrick's behavioral patterns, her science experiment goes awry; after following Plankton's advice, Mr. Krabs decides to marry the only thing he has ever loved - money.</desc>
+    <episode-num system="xmltv_ns">196</episode-num>
+  </programme>
+  <programme start="20261130092000 +0000" stop="20261130094500 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Growth Spout; Stuck in the Wringer</sub-title>
+    <desc>Pearl's growing appetite leads Mr. Krabs to sneak into his friends' houses to find some free food; SpongeBob gets stuck in his wringer after showering.</desc>
+    <episode-num system="xmltv_ns">128</episode-num>
+  </programme>
+  <programme start="20261130094500 +0000" stop="20261130101000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>No Weenies Allowed; Squilliam Returns</sub-title>
+    <desc>SpongeBob tries to convince a bouncer that he is tough enough for the Salty Spitoon; Squidward's archenemy returns.</desc>
+    <episode-num system="xmltv_ns">048</episode-num>
+  </programme>
+  <programme start="20261130101000 +0000" stop="20261130103500 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Gary's Got Legs; King Plankton</sub-title>
+    <desc>Gary is given a set of limbs to keep up with SpongeBob, but soon makes his owner look sluggish; Plankton practices ruling the world by shrinking himself and declaring himself king of SpongeBob's aquarium.</desc>
+    <episode-num system="xmltv_ns">245</episode-num>
+  </programme>
+  <programme start="20261130103500 +0000" stop="20261130110000 +0000" channel="nicktoons-east">
+    <title>SpongeBob SquarePants</title>
+    <sub-title>Shellback Shenanigans; Hide and Then What Happens?</sub-title>
+    <desc>Plankton masquerades as Gary to steal the Krabby Patty formula; SpongeBob and Patrick play hide and seek.</desc>
+    <episode-num system="xmltv_ns">147</episode-num>
+  </programme>
+</tv>

@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="teen-nick">
+    <display-name>Teen Nick</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59036_h15_ac.png"/>
+  </channel>
+  <programme start="20261127110000 +0000" stop="20261127112700 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Bummer Camp; Sleepstakes</sub-title>
+    <desc>When Gramps struggles to run Camp Mastodon, the kids come to his rescue; the Loud kids help Lana get over her fear of sleepovers.</desc>
+    <episode-num system="xmltv_ns">610</episode-num>
+  </programme>
+  <programme start="20261127112700 +0000" stop="20261127115400 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Cover Girls; Save the Date</sub-title>
+    <desc>Lincoln has his hands full when all 10 of his sisters ask him to cover for them on the same day; Bobby and Lori go on a double date with Lincoln and Bobby's little sister, Ronnie Anne.</desc>
+    <episode-num system="xmltv_ns">115</episode-num>
+  </programme>
+  <programme start="20261127115400 +0000" stop="20261127122100 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>The Loud House Thanksgiving Special</sub-title>
+    <desc>Lincoln and Clyde help each other plan the perfect Thanksgiving dinner, from prepping and cooking to eating and enjoying.</desc>
+    <episode-num system="xmltv_ns">791</episode-num>
+  </programme>
+  <programme start="20261127122100 +0000" stop="20261127124800 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Along Came a Sister; Chore and Peace</sub-title>
+    <desc>Lincoln must care for the class tarantula; Lincoln decides to go on strike until someone will swap chores.</desc>
+    <episode-num system="xmltv_ns">112</episode-num>
+  </programme>
+  <programme start="20261127124800 +0000" stop="20261127131500 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Driving Miss Hazy; No Guts, No Glori</sub-title>
+    <desc>Finally tired of doing favors for Lori to get rides, Lincoln decides to help Leni pass her driver's test; Lincoln and nine of his sisters work as a team to thwart the tyranny they face with Lori as their babysitter.</desc>
+    <episode-num system="xmltv_ns">103</episode-num>
+  </programme>
+  <programme start="20261127131500 +0000" stop="20261127134200 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Linc or Swim; Changing the Baby</sub-title>
+    <desc>All ten of Lincoln's sisters want to use the new kiddie pool he has purchased, but it is not large enough for all of them; after noticing that none of his sisters share his interests, Lincoln tries to mold Lily into his mini-me.</desc>
+    <episode-num system="xmltv_ns">108</episode-num>
+  </programme>
+  <programme start="20261127134200 +0000" stop="20261127140800 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Time Trap!</sub-title>
+    <desc>When the kids break Mom and Dad's priceless vase, they decide the only thing to do is go back in time to their wedding day and prevent them from ever receiving it.</desc>
+    <episode-num system="xmltv_ns">612</episode-num>
+  </programme>
+  <programme start="20261127140800 +0000" stop="20261127143500 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Save Royal Woods!</sub-title>
+    <desc>When Royal Woods is in danger of being flooded to make room for a sixth Great Lake, the town comes together to prove that they're worth saving.</desc>
+    <episode-num system="xmltv_ns">604</episode-num>
+  </programme>
+  <programme start="20261127143500 +0000" stop="20261127150200 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>The Loudest Thanksgiving</sub-title>
+    <desc>Faced with spending Thanksgiving apart, Lori and Bobby try to bring their crazy families together for the first time.</desc>
+    <episode-num system="xmltv_ns">321</episode-num>
+  </programme>
+  <programme start="20261127150200 +0000" stop="20261127152800 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Snow Way Out; Snow Way Down</sub-title>
+    <desc>Lana convinces the children to go to the Burpin' Burger to meet her racecar driving hero despite the heavy snowfall; when Lincoln goes on vacation with Clyde, he realizes how overprotective Clyde's parents are.</desc>
+    <episode-num system="xmltv_ns">226</episode-num>
+  </programme>
+  <programme start="20261127152800 +0000" stop="20261127155500 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Washed Up; Recipe for Disaster</sub-title>
+    <desc>The Louds rent a boat for a relaxing day trip on the lake, but the family ends up marooned on a desert island; Lincoln and Clyde, as Ace and Jack, investigate when they discover a frozen food company is using Dad's recipes.</desc>
+    <episode-num system="xmltv_ns">406</episode-num>
+  </programme>
+  <programme start="20261127155500 +0000" stop="20261127173300 +0000" channel="teen-nick">
+    <title>Movie</title>
+    <sub-title>Shrek 2</sub-title>
+    <desc>After returning from their honeymoon and showing home movies to their friends, Shrek and Fiona learn that her parents have heard that she has married her true love and wish to invite him to their kingdom, called Far Far Away.</desc>
+  </programme>
+  <programme start="20261127173300 +0000" stop="20261127180000 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Double-O Danger</sub-title>
+    <desc>Kid Danger and Captain Man attempt to capture mob boss Rob Moss by infiltrating his daughter's Sweet 16 birthday party.</desc>
+    <episode-num system="xmltv_ns">519</episode-num>
+  </programme>
+  <programme start="20261127180000 +0000" stop="20261127182600 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Dream Busters</sub-title>
+    <desc>A villain's dream beam traps Henry in a dream state from which only Charlotte can rescue him.</desc>
+    <episode-num system="xmltv_ns">120</episode-num>
+  </programme>
+  <programme start="20261127182600 +0000" stop="20261127185300 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Dodging Danger</sub-title>
+    <desc>After Henry uses his new power to compete in a Dodge-A-Leen tournament, Ray, Schwoz and Charlotte go undercover to teach Henry a lesson.</desc>
+    <episode-num system="xmltv_ns">311</episode-num>
+  </programme>
+  <programme start="20261127185300 +0000" stop="20261127191900 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Kid Grounded</sub-title>
+    <desc>Henry is grounded after he is caught sneaking out at night; while Piper drives Henry crazy at home, Charlotte steps into the sidekick role.</desc>
+    <episode-num system="xmltv_ns">121</episode-num>
+  </programme>
+  <programme start="20261127191900 +0000" stop="20261127194600 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Substitute Teacher</sub-title>
+    <desc>When a suspicious new student arrives at school, Charlotte and Henry believe he's up to something; Captain Man comes in disguised as a substitute teacher to find out more.</desc>
+    <episode-num system="xmltv_ns">106</episode-num>
+  </programme>
+  <programme start="20261127194600 +0000" stop="20261127201200 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>I Dream of Danger</sub-title>
+    <desc>When Charlotte has a dream where she nearly kisses Kid Danger, she actively tries to avoid Henry for fear of the dream coming true.</desc>
+    <episode-num system="xmltv_ns">516</episode-num>
+  </programme>
+  <programme start="20261127201200 +0000" stop="20261127203900 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Henry &amp;amp; the Woodpeckers</sub-title>
+    <desc>When Piper's basketball coach quits, Henry becomes the coach of Piper's team; Henry is challenged by the League Board and its unorthodox rules.</desc>
+    <episode-num system="xmltv_ns">204</episode-num>
+  </programme>
+  <programme start="20261127203900 +0000" stop="20261127210600 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Too Much Game</sub-title>
+    <desc>Henry believes that he is replaced on the basketball team by an older boy; Captain Man must overcome old grudges to get help from a friend.</desc>
+    <episode-num system="xmltv_ns">110</episode-num>
+  </programme>
+  <programme start="20261127210600 +0000" stop="20261127213300 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>The Bucket Trap</sub-title>
+    <desc>Henry and Charlotte want to tell Jasper that Henry is really Kid Danger, so they decide to give him a test secret to prove that he is ready.</desc>
+    <episode-num system="xmltv_ns">123</episode-num>
+  </programme>
+  <programme start="20261127213300 +0000" stop="20261127220000 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Birthday Girl Down</sub-title>
+    <desc>Henry is not invited to a birthday party because he is accused of throwing the birthday girl from a roof; Captain Man agrees to help Henry clear his name.</desc>
+    <episode-num system="xmltv_ns">109</episode-num>
+  </programme>
+  <programme start="20261127220000 +0000" stop="20261127222700 +0000" channel="teen-nick">
+    <title>The Thundermans</title>
+    <sub-title>The Amazing Rat Race</sub-title>
+    <desc>Max turns Billy into the world's fastest rat in order to win the rat races that he has with members of his band.</desc>
+    <episode-num system="xmltv_ns">214</episode-num>
+  </programme>
+  <programme start="20261127222700 +0000" stop="20261127225400 +0000" channel="teen-nick">
+    <title>The Thundermans</title>
+    <sub-title>Mall Time Crooks</sub-title>
+    <desc>Phoebe and Max head out on a trip to the mall to buy Hank's birthday gift and end up having a run-in with security.</desc>
+    <episode-num system="xmltv_ns">209</episode-num>
+  </programme>
+  <programme start="20261127225400 +0000" stop="20261127232100 +0000" channel="teen-nick">
+    <title>The Thundermans</title>
+    <sub-title>Side-Kicking and Screaming</sub-title>
+    <desc>Max &amp;amp; Phoebe secretly employ their parents' former sidekick to ease their busy schedule, but the twins' bickering and inability to share provokes an unexpected response from their new sidekick.</desc>
+    <episode-num system="xmltv_ns">425</episode-num>
+  </programme>
+  <programme start="20261127232100 +0000" stop="20261127234800 +0000" channel="teen-nick">
+    <title>The Thundermans</title>
+    <sub-title>Paging Dr. Thunderman</sub-title>
+    <desc>Max and Phoebe take Billy to the hospital when he hurts his thumb; Max faints when he sees a needle.</desc>
+    <episode-num system="xmltv_ns">119</episode-num>
+  </programme>
+  <programme start="20261127234800 +0000" stop="20261128001500 +0000" channel="teen-nick">
+    <title>The Thundermans</title>
+    <sub-title>Date of Emergency</sub-title>
+    <desc>Phoebe fakes a romance after feeling left out with her friends all in relationships, but maintaining the lie proves to be harder than she expected.</desc>
+    <episode-num system="xmltv_ns">401</episode-num>
+  </programme>
+  <programme start="20261128001500 +0000" stop="20261128004200 +0000" channel="teen-nick">
+    <title>The Thundermans</title>
+    <sub-title>Thundersense</sub-title>
+    <desc>Phoebe gets the ability to sense danger and uses it to impress her classmates; Max tries to get pity gifts from Barb.</desc>
+    <episode-num system="xmltv_ns">114</episode-num>
+  </programme>
+  <programme start="20261128004200 +0000" stop="20261128010900 +0000" channel="teen-nick">
+    <title>The Thundermans</title>
+    <sub-title>Phoebe's a Clone Now</sub-title>
+    <desc>When Phoebe gets too busy, Max tries to help her out by creating a clone of her so she can be in two places at once; but things go sideways when the clone starts to create problems for the real Phoebe.</desc>
+    <episode-num system="xmltv_ns">108</episode-num>
+  </programme>
+  <programme start="20261128010900 +0000" stop="20261128013600 +0000" channel="teen-nick">
+    <title>The Thundermans: Undercover</title>
+    <sub-title>I Know What You Did This Summer</sub-title>
+    <desc>B.C. invites Chloe to a launch party at Splat By The Sea; at the same time, Jinx and Booch invite Chloe to protest outside the party; not wanting to hurt anyone's feelings Chloe tries to do both; Phoebe keeps working with Captain Perfect.</desc>
+  </programme>
+  <programme start="20261128013600 +0000" stop="20261128020300 +0000" channel="teen-nick">
+    <title>The Thundermans: Undercover</title>
+    <sub-title>For Your Spies Only</sub-title>
+    <desc>Max and Phoebe attend a parent-teacher night, leaving Chloe to have friends over without adult supervision; Jinx finds the Air Lair and believes spies are targeting the school and his meddling puts Max and Phoebe's school jobs at risk.</desc>
+  </programme>
+  <programme start="20261128020300 +0000" stop="20261128023000 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>The Loud House Thanksgiving Special</sub-title>
+    <desc>Lincoln and Clyde help each other plan the perfect Thanksgiving dinner, from prepping and cooking to eating and enjoying.</desc>
+    <episode-num system="xmltv_ns">791</episode-num>
+  </programme>
+  <programme start="20261128023000 +0000" stop="20261128025700 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>A Star Is Scorned; Senior Moment</sub-title>
+    <desc>Lola realizes that double the cuteness could help her break into show business, so she teams up with Lily; Lori vows to make up for lost time in her senior year.</desc>
+    <episode-num system="xmltv_ns">422</episode-num>
+  </programme>
+  <programme start="20261128025700 +0000" stop="20261128032400 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Space Jammed; Crown and Dirty</sub-title>
+    <desc>Annoyed by Leni's intrusive babysitting, Lisa accidentally blasts herself and Todd into space; Lola tries to whip Mom into tip-top pageant condition for a mother-daughter pageant.</desc>
+    <episode-num system="xmltv_ns">618</episode-num>
+  </programme>
+  <programme start="20261128032400 +0000" stop="20261128035100 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Don't You Fore-get About Me; Tough Cookies</sub-title>
+    <desc>Hit by the realization that her big sister will be going off to college soon, Leni tries to thwart Lori's plans; Lincoln and Clyde start their own cookie-making business, but realize it's a lot more work than they realized.</desc>
+    <episode-num system="xmltv_ns">420</episode-num>
+  </programme>
+  <programme start="20261128035100 +0000" stop="20261128041800 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Project Loud House; In Tents Debate</sub-title>
+    <desc>Lincoln has to get his sisters out the door so he can be on time for school; Lincoln holds the deciding vote for the family vacation.</desc>
+    <episode-num system="xmltv_ns">105</episode-num>
+  </programme>
+  <programme start="20261128041800 +0000" stop="20261128044500 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Crashed Course; Puns and Buns</sub-title>
+    <desc>The Loud siblings intervene when they think Lori is failing out of Fairway U; Benny struggles to rein in Luan and her practical jokes when she becomes his coworker at the Burpin' Burger.</desc>
+    <episode-num system="xmltv_ns">613</episode-num>
+  </programme>
+  <programme start="20261128044500 +0000" stop="20261128051200 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Blinded by Science; Band Together</sub-title>
+    <desc>Lisa searches for the next big scientific breakthrough; Luna decides whether to play in a band with her friends or play with professionals.</desc>
+    <episode-num system="xmltv_ns">506</episode-num>
+  </programme>
+  <programme start="20261128051200 +0000" stop="20261128053900 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>The Loudest Thanksgiving</sub-title>
+    <desc>Faced with spending Thanksgiving apart, Lori and Bobby try to bring their crazy families together for the first time.</desc>
+    <episode-num system="xmltv_ns">321</episode-num>
+  </programme>
+  <programme start="20261128053900 +0000" stop="20261128060600 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>For Bros About to Rock; It's a Loud, Loud, Loud, Loud House</sub-title>
+    <desc>Lincoln is going to his first rock concert, and Luna is determined to make it the greatest experience ever; when Lincoln finds a letter in the attic, he begins to believe there is money hidden somewhere in the house.</desc>
+    <episode-num system="xmltv_ns">113</episode-num>
+  </programme>
+  <programme start="20261128060600 +0000" stop="20261128063300 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Silence of the Luans; Undercover Mom</sub-title>
+    <desc>Luan is locked in a cell in the basement; Mom goes undercover as a student at the high school and becomes best friends with Leni, Luna and Luan.</desc>
+    <episode-num system="xmltv_ns">510</episode-num>
+  </programme>
+  <programme start="20261128063300 +0000" stop="20261128070000 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>The Mad Scientist; Missed Connection</sub-title>
+    <desc>Lisa gets invited to work at an institute and get away from her crazy family; Lori and Bobby worry that long-distance dating is causing them to lose their connection.</desc>
+    <episode-num system="xmltv_ns">309</episode-num>
+  </programme>
+  <programme start="20261128070000 +0000" stop="20261128072400 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Cow Pie Kid; Saved by the Spell</sub-title>
+    <desc>Lynn pushes Liam to his limits when he becomes the star pitcher for the middle school baseball team; Lincoln's friends try to stop him from performing a magic act at the middle school talent show.</desc>
+    <episode-num system="xmltv_ns">507</episode-num>
+  </programme>
+  <programme start="20261128072400 +0000" stop="20261128074800 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Deep Cuts; Game Off</sub-title>
+    <desc>When Luna discovers that the high school music club will be axed due to budget cuts, she leads a protest; desperate to play Lincoln's trash-themed video game, Lana conspires to distract her brother away from the console.</desc>
+    <episode-num system="xmltv_ns">416</episode-num>
+  </programme>
+  <programme start="20261128074800 +0000" stop="20261128081200 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Back Out There; Spell It Out</sub-title>
+    <desc>Clyde, worried that Lincoln is hung up on Ronnie Anne, tries to cure his post-breakup blues; tired of her siblings walking all over her, Lucy turns to a spell book to teach her siblings a lesson.</desc>
+    <episode-num system="xmltv_ns">215</episode-num>
+  </programme>
+  <programme start="20261128081200 +0000" stop="20261128083600 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Legends; Mall of Duty</sub-title>
+    <desc>Dad and Lincoln get on </desc>
+    <episode-num system="xmltv_ns">222</episode-num>
+  </programme>
+  <programme start="20261128083600 +0000" stop="20261128090000 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Candy Crushed; Master of Delusion</sub-title>
+    <desc>Lola struggles to dampen her sweet tooth when mom challenges her to go an entire week without added sugar; Lincoln strives to impress the Amazing Brailster when he's chosen to be his assistant at the Illusion Château.</desc>
+    <episode-num system="xmltv_ns">703</episode-num>
+  </programme>
+  <programme start="20261128090000 +0000" stop="20261128092400 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Grub Snub; She's All Bat</sub-title>
+    <desc>When Leni and her friends start hanging out at Gus', Lincoln and the gang start a turf war for control; Lucy gets jealous of Lola's newfound attention after she joins the Mortician's Club.</desc>
+    <episode-num system="xmltv_ns">516</episode-num>
+  </programme>
+  <programme start="20261128092400 +0000" stop="20261128094800 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>House of Lies; Game Boys</sub-title>
+    <desc>After witnessing an excess of lying in the family, Lisa invents lie-detecting glasses to try and curb the fibs; Lincoln asks to borrow Clyde's new gaming system, but Clyde struggles to trust that it's safe with him.</desc>
+    <episode-num system="xmltv_ns">318</episode-num>
+  </programme>
+  <programme start="20261128094800 +0000" stop="20261128101200 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Sister Act; House Flip</sub-title>
+    <desc>To get out of doing things they don't like, Lana and Lola secretly switch places and pretend to be the other; after causing Flip to get hurt, the kids sneak him into the attic to care for him without Mom and Dad knowing.</desc>
+    <episode-num system="xmltv_ns">419</episode-num>
+  </programme>
+  <programme start="20261128101200 +0000" stop="20261128103600 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Tails of Woe; The Last Loud on Earth</sub-title>
+    <desc>When Stella's music box disappears at school, the gang immediately suspects a student urban legend known as the Rat Beast; after a night of zombie movies, Clyde and Lincoln find an empty Loud house and assume it's a zombie apocalypse.</desc>
+    <episode-num system="xmltv_ns">411</episode-num>
+  </programme>
+  <programme start="20261128103600 +0000" stop="20261128110000 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Jeers for Fears; Tea Tale Heart</sub-title>
+    <desc>After agreeing to go to the Royal Woods House of Terror, Lincoln and Clyde have to toughen up and face their fears; Lola discovers that Lucy has an old, fragile doll and decides she must borrow it.</desc>
+    <episode-num system="xmltv_ns">320</episode-num>
+  </programme>
+  <programme start="20261128110000 +0000" stop="20261128112600 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Home of the Fave; Hero Today, Gone Tomorrow</sub-title>
+    <desc>After a pun-filled trip to the grocery store with Luan and Lola, Dad worries Lola thinks he plays favorites; when Lynn's friend Margo is celebrated for a one-in-a-million soccer goal, Lynn tries to be supportive.</desc>
+    <episode-num system="xmltv_ns">323</episode-num>
+  </programme>
+  <programme start="20261128112600 +0000" stop="20261128115300 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>The Price of Admission; One Flu Over the Loud House</sub-title>
+    <desc>Lincoln is unable to sleep after watching a scary movie, so he stays awake all night; when a common cold spreads through the Loud house, Lincoln believes his sisters have turned into zombies.</desc>
+    <episode-num system="xmltv_ns">125</episode-num>
+  </programme>
+  <programme start="20261128115300 +0000" stop="20261128122000 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Fright Bite; The Loudly Bones</sub-title>
+    <desc>When a vampire moves into Royal Woods, Lucy must convince him to turn the Mortician's Club into vampires. Sunset Canyon is falling apart and Lincoln and Clyde are determined to find out why.</desc>
+    <episode-num system="xmltv_ns">524</episode-num>
+  </programme>
+  <programme start="20261128122000 +0000" stop="20261128124700 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>11 Louds a Leapin'</sub-title>
+    <desc>As the Louds prepare for Christmas, Lincoln's sled goes into their neighbor's yard, leading Lincoln and Clyde to attempt a rescue mission.</desc>
+    <episode-num system="xmltv_ns">201</episode-num>
+  </programme>
+  <programme start="20261128124700 +0000" stop="20261128131300 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Funny Business; Snow Bored</sub-title>
+    <desc>Lincoln begins to hog the spotlight when he becomes Luan's clown assistant; the Loud children have fun on a snow day.</desc>
+    <episode-num system="xmltv_ns">124</episode-num>
+  </programme>
+  <programme start="20261128131300 +0000" stop="20261128134000 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Season's Cheatings; A Flipmas Carol</sub-title>
+    <desc>Lincoln tries to game the family gift swap and ends up learning a valuable lesson; a Scrooge-like Flip is visited by three ghosts in a take on </desc>
+    <episode-num system="xmltv_ns">508</episode-num>
+  </programme>
+  <programme start="20261128134000 +0000" stop="20261128140600 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Snow Way Out; Snow Way Down</sub-title>
+    <desc>Lana convinces the children to go to the Burpin' Burger to meet her racecar driving hero despite the heavy snowfall; when Lincoln goes on vacation with Clyde, he realizes how overprotective Clyde's parents are.</desc>
+    <episode-num system="xmltv_ns">226</episode-num>
+  </programme>
+  <programme start="20261128140600 +0000" stop="20261128143200 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Twas the Fight Before Christmas</sub-title>
+    <desc>Lincoln recruits his cousins to help end the years-long feud between Dad and Uncle Lance so they can finally celebrate Christmas together.</desc>
+    <episode-num system="xmltv_ns">717</episode-num>
+  </programme>
+  <programme start="20261128143200 +0000" stop="20261128145900 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Snow Escape; Snow News Day</sub-title>
+    <desc>To make it to school, the Louds must survive a monstrous Lynn when the weatherman declares it a Packing Day; when there are signs of a yeti in Royal Woods, the Action News Team sets out to prove its existence.</desc>
+    <episode-num system="xmltv_ns">623</episode-num>
+  </programme>
+  <programme start="20261128145900 +0000" stop="20261128152500 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Merry Diss-mass; Just Snow With It</sub-title>
+    <desc>Lynn is excited for her Swiss friend Henrik to visit, but she grows nervous when people think they're more than friends; Lincoln and friends start a shoveling business to raise money for David Steele on Ice tickets.</desc>
+    <episode-num system="xmltv_ns">902</episode-num>
+  </programme>
+  <programme start="20261128152500 +0000" stop="20261128155200 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Pulp Friction; Pets Peeved</sub-title>
+    <desc>Lincoln and Clyde submit an Ace Savvy comic to a meet-the-creator contest, but are foiled by a surprising nemesis; when Lana brings home a new pet, whom the children adore, the four original Loud pets scheme to get rid of him.</desc>
+    <episode-num system="xmltv_ns">211</episode-num>
+  </programme>
+  <programme start="20261128155200 +0000" stop="20261128161900 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Christmas Danger</sub-title>
+    <desc>When Captain Man gets arrested for committing a petty crime, he is forced to spend Christmas in jail.</desc>
+    <episode-num system="xmltv_ns">209</episode-num>
+  </programme>
+  <programme start="20261128161900 +0000" stop="20261128164600 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Captain Jerk</sub-title>
+    <desc>Captain Man tries to boost his image by holding a contest where three winners get a tour of his secret lair.</desc>
+    <episode-num system="xmltv_ns">122</episode-num>
+  </programme>
+  <programme start="20261128164600 +0000" stop="20261128171200 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Swellview's Got Talent</sub-title>
+    <desc>After discovering contestants on Swellview's Got Talent are losing consciousness, Captain Man and Kid Danger enlist the help of Charlotte and Schwoz in order to find out what is causing the mischief.</desc>
+    <episode-num system="xmltv_ns">316</episode-num>
+  </programme>
+  <programme start="20261128171200 +0000" stop="20261128173800 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Holiday Punch</sub-title>
+    <desc>When a new species of moth eats all the Christmas trees in Swellview, Captain Man and Kid Danger head over to Neighborville to buy more; on the way back they're attacked by shady tree dealers and have to fight to save Christmas.</desc>
+    <episode-num system="xmltv_ns">529</episode-num>
+  </programme>
+  <programme start="20261128173800 +0000" stop="20261128180400 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Meet Cute Crush</sub-title>
+    <desc>Henry and Ray try to help Piper get to know a new boy she likes from school.</desc>
+    <episode-num system="xmltv_ns">418</episode-num>
+  </programme>
+  <programme start="20261128180400 +0000" stop="20261128183000 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Spoiler Alert</sub-title>
+    <desc>Henry and Ray must deal with an annoying new villain called the Spoiler; Piper tries to join a popular Captain Man fan club.</desc>
+    <episode-num system="xmltv_ns">113</episode-num>
+  </programme>
+  <programme start="20261128183000 +0000" stop="20261128185600 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Ox Pox</sub-title>
+    <desc>When Piper gets a mysterious illness, Captain Man must travel back in time to the 1700s to find the only cure.</desc>
+    <episode-num system="xmltv_ns">218</episode-num>
+  </programme>
+  <programme start="20261128185600 +0000" stop="20261128192200 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Christmas Danger</sub-title>
+    <desc>When Captain Man gets arrested for committing a petty crime, he is forced to spend Christmas in jail.</desc>
+    <episode-num system="xmltv_ns">209</episode-num>
+  </programme>
+  <programme start="20261128192200 +0000" stop="20261128194900 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Let's Make a Steal</sub-title>
+    <desc>In an attempt to investigate a string of robberies, Captain Man gets Henry a spot on his favorite game show.</desc>
+    <episode-num system="xmltv_ns">114</episode-num>
+  </programme>
+  <programme start="20261128194900 +0000" stop="20261128201500 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Holiday Punch</sub-title>
+    <desc>When a new species of moth eats all the Christmas trees in Swellview, Captain Man and Kid Danger head over to Neighborville to buy more; on the way back they're attacked by shady tree dealers and have to fight to save Christmas.</desc>
+    <episode-num system="xmltv_ns">529</episode-num>
+  </programme>
+  <programme start="20261128201500 +0000" stop="20261128204200 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Visible Brad</sub-title>
+    <desc>Captain Man and Kid Danger need a little bit of magic and some help from an old friend in order to catch a thief.</desc>
+    <episode-num system="xmltv_ns">527</episode-num>
+  </programme>
+  <programme start="20261128204200 +0000" stop="20261128210800 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>The Space Rock</sub-title>
+    <desc>Trouble follows Henry to his home when a rock from outer space turns out to be an egg with an alien creature inside it.</desc>
+    <episode-num system="xmltv_ns">108</episode-num>
+  </programme>
+  <programme start="20261128210800 +0000" stop="20261128213400 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>The Rock Box Dump</sub-title>
+    <desc>When a report comes out that declares Kid Danger's superpower an illness, Kid Danger has to convince Swellview that it is a huge misunderstanding.</desc>
+    <episode-num system="xmltv_ns">406</episode-num>
+  </programme>
+  <programme start="20261128213400 +0000" stop="20261128220100 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Spelling Bee Hard</sub-title>
+    <desc>Dr. Minyak challenges Captain Man to a spelling bee.</desc>
+    <episode-num system="xmltv_ns">419</episode-num>
+  </programme>
+  <programme start="20261128220100 +0000" stop="20261128222800 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Christmas Danger</sub-title>
+    <desc>When Captain Man gets arrested for committing a petty crime, he is forced to spend Christmas in jail.</desc>
+    <episode-num system="xmltv_ns">209</episode-num>
+  </programme>
+  <programme start="20261128222800 +0000" stop="20261128225400 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>JAM Session</sub-title>
+    <desc>When Ray hears that Piper is going to Junior Anger Management to work on her anger issues, he makes a wager with Henry that he can make her lose her temper before the night ends.</desc>
+    <episode-num system="xmltv_ns">309</episode-num>
+  </programme>
+  <programme start="20261128225400 +0000" stop="20261128232100 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Holiday Punch</sub-title>
+    <desc>When a new species of moth eats all the Christmas trees in Swellview, Captain Man and Kid Danger head over to Neighborville to buy more; on the way back they're attacked by shady tree dealers and have to fight to save Christmas.</desc>
+    <episode-num system="xmltv_ns">529</episode-num>
+  </programme>
+  <programme start="20261128232100 +0000" stop="20261128234800 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Sick &amp;amp; Wired</sub-title>
+    <desc>Thinking that Henry is not telling the truth about being sick, Ray plants cameras and microphones in Henry's house to catch him in a lie.</desc>
+    <episode-num system="xmltv_ns">404</episode-num>
+  </programme>
+  <programme start="20261128234800 +0000" stop="20261129001500 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Grave Danger</sub-title>
+    <desc>When Ray starts behaving strangely, Henry and Charlotte investigate and are surprised to discover the cause of his behavior.</desc>
+    <episode-num system="xmltv_ns">217</episode-num>
+  </programme>
+  <programme start="20261129001500 +0000" stop="20261129004200 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>The Secret Gets Out</sub-title>
+    <desc>Henry's life as Kid Danger is threatened when Charlotte grows suspicious about the secrets he has been keeping.</desc>
+    <episode-num system="xmltv_ns">104</episode-num>
+  </programme>
+  <programme start="20261129004200 +0000" stop="20261129010900 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Christmas Danger</sub-title>
+    <desc>When Captain Man gets arrested for committing a petty crime, he is forced to spend Christmas in jail.</desc>
+    <episode-num system="xmltv_ns">209</episode-num>
+  </programme>
+  <programme start="20261129010900 +0000" stop="20261129013600 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Broken Armed and Dangerous</sub-title>
+    <desc>When Kid Danger publicly breaks his arm, Henry and the gang have to find a way to keep his secret safe.</desc>
+    <episode-num system="xmltv_ns">510</episode-num>
+  </programme>
+  <programme start="20261129013600 +0000" stop="20261129020300 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Holiday Punch</sub-title>
+    <desc>When a new species of moth eats all the Christmas trees in Swellview, Captain Man and Kid Danger head over to Neighborville to buy more; on the way back they're attacked by shady tree dealers and have to fight to save Christmas.</desc>
+    <episode-num system="xmltv_ns">529</episode-num>
+  </programme>
+  <programme start="20261129020300 +0000" stop="20261129023000 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>11 Louds a Leapin'</sub-title>
+    <desc>As the Louds prepare for Christmas, Lincoln's sled goes into their neighbor's yard, leading Lincoln and Clyde to attempt a rescue mission.</desc>
+    <episode-num system="xmltv_ns">201</episode-num>
+  </programme>
+  <programme start="20261129023000 +0000" stop="20261129025700 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Snow Escape; Snow News Day</sub-title>
+    <desc>To make it to school, the Louds must survive a monstrous Lynn when the weatherman declares it a Packing Day; when there are signs of a yeti in Royal Woods, the Action News Team sets out to prove its existence.</desc>
+    <episode-num system="xmltv_ns">623</episode-num>
+  </programme>
+  <programme start="20261129025700 +0000" stop="20261129032400 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Season's Cheatings; A Flipmas Carol</sub-title>
+    <desc>Lincoln tries to game the family gift swap and ends up learning a valuable lesson; a Scrooge-like Flip is visited by three ghosts in a take on </desc>
+    <episode-num system="xmltv_ns">508</episode-num>
+  </programme>
+  <programme start="20261129032400 +0000" stop="20261129035100 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Snow Way Out; Snow Way Down</sub-title>
+    <desc>Lana convinces the children to go to the Burpin' Burger to meet her racecar driving hero despite the heavy snowfall; when Lincoln goes on vacation with Clyde, he realizes how overprotective Clyde's parents are.</desc>
+    <episode-num system="xmltv_ns">226</episode-num>
+  </programme>
+  <programme start="20261129035100 +0000" stop="20261129041800 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Twas the Fight Before Christmas</sub-title>
+    <desc>Lincoln recruits his cousins to help end the years-long feud between Dad and Uncle Lance so they can finally celebrate Christmas together.</desc>
+    <episode-num system="xmltv_ns">717</episode-num>
+  </programme>
+  <programme start="20261129041800 +0000" stop="20261129044500 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Funny Business; Snow Bored</sub-title>
+    <desc>Lincoln begins to hog the spotlight when he becomes Luan's clown assistant; the Loud children have fun on a snow day.</desc>
+    <episode-num system="xmltv_ns">124</episode-num>
+  </programme>
+  <programme start="20261129044500 +0000" stop="20261129051200 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Merry Diss-mass; Just Snow With It</sub-title>
+    <desc>Lynn is excited for her Swiss friend Henrik to visit, but she grows nervous when people think they're more than friends; Lincoln and friends start a shoveling business to raise money for David Steele on Ice tickets.</desc>
+    <episode-num system="xmltv_ns">902</episode-num>
+  </programme>
+  <programme start="20261129051200 +0000" stop="20261129053900 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Present Tense; Any Given Sundae</sub-title>
+    <desc>Convinced that their scrapbook isn't good enough for Dad's birthday, the Loud kids seek out the perfect gift; Lily hears the parents mention ice cream if the kids are good, so she uses baby smarts to avert sibling disasters.</desc>
+    <episode-num system="xmltv_ns">407</episode-num>
+  </programme>
+  <programme start="20261129053900 +0000" stop="20261129060600 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Scales of Justice; Crimes of Fashion</sub-title>
+    <desc>Lana springs into action when she learns her favorite fish are in jeopardy of losing their home to construction; when Leni gets fired from her job due to missing scarves, Lincoln and Clyde, as Ace and Jack, take on the case.</desc>
+    <episode-num system="xmltv_ns">314</episode-num>
+  </programme>
+  <programme start="20261129060600 +0000" stop="20261129063300 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Predict Ability; Driving Ambition</sub-title>
+    <desc>After discovering he has rituals, Lincoln worries he's predictable and vows to change things up; Lori develops the yips when she finds out that the golf coach from her dream college is coming to see her play.</desc>
+    <episode-num system="xmltv_ns">322</episode-num>
+  </programme>
+  <programme start="20261129063300 +0000" stop="20261129070000 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Exchange of Heart; Community Disservice</sub-title>
+    <desc>To divert the attention of his helicopter dads, Clyde arranges for an exchange student to stay with them; Lola takes a timid new classmate under her wing and gives her a social butterfly transformation.</desc>
+    <episode-num system="xmltv_ns">415</episode-num>
+  </programme>
+  <programme start="20261129070000 +0000" stop="20261129072400 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Season's Cheatings; A Flipmas Carol</sub-title>
+    <desc>Lincoln tries to game the family gift swap and ends up learning a valuable lesson; a Scrooge-like Flip is visited by three ghosts in a take on </desc>
+    <episode-num system="xmltv_ns">508</episode-num>
+  </programme>
+  <programme start="20261129072400 +0000" stop="20261129074800 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Snow Way Out; Snow Way Down</sub-title>
+    <desc>Lana convinces the children to go to the Burpin' Burger to meet her racecar driving hero despite the heavy snowfall; when Lincoln goes on vacation with Clyde, he realizes how overprotective Clyde's parents are.</desc>
+    <episode-num system="xmltv_ns">226</episode-num>
+  </programme>
+  <programme start="20261129074800 +0000" stop="20261129081200 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Twas the Fight Before Christmas</sub-title>
+    <desc>Lincoln recruits his cousins to help end the years-long feud between Dad and Uncle Lance so they can finally celebrate Christmas together.</desc>
+    <episode-num system="xmltv_ns">717</episode-num>
+  </programme>
+  <programme start="20261129081200 +0000" stop="20261129083600 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Snow Escape; Snow News Day</sub-title>
+    <desc>To make it to school, the Louds must survive a monstrous Lynn when the weatherman declares it a Packing Day; when there are signs of a yeti in Royal Woods, the Action News Team sets out to prove its existence.</desc>
+    <episode-num system="xmltv_ns">623</episode-num>
+  </programme>
+  <programme start="20261129083600 +0000" stop="20261129090000 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Merry Diss-mass; Just Snow With It</sub-title>
+    <desc>Lynn is excited for her Swiss friend Henrik to visit, but she grows nervous when people think they're more than friends; Lincoln and friends start a shoveling business to raise money for David Steele on Ice tickets.</desc>
+    <episode-num system="xmltv_ns">902</episode-num>
+  </programme>
+  <programme start="20261129090000 +0000" stop="20261129092400 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Funny Business; Snow Bored</sub-title>
+    <desc>Lincoln begins to hog the spotlight when he becomes Luan's clown assistant; the Loud children have fun on a snow day.</desc>
+    <episode-num system="xmltv_ns">124</episode-num>
+  </programme>
+  <programme start="20261129092400 +0000" stop="20261129094800 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>11 Louds a Leapin'</sub-title>
+    <desc>As the Louds prepare for Christmas, Lincoln's sled goes into their neighbor's yard, leading Lincoln and Clyde to attempt a rescue mission.</desc>
+    <episode-num system="xmltv_ns">201</episode-num>
+  </programme>
+  <programme start="20261129094800 +0000" stop="20261129101200 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Change of Heart; Health Kicked</sub-title>
+    <desc>Clyde is desperate to learn how to act normal around Lori, so he enlists Leni's help; worried that their parents are hurting their health from not being active, the children encourage them to exercise.</desc>
+    <episode-num system="xmltv_ns">218</episode-num>
+  </programme>
+  <programme start="20261129101200 +0000" stop="20261129103600 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Don't Escar-go; Double Trouble</sub-title>
+    <desc>When Clyde receives an opportunity to study cooking in France, the gang tries to keep him closer to home; Lola and Lana take on Cheryl and Meryl for the position of twin spokespeople for Auntie Pam's Parlor.</desc>
+    <episode-num system="xmltv_ns">602</episode-num>
+  </programme>
+  <programme start="20261129103600 +0000" stop="20261129110000 +0000" channel="teen-nick">
+    <title>The Loud House</title>
+    <sub-title>Kings of the Con</sub-title>
+    <desc>Eager to be named Kings of the Con at the Ace Savvy convention, Lincoln and Clyde convince the sisters to go with them as the Full Deck; when the girls get more attention, the boys do whatever it takes to gain focus.</desc>
+    <episode-num system="xmltv_ns">413</episode-num>
+  </programme>
+  <programme start="20261129110000 +0000" stop="20261129112600 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Christmas Danger</sub-title>
+    <desc>When Captain Man gets arrested for committing a petty crime, he is forced to spend Christmas in jail.</desc>
+    <episode-num system="xmltv_ns">209</episode-num>
+  </programme>
+  <programme start="20261129112600 +0000" stop="20261129115300 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Holiday Punch</sub-title>
+    <desc>When a new species of moth eats all the Christmas trees in Swellview, Captain Man and Kid Danger head over to Neighborville to buy more; on the way back they're attacked by shady tree dealers and have to fight to save Christmas.</desc>
+    <episode-num system="xmltv_ns">529</episode-num>
+  </programme>
+  <programme start="20261129115300 +0000" stop="20261129122000 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Diamonds Are for Heather</sub-title>
+    <desc>Kid Danger and Captain Man are called to the Swellview Museum of Stools and Jewels to prevent the rare Neal Diamond from being stolen.</desc>
+    <episode-num system="xmltv_ns">417</episode-num>
+  </programme>
+  <programme start="20261129122000 +0000" stop="20261129124700 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Tears of the Jolly Beetle</sub-title>
+    <desc>When Captain Man loses his powers of invulnerability and becomes too afraid to fight crime, Kid Danger must keep Swellview safe.</desc>
+    <episode-num system="xmltv_ns">105</episode-num>
+  </programme>
+  <programme start="20261129124700 +0000" stop="20261129131300 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Henry's Birthday</sub-title>
+    <desc>While trying to celebrate his birthday, Henry keeps getting interrupted by crimes going on in Swellview.</desc>
+    <episode-num system="xmltv_ns">503</episode-num>
+  </programme>
+  <programme start="20261129131300 +0000" stop="20261129134000 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Double-O Danger</sub-title>
+    <desc>Kid Danger and Captain Man attempt to capture mob boss Rob Moss by infiltrating his daughter's Sweet 16 birthday party.</desc>
+    <episode-num system="xmltv_ns">519</episode-num>
+  </programme>
+  <programme start="20261129134000 +0000" stop="20261129140600 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Dream Busters</sub-title>
+    <desc>A villain's dream beam traps Henry in a dream state from which only Charlotte can rescue him.</desc>
+    <episode-num system="xmltv_ns">120</episode-num>
+  </programme>
+  <programme start="20261129140600 +0000" stop="20261129143200 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Broken Armed and Dangerous</sub-title>
+    <desc>When Kid Danger publicly breaks his arm, Henry and the gang have to find a way to keep his secret safe.</desc>
+    <episode-num system="xmltv_ns">510</episode-num>
+  </programme>
+  <programme start="20261129143200 +0000" stop="20261129145900 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Swellview's Got Talent</sub-title>
+    <desc>After discovering contestants on Swellview's Got Talent are losing consciousness, Captain Man and Kid Danger enlist the help of Charlotte and Schwoz in order to find out what is causing the mischief.</desc>
+    <episode-num system="xmltv_ns">316</episode-num>
+  </programme>
+  <programme start="20261129145900 +0000" stop="20261129152500 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Meet Cute Crush</sub-title>
+    <desc>Henry and Ray try to help Piper get to know a new boy she likes from school.</desc>
+    <episode-num system="xmltv_ns">418</episode-num>
+  </programme>
+  <programme start="20261129152500 +0000" stop="20261129155200 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Christmas Danger</sub-title>
+    <desc>When Captain Man gets arrested for committing a petty crime, he is forced to spend Christmas in jail.</desc>
+    <episode-num system="xmltv_ns">209</episode-num>
+  </programme>
+  <programme start="20261129155200 +0000" stop="20261129161900 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Holiday Punch</sub-title>
+    <desc>When a new species of moth eats all the Christmas trees in Swellview, Captain Man and Kid Danger head over to Neighborville to buy more; on the way back they're attacked by shady tree dealers and have to fight to save Christmas.</desc>
+    <episode-num system="xmltv_ns">529</episode-num>
+  </programme>
+  <programme start="20261129161900 +0000" stop="20261129164600 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Captain Drex</sub-title>
+    <desc>Captain Man's old sidekick and nemesis, Drex, returns from the past with an army of cavemen to finish off Captain Man once and for all; Kid Danger may be the only one who can save Captain Man.</desc>
+    <episode-num system="xmltv_ns">538</episode-num>
+  </programme>
+  <programme start="20261129164600 +0000" stop="20261129171200 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Massage Chair</sub-title>
+    <desc>When Captain Man shows up with a cool new massage chair, Henry, Charlotte and Jasper compete in a series of physical and mental challenges to see who wins the chair.</desc>
+    <episode-num system="xmltv_ns">520</episode-num>
+  </programme>
+  <programme start="20261129171200 +0000" stop="20261129173800 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Car Trek</sub-title>
+    <desc>Charlotte's birthday road trip to see the Boo Man Group perform gets sidetracked by a Captain Man and Kid Danger emergency.</desc>
+    <episode-num system="xmltv_ns">412</episode-num>
+  </programme>
+  <programme start="20261129173800 +0000" stop="20261129180400 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Mr. Nice Guy</sub-title>
+    <desc>A vigilante in a smiley-face mask punishes Swellviewians for being rude in public; Kid Danger and Captain Man's investigation leads them to the TV set of Mr. Wallabee, a local TV celebrity who hosts a show for children.</desc>
+    <episode-num system="xmltv_ns">531</episode-num>
+  </programme>
+  <programme start="20261129180400 +0000" stop="20261129183000 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Secret Beef</sub-title>
+    <desc>Henry receives an invitation to Swellview's most exclusive restaurant, and decides to bring his boss, Ray.</desc>
+    <episode-num system="xmltv_ns">207</episode-num>
+  </programme>
+  <programme start="20261129183000 +0000" stop="20261129185600 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Captain Man: On Vacation</sub-title>
+    <desc>Henry and Charlotte are in charge of protecting Swellview while Ray is out of town at his cousin's wedding.</desc>
+    <episode-num system="xmltv_ns">205</episode-num>
+  </programme>
+  <programme start="20261129185600 +0000" stop="20261129192200 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Flabber Gassed</sub-title>
+    <desc>After acting too confident before a fight, Kid Danger and Captain Man are sprayed with Flabber Gas making them powerless to defeat a new villain in Swellview; Schwoz puts the heroes in Exo-Suits which Charlotte and Jasper control.</desc>
+    <episode-num system="xmltv_ns">501</episode-num>
+  </programme>
+  <programme start="20261129192200 +0000" stop="20261129194900 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Rubber Duck</sub-title>
+    <desc>When Ray accidentally destroys Henry's dad's prized remote control car, they throw a manicure/pedicure party to raise money to fix it.</desc>
+    <episode-num system="xmltv_ns">409</episode-num>
+  </programme>
+  <programme start="20261129194900 +0000" stop="20261129201500 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Christmas Danger</sub-title>
+    <desc>When Captain Man gets arrested for committing a petty crime, he is forced to spend Christmas in jail.</desc>
+    <episode-num system="xmltv_ns">209</episode-num>
+  </programme>
+  <programme start="20261129201500 +0000" stop="20261129204200 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Holiday Punch</sub-title>
+    <desc>When a new species of moth eats all the Christmas trees in Swellview, Captain Man and Kid Danger head over to Neighborville to buy more; on the way back they're attacked by shady tree dealers and have to fight to save Christmas.</desc>
+    <episode-num system="xmltv_ns">529</episode-num>
+  </programme>
+  <programme start="20261129204200 +0000" stop="20261129210800 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Kid Grounded</sub-title>
+    <desc>Henry is grounded after he is caught sneaking out at night; while Piper drives Henry crazy at home, Charlotte steps into the sidekick role.</desc>
+    <episode-num system="xmltv_ns">121</episode-num>
+  </programme>
+  <programme start="20261129210800 +0000" stop="20261129213400 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Substitute Teacher</sub-title>
+    <desc>When a suspicious new student arrives at school, Charlotte and Henry believe he's up to something; Captain Man comes in disguised as a substitute teacher to find out more.</desc>
+    <episode-num system="xmltv_ns">106</episode-num>
+  </programme>
+  <programme start="20261129213400 +0000" stop="20261129220100 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>I Dream of Danger</sub-title>
+    <desc>When Charlotte has a dream where she nearly kisses Kid Danger, she actively tries to avoid Henry for fear of the dream coming true.</desc>
+    <episode-num system="xmltv_ns">516</episode-num>
+  </programme>
+  <programme start="20261129220100 +0000" stop="20261129222800 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Henry &amp;amp; the Woodpeckers</sub-title>
+    <desc>When Piper's basketball coach quits, Henry becomes the coach of Piper's team; Henry is challenged by the League Board and its unorthodox rules.</desc>
+    <episode-num system="xmltv_ns">204</episode-num>
+  </programme>
+  <programme start="20261129222800 +0000" stop="20261129225400 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Too Much Game</sub-title>
+    <desc>Henry believes that he is replaced on the basketball team by an older boy; Captain Man must overcome old grudges to get help from a friend.</desc>
+    <episode-num system="xmltv_ns">110</episode-num>
+  </programme>
+  <programme start="20261129225400 +0000" stop="20261129232100 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>The Bucket Trap</sub-title>
+    <desc>Henry and Charlotte want to tell Jasper that Henry is really Kid Danger, so they decide to give him a test secret to prove that he is ready.</desc>
+    <episode-num system="xmltv_ns">123</episode-num>
+  </programme>
+  <programme start="20261129232100 +0000" stop="20261129234800 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Birthday Girl Down</sub-title>
+    <desc>Henry is not invited to a birthday party because he is accused of throwing the birthday girl from a roof; Captain Man agrees to help Henry clear his name.</desc>
+    <episode-num system="xmltv_ns">109</episode-num>
+  </programme>
+  <programme start="20261129234800 +0000" stop="20261130001500 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Sick &amp;amp; Wired</sub-title>
+    <desc>Thinking that Henry is not telling the truth about being sick, Ray plants cameras and microphones in Henry's house to catch him in a lie.</desc>
+    <episode-num system="xmltv_ns">404</episode-num>
+  </programme>
+  <programme start="20261130001500 +0000" stop="20261130004200 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Christmas Danger</sub-title>
+    <desc>When Captain Man gets arrested for committing a petty crime, he is forced to spend Christmas in jail.</desc>
+    <episode-num system="xmltv_ns">209</episode-num>
+  </programme>
+  <programme start="20261130004200 +0000" stop="20261130010900 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Holiday Punch</sub-title>
+    <desc>When a new species of moth eats all the Christmas trees in Swellview, Captain Man and Kid Danger head over to Neighborville to buy more; on the way back they're attacked by shady tree dealers and have to fight to save Christmas.</desc>
+    <episode-num system="xmltv_ns">529</episode-num>
+  </programme>
+  <programme start="20261130010900 +0000" stop="20261130013600 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Holey Moley</sub-title>
+    <desc>The gang thinks it has found the perfect tunnels to access all of Swellview, until it is confronted by the tunnels' original inhabitants.</desc>
+    <episode-num system="xmltv_ns">517</episode-num>
+  </programme>
+  <programme start="20261130013600 +0000" stop="20261130023000 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>JAM Session</sub-title>
+    <desc>When Ray hears that Piper is going to Junior Anger Management to work on her anger issues, he makes a wager with Henry that he can make her lose her temper before the night ends.</desc>
+    <episode-num system="xmltv_ns">309</episode-num>
+  </programme>
+  <programme start="20261130023000 +0000" stop="20261130025700 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>The Secret Gets Out</sub-title>
+    <desc>Henry's life as Kid Danger is threatened when Charlotte grows suspicious about the secrets he has been keeping.</desc>
+    <episode-num system="xmltv_ns">104</episode-num>
+  </programme>
+  <programme start="20261130025700 +0000" stop="20261130032400 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Cave the Date</sub-title>
+    <desc>Henry and the gang set up a secret underground restaurant in the Man Cave for Charlotte's private dinner with music superstar Jack Swagger; when word gets out that Jack Swagger is in town, some unwanted guests crash the party.</desc>
+    <episode-num system="xmltv_ns">534</episode-num>
+  </programme>
+  <programme start="20261130032400 +0000" stop="20261130035100 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Theranos Boot</sub-title>
+    <desc>Henry and the other kids destroy Ray's prized movie prop, The Theranos Boot; to replace it, Henry and Jasper travel to an alternate universe Man Cave using Bill Evil's interdimensional transporter and steal their Theranos Boot before Ray finds out.</desc>
+    <episode-num system="xmltv_ns">532</episode-num>
+  </programme>
+  <programme start="20261130035100 +0000" stop="20261130041800 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Captain Jerk</sub-title>
+    <desc>Captain Man tries to boost his image by holding a contest where three winners get a tour of his secret lair.</desc>
+    <episode-num system="xmltv_ns">122</episode-num>
+  </programme>
+  <programme start="20261130041800 +0000" stop="20261130044500 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Saturday Night Lies</sub-title>
+    <desc>When Ray runs into an ex-girlfriend, he tries to impress her by pretending that Henry, Charlotte and Jasper are his children.</desc>
+    <episode-num system="xmltv_ns">414</episode-num>
+  </programme>
+  <programme start="20261130044500 +0000" stop="20261130051200 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Christmas Danger</sub-title>
+    <desc>When Captain Man gets arrested for committing a petty crime, he is forced to spend Christmas in jail.</desc>
+    <episode-num system="xmltv_ns">209</episode-num>
+  </programme>
+  <programme start="20261130051200 +0000" stop="20261130053900 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Holiday Punch</sub-title>
+    <desc>When a new species of moth eats all the Christmas trees in Swellview, Captain Man and Kid Danger head over to Neighborville to buy more; on the way back they're attacked by shady tree dealers and have to fight to save Christmas.</desc>
+    <episode-num system="xmltv_ns">529</episode-num>
+  </programme>
+  <programme start="20261130053900 +0000" stop="20261130060600 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Charlotte Gets Ghosted</sub-title>
+    <desc>Schwoz invents a vacuum to help Henry clean his house, but it accidentally sucks Charlotte inside; when Henry's family hears Charlotte and thinks the vacuum is haunted, Ray must distract them while Henry finds a way to get her out.</desc>
+    <episode-num system="xmltv_ns">515</episode-num>
+  </programme>
+  <programme start="20261130060600 +0000" stop="20261130063300 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Let's Make a Steal</sub-title>
+    <desc>In an attempt to investigate a string of robberies, Captain Man gets Henry a spot on his favorite game show.</desc>
+    <episode-num system="xmltv_ns">114</episode-num>
+  </programme>
+  <programme start="20261130063300 +0000" stop="20261130070000 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Mo' Danger, Mo' Problems</sub-title>
+    <desc>As Henry tries to adjust to his new role as Kid Danger, he struggles to balance his schedule between crime-fighting, school and family.</desc>
+    <episode-num system="xmltv_ns">103</episode-num>
+  </programme>
+  <programme start="20261130070000 +0000" stop="20261130072400 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>The Great Cactus Con</sub-title>
+    <desc>Jasper gets the chance to take his crush to Cactus Con, but when a mysterious villain gets involved in the convention, the entire gang is forced into action.</desc>
+    <episode-num system="xmltv_ns">505</episode-num>
+  </programme>
+  <programme start="20261130072400 +0000" stop="20261130074800 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Christmas Danger</sub-title>
+    <desc>When Captain Man gets arrested for committing a petty crime, he is forced to spend Christmas in jail.</desc>
+    <episode-num system="xmltv_ns">209</episode-num>
+  </programme>
+  <programme start="20261130074800 +0000" stop="20261130081200 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Holiday Punch</sub-title>
+    <desc>When a new species of moth eats all the Christmas trees in Swellview, Captain Man and Kid Danger head over to Neighborville to buy more; on the way back they're attacked by shady tree dealers and have to fight to save Christmas.</desc>
+    <episode-num system="xmltv_ns">529</episode-num>
+  </programme>
+  <programme start="20261130081200 +0000" stop="20261130083600 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Henry's Jelly</sub-title>
+    <desc>After Jasper is lauded for being a local hero, Henry becomes jealous that Kid Danger is the one getting all the thanks.</desc>
+    <episode-num system="xmltv_ns">208</episode-num>
+  </programme>
+  <programme start="20261130083600 +0000" stop="20261130090000 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Text, Lies &amp;amp; Video</sub-title>
+    <desc>When a video of Henry and Ray transforming into Kid Danger and Captain Man gets out, Henry must go to great lengths to retrieve it and protect his secret identity.</desc>
+    <episode-num system="xmltv_ns">212</episode-num>
+  </programme>
+  <programme start="20261130090000 +0000" stop="20261130092400 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Christmas Danger</sub-title>
+    <desc>When Captain Man gets arrested for committing a petty crime, he is forced to spend Christmas in jail.</desc>
+    <episode-num system="xmltv_ns">209</episode-num>
+  </programme>
+  <programme start="20261130092400 +0000" stop="20261130094800 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Holiday Punch</sub-title>
+    <desc>When a new species of moth eats all the Christmas trees in Swellview, Captain Man and Kid Danger head over to Neighborville to buy more; on the way back they're attacked by shady tree dealers and have to fight to save Christmas.</desc>
+    <episode-num system="xmltv_ns">529</episode-num>
+  </programme>
+  <programme start="20261130094800 +0000" stop="20261130101200 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Mouth Candy</sub-title>
+    <desc>When Jasper is falsely accused of a burglary and sent to jail, Henry and Ray must find a way to set him free.</desc>
+    <episode-num system="xmltv_ns">305</episode-num>
+  </programme>
+  <programme start="20261130101200 +0000" stop="20261130103600 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Love Bytes</sub-title>
+    <desc>Things get a little buggy when Schwoz installs a new operating system on the Man Cave computer designed to detect and eliminate threats all over Swellview.</desc>
+    <episode-num system="xmltv_ns">518</episode-num>
+  </programme>
+  <programme start="20261130103600 +0000" stop="20261130110000 +0000" channel="teen-nick">
+    <title>Henry Danger</title>
+    <sub-title>Knight &amp;amp; Danger</sub-title>
+    <desc>When the Knight Squad's archenemy, Ryker, is unleashed on Swellview, Kid Danger and Captain Man take him down to Burger Castle only to be tricked into joining forces with the villain.</desc>
+    <episode-num system="xmltv_ns">509</episode-num>
+  </programme>
+</tv>

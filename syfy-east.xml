@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="syfy-east">
+    <display-name>Syfy East</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png"/>
+  </channel>
+  <programme start="20261127110000 +0000" stop="20261127113000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Changing of the Guard</sub-title>
+    <desc>Professor Fowler, a well-liked teacher at a boys school, is asked by the trustees to end his teaching career.</desc>
+    <episode-num system="xmltv_ns">99</episode-num>
+  </programme>
+  <programme start="20261127113000 +0000" stop="20261127120000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Time Enough at Last</sub-title>
+    <desc>Unique circumstances allow a meek bank teller to indulge his passion for reading. With Burgess Meredith.</desc>
+    <episode-num system="xmltv_ns">8</episode-num>
+  </programme>
+  <programme start="20261127120000 +0000" stop="20261127123000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Back There</sub-title>
+    <desc>A man (Russell Johnson) travels back to the night of Lincoln's assassination.</desc>
+    <episode-num system="xmltv_ns">49</episode-num>
+  </programme>
+  <programme start="20261127123000 +0000" stop="20261127130000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Four of Us Are Dying</sub-title>
+    <desc>Arch Hammer can change his face to look exactly like someone else, a talent that he depends on for a living.</desc>
+    <episode-num system="xmltv_ns">13</episode-num>
+  </programme>
+  <programme start="20261127130000 +0000" stop="20261127150000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Silent House</sub-title>
+    <desc>Horrifying events turn panic to real terror when a young woman (Elizabeth Olsen) becomes trapped in the old house she's helping her father and uncle renovate.</desc>
+  </programme>
+  <programme start="20261127150000 +0000" stop="20261127170000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Halloween II</sub-title>
+    <desc>Laurie Strode struggles to come to terms with her brother Michael's deadly return to Haddonfield, Illinois; meanwhile, Michael prepares for another reunion with his sister.</desc>
+  </programme>
+  <programme start="20261127170000 +0000" stop="20261127193000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Click</sub-title>
+    <desc>An overworked architect meets an eccentric inventor who gives him a universal remote that allows him to control the world around him.</desc>
+  </programme>
+  <programme start="20261127193000 +0000" stop="20261127220000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>The Chronicles of Narnia: The Voyage of the Dawn Treader</sub-title>
+    <desc>Lucy and Edmund Pevensie return to Narnia with their cousin Eustace to meet up with Prince Caspian for a trip across the sea aboard the royal ship The Dawn Treader. Along the way they encounter dragons, dwarves, merfolk, and a band of lost warriors.</desc>
+  </programme>
+  <programme start="20261127220000 +0000" stop="20261128003000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Click</sub-title>
+    <desc>An overworked architect meets an eccentric inventor who gives him a universal remote that allows him to control the world around him.</desc>
+  </programme>
+  <programme start="20261128003000 +0000" stop="20261128030000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Candy Cane Lane</sub-title>
+    <desc>A man makes a deal with a mischievous elf who casts a magic spell that brings the 12 Days of Christmas to life.</desc>
+  </programme>
+  <programme start="20261128030000 +0000" stop="20261128033000 +0000" channel="syfy-east">
+    <title>Dr. Seuss' How the Grinch Stole Christmas</title>
+    <desc>Boris Karloff narrates an animated tale about the lonely and heartless title character who decides to dress up as Santa and steal the Christmas decorations, gifts and feast from the people of Whoville.</desc>
+  </programme>
+  <programme start="20261128033000 +0000" stop="20261128060000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Candy Cane Lane</sub-title>
+    <desc>A man makes a deal with a mischievous elf who casts a magic spell that brings the 12 Days of Christmas to life.</desc>
+  </programme>
+  <programme start="20261128060000 +0000" stop="20261128080000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>The Princess Bride</sub-title>
+    <desc>A storybook stable boy turns pirate and rescues his beloved, who is about to marry a dreadful prince.</desc>
+  </programme>
+  <programme start="20261128080000 +0000" stop="20261128083000 +0000" channel="syfy-east">
+    <title>Dr. Seuss' How the Grinch Stole Christmas</title>
+    <desc>Boris Karloff narrates an animated tale about the lonely and heartless title character who decides to dress up as Santa and steal the Christmas decorations, gifts and feast from the people of Whoville.</desc>
+  </programme>
+  <programme start="20261128083000 +0000" stop="20261128090000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Man in the Bottle</sub-title>
+    <desc>An impoverished pawnbroker is granted four wishes by a genie in a bottle; it's not just that his wishes ended up not being what he expected it's what they did end up being.</desc>
+    <episode-num system="xmltv_ns">38</episode-num>
+  </programme>
+  <programme start="20261128090000 +0000" stop="20261128093000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Dust</sub-title>
+    <desc>An unscrupulous traveling salesman sells some magic dust he claims will save a man due to hang for killing a little girl during a drunken spree.</desc>
+    <episode-num system="xmltv_ns">48</episode-num>
+  </programme>
+  <programme start="20261128093000 +0000" stop="20261128103000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Passage on the Lady Anne</sub-title>
+    <desc>A woman hopes a trans-Atlantic cruise and holiday in London will help save her marriage.</desc>
+    <episode-num system="xmltv_ns">17</episode-num>
+  </programme>
+  <programme start="20261128103000 +0000" stop="20261128110000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Whole Truth</sub-title>
+    <desc>The disreputable patter of a used-car dealer changes when he buys a haunted car from an old man and finds he is suddenly unable to lie to his customers.</desc>
+    <episode-num system="xmltv_ns">50</episode-num>
+  </programme>
+  <programme start="20261128110000 +0000" stop="20261128120000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>No Time Like the Past</sub-title>
+    <desc>A man (Dana Andrews) travels backward in time and tries to change events surrounding Hiroshima, Hitler and the Lusitania.</desc>
+    <episode-num system="xmltv_ns">10</episode-num>
+  </programme>
+  <programme start="20261128120000 +0000" stop="20261128123000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Twenty-Two</sub-title>
+    <desc>A young woman complains of a recurring nightmare in which she always ends up in Room 22 - the hospital morgue.</desc>
+    <episode-num system="xmltv_ns">53</episode-num>
+  </programme>
+  <programme start="20261128123000 +0000" stop="20261128130000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Nervous Man in a Four-Dollar Room</sub-title>
+    <desc>A small-time thief sees a new reflection of himself in a mirror.</desc>
+    <episode-num system="xmltv_ns">39</episode-num>
+  </programme>
+  <programme start="20261128130000 +0000" stop="20261128133000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Four O'Clock</sub-title>
+    <desc>An obsessed Oliver Crangle (Theodore Bikel) tells an FBI agent that a drastic transformation will take place on all the evil people in the world.</desc>
+    <episode-num system="xmltv_ns">95</episode-num>
+  </programme>
+  <programme start="20261128133000 +0000" stop="20261128140000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Mr. Bevis</sub-title>
+    <desc>A happy-go-lucky man loses his job, gets evicted and wrecks his car, all in one day.</desc>
+    <episode-num system="xmltv_ns">33</episode-num>
+  </programme>
+  <programme start="20261128140000 +0000" stop="20261128163000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Click</sub-title>
+    <desc>An overworked architect meets an eccentric inventor who gives him a universal remote that allows him to control the world around him.</desc>
+  </programme>
+  <programme start="20261128163000 +0000" stop="20261128190000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>The Chronicles of Narnia: The Voyage of the Dawn Treader</sub-title>
+    <desc>Lucy and Edmund Pevensie return to Narnia with their cousin Eustace to meet up with Prince Caspian for a trip across the sea aboard the royal ship The Dawn Treader. Along the way they encounter dragons, dwarves, merfolk, and a band of lost warriors.</desc>
+  </programme>
+  <programme start="20261128190000 +0000" stop="20261128210000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>The Princess Bride</sub-title>
+    <desc>A storybook stable boy turns pirate and rescues his beloved, who is about to marry a dreadful prince.</desc>
+  </programme>
+  <programme start="20261128210000 +0000" stop="20261128230000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Firestarter</sub-title>
+    <desc>A couple hide their daughter, Charlie, from a shadowy agency that wants to harness her gift for turning fire into a weapon. When a mysterious operative finally finds the family, he tries to seize Charlie once and for all -- but she has other plans.</desc>
+  </programme>
+  <programme start="20261128230000 +0000" stop="20261129030000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Oppenheimer</sub-title>
+    <desc>During World War II, Lt. Gen. Leslie Groves Jr. appoints physicist J. Robert Oppenheimer to work on the top-secret Manhattan Project. Oppenheimer and a team of scientists spend years developing the atomic bomb, forever changing the course of history.</desc>
+  </programme>
+  <programme start="20261129030000 +0000" stop="20261129060000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Godzilla</sub-title>
+    <desc>Nuclear testing in the South Pacific produces a giant mutated lizard that wreaks havoc upon New York City.</desc>
+  </programme>
+  <programme start="20261129060000 +0000" stop="20261129090000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Tombstone</sub-title>
+    <desc>Doc Holliday joins Wyatt Earp and his brothers for an OK Corral showdown with the Clanton gang in Arizona.</desc>
+  </programme>
+  <programme start="20261129090000 +0000" stop="20261129093000 +0000" channel="syfy-east">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261129093000 +0000" stop="20261129100000 +0000" channel="syfy-east">
+    <title>Tired of Aging? Super Pill's Secret to Lasting Youth &amp;amp; Vitality!</title>
+    <desc>Tired of feeling old? Discover The Super Pill! 6 elite formulas packed with clinically studied ingredients for revolutionary heart, brain, joint, immune, skin, and eye health. Don't just age-thrive! Unlock your ultimate vitality and well-being today.</desc>
+  </programme>
+  <programme start="20261129100000 +0000" stop="20261129103000 +0000" channel="syfy-east">
+    <title>Bathroom Makeover</title>
+    <desc>Transform your bath affordably in just one day!</desc>
+  </programme>
+  <programme start="20261129103000 +0000" stop="20261129110000 +0000" channel="syfy-east">
+    <title>Looking for a Medicare plan? Tune in now!</title>
+    <desc>The Medicare annual election period ends on December 7th. Watch and learn about Humana Medicare Advantage plans.</desc>
+  </programme>
+  <programme start="20261129110000 +0000" stop="20261129113000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Person or Persons Unknown</sub-title>
+    <desc>A man awakens one morning to find that no one recognizes him, not even his mother.</desc>
+    <episode-num system="xmltv_ns">92</episode-num>
+  </programme>
+  <programme start="20261129113000 +0000" stop="20261129140000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>The 355</sub-title>
+    <desc>CIA agent Mason </desc>
+  </programme>
+  <programme start="20261129140000 +0000" stop="20261129160000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Firestarter</sub-title>
+    <desc>A couple hide their daughter, Charlie, from a shadowy agency that wants to harness her gift for turning fire into a weapon. When a mysterious operative finally finds the family, he tries to seize Charlie once and for all -- but she has other plans.</desc>
+  </programme>
+  <programme start="20261129160000 +0000" stop="20261129190000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Godzilla</sub-title>
+    <desc>Nuclear testing in the South Pacific produces a giant mutated lizard that wreaks havoc upon New York City.</desc>
+  </programme>
+  <programme start="20261129190000 +0000" stop="20261129230000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Oppenheimer</sub-title>
+    <desc>During World War II, Lt. Gen. Leslie Groves Jr. appoints physicist J. Robert Oppenheimer to work on the top-secret Manhattan Project. Oppenheimer and a team of scientists spend years developing the atomic bomb, forever changing the course of history.</desc>
+  </programme>
+  <programme start="20261129230000 +0000" stop="20261130020000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Godzilla</sub-title>
+    <desc>Nuclear testing in the South Pacific produces a giant mutated lizard that wreaks havoc upon New York City.</desc>
+  </programme>
+  <programme start="20261130020000 +0000" stop="20261130050000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>Tombstone</sub-title>
+    <desc>Doc Holliday joins Wyatt Earp and his brothers for an OK Corral showdown with the Clanton gang in Arizona.</desc>
+  </programme>
+  <programme start="20261130050000 +0000" stop="20261130073000 +0000" channel="syfy-east">
+    <title>Movie</title>
+    <sub-title>The 355</sub-title>
+    <desc>CIA agent Mason </desc>
+  </programme>
+  <programme start="20261130073000 +0000" stop="20261130080000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>Mr. Dingle, the Strong</sub-title>
+    <desc>A timid man (Burgess Meredith) acquires superhuman strength; with Don Rickles.</desc>
+    <episode-num system="xmltv_ns">55</episode-num>
+  </programme>
+  <programme start="20261130080000 +0000" stop="20261130083000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Monsters Are Due on Maple Street</sub-title>
+    <desc>A mysterious power failure causes paranoid suburban residents to suspect one another of being disguised creatures from outer space.</desc>
+    <episode-num system="xmltv_ns">22</episode-num>
+  </programme>
+  <programme start="20261130083000 +0000" stop="20261130090000 +0000" channel="syfy-east">
+    <title>The Twilight Zone</title>
+    <sub-title>The Fever</sub-title>
+    <desc>A man fanatically opposed to gambling battles a Las Vegas one-armed bandit with a malevolent will of its own.</desc>
+    <episode-num system="xmltv_ns">17</episode-num>
+  </programme>
+  <programme start="20261130090000 +0000" stop="20261130093000 +0000" channel="syfy-east">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261130093000 +0000" stop="20261130100000 +0000" channel="syfy-east">
+    <title>Bathroom Makeover</title>
+    <desc>Transform your bath affordably in just one day!</desc>
+  </programme>
+  <programme start="20261130100000 +0000" stop="20261130103000 +0000" channel="syfy-east">
+    <title>Tired of Aging? Super Pill's Secret to Lasting Youth &amp;amp; Vitality!</title>
+    <desc>Tired of feeling old? Discover The Super Pill! 6 elite formulas packed with clinically studied ingredients for revolutionary heart, brain, joint, immune, skin, and eye health. Don't just age-thrive! Unlock your ultimate vitality and well-being today.</desc>
+  </programme>
+  <programme start="20261130103000 +0000" stop="20261130110000 +0000" channel="syfy-east">
+    <title>Looking for a Medicare plan? Tune in now!</title>
+    <desc>The Medicare annual election period ends on December 7th. Watch and learn about Humana Medicare Advantage plans.</desc>
+  </programme>
+</tv>
